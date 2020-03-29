@@ -27,17 +27,17 @@ function CountryMap({
   tooltipFormat,
   tooltipHeader,
   tooltipSuffix,
-  tooltipTitle
+  tooltipTitle,
 }) {
   const color = Color(baseColor)
 
   const colorStops = [
     // First stop tweaked slightly for better visibility. Should actually be 0.
-    ...[0.025, 0.25, 0.5, 0.75].map(key => [
+    ...[0.025, 0.25, 0.5, 0.75].map((key) => [
       key,
-      `rgba(${color.color[0]}, ${color.color[1]}, ${color.color[2]}, ${key})`
+      `rgba(${color.color[0]}, ${color.color[1]}, ${color.color[2]}, ${key})`,
     ]),
-    [1, `rgb(${color.color[0]}, ${color.color[1]}, ${color.color[2]})`]
+    [1, `rgb(${color.color[0]}, ${color.color[1]}, ${color.color[2]})`],
   ]
 
   const separatorLineData = separatorLines
@@ -46,7 +46,7 @@ function CountryMap({
         data: separatorLines,
         name: 'Separator',
         shadow: false,
-        type: 'mapline'
+        type: 'mapline',
       }
     : {}
 
@@ -55,7 +55,7 @@ function CountryMap({
       max: colorMaxValue,
       min: colorMinValue,
       stops: colorStops,
-      tickInterval: colorValueInterval
+      tickInterval: colorValueInterval,
     },
     legend: {
       align: 'right',
@@ -64,22 +64,22 @@ function CountryMap({
         Highcharts.defaultOptions.legend &&
         Highcharts.defaultOptions.legend.backgroundColor,
       floating: true,
-      layout: 'vertical'
+      layout: 'vertical',
     },
     mapNavigation: {
       buttonOptions: {
-        verticalAlign: 'bottom'
+        verticalAlign: 'bottom',
       },
-      enabled: true
+      enabled: true,
     },
     plotOptions: {
       map: {
-        colorKey
+        colorKey,
       },
       mapline: {
         showInLegend: false,
-        enableMouseTracking: false
-      }
+        enableMouseTracking: false,
+      },
     },
     series: [
       {
@@ -91,38 +91,30 @@ function CountryMap({
         shadow: false,
         states: {
           hover: {
-            color: hoverColor
-          }
+            color: hoverColor,
+          },
         },
         tooltip: {
           pointFormat: tooltipFormat,
           headerFormat: tooltipHeader,
-          valueSuffix: tooltipSuffix
-        }
+          valueSuffix: tooltipSuffix,
+        },
       },
       {
         color: stateBorderColor,
         data: borderLines,
         shadow: false,
-        type: 'mapline'
+        type: 'mapline',
       },
-      separatorLineData
+      separatorLineData,
     ],
     title: {
-      text: title
-    }
+      text: title,
+    },
   }
-  return colorMaxValue &&
-    colorValueInterval &&
-    data &&
-    mapData &&
-    seriesJoinBy ? (
+  return colorMaxValue && colorValueInterval && data && mapData && seriesJoinBy ? (
     <div className="highcharts-wrapper">
-      <HighchartsReact
-        constructorType={'mapChart'}
-        highcharts={Highcharts}
-        options={options}
-      />
+      <HighchartsReact constructorType={'mapChart'} highcharts={Highcharts} options={options} />
     </div>
   ) : (
     'The following props are required: colorMaxValue, colorValueInterval, data, mapData, and seriesJoinBy'
@@ -134,7 +126,7 @@ CountryMap.defaultProps = {
   colorKey: 'value',
   hoverColor: '#A4EDBA',
   stateBorderColor: DEFAULT_BORDER_COLOR,
-  title: 'Untitled'
+  title: 'Untitled',
 }
 
 CountryMap.propTypes = {
@@ -154,7 +146,7 @@ CountryMap.propTypes = {
   tooltipFormat: PropTypes.string,
   tooltipHeader: PropTypes.string,
   tooltipSuffix: PropTypes.string,
-  tooltipTitle: PropTypes.string
+  tooltipTitle: PropTypes.string,
 }
 
 export default CountryMap

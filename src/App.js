@@ -7,14 +7,10 @@ function App() {
   const [isStateView, setIsStateView] = useState(true)
   return (
     <>
-      <button
-        className={`toggle-view`}
-        onClick={() => setIsStateView(!isStateView)}>
+      <button className={`toggle-view`} onClick={() => setIsStateView(!isStateView)}>
         <>{`${isStateView ? ' County' : ' State'} View`}</>
       </button>
-      <Suspense fallback={<div>Loading...</div>}>
-        {isStateView ? <USByState /> : <USByCounty />}
-      </Suspense>
+      <Suspense fallback={<div>Loading...</div>}>{isStateView ? <USByState /> : <USByCounty />}</Suspense>
     </>
   )
 }

@@ -8,9 +8,7 @@ if (!shell.which('git')) {
 shell.rm('-rf', 'scripts/data/us/nytimes-covid-19-data')
 
 if (
-  shell.exec(
-    'git clone https://github.com/nytimes/covid-19-data.git scripts/data/us/nytimes-covid-19-data'
-  ).code !== 0
+  shell.exec('git clone https://github.com/nytimes/covid-19-data.git scripts/data/us/nytimes-covid-19-data').code !== 0
 ) {
   shell.echo('Error: Git clone failed')
   shell.exit(1)
