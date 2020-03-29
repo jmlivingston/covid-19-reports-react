@@ -12,19 +12,19 @@ function USByState() {
     <CountryMap
       baseColor="#FF0000"
       colorKey={key}
-      colorMinValue={0}
       colorMaxValue={maxValue}
+      colorMinValue={0}
       colorValueInterval={Math.round(maxValue / 5)}
       data={data}
-      hoverColor="#A4EDBA"
       hasSeparatorLines={true}
+      hoverColor="#A4EDBA"
       mapData={mapData}
       separatorLines={separatorLines}
       seriesJoinBy={'fips'}
       title={getTitle({ title: 'US By State' })}
       tooltipFormat="Deaths: {point.deaths}<br />Cases: {point.cases}<br />"
-      tooltipSuffix=""
       tooltipHeader="{point.key}<br />"
+      tooltipSuffix=""
     />
   )
 }

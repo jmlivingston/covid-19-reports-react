@@ -42,35 +42,35 @@ function CountryMap({
 
   const separatorLineData = separatorLines
     ? {
-        type: 'mapline',
-        name: 'Separator',
-        data: separatorLines,
         color: DEFAULT_BORDER_COLOR,
-        shadow: false
+        data: separatorLines,
+        name: 'Separator',
+        shadow: false,
+        type: 'mapline'
       }
     : {}
 
   const options = {
-    title: {
-      text: title
+    colorAxis: {
+      max: colorMaxValue,
+      min: colorMinValue,
+      stops: colorStops,
+      tickInterval: colorValueInterval
     },
     legend: {
-      layout: 'vertical',
       align: 'right',
-      floating: true,
       backgroundColor:
         Highcharts.defaultOptions &&
         Highcharts.defaultOptions.legend &&
-        Highcharts.defaultOptions.legend.backgroundColor
+        Highcharts.defaultOptions.legend.backgroundColor,
+      floating: true,
+      layout: 'vertical'
     },
     mapNavigation: {
+      buttonOptions: {
+        verticalAlign: 'bottom'
+      },
       enabled: true
-    },
-    colorAxis: {
-      min: colorMinValue,
-      max: colorMaxValue,
-      tickInterval: colorValueInterval,
-      stops: colorStops
     },
     plotOptions: {
       map: {
@@ -83,31 +83,34 @@ function CountryMap({
     },
     series: [
       {
-        mapData,
+        borderWidth: 0.5,
         data,
         joinBy: seriesJoinBy,
+        mapData,
         name: tooltipTitle,
-        tooltip: {
-          pointFormat: tooltipFormat,
-          headerFormat: tooltipHeader,
-          valueSuffix: tooltipSuffix
-        },
-        borderWidth: 0.5,
+        shadow: false,
         states: {
           hover: {
             color: hoverColor
           }
         },
-        shadow: false
+        tooltip: {
+          pointFormat: tooltipFormat,
+          headerFormat: tooltipHeader,
+          valueSuffix: tooltipSuffix
+        }
       },
       {
-        type: 'mapline',
-        data: borderLines,
         color: stateBorderColor,
-        shadow: false
+        data: borderLines,
+        shadow: false,
+        type: 'mapline'
       },
       separatorLineData
-    ]
+    ],
+    title: {
+      text: title
+    }
   }
   return colorMaxValue &&
     colorValueInterval &&

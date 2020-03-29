@@ -14,8 +14,8 @@ function USByCounty() {
       baseColor="#FF0000"
       borderLines={borderLines}
       colorKey={key}
-      colorMinValue={0}
       colorMaxValue={maxValue}
+      colorMinValue={0}
       colorValueInterval={Math.round(maxValue / 5)}
       data={data}
       hoverColor="#A4EDBA"
@@ -24,8 +24,8 @@ function USByCounty() {
       seriesJoinBy={'fips'}
       title={getTitle({ title: 'US By County' })}
       tooltipFormat="Deaths: {point.deaths}<br />Cases: {point.cases}<br />"
-      tooltipSuffix=""
       tooltipHeader="County: {point.key}<br />"
+      tooltipSuffix=""
     />
   )
 }
