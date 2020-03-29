@@ -3,7 +3,7 @@ const path = require('path')
 const fs = require('fs')
 
 const dataPath = path.join(__dirname, '../../../scripts/data/us/nytimes-covid-19-data')
-const parsedDataPath = path.join(__dirname, '../../../src/reports/us')
+const parsedDataPath = path.join(__dirname, '../../../src/maps/us')
 
 if (fs.existsSync(dataPath)) {
   function parseCounties() {

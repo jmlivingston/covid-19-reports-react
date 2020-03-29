@@ -3,15 +3,15 @@
     "county": "Snohomish",
     "state": "Washington",
     "fips": "53061",
-    "cases": 913,
+    "cases": 912,
     "deaths": 23
   },
   {
     "county": "Cook",
     "state": "Illinois",
     "fips": "17031",
-    "cases": 2239,
-    "deaths": 20
+    "cases": 2613,
+    "deaths": 28
   },
   {
     "county": "Orange",
@@ -24,36 +24,36 @@
     "county": "Maricopa",
     "state": "Arizona",
     "fips": "04013",
-    "cases": 399,
+    "cases": 454,
     "deaths": 5
   },
   {
     "county": "Los Angeles",
     "state": "California",
     "fips": "06037",
-    "cases": 1465,
-    "deaths": 27
+    "cases": 1804,
+    "deaths": 33
   },
   {
     "county": "Santa Clara",
     "state": "California",
     "fips": "06085",
-    "cases": 574,
-    "deaths": 21
+    "cases": 591,
+    "deaths": 26
   },
   {
     "county": "Suffolk",
     "state": "Massachusetts",
     "fips": "25025",
-    "cases": 631,
-    "deaths": 3
+    "cases": 843,
+    "deaths": 4
   },
   {
     "county": "San Francisco",
     "state": "California",
     "fips": "06075",
-    "cases": 282,
-    "deaths": 3
+    "cases": 308,
+    "deaths": 4
   },
   {
     "county": "Dane",
@@ -66,28 +66,28 @@
     "county": "San Diego",
     "state": "California",
     "fips": "06073",
-    "cases": 417,
-    "deaths": 5
+    "cases": 488,
+    "deaths": 7
   },
   {
     "county": "Bexar",
     "state": "Texas",
     "fips": "48029",
-    "cases": 113,
+    "cases": 125,
     "deaths": 5
   },
   {
     "county": "Douglas",
     "state": "Nebraska",
     "fips": "31055",
-    "cases": 60,
+    "cases": 74,
     "deaths": 1
   },
   {
     "county": "Humboldt",
     "state": "California",
     "fips": "06023",
-    "cases": 14,
+    "cases": 18,
     "deaths": 0
   },
   {
@@ -108,21 +108,21 @@
     "county": "Spokane",
     "state": "Washington",
     "fips": "53063",
-    "cases": 86,
-    "deaths": 1
+    "cases": 108,
+    "deaths": 2
   },
   {
     "county": "Salt Lake",
     "state": "Utah",
     "fips": "49035",
-    "cases": 212,
+    "cases": 276,
     "deaths": 0
   },
   {
     "county": "Marin",
     "state": "California",
     "fips": "06041",
-    "cases": 69,
+    "cases": 74,
     "deaths": 1
   },
   {
@@ -143,112 +143,112 @@
     "county": "Washington",
     "state": "Oregon",
     "fips": "41067",
-    "cases": 122,
+    "cases": 140,
     "deaths": 3
   },
   {
     "county": "King",
     "state": "Washington",
     "fips": "53033",
-    "cases": 1830,
-    "deaths": 127
+    "cases": 2079,
+    "deaths": 138
   },
   {
     "county": "Alameda",
     "state": "California",
     "fips": "06001",
-    "cases": 241,
-    "deaths": 4
+    "cases": 277,
+    "deaths": 6
   },
   {
     "county": "Hillsborough",
     "state": "Florida",
     "fips": "12057",
-    "cases": 174,
+    "cases": 206,
     "deaths": 2
   },
   {
     "county": "Manatee",
     "state": "Florida",
     "fips": "12081",
-    "cases": 29,
+    "cases": 32,
     "deaths": 1
   },
   {
     "county": "Unknown",
     "state": "Rhode Island",
     "fips": "",
-    "cases": 132,
-    "deaths": 0
+    "cases": 168,
+    "deaths": 2
   },
   {
     "county": "Placer",
     "state": "California",
     "fips": "06061",
-    "cases": 41,
+    "cases": 44,
     "deaths": 1
   },
   {
     "county": "San Mateo",
     "state": "California",
     "fips": "06081",
-    "cases": 239,
+    "cases": 274,
     "deaths": 6
   },
   {
     "county": "Fulton",
     "state": "Georgia",
     "fips": "13121",
-    "cases": 347,
-    "deaths": 12
+    "cases": 378,
+    "deaths": 13
   },
   {
     "county": "Norfolk",
     "state": "Massachusetts",
     "fips": "25021",
-    "cases": 393,
-    "deaths": 6
+    "cases": 490,
+    "deaths": 8
   },
   {
     "county": "Grafton",
     "state": "New Hampshire",
     "fips": "33009",
-    "cases": 26,
+    "cases": 28,
     "deaths": 0
   },
   {
     "county": "Walla Walla",
     "state": "Washington",
     "fips": "53071",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Contra Costa",
     "state": "California",
     "fips": "06013",
-    "cases": 151,
-    "deaths": 2
+    "cases": 168,
+    "deaths": 3
   },
   {
     "county": "Wake",
     "state": "North Carolina",
     "fips": "37183",
-    "cases": 121,
+    "cases": 124,
     "deaths": 0
   },
   {
     "county": "Bergen",
     "state": "New Jersey",
     "fips": "34003",
-    "cases": 1505,
-    "deaths": 28
+    "cases": 1838,
+    "deaths": 35
   },
   {
     "county": "Westchester",
     "state": "New York",
     "fips": "36119",
-    "cases": 7187,
+    "cases": 7875,
     "deaths": 10
   },
   {
@@ -269,77 +269,77 @@
     "county": "Douglas",
     "state": "Colorado",
     "fips": "08035",
-    "cases": 79,
+    "cases": 92,
     "deaths": 0
   },
   {
     "county": "Jefferson",
     "state": "Colorado",
     "fips": "08059",
-    "cases": 158,
+    "cases": 182,
     "deaths": 5
   },
   {
     "county": "Santa Rosa",
     "state": "Florida",
     "fips": "12113",
-    "cases": 13,
+    "cases": 16,
     "deaths": 1
   },
   {
     "county": "Montgomery",
     "state": "Maryland",
     "fips": "24031",
-    "cases": 208,
+    "cases": 255,
     "deaths": 1
   },
   {
     "county": "Middlesex",
     "state": "Massachusetts",
     "fips": "25017",
-    "cases": 685,
+    "cases": 842,
     "deaths": 6
   },
   {
     "county": "Clark",
     "state": "Nevada",
     "fips": "32003",
-    "cases": 443,
-    "deaths": 10
+    "cases": 528,
+    "deaths": 14
   },
   {
     "county": "Washoe",
     "state": "Nevada",
     "fips": "32031",
-    "cases": 75,
+    "cases": 93,
     "deaths": 0
   },
   {
     "county": "Nassau",
     "state": "New York",
     "fips": "36059",
-    "cases": 4657,
-    "deaths": 27
+    "cases": 5537,
+    "deaths": 35
   },
   {
     "county": "Williamson",
     "state": "Tennessee",
     "fips": "47187",
-    "cases": 91,
+    "cases": 95,
     "deaths": 0
   },
   {
     "county": "Harris",
     "state": "Texas",
     "fips": "48201",
-    "cases": 229,
-    "deaths": 2
+    "cases": 232,
+    "deaths": 3
   },
   {
     "county": "Pinal",
     "state": "Arizona",
     "fips": "04021",
-    "cases": 36,
+    "cases": 41,
     "deaths": 0
   },
   {
@@ -353,36 +353,36 @@
     "county": "Denver",
     "state": "Colorado",
     "fips": "08031",
-    "cases": 312,
-    "deaths": 3
+    "cases": 367,
+    "deaths": 5
   },
   {
     "county": "Eagle",
     "state": "Colorado",
     "fips": "08037",
-    "cases": 170,
-    "deaths": 1
+    "cases": 182,
+    "deaths": 2
   },
   {
     "county": "El Paso",
     "state": "Colorado",
     "fips": "08041",
-    "cases": 160,
-    "deaths": 7
+    "cases": 184,
+    "deaths": 10
   },
   {
     "county": "Broward",
     "state": "Florida",
     "fips": "12011",
-    "cases": 631,
-    "deaths": 10
+    "cases": 820,
+    "deaths": 11
   },
   {
     "county": "Lee",
     "state": "Florida",
     "fips": "12071",
-    "cases": 95,
-    "deaths": 5
+    "cases": 119,
+    "deaths": 6
   },
   {
     "county": "Polk",
@@ -395,64 +395,64 @@
     "county": "Honolulu",
     "state": "Hawaii",
     "fips": "15003",
-    "cases": 87,
+    "cases": 108,
     "deaths": 0
   },
   {
     "county": "Marion",
     "state": "Indiana",
     "fips": "18097",
-    "cases": 484,
-    "deaths": 8
+    "cases": 584,
+    "deaths": 10
   },
   {
     "county": "Fayette",
     "state": "Kentucky",
     "fips": "21067",
-    "cases": 37,
+    "cases": 60,
     "deaths": 1
   },
   {
     "county": "Ramsey",
     "state": "Minnesota",
     "fips": "27123",
-    "cases": 34,
-    "deaths": 1
+    "cases": 42,
+    "deaths": 2
   },
   {
     "county": "Camden",
     "state": "New Jersey",
     "fips": "34007",
-    "cases": 95,
+    "cases": 123,
     "deaths": 1
   },
   {
     "county": "Rockland",
     "state": "New York",
     "fips": "36087",
-    "cases": 1457,
+    "cases": 1896,
     "deaths": 8
   },
   {
     "county": "Chatham",
     "state": "North Carolina",
     "fips": "37037",
-    "cases": 11,
+    "cases": 12,
     "deaths": 0
   },
   {
     "county": "Tulsa",
     "state": "Oklahoma",
     "fips": "40143",
-    "cases": 49,
-    "deaths": 1
+    "cases": 57,
+    "deaths": 3
   },
   {
     "county": "Delaware",
     "state": "Pennsylvania",
     "fips": "42045",
-    "cases": 185,
-    "deaths": 3
+    "cases": 226,
+    "deaths": 4
   },
   {
     "county": "Wayne",
@@ -465,63 +465,63 @@
     "county": "Charleston",
     "state": "South Carolina",
     "fips": "45019",
-    "cases": 92,
+    "cases": 108,
     "deaths": 1
   },
   {
     "county": "Kershaw",
     "state": "South Carolina",
     "fips": "45055",
-    "cases": 70,
+    "cases": 77,
     "deaths": 2
   },
   {
     "county": "Davis",
     "state": "Utah",
     "fips": "49011",
-    "cases": 50,
+    "cases": 59,
     "deaths": 1
   },
   {
     "county": "Washington",
     "state": "Utah",
     "fips": "49053",
-    "cases": 6,
+    "cases": 8,
     "deaths": 0
   },
   {
     "county": "Clark",
     "state": "Washington",
     "fips": "53011",
-    "cases": 76,
+    "cases": 82,
     "deaths": 6
   },
   {
     "county": "Jefferson",
     "state": "Washington",
     "fips": "53031",
-    "cases": 11,
+    "cases": 13,
     "deaths": 0
   },
   {
     "county": "Pierce",
     "state": "Washington",
     "fips": "53053",
-    "cases": 231,
+    "cases": 282,
     "deaths": 5
   },
   {
     "county": "Fresno",
     "state": "California",
     "fips": "06019",
-    "cases": 31,
+    "cases": 43,
     "deaths": 0
   },
   {
     "county": "Madera",
     "state": "California",
     "fips": "06039",
-    "cases": 11,
+    "cases": 15,
     "deaths": 1
   },
   {
@@ -535,91 +535,91 @@
     "county": "Santa Cruz",
     "state": "California",
     "fips": "06087",
-    "cases": 34,
+    "cases": 39,
     "deaths": 0
   },
   {
     "county": "District of Columbia",
     "state": "District of Columbia",
     "fips": "11001",
-    "cases": 304,
+    "cases": 342,
     "deaths": 4
   },
   {
     "county": "Charlotte",
     "state": "Florida",
     "fips": "12015",
-    "cases": 8,
+    "cases": 16,
     "deaths": 0
   },
   {
     "county": "Okaloosa",
     "state": "Florida",
     "fips": "12091",
-    "cases": 25,
+    "cases": 31,
     "deaths": 0
   },
   {
     "county": "Volusia",
     "state": "Florida",
     "fips": "12127",
-    "cases": 43,
-    "deaths": 0
+    "cases": 44,
+    "deaths": 2
   },
   {
     "county": "Cobb",
     "state": "Georgia",
     "fips": "13067",
-    "cases": 163,
-    "deaths": 5
+    "cases": 185,
+    "deaths": 9
   },
   {
     "county": "Gwinnett",
     "state": "Georgia",
     "fips": "13135",
-    "cases": 121,
+    "cases": 131,
     "deaths": 1
   },
   {
     "county": "Johnson",
     "state": "Kansas",
     "fips": "20091",
-    "cases": 66,
-    "deaths": 1
+    "cases": 80,
+    "deaths": 2
   },
   {
     "county": "Berkshire",
     "state": "Massachusetts",
     "fips": "25003",
-    "cases": 105,
+    "cases": 119,
     "deaths": 4
   },
   {
     "county": "St. Louis",
     "state": "Missouri",
     "fips": "29189",
-    "cases": 247,
+    "cases": 313,
     "deaths": 2
   },
   {
     "county": "Rockingham",
     "state": "New Hampshire",
     "fips": "33015",
-    "cases": 75,
+    "cases": 86,
     "deaths": 0
   },
   {
     "county": "Saratoga",
     "state": "New York",
     "fips": "36091",
-    "cases": 82,
+    "cases": 96,
     "deaths": 0
   },
   {
     "county": "Jackson",
     "state": "Oregon",
     "fips": "41029",
-    "cases": 6,
+    "cases": 8,
     "deaths": 0
   },
   {
@@ -633,21 +633,21 @@
     "county": "Montgomery",
     "state": "Pennsylvania",
     "fips": "42091",
-    "cases": 374,
-    "deaths": 4
+    "cases": 411,
+    "deaths": 5
   },
   {
     "county": "Bennington",
     "state": "Vermont",
     "fips": "50003",
-    "cases": 13,
+    "cases": 15,
     "deaths": 0
   },
   {
     "county": "Fairfax",
     "state": "Virginia",
     "fips": "51059",
-    "cases": 124,
+    "cases": 156,
     "deaths": 1
   },
   {
@@ -661,28 +661,28 @@
     "county": "Fairfield",
     "state": "Connecticut",
     "fips": "09001",
-    "cases": 752,
-    "deaths": 15
+    "cases": 908,
+    "deaths": 20
   },
   {
     "county": "Cherokee",
     "state": "Georgia",
     "fips": "13057",
-    "cases": 50,
+    "cases": 54,
     "deaths": 1
   },
   {
     "county": "Hendricks",
     "state": "Indiana",
     "fips": "18063",
-    "cases": 28,
+    "cases": 36,
     "deaths": 2
   },
   {
     "county": "Johnson",
     "state": "Iowa",
     "fips": "19103",
-    "cases": 58,
+    "cases": 61,
     "deaths": 0
   },
   {
@@ -696,49 +696,49 @@
     "county": "Jefferson",
     "state": "Kentucky",
     "fips": "21111",
-    "cases": 76,
+    "cases": 99,
     "deaths": 4
   },
   {
     "county": "Harford",
     "state": "Maryland",
     "fips": "24025",
-    "cases": 18,
+    "cases": 21,
     "deaths": 0
   },
   {
     "county": "Worcester",
     "state": "Massachusetts",
     "fips": "25027",
-    "cases": 219,
-    "deaths": 3
+    "cases": 291,
+    "deaths": 5
   },
   {
     "county": "Carver",
     "state": "Minnesota",
     "fips": "27019",
-    "cases": 8,
+    "cases": 9,
     "deaths": 0
   },
   {
     "county": "Passaic",
     "state": "New Jersey",
     "fips": "34031",
-    "cases": 484,
-    "deaths": 5
+    "cases": 608,
+    "deaths": 7
   },
   {
     "county": "Suffolk",
     "state": "New York",
     "fips": "36103",
-    "cases": 3385,
-    "deaths": 22
+    "cases": 4138,
+    "deaths": 37
   },
   {
     "county": "Ulster",
     "state": "New York",
     "fips": "36111",
-    "cases": 98,
+    "cases": 128,
     "deaths": 0
   },
   {
@@ -752,43 +752,43 @@
     "county": "Marion",
     "state": "Oregon",
     "fips": "41047",
-    "cases": 83,
+    "cases": 94,
     "deaths": 3
   },
   {
     "county": "Spartanburg",
     "state": "South Carolina",
     "fips": "45083",
-    "cases": 16,
+    "cases": 21,
     "deaths": 0
   },
   {
     "county": "Davidson",
     "state": "Tennessee",
     "fips": "47037",
-    "cases": 312,
+    "cases": 376,
     "deaths": 2
   },
   {
     "county": "Shelby",
     "state": "Tennessee",
     "fips": "47157",
-    "cases": 223,
+    "cases": 275,
     "deaths": 0
   },
   {
     "county": "Kitsap",
     "state": "Washington",
     "fips": "53035",
-    "cases": 42,
+    "cases": 49,
     "deaths": 1
   },
   {
     "county": "Pima",
     "state": "Arizona",
     "fips": "04019",
-    "cases": 102,
-    "deaths": 4
+    "cases": 120,
+    "deaths": 5
   },
   {
     "county": "Shasta",
@@ -801,42 +801,42 @@
     "county": "Arapahoe",
     "state": "Colorado",
     "fips": "08005",
-    "cases": 155,
-    "deaths": 1
+    "cases": 204,
+    "deaths": 3
   },
   {
     "county": "Larimer",
     "state": "Colorado",
     "fips": "08069",
-    "cases": 67,
-    "deaths": 1
+    "cases": 79,
+    "deaths": 3
   },
   {
     "county": "DeKalb",
     "state": "Georgia",
     "fips": "13089",
-    "cases": 219,
-    "deaths": 2
+    "cases": 246,
+    "deaths": 3
   },
   {
     "county": "Fayette",
     "state": "Georgia",
     "fips": "13113",
-    "cases": 22,
-    "deaths": 2
+    "cases": 26,
+    "deaths": 3
   },
   {
     "county": "Floyd",
     "state": "Georgia",
     "fips": "13115",
-    "cases": 26,
+    "cases": 27,
     "deaths": 1
   },
   {
     "county": "Noble",
     "state": "Indiana",
     "fips": "18113",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -850,63 +850,63 @@
     "county": "Jefferson",
     "state": "Louisiana",
     "fips": "22051",
-    "cases": 548,
-    "deaths": 24
+    "cases": 744,
+    "deaths": 26
   },
   {
     "county": "Prince George's",
     "state": "Maryland",
     "fips": "24033",
-    "cases": 148,
-    "deaths": 2
+    "cases": 196,
+    "deaths": 3
   },
   {
     "county": "Hudson",
     "state": "New Jersey",
     "fips": "34017",
-    "cases": 594,
-    "deaths": 4
+    "cases": 771,
+    "deaths": 6
   },
   {
     "county": "Monmouth",
     "state": "New Jersey",
     "fips": "34025",
-    "cases": 634,
+    "cases": 781,
     "deaths": 10
   },
   {
     "county": "Union",
     "state": "New Jersey",
     "fips": "34039",
-    "cases": 519,
-    "deaths": 3
+    "cases": 742,
+    "deaths": 10
   },
   {
     "county": "Cuyahoga",
     "state": "Ohio",
     "fips": "39035",
-    "cases": 330,
-    "deaths": 2
+    "cases": 370,
+    "deaths": 3
   },
   {
     "county": "Monroe",
     "state": "Pennsylvania",
     "fips": "42089",
-    "cases": 98,
+    "cases": 106,
     "deaths": 2
   },
   {
     "county": "Collin",
     "state": "Texas",
     "fips": "48085",
-    "cases": 88,
+    "cases": 118,
     "deaths": 1
   },
   {
     "county": "Virginia Beach city",
     "state": "Virginia",
     "fips": "51810",
-    "cases": 29,
+    "cases": 35,
     "deaths": 0
   },
   {
@@ -920,57 +920,57 @@
     "county": "San Joaquin",
     "state": "California",
     "fips": "06077",
-    "cases": 93,
+    "cases": 108,
     "deaths": 4
   },
   {
     "county": "Ventura",
     "state": "California",
     "fips": "06111",
-    "cases": 83,
+    "cases": 98,
     "deaths": 3
   },
   {
     "county": "Gunnison",
     "state": "Colorado",
     "fips": "08051",
-    "cases": 66,
+    "cases": 78,
     "deaths": 1
   },
   {
     "county": "Alachua",
     "state": "Florida",
     "fips": "12001",
-    "cases": 60,
+    "cases": 68,
     "deaths": 0
   },
   {
     "county": "Collier",
     "state": "Florida",
     "fips": "12021",
-    "cases": 85,
+    "cases": 95,
     "deaths": 0
   },
   {
     "county": "Nassau",
     "state": "Florida",
     "fips": "12089",
-    "cases": 6,
+    "cases": 7,
     "deaths": 0
   },
   {
     "county": "Pasco",
     "state": "Florida",
     "fips": "12101",
-    "cases": 25,
-    "deaths": 1
+    "cases": 34,
+    "deaths": 2
   },
   {
     "county": "Pinellas",
     "state": "Florida",
     "fips": "12103",
-    "cases": 82,
-    "deaths": 1
+    "cases": 111,
+    "deaths": 4
   },
   {
     "county": "Charlton",
@@ -983,15 +983,15 @@
     "county": "Kane",
     "state": "Illinois",
     "fips": "17089",
-    "cases": 77,
-    "deaths": 2
+    "cases": 90,
+    "deaths": 4
   },
   {
     "county": "McHenry",
     "state": "Illinois",
     "fips": "17111",
-    "cases": 45,
-    "deaths": 1
+    "cases": 47,
+    "deaths": 2
   },
   {
     "county": "Adams",
@@ -1004,64 +1004,64 @@
     "county": "Boone",
     "state": "Indiana",
     "fips": "18011",
-    "cases": 7,
+    "cases": 8,
     "deaths": 0
   },
   {
     "county": "Orleans",
     "state": "Louisiana",
     "fips": "22071",
-    "cases": 1170,
-    "deaths": 57
+    "cases": 1298,
+    "deaths": 70
   },
   {
     "county": "Essex",
     "state": "Massachusetts",
     "fips": "25009",
-    "cases": 350,
-    "deaths": 2
+    "cases": 472,
+    "deaths": 3
   },
   {
     "county": "Oakland",
     "state": "Michigan",
     "fips": "26125",
-    "cases": 824,
-    "deaths": 26
+    "cases": 1018,
+    "deaths": 31
   },
   {
     "county": "Wayne",
     "state": "Michigan",
     "fips": "26163",
-    "cases": 1810,
-    "deaths": 37
+    "cases": 2316,
+    "deaths": 46
   },
   {
     "county": "Anoka",
     "state": "Minnesota",
     "fips": "27003",
-    "cases": 10,
+    "cases": 12,
     "deaths": 0
   },
   {
     "county": "Burlington",
     "state": "New Jersey",
     "fips": "34005",
-    "cases": 88,
+    "cases": 115,
     "deaths": 3
   },
   {
     "county": "Multnomah",
     "state": "Oregon",
     "fips": "41051",
-    "cases": 67,
+    "cases": 81,
     "deaths": 2
   },
   {
     "county": "Philadelphia",
     "state": "Pennsylvania",
     "fips": "42101",
-    "cases": 530,
-    "deaths": 2
+    "cases": 709,
+    "deaths": 5
   },
   {
     "county": "Beadle",
@@ -1088,7 +1088,7 @@
     "county": "Minnehaha",
     "state": "South Dakota",
     "fips": "46099",
-    "cases": 18,
+    "cases": 21,
     "deaths": 0
   },
   {
@@ -1102,14 +1102,14 @@
     "county": "Dallas",
     "state": "Texas",
     "fips": "48113",
-    "cases": 367,
-    "deaths": 7
+    "cases": 439,
+    "deaths": 9
   },
   {
     "county": "Montgomery",
     "state": "Texas",
     "fips": "48339",
-    "cases": 46,
+    "cases": 47,
     "deaths": 0
   },
   {
@@ -1123,85 +1123,85 @@
     "county": "Weber",
     "state": "Utah",
     "fips": "49057",
-    "cases": 12,
+    "cases": 29,
     "deaths": 0
   },
   {
     "county": "Loudoun",
     "state": "Virginia",
     "fips": "51107",
-    "cases": 43,
+    "cases": 54,
     "deaths": 0
   },
   {
     "county": "Skagit",
     "state": "Washington",
     "fips": "53057",
-    "cases": 91,
-    "deaths": 1
+    "cases": 97,
+    "deaths": 3
   },
   {
     "county": "Whatcom",
     "state": "Washington",
     "fips": "53073",
-    "cases": 92,
+    "cases": 102,
     "deaths": 4
   },
   {
     "county": "Jefferson",
     "state": "Arkansas",
     "fips": "05069",
-    "cases": 23,
+    "cases": 25,
     "deaths": 0
   },
   {
     "county": "Stanislaus",
     "state": "California",
     "fips": "06099",
-    "cases": 23,
+    "cases": 29,
     "deaths": 0
   },
   {
     "county": "Pitkin",
     "state": "Colorado",
     "fips": "08097",
-    "cases": 25,
-    "deaths": 0
+    "cases": 26,
+    "deaths": 2
   },
   {
     "county": "New Castle",
     "state": "Delaware",
     "fips": "10003",
-    "cases": 106,
-    "deaths": 1
+    "cases": 130,
+    "deaths": 2
   },
   {
     "county": "Miami-Dade",
     "state": "Florida",
     "fips": "12086",
-    "cases": 869,
-    "deaths": 2
+    "cases": 1121,
+    "deaths": 3
   },
   {
     "county": "St. Johns",
     "state": "Florida",
     "fips": "12109",
-    "cases": 42,
+    "cases": 50,
     "deaths": 2
   },
   {
     "county": "Bartow",
     "state": "Georgia",
     "fips": "13015",
-    "cases": 107,
+    "cases": 117,
     "deaths": 1
   },
   {
     "county": "Lee",
     "state": "Georgia",
     "fips": "13177",
-    "cases": 37,
-    "deaths": 1
+    "cases": 39,
+    "deaths": 6
   },
   {
     "county": "Lowndes",
@@ -1214,77 +1214,77 @@
     "county": "Lake",
     "state": "Illinois",
     "fips": "17097",
-    "cases": 230,
+    "cases": 264,
     "deaths": 2
   },
   {
     "county": "Howard",
     "state": "Indiana",
     "fips": "18067",
-    "cases": 7,
+    "cases": 9,
     "deaths": 1
   },
   {
     "county": "Johnson",
     "state": "Indiana",
     "fips": "18081",
-    "cases": 42,
+    "cases": 52,
     "deaths": 3
   },
   {
     "county": "St. Joseph",
     "state": "Indiana",
     "fips": "18141",
-    "cases": 27,
+    "cases": 31,
     "deaths": 1
   },
   {
     "county": "Caddo",
     "state": "Louisiana",
     "fips": "22017",
-    "cases": 140,
+    "cases": 189,
     "deaths": 2
   },
   {
     "county": "Baltimore",
     "state": "Maryland",
     "fips": "24005",
-    "cases": 103,
+    "cases": 141,
     "deaths": 1
   },
   {
     "county": "Olmsted",
     "state": "Minnesota",
     "fips": "27109",
-    "cases": 34,
+    "cases": 37,
     "deaths": 0
   },
   {
     "county": "Forrest",
     "state": "Mississippi",
     "fips": "28035",
-    "cases": 16,
+    "cases": 18,
     "deaths": 0
   },
   {
     "county": "Middlesex",
     "state": "New Jersey",
     "fips": "34023",
-    "cases": 640,
-    "deaths": 9
+    "cases": 808,
+    "deaths": 14
   },
   {
     "county": "Bernalillo",
     "state": "New Mexico",
     "fips": "35001",
-    "cases": 82,
-    "deaths": 0
+    "cases": 93,
+    "deaths": 1
   },
   {
     "county": "Santa Fe",
     "state": "New Mexico",
     "fips": "35049",
-    "cases": 29,
+    "cases": 30,
     "deaths": 0
   },
   {
@@ -1298,63 +1298,63 @@
     "county": "Monroe",
     "state": "New York",
     "fips": "36055",
-    "cases": 160,
-    "deaths": 4
+    "cases": 202,
+    "deaths": 5
   },
   {
     "county": "Ward",
     "state": "North Dakota",
     "fips": "38101",
-    "cases": 4,
+    "cases": 7,
     "deaths": 0
   },
   {
     "county": "Stark",
     "state": "Ohio",
     "fips": "39151",
-    "cases": 22,
+    "cases": 25,
     "deaths": 2
   },
   {
     "county": "Deschutes",
     "state": "Oregon",
     "fips": "41017",
-    "cases": 18,
+    "cases": 20,
     "deaths": 0
   },
   {
     "county": "Linn",
     "state": "Oregon",
     "fips": "41043",
-    "cases": 28,
+    "cases": 32,
     "deaths": 1
   },
   {
     "county": "Polk",
     "state": "Oregon",
     "fips": "41053",
-    "cases": 10,
+    "cases": 11,
     "deaths": 0
   },
   {
     "county": "Umatilla",
     "state": "Oregon",
     "fips": "41059",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Bucks",
     "state": "Pennsylvania",
     "fips": "42017",
-    "cases": 124,
-    "deaths": 0
+    "cases": 216,
+    "deaths": 1
   },
   {
     "county": "Lancaster",
     "state": "South Carolina",
     "fips": "45057",
-    "cases": 8,
+    "cases": 9,
     "deaths": 0
   },
   {
@@ -1375,119 +1375,119 @@
     "county": "Chittenden",
     "state": "Vermont",
     "fips": "50007",
-    "cases": 90,
+    "cases": 105,
     "deaths": 6
   },
   {
     "county": "Arlington",
     "state": "Virginia",
     "fips": "51013",
-    "cases": 63,
+    "cases": 75,
     "deaths": 0
   },
   {
     "county": "Island",
     "state": "Washington",
     "fips": "53029",
-    "cases": 79,
+    "cases": 92,
     "deaths": 1
   },
   {
     "county": "Thurston",
     "state": "Washington",
     "fips": "53067",
-    "cases": 27,
+    "cases": 33,
     "deaths": 0
   },
   {
     "county": "Fond du Lac",
     "state": "Wisconsin",
     "fips": "55039",
-    "cases": 19,
+    "cases": 20,
     "deaths": 1
   },
   {
     "county": "Waukesha",
     "state": "Wisconsin",
     "fips": "55133",
-    "cases": 61,
+    "cases": 72,
     "deaths": 0
   },
   {
     "county": "Sheridan",
     "state": "Wyoming",
     "fips": "56033",
-    "cases": 5,
+    "cases": 6,
     "deaths": 0
   },
   {
     "county": "Anchorage",
     "state": "Alaska",
     "fips": "02020",
-    "cases": 43,
+    "cases": 54,
     "deaths": 1
   },
   {
     "county": "Pulaski",
     "state": "Arkansas",
     "fips": "05119",
-    "cases": 89,
-    "deaths": 1
+    "cases": 92,
+    "deaths": 2
   },
   {
     "county": "Tulare",
     "state": "California",
     "fips": "06107",
-    "cases": 24,
-    "deaths": 0
+    "cases": 29,
+    "deaths": 1
   },
   {
     "county": "Adams",
     "state": "Colorado",
     "fips": "08001",
-    "cases": 71,
+    "cases": 95,
     "deaths": 0
   },
   {
     "county": "Litchfield",
     "state": "Connecticut",
     "fips": "09005",
-    "cases": 52,
+    "cases": 65,
     "deaths": 0
   },
   {
     "county": "Clay",
     "state": "Florida",
     "fips": "12019",
-    "cases": 22,
+    "cases": 26,
     "deaths": 4
   },
   {
     "county": "Duval",
     "state": "Florida",
     "fips": "12031",
-    "cases": 99,
+    "cases": 120,
     "deaths": 3
   },
   {
     "county": "Palm Beach",
     "state": "Florida",
     "fips": "12099",
-    "cases": 241,
-    "deaths": 5
+    "cases": 318,
+    "deaths": 6
   },
   {
     "county": "Sarasota",
     "state": "Florida",
     "fips": "12115",
-    "cases": 43,
+    "cases": 50,
     "deaths": 2
   },
   {
     "county": "Seminole",
     "state": "Florida",
     "fips": "12117",
-    "cases": 54,
+    "cases": 68,
     "deaths": 0
   },
   {
@@ -1501,7 +1501,7 @@
     "county": "Wyandotte",
     "state": "Kansas",
     "fips": "20209",
-    "cases": 43,
+    "cases": 53,
     "deaths": 3
   },
   {
@@ -1515,21 +1515,21 @@
     "county": "Androscoggin",
     "state": "Maine",
     "fips": "23001",
-    "cases": 6,
+    "cases": 7,
     "deaths": 0
   },
   {
     "county": "Ingham",
     "state": "Michigan",
     "fips": "26065",
-    "cases": 26,
+    "cases": 32,
     "deaths": 1
   },
   {
     "county": "Kent",
     "state": "Michigan",
     "fips": "26081",
-    "cases": 45,
+    "cases": 53,
     "deaths": 1
   },
   {
@@ -1543,29 +1543,29 @@
     "county": "St. Clair",
     "state": "Michigan",
     "fips": "26147",
-    "cases": 15,
+    "cases": 16,
     "deaths": 0
   },
   {
     "county": "Washtenaw",
     "state": "Michigan",
     "fips": "26161",
-    "cases": 150,
+    "cases": 185,
     "deaths": 3
   },
   {
     "county": "Dakota",
     "state": "Minnesota",
     "fips": "27037",
-    "cases": 28,
+    "cases": 33,
     "deaths": 0
   },
   {
     "county": "Hennepin",
     "state": "Minnesota",
     "fips": "27053",
-    "cases": 141,
-    "deaths": 1
+    "cases": 152,
+    "deaths": 2
   },
   {
     "county": "Stearns",
@@ -1578,7 +1578,7 @@
     "county": "Greene",
     "state": "Missouri",
     "fips": "29077",
-    "cases": 31,
+    "cases": 41,
     "deaths": 3
   },
   {
@@ -1592,36 +1592,36 @@
     "county": "Carson City",
     "state": "Nevada",
     "fips": "32510",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Essex",
     "state": "New Jersey",
     "fips": "34013",
-    "cases": 826,
-    "deaths": 18
+    "cases": 1086,
+    "deaths": 20
   },
   {
     "county": "Morris",
     "state": "New Jersey",
     "fips": "34027",
-    "cases": 391,
-    "deaths": 9
+    "cases": 442,
+    "deaths": 12
   },
   {
     "county": "Unknown",
     "state": "New Jersey",
     "fips": "",
-    "cases": 1984,
+    "cases": 2478,
     "deaths": 7
   },
   {
     "county": "Albany",
     "state": "New York",
     "fips": "36001",
-    "cases": 187,
-    "deaths": 0
+    "cases": 195,
+    "deaths": 1
   },
   {
     "county": "Delaware",
@@ -1634,7 +1634,7 @@
     "county": "Dutchess",
     "state": "New York",
     "fips": "36027",
-    "cases": 225,
+    "cases": 262,
     "deaths": 2
   },
   {
@@ -1648,21 +1648,21 @@
     "county": "Orange",
     "state": "New York",
     "fips": "36071",
-    "cases": 910,
+    "cases": 1101,
     "deaths": 3
   },
   {
     "county": "Cabarrus",
     "state": "North Carolina",
     "fips": "37025",
-    "cases": 21,
+    "cases": 23,
     "deaths": 1
   },
   {
     "county": "Forsyth",
     "state": "North Carolina",
     "fips": "37067",
-    "cases": 17,
+    "cases": 24,
     "deaths": 0
   },
   {
@@ -1676,7 +1676,7 @@
     "county": "Mecklenburg",
     "state": "North Carolina",
     "fips": "37119",
-    "cases": 218,
+    "cases": 299,
     "deaths": 0
   },
   {
@@ -1690,56 +1690,56 @@
     "county": "Trumbull",
     "state": "Ohio",
     "fips": "39155",
-    "cases": 17,
-    "deaths": 1
+    "cases": 27,
+    "deaths": 2
   },
   {
     "county": "Clackamas",
     "state": "Oregon",
     "fips": "41005",
-    "cases": 31,
+    "cases": 36,
     "deaths": 2
   },
   {
     "county": "Northampton",
     "state": "Pennsylvania",
     "fips": "42095",
-    "cases": 79,
-    "deaths": 3
+    "cases": 94,
+    "deaths": 4
   },
   {
     "county": "Pike",
     "state": "Pennsylvania",
     "fips": "42103",
-    "cases": 23,
-    "deaths": 0
+    "cases": 27,
+    "deaths": 1
   },
   {
     "county": "Knox",
     "state": "Tennessee",
     "fips": "47093",
-    "cases": 31,
+    "cases": 33,
     "deaths": 0
   },
   {
     "county": "Alexandria city",
     "state": "Virginia",
     "fips": "51510",
-    "cases": 18,
+    "cases": 20,
     "deaths": 0
   },
   {
     "county": "Hanover",
     "state": "Virginia",
     "fips": "51085",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "James City",
     "state": "Virginia",
     "fips": "51095",
-    "cases": 55,
+    "cases": 65,
     "deaths": 3
   },
   {
@@ -1753,7 +1753,7 @@
     "county": "Prince William",
     "state": "Virginia",
     "fips": "51153",
-    "cases": 44,
+    "cases": 56,
     "deaths": 0
   },
   {
@@ -1774,21 +1774,21 @@
     "county": "Yakima",
     "state": "Washington",
     "fips": "53077",
-    "cases": 72,
+    "cases": 100,
     "deaths": 2
   },
   {
     "county": "Elmore",
     "state": "Alabama",
     "fips": "01051",
-    "cases": 12,
+    "cases": 13,
     "deaths": 0
   },
   {
     "county": "Jefferson",
     "state": "Alabama",
     "fips": "01073",
-    "cases": 179,
+    "cases": 214,
     "deaths": 0
   },
   {
@@ -1809,7 +1809,7 @@
     "county": "Tuscaloosa",
     "state": "Alabama",
     "fips": "01125",
-    "cases": 22,
+    "cases": 23,
     "deaths": 0
   },
   {
@@ -1830,70 +1830,70 @@
     "county": "Pueblo",
     "state": "Colorado",
     "fips": "08101",
-    "cases": 7,
+    "cases": 9,
     "deaths": 1
   },
   {
     "county": "Routt",
     "state": "Colorado",
     "fips": "08107",
-    "cases": 12,
+    "cases": 14,
     "deaths": 0
   },
   {
     "county": "Summit",
     "state": "Colorado",
     "fips": "08117",
-    "cases": 10,
+    "cases": 11,
     "deaths": 0
   },
   {
     "county": "Weld",
     "state": "Colorado",
     "fips": "08123",
-    "cases": 129,
-    "deaths": 6
+    "cases": 161,
+    "deaths": 7
   },
   {
     "county": "Orange",
     "state": "Florida",
     "fips": "12095",
-    "cases": 174,
+    "cases": 213,
     "deaths": 4
   },
   {
     "county": "Osceola",
     "state": "Florida",
     "fips": "12097",
-    "cases": 56,
+    "cases": 74,
     "deaths": 0
   },
   {
     "county": "Gordon",
     "state": "Georgia",
     "fips": "13129",
-    "cases": 12,
+    "cases": 14,
     "deaths": 1
   },
   {
     "county": "Henry",
     "state": "Georgia",
     "fips": "13151",
-    "cases": 44,
+    "cases": 50,
     "deaths": 1
   },
   {
     "county": "Ada",
     "state": "Idaho",
     "fips": "16001",
-    "cases": 76,
-    "deaths": 0
+    "cases": 88,
+    "deaths": 1
   },
   {
     "county": "Harrison",
     "state": "Iowa",
     "fips": "19085",
-    "cases": 7,
+    "cases": 8,
     "deaths": 0
   },
   {
@@ -1907,43 +1907,43 @@
     "county": "St. Charles",
     "state": "Louisiana",
     "fips": "22089",
-    "cases": 23,
+    "cases": 30,
     "deaths": 2
   },
   {
     "county": "St. Tammany",
     "state": "Louisiana",
     "fips": "22103",
-    "cases": 111,
+    "cases": 134,
     "deaths": 2
   },
   {
     "county": "Terrebonne",
     "state": "Louisiana",
     "fips": "22109",
-    "cases": 23,
+    "cases": 26,
     "deaths": 1
   },
   {
     "county": "Cumberland",
     "state": "Maine",
     "fips": "23005",
-    "cases": 92,
+    "cases": 120,
     "deaths": 1
   },
   {
     "county": "Anne Arundel",
     "state": "Maryland",
     "fips": "24003",
-    "cases": 63,
+    "cases": 88,
     "deaths": 1
   },
   {
     "county": "Charles",
     "state": "Maryland",
     "fips": "24017",
-    "cases": 17,
-    "deaths": 0
+    "cases": 21,
+    "deaths": 1
   },
   {
     "county": "Bay",
@@ -1970,8 +1970,8 @@
     "county": "Macomb",
     "state": "Michigan",
     "fips": "26099",
-    "cases": 404,
-    "deaths": 14
+    "cases": 534,
+    "deaths": 17
   },
   {
     "county": "Wright",
@@ -1991,14 +1991,14 @@
     "county": "Leflore",
     "state": "Mississippi",
     "fips": "28083",
-    "cases": 13,
+    "cases": 15,
     "deaths": 0
   },
   {
     "county": "Pearl River",
     "state": "Mississippi",
     "fips": "28109",
-    "cases": 18,
+    "cases": 23,
     "deaths": 0
   },
   {
@@ -2012,42 +2012,42 @@
     "county": "Gallatin",
     "state": "Montana",
     "fips": "30031",
-    "cases": 42,
+    "cases": 57,
     "deaths": 0
   },
   {
     "county": "Lewis and Clark",
     "state": "Montana",
     "fips": "30049",
-    "cases": 7,
+    "cases": 10,
     "deaths": 0
   },
   {
     "county": "Silver Bow",
     "state": "Montana",
     "fips": "30093",
-    "cases": 7,
+    "cases": 8,
     "deaths": 0
   },
   {
     "county": "Yellowstone",
     "state": "Montana",
     "fips": "30111",
-    "cases": 23,
+    "cases": 26,
     "deaths": 0
   },
   {
     "county": "Ocean",
     "state": "New Jersey",
     "fips": "34029",
-    "cases": 484,
-    "deaths": 8
+    "cases": 624,
+    "deaths": 9
   },
   {
     "county": "Schenectady",
     "state": "New York",
     "fips": "36093",
-    "cases": 66,
+    "cases": 72,
     "deaths": 0
   },
   {
@@ -2061,35 +2061,35 @@
     "county": "Oklahoma",
     "state": "Oklahoma",
     "fips": "40109",
-    "cases": 94,
-    "deaths": 2
+    "cases": 107,
+    "deaths": 3
   },
   {
     "county": "Chester",
     "state": "Pennsylvania",
     "fips": "42029",
-    "cases": 107,
+    "cases": 116,
     "deaths": 0
   },
   {
     "county": "Cumberland",
     "state": "Pennsylvania",
     "fips": "42041",
-    "cases": 16,
-    "deaths": 0
+    "cases": 22,
+    "deaths": 1
   },
   {
     "county": "Washington",
     "state": "Pennsylvania",
     "fips": "42125",
-    "cases": 14,
+    "cases": 23,
     "deaths": 0
   },
   {
     "county": "Unknown",
     "state": "Puerto Rico",
     "fips": "",
-    "cases": 79,
+    "cases": 100,
     "deaths": 3
   },
   {
@@ -2103,7 +2103,7 @@
     "county": "Hamilton",
     "state": "Tennessee",
     "fips": "47065",
-    "cases": 30,
+    "cases": 35,
     "deaths": 0
   },
   {
@@ -2117,28 +2117,28 @@
     "county": "Rutherford",
     "state": "Tennessee",
     "fips": "47149",
-    "cases": 39,
+    "cases": 46,
     "deaths": 0
   },
   {
     "county": "Bell",
     "state": "Texas",
     "fips": "48027",
-    "cases": 25,
+    "cases": 28,
     "deaths": 1
   },
   {
     "county": "El Paso",
     "state": "Texas",
     "fips": "48141",
-    "cases": 30,
+    "cases": 35,
     "deaths": 0
   },
   {
     "county": "Galveston",
     "state": "Texas",
     "fips": "48167",
-    "cases": 49,
+    "cases": 60,
     "deaths": 0
   },
   {
@@ -2166,63 +2166,63 @@
     "county": "Grant",
     "state": "Washington",
     "fips": "53025",
-    "cases": 42,
+    "cases": 44,
     "deaths": 1
   },
   {
     "county": "Milwaukee",
     "state": "Wisconsin",
     "fips": "55079",
-    "cases": 468,
+    "cases": 541,
     "deaths": 9
   },
   {
     "county": "Racine",
     "state": "Wisconsin",
     "fips": "55101",
-    "cases": 9,
+    "cases": 16,
     "deaths": 0
   },
   {
     "county": "Sheboygan",
     "state": "Wisconsin",
     "fips": "55117",
-    "cases": 7,
+    "cases": 8,
     "deaths": 0
   },
   {
     "county": "Fremont",
     "state": "Wyoming",
     "fips": "56013",
-    "cases": 17,
+    "cases": 21,
     "deaths": 0
   },
   {
     "county": "Baldwin",
     "state": "Alabama",
     "fips": "01003",
-    "cases": 5,
+    "cases": 10,
     "deaths": 0
   },
   {
     "county": "Graham",
     "state": "Arizona",
     "fips": "04009",
-    "cases": 4,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "San Luis Obispo",
     "state": "California",
     "fips": "06079",
-    "cases": 59,
+    "cases": 67,
     "deaths": 0
   },
   {
     "county": "Boulder",
     "state": "Colorado",
     "fips": "08013",
-    "cases": 76,
+    "cases": 84,
     "deaths": 1
   },
   {
@@ -2236,35 +2236,35 @@
     "county": "Hartford",
     "state": "Connecticut",
     "fips": "09003",
-    "cases": 189,
+    "cases": 228,
     "deaths": 2
   },
   {
     "county": "New Haven",
     "state": "Connecticut",
     "fips": "09009",
-    "cases": 222,
+    "cases": 236,
     "deaths": 6
   },
   {
     "county": "Coweta",
     "state": "Georgia",
     "fips": "13077",
-    "cases": 19,
+    "cases": 20,
     "deaths": 2
   },
   {
     "county": "Kauai",
     "state": "Hawaii",
     "fips": "15007",
-    "cases": 5,
+    "cases": 11,
     "deaths": 0
   },
   {
     "county": "Blaine",
     "state": "Idaho",
     "fips": "16013",
-    "cases": 99,
+    "cases": 114,
     "deaths": 2
   },
   {
@@ -2285,21 +2285,21 @@
     "county": "DuPage",
     "state": "Illinois",
     "fips": "17043",
-    "cases": 199,
+    "cases": 202,
     "deaths": 6
   },
   {
     "county": "Sangamon",
     "state": "Illinois",
     "fips": "17167",
-    "cases": 7,
+    "cases": 8,
     "deaths": 1
   },
   {
     "county": "St. Clair",
     "state": "Illinois",
     "fips": "17163",
-    "cases": 15,
+    "cases": 18,
     "deaths": 1
   },
   {
@@ -2313,7 +2313,7 @@
     "county": "LaPorte",
     "state": "Indiana",
     "fips": "18091",
-    "cases": 2,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -2327,14 +2327,14 @@
     "county": "Dallas",
     "state": "Iowa",
     "fips": "19049",
-    "cases": 9,
+    "cases": 15,
     "deaths": 0
   },
   {
     "county": "Franklin",
     "state": "Kansas",
     "fips": "20059",
-    "cases": 2,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -2355,49 +2355,49 @@
     "county": "Bossier",
     "state": "Louisiana",
     "fips": "22015",
-    "cases": 37,
+    "cases": 45,
     "deaths": 0
   },
   {
     "county": "Lafourche",
     "state": "Louisiana",
     "fips": "22057",
-    "cases": 30,
+    "cases": 34,
     "deaths": 2
   },
   {
     "county": "St. John the Baptist",
     "state": "Louisiana",
     "fips": "22095",
-    "cases": 41,
+    "cases": 54,
     "deaths": 3
   },
   {
     "county": "Carroll",
     "state": "Maryland",
     "fips": "24013",
-    "cases": 9,
+    "cases": 83,
     "deaths": 0
   },
   {
     "county": "Barnstable",
     "state": "Massachusetts",
     "fips": "25001",
-    "cases": 100,
+    "cases": 133,
     "deaths": 2
   },
   {
     "county": "Bristol",
     "state": "Massachusetts",
     "fips": "25005",
-    "cases": 129,
+    "cases": 179,
     "deaths": 1
   },
   {
     "county": "Monroe",
     "state": "Michigan",
     "fips": "26115",
-    "cases": 28,
+    "cases": 34,
     "deaths": 0
   },
   {
@@ -2411,14 +2411,14 @@
     "county": "Missoula",
     "state": "Montana",
     "fips": "30063",
-    "cases": 8,
+    "cases": 9,
     "deaths": 0
   },
   {
     "county": "Mercer",
     "state": "New Jersey",
     "fips": "34021",
-    "cases": 131,
+    "cases": 168,
     "deaths": 0
   },
   {
@@ -2432,84 +2432,84 @@
     "county": "Broome",
     "state": "New York",
     "fips": "36007",
-    "cases": 18,
+    "cases": 23,
     "deaths": 3
   },
   {
     "county": "Tioga",
     "state": "New York",
     "fips": "36107",
-    "cases": 2,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Tompkins",
     "state": "New York",
     "fips": "36109",
-    "cases": 26,
+    "cases": 45,
     "deaths": 0
   },
   {
     "county": "Brunswick",
     "state": "North Carolina",
     "fips": "37019",
-    "cases": 11,
+    "cases": 12,
     "deaths": 0
   },
   {
     "county": "Craven",
     "state": "North Carolina",
     "fips": "37049",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Harnett",
     "state": "North Carolina",
     "fips": "37085",
-    "cases": 11,
+    "cases": 13,
     "deaths": 1
   },
   {
     "county": "Belmont",
     "state": "Ohio",
     "fips": "39013",
-    "cases": 6,
+    "cases": 8,
     "deaths": 0
   },
   {
     "county": "Butler",
     "state": "Ohio",
     "fips": "39017",
-    "cases": 23,
+    "cases": 25,
     "deaths": 0
   },
   {
     "county": "Franklin",
     "state": "Ohio",
     "fips": "39049",
-    "cases": 152,
+    "cases": 222,
     "deaths": 2
   },
   {
     "county": "Lorain",
     "state": "Ohio",
     "fips": "39093",
-    "cases": 56,
+    "cases": 65,
     "deaths": 0
   },
   {
     "county": "Summit",
     "state": "Ohio",
     "fips": "39153",
-    "cases": 65,
-    "deaths": 3
+    "cases": 79,
+    "deaths": 4
   },
   {
     "county": "Tuscarawas",
     "state": "Ohio",
     "fips": "39157",
-    "cases": 3,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -2523,21 +2523,21 @@
     "county": "Allegheny",
     "state": "Pennsylvania",
     "fips": "42003",
-    "cases": 158,
+    "cases": 219,
     "deaths": 2
   },
   {
     "county": "Beaufort",
     "state": "South Carolina",
     "fips": "45013",
-    "cases": 35,
+    "cases": 39,
     "deaths": 0
   },
   {
     "county": "Lexington",
     "state": "South Carolina",
     "fips": "45063",
-    "cases": 25,
+    "cases": 30,
     "deaths": 1
   },
   {
@@ -2551,7 +2551,7 @@
     "county": "Brazoria",
     "state": "Texas",
     "fips": "48039",
-    "cases": 39,
+    "cases": 52,
     "deaths": 0
   },
   {
@@ -2565,14 +2565,14 @@
     "county": "Summit",
     "state": "Utah",
     "fips": "49043",
-    "cases": 110,
+    "cases": 127,
     "deaths": 0
   },
   {
     "county": "Washington",
     "state": "Vermont",
     "fips": "50023",
-    "cases": 9,
+    "cases": 10,
     "deaths": 0
   },
   {
@@ -2614,21 +2614,21 @@
     "county": "Winnebago",
     "state": "Wisconsin",
     "fips": "55139",
-    "cases": 6,
+    "cases": 7,
     "deaths": 0
   },
   {
     "county": "Lee",
     "state": "Alabama",
     "fips": "01081",
-    "cases": 53,
+    "cases": 56,
     "deaths": 0
   },
   {
     "county": "Shelby",
     "state": "Alabama",
     "fips": "01117",
-    "cases": 70,
+    "cases": 72,
     "deaths": 0
   },
   {
@@ -2656,14 +2656,14 @@
     "county": "Santa Barbara",
     "state": "California",
     "fips": "06083",
-    "cases": 47,
+    "cases": 64,
     "deaths": 0
   },
   {
     "county": "Garfield",
     "state": "Colorado",
     "fips": "08045",
-    "cases": 16,
+    "cases": 23,
     "deaths": 0
   },
   {
@@ -2677,29 +2677,29 @@
     "county": "Citrus",
     "state": "Florida",
     "fips": "12017",
-    "cases": 11,
+    "cases": 15,
     "deaths": 1
   },
   {
     "county": "Clarke",
     "state": "Georgia",
     "fips": "13059",
-    "cases": 34,
+    "cases": 35,
     "deaths": 2
   },
   {
     "county": "Clayton",
     "state": "Georgia",
     "fips": "13063",
-    "cases": 53,
+    "cases": 57,
     "deaths": 1
   },
   {
     "county": "Dougherty",
     "state": "Georgia",
     "fips": "13095",
-    "cases": 203,
-    "deaths": 12
+    "cases": 224,
+    "deaths": 17
   },
   {
     "county": "Newton",
@@ -2712,7 +2712,7 @@
     "county": "Unknown",
     "state": "Guam",
     "fips": "",
-    "cases": 53,
+    "cases": 57,
     "deaths": 1
   },
   {
@@ -2740,14 +2740,14 @@
     "county": "Winnebago",
     "state": "Illinois",
     "fips": "17201",
-    "cases": 8,
+    "cases": 9,
     "deaths": 0
   },
   {
     "county": "Hamilton",
     "state": "Indiana",
     "fips": "18057",
-    "cases": 53,
+    "cases": 64,
     "deaths": 0
   },
   {
@@ -2761,22 +2761,22 @@
     "county": "Polk",
     "state": "Iowa",
     "fips": "19153",
-    "cases": 28,
+    "cases": 40,
     "deaths": 0
   },
   {
     "county": "Clark",
     "state": "Kentucky",
     "fips": "21049",
-    "cases": 5,
+    "cases": 6,
     "deaths": 0
   },
   {
     "county": "St. Bernard",
     "state": "Louisiana",
     "fips": "22087",
-    "cases": 31,
-    "deaths": 1
+    "cases": 43,
+    "deaths": 2
   },
   {
     "county": "Lincoln",
@@ -2789,35 +2789,35 @@
     "county": "Baltimore city",
     "state": "Maryland",
     "fips": "24510",
-    "cases": 103,
-    "deaths": 0
+    "cases": 112,
+    "deaths": 2
   },
   {
     "county": "Howard",
     "state": "Maryland",
     "fips": "24027",
-    "cases": 62,
+    "cases": 73,
     "deaths": 0
   },
   {
     "county": "Hampden",
     "state": "Massachusetts",
     "fips": "25013",
-    "cases": 90,
-    "deaths": 2
+    "cases": 183,
+    "deaths": 5
   },
   {
     "county": "Plymouth",
     "state": "Massachusetts",
     "fips": "25023",
-    "cases": 187,
+    "cases": 272,
     "deaths": 0
   },
   {
     "county": "Ottawa",
     "state": "Michigan",
     "fips": "26139",
-    "cases": 21,
+    "cases": 23,
     "deaths": 0
   },
   {
@@ -2831,35 +2831,35 @@
     "county": "Washington",
     "state": "Minnesota",
     "fips": "27163",
-    "cases": 22,
+    "cases": 25,
     "deaths": 0
   },
   {
     "county": "Hinds",
     "state": "Mississippi",
     "fips": "28049",
-    "cases": 50,
+    "cases": 58,
     "deaths": 0
   },
   {
     "county": "Hillsborough",
     "state": "New Hampshire",
     "fips": "33011",
-    "cases": 43,
+    "cases": 53,
     "deaths": 2
   },
   {
     "county": "Erie",
     "state": "New York",
     "fips": "36029",
-    "cases": 219,
+    "cases": 354,
     "deaths": 6
   },
   {
     "county": "Greene",
     "state": "New York",
     "fips": "36039",
-    "cases": 6,
+    "cases": 7,
     "deaths": 0
   },
   {
@@ -2873,112 +2873,112 @@
     "county": "Putnam",
     "state": "New York",
     "fips": "36079",
-    "cases": 111,
+    "cases": 131,
     "deaths": 0
   },
   {
     "county": "Watauga",
     "state": "North Carolina",
     "fips": "37189",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Wilson",
     "state": "North Carolina",
     "fips": "37195",
-    "cases": 7,
+    "cases": 9,
     "deaths": 0
   },
   {
     "county": "Lucas",
     "state": "Ohio",
     "fips": "39095",
-    "cases": 50,
+    "cases": 67,
     "deaths": 2
   },
   {
     "county": "Medina",
     "state": "Ohio",
     "fips": "39103",
-    "cases": 32,
+    "cases": 37,
     "deaths": 0
   },
   {
     "county": "Cleveland",
     "state": "Oklahoma",
     "fips": "40027",
-    "cases": 39,
-    "deaths": 3
+    "cases": 46,
+    "deaths": 5
   },
   {
     "county": "Kay",
     "state": "Oklahoma",
     "fips": "40071",
-    "cases": 17,
+    "cases": 18,
     "deaths": 0
   },
   {
     "county": "Payne",
     "state": "Oklahoma",
     "fips": "40119",
-    "cases": 7,
+    "cases": 12,
     "deaths": 0
   },
   {
     "county": "Yamhill",
     "state": "Oregon",
     "fips": "41071",
-    "cases": 11,
-    "deaths": 0
+    "cases": 13,
+    "deaths": 1
   },
   {
     "county": "Lehigh",
     "state": "Pennsylvania",
     "fips": "42077",
-    "cases": 93,
-    "deaths": 2
+    "cases": 109,
+    "deaths": 3
   },
   {
     "county": "Luzerne",
     "state": "Pennsylvania",
     "fips": "42079",
-    "cases": 55,
+    "cases": 65,
     "deaths": 2
   },
   {
     "county": "Anderson",
     "state": "South Carolina",
     "fips": "45007",
-    "cases": 21,
+    "cases": 24,
     "deaths": 0
   },
   {
     "county": "Greenville",
     "state": "South Carolina",
     "fips": "45045",
-    "cases": 51,
+    "cases": 57,
     "deaths": 1
   },
   {
     "county": "Horry",
     "state": "South Carolina",
     "fips": "45051",
-    "cases": 24,
-    "deaths": 1
+    "cases": 28,
+    "deaths": 2
   },
   {
     "county": "Denton",
     "state": "Texas",
     "fips": "48121",
-    "cases": 137,
-    "deaths": 1
+    "cases": 148,
+    "deaths": 2
   },
   {
     "county": "Utah",
     "state": "Utah",
     "fips": "49049",
-    "cases": 27,
+    "cases": 30,
     "deaths": 0
   },
   {
@@ -2999,21 +2999,21 @@
     "county": "Fairbanks North Star Borough",
     "state": "Alaska",
     "fips": "02090",
-    "cases": 19,
+    "cases": 23,
     "deaths": 0
   },
   {
     "county": "Cleburne",
     "state": "Arkansas",
     "fips": "05023",
-    "cases": 49,
+    "cases": 50,
     "deaths": 2
   },
   {
     "county": "Cleveland",
     "state": "Arkansas",
     "fips": "05025",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -3048,70 +3048,70 @@
     "county": "Lake",
     "state": "Florida",
     "fips": "12069",
-    "cases": 32,
+    "cases": 38,
     "deaths": 0
   },
   {
     "county": "Forsyth",
     "state": "Georgia",
     "fips": "13117",
-    "cases": 21,
+    "cases": 22,
     "deaths": 1
   },
   {
     "county": "Hall",
     "state": "Georgia",
     "fips": "13139",
-    "cases": 30,
+    "cases": 31,
     "deaths": 0
   },
   {
     "county": "Paulding",
     "state": "Georgia",
     "fips": "13223",
-    "cases": 13,
+    "cases": 20,
     "deaths": 0
   },
   {
     "county": "Troup",
     "state": "Georgia",
     "fips": "13285",
-    "cases": 11,
+    "cases": 9,
     "deaths": 1
   },
   {
     "county": "Peoria",
     "state": "Illinois",
     "fips": "17143",
-    "cases": 6,
+    "cases": 7,
     "deaths": 0
   },
   {
     "county": "Will",
     "state": "Illinois",
     "fips": "17197",
-    "cases": 104,
-    "deaths": 3
+    "cases": 156,
+    "deaths": 4
   },
   {
     "county": "Bartholomew",
     "state": "Indiana",
     "fips": "18005",
-    "cases": 6,
+    "cases": 7,
     "deaths": 0
   },
   {
     "county": "Floyd",
     "state": "Indiana",
     "fips": "18043",
-    "cases": 11,
+    "cases": 13,
     "deaths": 0
   },
   {
     "county": "Ascension",
     "state": "Louisiana",
     "fips": "22005",
-    "cases": 90,
+    "cases": 107,
     "deaths": 1
   },
   {
@@ -3125,21 +3125,21 @@
     "county": "Frederick",
     "state": "Maryland",
     "fips": "24021",
-    "cases": 15,
+    "cases": 22,
     "deaths": 0
   },
   {
     "county": "Talbot",
     "state": "Maryland",
     "fips": "24041",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Unknown",
     "state": "Massachusetts",
     "fips": "",
-    "cases": 304,
+    "cases": 358,
     "deaths": 4
   },
   {
@@ -3188,15 +3188,15 @@
     "county": "Hunterdon",
     "state": "New Jersey",
     "fips": "34019",
-    "cases": 52,
+    "cases": 61,
     "deaths": 0
   },
   {
     "county": "Somerset",
     "state": "New Jersey",
     "fips": "34035",
-    "cases": 222,
-    "deaths": 7
+    "cases": 258,
+    "deaths": 8
   },
   {
     "county": "Allegany",
@@ -3209,28 +3209,28 @@
     "county": "Onondaga",
     "state": "New York",
     "fips": "36067",
-    "cases": 115,
+    "cases": 129,
     "deaths": 0
   },
   {
     "county": "Ontario",
     "state": "New York",
     "fips": "36069",
-    "cases": 14,
+    "cases": 16,
     "deaths": 0
   },
   {
     "county": "Durham",
     "state": "North Carolina",
     "fips": "37063",
-    "cases": 83,
+    "cases": 101,
     "deaths": 0
   },
   {
     "county": "Geauga",
     "state": "Ohio",
     "fips": "39055",
-    "cases": 10,
+    "cases": 14,
     "deaths": 0
   },
   {
@@ -3244,7 +3244,7 @@
     "county": "Benton",
     "state": "Oregon",
     "fips": "41003",
-    "cases": 6,
+    "cases": 9,
     "deaths": 0
   },
   {
@@ -3265,28 +3265,28 @@
     "county": "Bowie",
     "state": "Texas",
     "fips": "48037",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Matagorda",
     "state": "Texas",
     "fips": "48321",
-    "cases": 9,
+    "cases": 10,
     "deaths": 1
   },
   {
     "county": "Tooele",
     "state": "Utah",
     "fips": "49045",
-    "cases": 5,
+    "cases": 8,
     "deaths": 0
   },
   {
     "county": "Wasatch",
     "state": "Utah",
     "fips": "49051",
-    "cases": 29,
+    "cases": 36,
     "deaths": 0
   },
   {
@@ -3328,14 +3328,14 @@
     "county": "Madison",
     "state": "Alabama",
     "fips": "01089",
-    "cases": 61,
+    "cases": 62,
     "deaths": 1
   },
   {
     "county": "St. Clair",
     "state": "Alabama",
     "fips": "01115",
-    "cases": 9,
+    "cases": 10,
     "deaths": 0
   },
   {
@@ -3349,14 +3349,14 @@
     "county": "Navajo",
     "state": "Arizona",
     "fips": "04017",
-    "cases": 49,
+    "cases": 57,
     "deaths": 0
   },
   {
     "county": "Kern",
     "state": "California",
     "fips": "06029",
-    "cases": 41,
+    "cases": 47,
     "deaths": 1
   },
   {
@@ -3370,28 +3370,28 @@
     "county": "Sussex",
     "state": "Delaware",
     "fips": "10005",
-    "cases": 38,
+    "cases": 59,
     "deaths": 1
   },
   {
     "county": "Brevard",
     "state": "Florida",
     "fips": "12009",
-    "cases": 20,
+    "cases": 27,
     "deaths": 0
   },
   {
     "county": "Polk",
     "state": "Florida",
     "fips": "12105",
-    "cases": 28,
+    "cases": 37,
     "deaths": 0
   },
   {
     "county": "Richmond",
     "state": "Georgia",
     "fips": "13245",
-    "cases": 11,
+    "cases": 12,
     "deaths": 0
   },
   {
@@ -3405,7 +3405,7 @@
     "county": "Hawaii",
     "state": "Hawaii",
     "fips": "15001",
-    "cases": 7,
+    "cases": 10,
     "deaths": 0
   },
   {
@@ -3419,15 +3419,15 @@
     "county": "Franklin",
     "state": "Indiana",
     "fips": "18047",
-    "cases": 22,
-    "deaths": 1
+    "cases": 23,
+    "deaths": 2
   },
   {
     "county": "Lake",
     "state": "Indiana",
     "fips": "18089",
-    "cases": 47,
-    "deaths": 0
+    "cases": 68,
+    "deaths": 1
   },
   {
     "county": "Adair",
@@ -3440,14 +3440,14 @@
     "county": "Black Hawk",
     "state": "Iowa",
     "fips": "19013",
-    "cases": 7,
+    "cases": 6,
     "deaths": 0
   },
   {
     "county": "Douglas",
     "state": "Kansas",
     "fips": "20045",
-    "cases": 18,
+    "cases": 23,
     "deaths": 0
   },
   {
@@ -3468,21 +3468,21 @@
     "county": "East Baton Rouge",
     "state": "Louisiana",
     "fips": "22033",
-    "cases": 124,
+    "cases": 153,
     "deaths": 4
   },
   {
     "county": "Washington",
     "state": "Louisiana",
     "fips": "22117",
-    "cases": 8,
+    "cases": 10,
     "deaths": 1
   },
   {
     "county": "Kennebec",
     "state": "Maine",
     "fips": "23011",
-    "cases": 6,
+    "cases": 9,
     "deaths": 0
   },
   {
@@ -3496,28 +3496,28 @@
     "county": "York",
     "state": "Maine",
     "fips": "23031",
-    "cases": 33,
+    "cases": 38,
     "deaths": 0
   },
   {
     "county": "Jackson",
     "state": "Michigan",
     "fips": "26075",
-    "cases": 17,
+    "cases": 20,
     "deaths": 0
   },
   {
     "county": "Otsego",
     "state": "Michigan",
     "fips": "26137",
-    "cases": 7,
+    "cases": 14,
     "deaths": 0
   },
   {
     "county": "Martin",
     "state": "Minnesota",
     "fips": "27091",
-    "cases": 18,
+    "cases": 19,
     "deaths": 1
   },
   {
@@ -3531,35 +3531,35 @@
     "county": "Harrison",
     "state": "Mississippi",
     "fips": "28047",
-    "cases": 34,
+    "cases": 38,
     "deaths": 1
   },
   {
     "county": "Jackson",
     "state": "Mississippi",
     "fips": "28059",
-    "cases": 24,
+    "cases": 33,
     "deaths": 0
   },
   {
     "county": "Boone",
     "state": "Missouri",
     "fips": "29019",
-    "cases": 37,
+    "cases": 49,
     "deaths": 1
   },
   {
     "county": "Cole",
     "state": "Missouri",
     "fips": "29051",
-    "cases": 10,
+    "cases": 17,
     "deaths": 0
   },
   {
     "county": "Jackson",
     "state": "Missouri",
     "fips": "29095",
-    "cases": 41,
+    "cases": 43,
     "deaths": 1
   },
   {
@@ -3580,42 +3580,42 @@
     "county": "Gloucester",
     "state": "New Jersey",
     "fips": "34015",
-    "cases": 40,
+    "cases": 51,
     "deaths": 1
   },
   {
     "county": "Warren",
     "state": "New Jersey",
     "fips": "34041",
-    "cases": 38,
-    "deaths": 1
+    "cases": 51,
+    "deaths": 2
   },
   {
     "county": "Taos",
     "state": "New Mexico",
     "fips": "35055",
-    "cases": 8,
+    "cases": 9,
     "deaths": 0
   },
   {
     "county": "Clinton",
     "state": "New York",
     "fips": "36019",
-    "cases": 11,
+    "cases": 12,
     "deaths": 0
   },
   {
     "county": "Rensselaer",
     "state": "New York",
     "fips": "36083",
-    "cases": 35,
+    "cases": 38,
     "deaths": 0
   },
   {
     "county": "Sullivan",
     "state": "New York",
     "fips": "36105",
-    "cases": 64,
+    "cases": 72,
     "deaths": 0
   },
   {
@@ -3629,7 +3629,7 @@
     "county": "Iredell",
     "state": "North Carolina",
     "fips": "37097",
-    "cases": 15,
+    "cases": 18,
     "deaths": 0
   },
   {
@@ -3643,14 +3643,14 @@
     "county": "Burleigh",
     "state": "North Dakota",
     "fips": "38015",
-    "cases": 25,
+    "cases": 28,
     "deaths": 0
   },
   {
     "county": "Cass",
     "state": "North Dakota",
     "fips": "38017",
-    "cases": 11,
+    "cases": 18,
     "deaths": 1
   },
   {
@@ -3671,14 +3671,14 @@
     "county": "Lake",
     "state": "Ohio",
     "fips": "39085",
-    "cases": 27,
+    "cases": 30,
     "deaths": 1
   },
   {
     "county": "Mahoning",
     "state": "Ohio",
     "fips": "39099",
-    "cases": 68,
+    "cases": 80,
     "deaths": 2
   },
   {
@@ -3699,7 +3699,7 @@
     "county": "Beaver",
     "state": "Pennsylvania",
     "fips": "42007",
-    "cases": 14,
+    "cases": 22,
     "deaths": 0
   },
   {
@@ -3713,21 +3713,21 @@
     "county": "Richland",
     "state": "South Carolina",
     "fips": "45079",
-    "cases": 65,
-    "deaths": 1
+    "cases": 81,
+    "deaths": 2
   },
   {
     "county": "York",
     "state": "South Carolina",
     "fips": "45091",
-    "cases": 19,
+    "cases": 31,
     "deaths": 0
   },
   {
     "county": "Brazos",
     "state": "Texas",
     "fips": "48041",
-    "cases": 31,
+    "cases": 36,
     "deaths": 0
   },
   {
@@ -3748,35 +3748,35 @@
     "county": "Charlottesville city",
     "state": "Virginia",
     "fips": "51540",
-    "cases": 11,
+    "cases": 12,
     "deaths": 0
   },
   {
     "county": "Goochland",
     "state": "Virginia",
     "fips": "51075",
-    "cases": 3,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Henrico",
     "state": "Virginia",
     "fips": "51087",
-    "cases": 28,
+    "cases": 31,
     "deaths": 3
   },
   {
     "county": "Williamsburg city",
     "state": "Virginia",
     "fips": "51830",
-    "cases": 5,
+    "cases": 6,
     "deaths": 1
   },
   {
     "county": "Franklin",
     "state": "Washington",
     "fips": "53021",
-    "cases": 12,
+    "cases": 16,
     "deaths": 0
   },
   {
@@ -3804,7 +3804,7 @@
     "county": "Laramie",
     "state": "Wyoming",
     "fips": "56021",
-    "cases": 18,
+    "cases": 19,
     "deaths": 0
   },
   {
@@ -3832,14 +3832,14 @@
     "county": "Kenai Peninsula Borough",
     "state": "Alaska",
     "fips": "02122",
-    "cases": 5,
+    "cases": 7,
     "deaths": 0
   },
   {
     "county": "Coconino",
     "state": "Arizona",
     "fips": "04005",
-    "cases": 41,
+    "cases": 56,
     "deaths": 2
   },
   {
@@ -3853,14 +3853,14 @@
     "county": "Faulkner",
     "state": "Arkansas",
     "fips": "05045",
-    "cases": 28,
+    "cases": 29,
     "deaths": 0
   },
   {
     "county": "Washington",
     "state": "Arkansas",
     "fips": "05143",
-    "cases": 13,
+    "cases": 14,
     "deaths": 0
   },
   {
@@ -3881,49 +3881,49 @@
     "county": "Middlesex",
     "state": "Connecticut",
     "fips": "09007",
-    "cases": 25,
+    "cases": 28,
     "deaths": 1
   },
   {
     "county": "Kent",
     "state": "Delaware",
     "fips": "10001",
-    "cases": 21,
-    "deaths": 0
+    "cases": 25,
+    "deaths": 2
   },
   {
     "county": "Leon",
     "state": "Florida",
     "fips": "12073",
-    "cases": 15,
+    "cases": 17,
     "deaths": 0
   },
   {
     "county": "Sumter",
     "state": "Florida",
     "fips": "12119",
-    "cases": 29,
+    "cases": 40,
     "deaths": 0
   },
   {
     "county": "Walton",
     "state": "Florida",
     "fips": "12131",
-    "cases": 14,
+    "cases": 15,
     "deaths": 0
   },
   {
     "county": "Columbia",
     "state": "Georgia",
     "fips": "13073",
-    "cases": 10,
+    "cases": 12,
     "deaths": 0
   },
   {
     "county": "Houston",
     "state": "Georgia",
     "fips": "13153",
-    "cases": 10,
+    "cases": 13,
     "deaths": 1
   },
   {
@@ -3937,35 +3937,35 @@
     "county": "Jackson",
     "state": "Illinois",
     "fips": "17077",
-    "cases": 1,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Kankakee",
     "state": "Illinois",
     "fips": "17091",
-    "cases": 17,
+    "cases": 27,
     "deaths": 0
   },
   {
     "county": "Kendall",
     "state": "Illinois",
     "fips": "17093",
-    "cases": 8,
+    "cases": 11,
     "deaths": 0
   },
   {
     "county": "LaSalle",
     "state": "Illinois",
     "fips": "17099",
-    "cases": 3,
-    "deaths": 0
+    "cases": 4,
+    "deaths": 1
   },
   {
     "county": "Madison",
     "state": "Illinois",
     "fips": "17119",
-    "cases": 8,
+    "cases": 10,
     "deaths": 0
   },
   {
@@ -3986,28 +3986,28 @@
     "county": "Clark",
     "state": "Indiana",
     "fips": "18019",
-    "cases": 12,
+    "cases": 18,
     "deaths": 0
   },
   {
     "county": "Fayette",
     "state": "Indiana",
     "fips": "18041",
-    "cases": 3,
-    "deaths": 0
+    "cases": 4,
+    "deaths": 1
   },
   {
     "county": "Jennings",
     "state": "Indiana",
     "fips": "18079",
-    "cases": 5,
+    "cases": 10,
     "deaths": 0
   },
   {
     "county": "Madison",
     "state": "Indiana",
     "fips": "18095",
-    "cases": 7,
+    "cases": 12,
     "deaths": 1
   },
   {
@@ -4028,63 +4028,63 @@
     "county": "Leavenworth",
     "state": "Kansas",
     "fips": "20103",
-    "cases": 12,
+    "cases": 15,
     "deaths": 0
   },
   {
     "county": "Franklin",
     "state": "Kentucky",
     "fips": "21073",
-    "cases": 3,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Kenton",
     "state": "Kentucky",
     "fips": "21117",
-    "cases": 15,
-    "deaths": 0
+    "cases": 18,
+    "deaths": 1
   },
   {
     "county": "Warren",
     "state": "Kentucky",
     "fips": "21227",
-    "cases": 8,
+    "cases": 10,
     "deaths": 0
   },
   {
     "county": "Unknown",
     "state": "Louisiana",
     "fips": "",
-    "cases": 16,
-    "deaths": 1
+    "cases": 12,
+    "deaths": 2
   },
   {
     "county": "Penobscot",
     "state": "Maine",
     "fips": "23019",
-    "cases": 6,
+    "cases": 10,
     "deaths": 0
   },
   {
     "county": "Franklin",
     "state": "Massachusetts",
     "fips": "25011",
-    "cases": 24,
+    "cases": 39,
     "deaths": 2
   },
   {
     "county": "Rice",
     "state": "Minnesota",
     "fips": "27131",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Bolivar",
     "state": "Mississippi",
     "fips": "28011",
-    "cases": 9,
+    "cases": 11,
     "deaths": 0
   },
   {
@@ -4098,14 +4098,14 @@
     "county": "DeSoto",
     "state": "Mississippi",
     "fips": "28033",
-    "cases": 63,
-    "deaths": 0
+    "cases": 65,
+    "deaths": 1
   },
   {
     "county": "Madison",
     "state": "Mississippi",
     "fips": "28089",
-    "cases": 25,
+    "cases": 29,
     "deaths": 0
   },
   {
@@ -4113,20 +4113,20 @@
     "state": "Mississippi",
     "fips": "28111",
     "cases": 2,
-    "deaths": 0
+    "deaths": 1
   },
   {
     "county": "St. Charles",
     "state": "Missouri",
     "fips": "29183",
-    "cases": 32,
-    "deaths": 1
+    "cases": 37,
+    "deaths": 2
   },
   {
     "county": "St. Louis city",
     "state": "Missouri",
     "fips": "29510",
-    "cases": 72,
+    "cases": 93,
     "deaths": 1
   },
   {
@@ -4154,21 +4154,21 @@
     "county": "Merrimack",
     "state": "New Hampshire",
     "fips": "33013",
-    "cases": 11,
+    "cases": 14,
     "deaths": 0
   },
   {
     "county": "Atlantic",
     "state": "New Jersey",
     "fips": "34001",
-    "cases": 14,
+    "cases": 17,
     "deaths": 0
   },
   {
     "county": "Chenango",
     "state": "New York",
     "fips": "36017",
-    "cases": 4,
+    "cases": 8,
     "deaths": 0
   },
   {
@@ -4189,21 +4189,21 @@
     "county": "Jefferson",
     "state": "New York",
     "fips": "36045",
-    "cases": 3,
+    "cases": 6,
     "deaths": 0
   },
   {
     "county": "Livingston",
     "state": "New York",
     "fips": "36051",
-    "cases": 3,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Warren",
     "state": "New York",
     "fips": "36113",
-    "cases": 8,
+    "cases": 13,
     "deaths": 0
   },
   {
@@ -4217,21 +4217,21 @@
     "county": "Gaston",
     "state": "North Carolina",
     "fips": "37071",
-    "cases": 9,
+    "cases": 16,
     "deaths": 0
   },
   {
     "county": "Guilford",
     "state": "North Carolina",
     "fips": "37081",
-    "cases": 31,
+    "cases": 34,
     "deaths": 0
   },
   {
     "county": "Hoke",
     "state": "North Carolina",
     "fips": "37093",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -4245,28 +4245,28 @@
     "county": "Moore",
     "state": "North Carolina",
     "fips": "37125",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "New Hanover",
     "state": "North Carolina",
     "fips": "37129",
-    "cases": 13,
+    "cases": 18,
     "deaths": 0
   },
   {
     "county": "Morton",
     "state": "North Dakota",
     "fips": "38059",
-    "cases": 11,
+    "cases": 13,
     "deaths": 0
   },
   {
     "county": "Ashland",
     "state": "Ohio",
     "fips": "39005",
-    "cases": 3,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -4280,7 +4280,7 @@
     "county": "Delaware",
     "state": "Ohio",
     "fips": "39041",
-    "cases": 22,
+    "cases": 26,
     "deaths": 0
   },
   {
@@ -4294,7 +4294,7 @@
     "county": "Miami",
     "state": "Ohio",
     "fips": "39109",
-    "cases": 32,
+    "cases": 38,
     "deaths": 4
   },
   {
@@ -4315,21 +4315,21 @@
     "county": "Lackawanna",
     "state": "Pennsylvania",
     "fips": "42069",
-    "cases": 35,
+    "cases": 51,
     "deaths": 2
   },
   {
     "county": "York",
     "state": "Pennsylvania",
     "fips": "42133",
-    "cases": 29,
+    "cases": 37,
     "deaths": 0
   },
   {
     "county": "Lee",
     "state": "South Carolina",
     "fips": "45061",
-    "cases": 2,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -4343,28 +4343,28 @@
     "county": "Robertson",
     "state": "Tennessee",
     "fips": "47147",
-    "cases": 22,
+    "cases": 23,
     "deaths": 0
   },
   {
     "county": "Sumner",
     "state": "Tennessee",
     "fips": "47165",
-    "cases": 58,
+    "cases": 82,
     "deaths": 0
   },
   {
     "county": "Lavaca",
     "state": "Texas",
     "fips": "48285",
-    "cases": 1,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "McLennan",
     "state": "Texas",
     "fips": "48309",
-    "cases": 33,
+    "cases": 34,
     "deaths": 0
   },
   {
@@ -4385,7 +4385,7 @@
     "county": "Webb",
     "state": "Texas",
     "fips": "48479",
-    "cases": 22,
+    "cases": 25,
     "deaths": 0
   },
   {
@@ -4406,7 +4406,7 @@
     "county": "Box Elder",
     "state": "Utah",
     "fips": "49003",
-    "cases": 2,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -4427,14 +4427,14 @@
     "county": "Richmond city",
     "state": "Virginia",
     "fips": "51760",
-    "cases": 17,
+    "cases": 20,
     "deaths": 0
   },
   {
     "county": "Benton",
     "state": "Washington",
     "fips": "53005",
-    "cases": 42,
+    "cases": 56,
     "deaths": 5
   },
   {
@@ -4448,7 +4448,7 @@
     "county": "Brown",
     "state": "Wisconsin",
     "fips": "55009",
-    "cases": 5,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -4462,35 +4462,35 @@
     "county": "Washington",
     "state": "Wisconsin",
     "fips": "55131",
-    "cases": 27,
+    "cases": 31,
     "deaths": 0
   },
   {
     "county": "Teton",
     "state": "Wyoming",
     "fips": "56039",
-    "cases": 12,
+    "cases": 14,
     "deaths": 0
   },
   {
     "county": "Chambers",
     "state": "Alabama",
     "fips": "01017",
-    "cases": 15,
+    "cases": 17,
     "deaths": 0
   },
   {
     "county": "Mobile",
     "state": "Alabama",
     "fips": "01097",
-    "cases": 23,
+    "cases": 34,
     "deaths": 1
   },
   {
     "county": "Walker",
     "state": "Alabama",
     "fips": "01127",
-    "cases": 24,
+    "cases": 28,
     "deaths": 0
   },
   {
@@ -4504,14 +4504,14 @@
     "county": "Yavapai",
     "state": "Arizona",
     "fips": "04025",
-    "cases": 9,
+    "cases": 13,
     "deaths": 0
   },
   {
     "county": "Benton",
     "state": "Arkansas",
     "fips": "05007",
-    "cases": 24,
+    "cases": 29,
     "deaths": 0
   },
   {
@@ -4525,7 +4525,7 @@
     "county": "Clark",
     "state": "Arkansas",
     "fips": "05019",
-    "cases": 17,
+    "cases": 18,
     "deaths": 0
   },
   {
@@ -4539,7 +4539,7 @@
     "county": "Crittenden",
     "state": "Arkansas",
     "fips": "05035",
-    "cases": 12,
+    "cases": 15,
     "deaths": 0
   },
   {
@@ -4595,7 +4595,7 @@
     "county": "Sebastian",
     "state": "Arkansas",
     "fips": "05131",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -4637,8 +4637,8 @@
     "county": "Tolland",
     "state": "Connecticut",
     "fips": "09013",
-    "cases": 33,
-    "deaths": 3
+    "cases": 37,
+    "deaths": 4
   },
   {
     "county": "Windham",
@@ -4651,14 +4651,14 @@
     "county": "Hernando",
     "state": "Florida",
     "fips": "12053",
-    "cases": 12,
+    "cases": 14,
     "deaths": 0
   },
   {
     "county": "Indian River",
     "state": "Florida",
     "fips": "12061",
-    "cases": 15,
+    "cases": 16,
     "deaths": 0
   },
   {
@@ -4672,21 +4672,21 @@
     "county": "Martin",
     "state": "Florida",
     "fips": "12085",
-    "cases": 17,
+    "cases": 26,
     "deaths": 0
   },
   {
     "county": "Bibb",
     "state": "Georgia",
     "fips": "13021",
-    "cases": 11,
+    "cases": 13,
     "deaths": 0
   },
   {
     "county": "Early",
     "state": "Georgia",
     "fips": "13099",
-    "cases": 13,
+    "cases": 16,
     "deaths": 1
   },
   {
@@ -4707,7 +4707,7 @@
     "county": "Laurens",
     "state": "Georgia",
     "fips": "13175",
-    "cases": 7,
+    "cases": 9,
     "deaths": 0
   },
   {
@@ -4721,21 +4721,21 @@
     "county": "Rockdale",
     "state": "Georgia",
     "fips": "13247",
-    "cases": 16,
+    "cases": 17,
     "deaths": 1
   },
   {
     "county": "Owen",
     "state": "Indiana",
     "fips": "18119",
-    "cases": 5,
+    "cases": 7,
     "deaths": 0
   },
   {
     "county": "Tippecanoe",
     "state": "Indiana",
     "fips": "18157",
-    "cases": 8,
+    "cases": 11,
     "deaths": 1
   },
   {
@@ -4749,14 +4749,14 @@
     "county": "Dubuque",
     "state": "Iowa",
     "fips": "19061",
-    "cases": 8,
+    "cases": 12,
     "deaths": 1
   },
   {
     "county": "Muscatine",
     "state": "Iowa",
     "fips": "19139",
-    "cases": 8,
+    "cases": 10,
     "deaths": 0
   },
   {
@@ -4784,7 +4784,7 @@
     "county": "Sedgwick",
     "state": "Kansas",
     "fips": "20173",
-    "cases": 20,
+    "cases": 33,
     "deaths": 0
   },
   {
@@ -4798,7 +4798,7 @@
     "county": "Daviess",
     "state": "Kentucky",
     "fips": "21059",
-    "cases": 15,
+    "cases": 20,
     "deaths": 0
   },
   {
@@ -4819,14 +4819,14 @@
     "county": "Scott",
     "state": "Kentucky",
     "fips": "21209",
-    "cases": 3,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Unknown",
     "state": "Kentucky",
     "fips": "",
-    "cases": 45,
+    "cases": 60,
     "deaths": 0
   },
   {
@@ -4840,49 +4840,49 @@
     "county": "Calcasieu",
     "state": "Louisiana",
     "fips": "22019",
-    "cases": 22,
+    "cases": 28,
     "deaths": 1
   },
   {
     "county": "Iberia",
     "state": "Louisiana",
     "fips": "22045",
-    "cases": 4,
+    "cases": 9,
     "deaths": 0
   },
   {
     "county": "Iberville",
     "state": "Louisiana",
     "fips": "22047",
-    "cases": 20,
+    "cases": 21,
     "deaths": 1
   },
   {
     "county": "Lafayette",
     "state": "Louisiana",
     "fips": "22055",
-    "cases": 44,
-    "deaths": 0
+    "cases": 48,
+    "deaths": 1
   },
   {
     "county": "Livingston",
     "state": "Louisiana",
     "fips": "22063",
-    "cases": 11,
+    "cases": 12,
     "deaths": 0
   },
   {
     "county": "Plaquemines",
     "state": "Louisiana",
     "fips": "22075",
-    "cases": 16,
+    "cases": 19,
     "deaths": 2
   },
   {
     "county": "St. James",
     "state": "Louisiana",
     "fips": "22093",
-    "cases": 40,
+    "cases": 48,
     "deaths": 3
   },
   {
@@ -4903,7 +4903,7 @@
     "county": "West Baton Rouge",
     "state": "Louisiana",
     "fips": "22121",
-    "cases": 11,
+    "cases": 12,
     "deaths": 1
   },
   {
@@ -4918,20 +4918,20 @@
     "state": "Maryland",
     "fips": "24045",
     "cases": 6,
-    "deaths": 0
+    "deaths": 1
   },
   {
     "county": "Hampshire",
     "state": "Massachusetts",
     "fips": "25015",
-    "cases": 20,
+    "cases": 30,
     "deaths": 0
   },
   {
     "county": "Clinton",
     "state": "Michigan",
     "fips": "26037",
-    "cases": 8,
+    "cases": 13,
     "deaths": 0
   },
   {
@@ -4945,15 +4945,15 @@
     "county": "Genesee",
     "state": "Michigan",
     "fips": "26049",
-    "cases": 91,
-    "deaths": 4
+    "cases": 110,
+    "deaths": 5
   },
   {
     "county": "Livingston",
     "state": "Michigan",
     "fips": "26093",
-    "cases": 31,
-    "deaths": 1
+    "cases": 41,
+    "deaths": 2
   },
   {
     "county": "Midland",
@@ -4966,56 +4966,56 @@
     "county": "Mower",
     "state": "Minnesota",
     "fips": "27099",
-    "cases": 10,
+    "cases": 11,
     "deaths": 0
   },
   {
     "county": "Scott",
     "state": "Minnesota",
     "fips": "27139",
-    "cases": 7,
+    "cases": 8,
     "deaths": 0
   },
   {
     "county": "Holmes",
     "state": "Mississippi",
     "fips": "28051",
-    "cases": 10,
+    "cases": 13,
     "deaths": 1
   },
   {
     "county": "Jones",
     "state": "Mississippi",
     "fips": "28067",
-    "cases": 1,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Scott",
     "state": "Mississippi",
     "fips": "28123",
-    "cases": 6,
+    "cases": 7,
     "deaths": 0
   },
   {
     "county": "Walthall",
     "state": "Mississippi",
     "fips": "28147",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Wilkinson",
     "state": "Mississippi",
     "fips": "28157",
-    "cases": 9,
+    "cases": 11,
     "deaths": 1
   },
   {
     "county": "Winston",
     "state": "Mississippi",
     "fips": "28159",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -5029,7 +5029,7 @@
     "county": "Broadwater",
     "state": "Montana",
     "fips": "30007",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -5064,14 +5064,14 @@
     "county": "Elko",
     "state": "Nevada",
     "fips": "32007",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Unknown",
     "state": "Nevada",
     "fips": "",
-    "cases": 91,
+    "cases": 101,
     "deaths": 0
   },
   {
@@ -5085,8 +5085,8 @@
     "county": "Sussex",
     "state": "New Jersey",
     "fips": "34037",
-    "cases": 65,
-    "deaths": 0
+    "cases": 81,
+    "deaths": 1
   },
   {
     "county": "San Miguel",
@@ -5099,35 +5099,35 @@
     "county": "Schoharie",
     "state": "New York",
     "fips": "36095",
-    "cases": 3,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Wayne",
     "state": "New York",
     "fips": "36117",
-    "cases": 11,
+    "cases": 12,
     "deaths": 0
   },
   {
     "county": "Hamilton",
     "state": "Ohio",
     "fips": "39061",
-    "cases": 63,
+    "cases": 71,
     "deaths": 0
   },
   {
     "county": "Montgomery",
     "state": "Ohio",
     "fips": "39113",
-    "cases": 19,
+    "cases": 20,
     "deaths": 0
   },
   {
     "county": "Richland",
     "state": "Ohio",
     "fips": "39139",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -5162,28 +5162,28 @@
     "county": "Washington",
     "state": "Oklahoma",
     "fips": "40147",
-    "cases": 9,
+    "cases": 14,
     "deaths": 0
   },
   {
     "county": "Lancaster",
     "state": "Pennsylvania",
     "fips": "42071",
-    "cases": 33,
-    "deaths": 0
+    "cases": 45,
+    "deaths": 1
   },
   {
     "county": "Lebanon",
     "state": "Pennsylvania",
     "fips": "42075",
-    "cases": 12,
+    "cases": 15,
     "deaths": 0
   },
   {
     "county": "Westmoreland",
     "state": "Pennsylvania",
     "fips": "42129",
-    "cases": 30,
+    "cases": 41,
     "deaths": 0
   },
   {
@@ -5197,7 +5197,7 @@
     "county": "Dorchester",
     "state": "South Carolina",
     "fips": "45035",
-    "cases": 9,
+    "cases": 10,
     "deaths": 0
   },
   {
@@ -5225,21 +5225,21 @@
     "county": "Montgomery",
     "state": "Tennessee",
     "fips": "47125",
-    "cases": 9,
+    "cases": 11,
     "deaths": 0
   },
   {
     "county": "Unknown",
     "state": "Tennessee",
     "fips": "",
-    "cases": 172,
+    "cases": 161,
     "deaths": 4
   },
   {
     "county": "Washington",
     "state": "Tennessee",
     "fips": "47179",
-    "cases": 10,
+    "cases": 14,
     "deaths": 0
   },
   {
@@ -5274,8 +5274,8 @@
     "county": "Johnson",
     "state": "Texas",
     "fips": "48251",
-    "cases": 6,
-    "deaths": 0
+    "cases": 8,
+    "deaths": 1
   },
   {
     "county": "Van Zandt",
@@ -5295,7 +5295,7 @@
     "county": "Monongalia",
     "state": "West Virginia",
     "fips": "54061",
-    "cases": 23,
+    "cases": 29,
     "deaths": 0
   },
   {
@@ -5337,21 +5337,21 @@
     "county": "Ozaukee",
     "state": "Wisconsin",
     "fips": "55089",
-    "cases": 30,
+    "cases": 33,
     "deaths": 3
   },
   {
     "county": "Sauk",
     "state": "Wisconsin",
     "fips": "55111",
-    "cases": 8,
+    "cases": 11,
     "deaths": 1
   },
   {
     "county": "Walworth",
     "state": "Wisconsin",
     "fips": "55127",
-    "cases": 5,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -5379,7 +5379,7 @@
     "county": "Lauderdale",
     "state": "Alabama",
     "fips": "01077",
-    "cases": 11,
+    "cases": 13,
     "deaths": 1
   },
   {
@@ -5401,7 +5401,7 @@
     "state": "Arkansas",
     "fips": "",
     "cases": 61,
-    "deaths": 1
+    "deaths": 2
   },
   {
     "county": "Amador",
@@ -5414,14 +5414,14 @@
     "county": "Imperial",
     "state": "California",
     "fips": "06025",
-    "cases": 21,
+    "cases": 25,
     "deaths": 0
   },
   {
     "county": "Broomfield",
     "state": "Colorado",
     "fips": "08014",
-    "cases": 13,
+    "cases": 16,
     "deaths": 0
   },
   {
@@ -5442,21 +5442,21 @@
     "county": "New London",
     "state": "Connecticut",
     "fips": "09011",
-    "cases": 15,
+    "cases": 19,
     "deaths": 0
   },
   {
     "county": "Monroe",
     "state": "Florida",
     "fips": "12087",
-    "cases": 19,
+    "cases": 22,
     "deaths": 0
   },
   {
     "county": "Carroll",
     "state": "Georgia",
     "fips": "13045",
-    "cases": 61,
+    "cases": 64,
     "deaths": 0
   },
   {
@@ -5477,7 +5477,7 @@
     "county": "Douglas",
     "state": "Georgia",
     "fips": "13097",
-    "cases": 32,
+    "cases": 35,
     "deaths": 1
   },
   {
@@ -5505,7 +5505,7 @@
     "county": "Miller",
     "state": "Georgia",
     "fips": "13201",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -5533,7 +5533,7 @@
     "county": "Pickens",
     "state": "Georgia",
     "fips": "13227",
-    "cases": 4,
+    "cases": 5,
     "deaths": 1
   },
   {
@@ -5554,14 +5554,14 @@
     "county": "Sumter",
     "state": "Georgia",
     "fips": "13261",
-    "cases": 10,
-    "deaths": 0
+    "cases": 13,
+    "deaths": 1
   },
   {
     "county": "Terrell",
     "state": "Georgia",
     "fips": "13273",
-    "cases": 6,
+    "cases": 10,
     "deaths": 2
   },
   {
@@ -5582,14 +5582,14 @@
     "county": "Unknown",
     "state": "Georgia",
     "fips": "",
-    "cases": 217,
-    "deaths": 5
+    "cases": 229,
+    "deaths": 2
   },
   {
     "county": "Worth",
     "state": "Georgia",
     "fips": "13321",
-    "cases": 7,
+    "cases": 8,
     "deaths": 1
   },
   {
@@ -5603,14 +5603,14 @@
     "county": "Canyon",
     "state": "Idaho",
     "fips": "16027",
-    "cases": 23,
+    "cases": 22,
     "deaths": 1
   },
   {
     "county": "Kootenai",
     "state": "Idaho",
     "fips": "16055",
-    "cases": 11,
+    "cases": 13,
     "deaths": 0
   },
   {
@@ -5638,7 +5638,7 @@
     "county": "Allen",
     "state": "Indiana",
     "fips": "18003",
-    "cases": 21,
+    "cases": 23,
     "deaths": 1
   },
   {
@@ -5652,14 +5652,14 @@
     "county": "Shelby",
     "state": "Indiana",
     "fips": "18145",
-    "cases": 6,
+    "cases": 10,
     "deaths": 0
   },
   {
     "county": "Vanderburgh",
     "state": "Indiana",
     "fips": "18163",
-    "cases": 6,
+    "cases": 10,
     "deaths": 0
   },
   {
@@ -5701,21 +5701,21 @@
     "county": "De Soto",
     "state": "Louisiana",
     "fips": "22031",
-    "cases": 13,
+    "cases": 21,
     "deaths": 1
   },
   {
     "county": "Rapides",
     "state": "Louisiana",
     "fips": "22079",
-    "cases": 26,
+    "cases": 37,
     "deaths": 1
   },
   {
     "county": "Tangipahoa",
     "state": "Louisiana",
     "fips": "22105",
-    "cases": 7,
+    "cases": 10,
     "deaths": 0
   },
   {
@@ -5743,14 +5743,14 @@
     "county": "Fillmore",
     "state": "Minnesota",
     "fips": "27045",
-    "cases": 3,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Adams",
     "state": "Mississippi",
     "fips": "28001",
-    "cases": 2,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -5764,7 +5764,7 @@
     "county": "Humphreys",
     "state": "Mississippi",
     "fips": "28053",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -5785,14 +5785,14 @@
     "county": "Lee",
     "state": "Mississippi",
     "fips": "28081",
-    "cases": 15,
-    "deaths": 0
+    "cases": 17,
+    "deaths": 1
   },
   {
     "county": "Marshall",
     "state": "Mississippi",
     "fips": "28093",
-    "cases": 9,
+    "cases": 11,
     "deaths": 0
   },
   {
@@ -5806,7 +5806,7 @@
     "county": "Rankin",
     "state": "Mississippi",
     "fips": "28121",
-    "cases": 29,
+    "cases": 31,
     "deaths": 1
   },
   {
@@ -5820,14 +5820,14 @@
     "county": "Tippah",
     "state": "Mississippi",
     "fips": "28139",
-    "cases": 15,
-    "deaths": 1
+    "cases": 18,
+    "deaths": 2
   },
   {
     "county": "Christian",
     "state": "Missouri",
     "fips": "29043",
-    "cases": 3,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -5841,28 +5841,28 @@
     "county": "Pulaski",
     "state": "Missouri",
     "fips": "29169",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Scott",
     "state": "Missouri",
     "fips": "29201",
-    "cases": 1,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Unknown",
     "state": "Missouri",
     "fips": "",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Buffalo",
     "state": "Nebraska",
     "fips": "31019",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -5890,14 +5890,14 @@
     "county": "Cumberland",
     "state": "New Jersey",
     "fips": "34011",
-    "cases": 9,
+    "cases": 11,
     "deaths": 1
   },
   {
     "county": "Doña Ana",
     "state": "New Mexico",
     "fips": "35013",
-    "cases": 16,
+    "cases": 17,
     "deaths": 0
   },
   {
@@ -5911,7 +5911,7 @@
     "county": "Columbia",
     "state": "New York",
     "fips": "36021",
-    "cases": 20,
+    "cases": 22,
     "deaths": 0
   },
   {
@@ -5925,35 +5925,35 @@
     "county": "Genesee",
     "state": "New York",
     "fips": "36037",
-    "cases": 6,
+    "cases": 7,
     "deaths": 0
   },
   {
     "county": "Niagara",
     "state": "New York",
     "fips": "36063",
-    "cases": 23,
+    "cases": 33,
     "deaths": 0
   },
   {
     "county": "Oneida",
     "state": "New York",
     "fips": "36065",
-    "cases": 13,
+    "cases": 23,
     "deaths": 0
   },
   {
     "county": "Carteret",
     "state": "North Carolina",
     "fips": "37031",
-    "cases": 5,
+    "cases": 6,
     "deaths": 0
   },
   {
     "county": "Davidson",
     "state": "North Carolina",
     "fips": "37057",
-    "cases": 4,
+    "cases": 14,
     "deaths": 0
   },
   {
@@ -5967,7 +5967,7 @@
     "county": "Orange",
     "state": "North Carolina",
     "fips": "37135",
-    "cases": 24,
+    "cases": 27,
     "deaths": 0
   },
   {
@@ -5981,15 +5981,15 @@
     "county": "Pitt",
     "state": "North Carolina",
     "fips": "37147",
-    "cases": 10,
+    "cases": 13,
     "deaths": 0
   },
   {
     "county": "Rowan",
     "state": "North Carolina",
     "fips": "37159",
-    "cases": 10,
-    "deaths": 0
+    "cases": 14,
+    "deaths": 1
   },
   {
     "county": "Stanly",
@@ -6016,14 +6016,14 @@
     "county": "Ashtabula",
     "state": "Ohio",
     "fips": "39007",
-    "cases": 5,
+    "cases": 6,
     "deaths": 0
   },
   {
     "county": "Columbiana",
     "state": "Ohio",
     "fips": "39029",
-    "cases": 7,
+    "cases": 9,
     "deaths": 1
   },
   {
@@ -6044,7 +6044,7 @@
     "county": "Warren",
     "state": "Ohio",
     "fips": "39165",
-    "cases": 11,
+    "cases": 16,
     "deaths": 0
   },
   {
@@ -6072,7 +6072,7 @@
     "county": "Centre",
     "state": "Pennsylvania",
     "fips": "42027",
-    "cases": 11,
+    "cases": 15,
     "deaths": 0
   },
   {
@@ -6086,35 +6086,35 @@
     "county": "Franklin",
     "state": "Pennsylvania",
     "fips": "42055",
-    "cases": 5,
+    "cases": 7,
     "deaths": 0
   },
   {
     "county": "Potter",
     "state": "Pennsylvania",
     "fips": "42105",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Aiken",
     "state": "South Carolina",
     "fips": "45003",
-    "cases": 6,
+    "cases": 7,
     "deaths": 0
   },
   {
     "county": "Berkeley",
     "state": "South Carolina",
     "fips": "45015",
-    "cases": 10,
+    "cases": 13,
     "deaths": 0
   },
   {
     "county": "Clarendon",
     "state": "South Carolina",
     "fips": "45027",
-    "cases": 6,
+    "cases": 7,
     "deaths": 1
   },
   {
@@ -6128,56 +6128,56 @@
     "county": "Florence",
     "state": "South Carolina",
     "fips": "45041",
-    "cases": 11,
+    "cases": 12,
     "deaths": 3
   },
   {
     "county": "Orangeburg",
     "state": "South Carolina",
     "fips": "45075",
-    "cases": 12,
+    "cases": 14,
     "deaths": 0
   },
   {
     "county": "Pickens",
     "state": "South Carolina",
     "fips": "45077",
-    "cases": 7,
+    "cases": 10,
     "deaths": 0
   },
   {
     "county": "Sumter",
     "state": "South Carolina",
     "fips": "45085",
-    "cases": 10,
+    "cases": 24,
     "deaths": 2
   },
   {
     "county": "Anderson",
     "state": "Tennessee",
     "fips": "47001",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Blount",
     "state": "Tennessee",
     "fips": "47009",
-    "cases": 6,
+    "cases": 9,
     "deaths": 0
   },
   {
     "county": "Bradley",
     "state": "Tennessee",
     "fips": "47011",
-    "cases": 6,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Dickson",
     "state": "Tennessee",
     "fips": "47043",
-    "cases": 9,
+    "cases": 11,
     "deaths": 0
   },
   {
@@ -6198,14 +6198,14 @@
     "county": "Maury",
     "state": "Tennessee",
     "fips": "47119",
-    "cases": 7,
+    "cases": 8,
     "deaths": 0
   },
   {
     "county": "Tipton",
     "state": "Tennessee",
     "fips": "47167",
-    "cases": 10,
+    "cases": 11,
     "deaths": 0
   },
   {
@@ -6219,7 +6219,7 @@
     "county": "Cass",
     "state": "Texas",
     "fips": "48067",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -6233,7 +6233,7 @@
     "county": "Hockley",
     "state": "Texas",
     "fips": "48219",
-    "cases": 5,
+    "cases": 7,
     "deaths": 0
   },
   {
@@ -6247,14 +6247,14 @@
     "county": "Addison",
     "state": "Vermont",
     "fips": "50001",
-    "cases": 13,
+    "cases": 15,
     "deaths": 0
   },
   {
     "county": "Rutland",
     "state": "Vermont",
     "fips": "50021",
-    "cases": 5,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -6268,42 +6268,42 @@
     "county": "Gloucester",
     "state": "Virginia",
     "fips": "51073",
-    "cases": 3,
+    "cases": 6,
     "deaths": 0
   },
   {
     "county": "Newport News city",
     "state": "Virginia",
     "fips": "51700",
-    "cases": 12,
+    "cases": 13,
     "deaths": 1
   },
   {
     "county": "Norfolk city",
     "state": "Virginia",
     "fips": "51710",
-    "cases": 8,
+    "cases": 10,
     "deaths": 0
   },
   {
     "county": "Portsmouth city",
     "state": "Virginia",
     "fips": "51740",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Cowlitz",
     "state": "Washington",
     "fips": "53015",
-    "cases": 7,
+    "cases": 10,
     "deaths": 0
   },
   {
     "county": "San Juan",
     "state": "Washington",
     "fips": "53055",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -6317,28 +6317,28 @@
     "county": "Jackson",
     "state": "West Virginia",
     "fips": "54035",
-    "cases": 6,
+    "cases": 7,
     "deaths": 0
   },
   {
     "county": "Kanawha",
     "state": "West Virginia",
     "fips": "54039",
-    "cases": 17,
+    "cases": 19,
     "deaths": 0
   },
   {
     "county": "Chippewa",
     "state": "Wisconsin",
     "fips": "55017",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Douglas",
     "state": "Wisconsin",
     "fips": "55031",
-    "cases": 5,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -6352,14 +6352,14 @@
     "county": "Green",
     "state": "Wisconsin",
     "fips": "55045",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Jefferson",
     "state": "Wisconsin",
     "fips": "55055",
-    "cases": 6,
+    "cases": 8,
     "deaths": 0
   },
   {
@@ -6401,21 +6401,21 @@
     "county": "Marion",
     "state": "Alabama",
     "fips": "01093",
-    "cases": 7,
+    "cases": 9,
     "deaths": 0
   },
   {
     "county": "Apache",
     "state": "Arizona",
     "fips": "04001",
-    "cases": 11,
+    "cases": 13,
     "deaths": 0
   },
   {
     "county": "Cochise",
     "state": "Arizona",
     "fips": "04003",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -6450,7 +6450,7 @@
     "county": "Chaffee",
     "state": "Colorado",
     "fips": "08015",
-    "cases": 5,
+    "cases": 11,
     "deaths": 1
   },
   {
@@ -6471,28 +6471,28 @@
     "county": "Montrose",
     "state": "Colorado",
     "fips": "08085",
-    "cases": 6,
+    "cases": 8,
     "deaths": 0
   },
   {
     "county": "Bay",
     "state": "Florida",
     "fips": "12005",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Highlands",
     "state": "Florida",
     "fips": "12055",
-    "cases": 6,
+    "cases": 10,
     "deaths": 1
   },
   {
     "county": "Marion",
     "state": "Florida",
     "fips": "12083",
-    "cases": 9,
+    "cases": 18,
     "deaths": 0
   },
   {
@@ -6506,8 +6506,8 @@
     "county": "St. Lucie",
     "state": "Florida",
     "fips": "12111",
-    "cases": 17,
-    "deaths": 1
+    "cases": 22,
+    "deaths": 2
   },
   {
     "county": "Baldwin",
@@ -6541,21 +6541,21 @@
     "county": "Elkhart",
     "state": "Indiana",
     "fips": "18039",
-    "cases": 9,
+    "cases": 11,
     "deaths": 0
   },
   {
     "county": "Hancock",
     "state": "Indiana",
     "fips": "18059",
-    "cases": 14,
+    "cases": 19,
     "deaths": 1
   },
   {
     "county": "Harrison",
     "state": "Indiana",
     "fips": "18061",
-    "cases": 4,
+    "cases": 7,
     "deaths": 0
   },
   {
@@ -6576,7 +6576,7 @@
     "county": "Fayette",
     "state": "Iowa",
     "fips": "19065",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -6590,7 +6590,7 @@
     "county": "Linn",
     "state": "Iowa",
     "fips": "19113",
-    "cases": 22,
+    "cases": 36,
     "deaths": 0
   },
   {
@@ -6611,7 +6611,7 @@
     "county": "Madison",
     "state": "Kentucky",
     "fips": "21151",
-    "cases": 5,
+    "cases": 7,
     "deaths": 0
   },
   {
@@ -6625,7 +6625,7 @@
     "county": "Avoyelles",
     "state": "Louisiana",
     "fips": "22009",
-    "cases": 10,
+    "cases": 12,
     "deaths": 0
   },
   {
@@ -6639,14 +6639,14 @@
     "county": "Bienville",
     "state": "Louisiana",
     "fips": "22013",
-    "cases": 1,
+    "cases": 3,
     "deaths": 1
   },
   {
     "county": "Claiborne",
     "state": "Louisiana",
     "fips": "22027",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -6660,21 +6660,21 @@
     "county": "Ouachita",
     "state": "Louisiana",
     "fips": "22073",
-    "cases": 25,
+    "cases": 34,
     "deaths": 1
   },
   {
     "county": "St. Mary",
     "state": "Louisiana",
     "fips": "22101",
-    "cases": 6,
+    "cases": 7,
     "deaths": 0
   },
   {
     "county": "Sagadahoc",
     "state": "Maine",
     "fips": "23023",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -6695,21 +6695,21 @@
     "county": "Washington",
     "state": "Maryland",
     "fips": "24043",
-    "cases": 5,
+    "cases": 6,
     "deaths": 0
   },
   {
     "county": "Nantucket",
     "state": "Massachusetts",
     "fips": "25019",
-    "cases": 2,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Allegan",
     "state": "Michigan",
     "fips": "26005",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -6723,14 +6723,14 @@
     "county": "Berrien",
     "state": "Michigan",
     "fips": "26021",
-    "cases": 18,
+    "cases": 22,
     "deaths": 0
   },
   {
     "county": "Calhoun",
     "state": "Michigan",
     "fips": "26025",
-    "cases": 9,
+    "cases": 11,
     "deaths": 0
   },
   {
@@ -6744,14 +6744,14 @@
     "county": "Saginaw",
     "state": "Michigan",
     "fips": "26145",
-    "cases": 14,
+    "cases": 19,
     "deaths": 0
   },
   {
     "county": "Tuscola",
     "state": "Michigan",
     "fips": "26157",
-    "cases": 2,
+    "cases": 4,
     "deaths": 1
   },
   {
@@ -6765,7 +6765,7 @@
     "county": "Dodge",
     "state": "Minnesota",
     "fips": "27039",
-    "cases": 5,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -6794,7 +6794,7 @@
     "state": "Minnesota",
     "fips": "",
     "cases": 1,
-    "deaths": 1
+    "deaths": 0
   },
   {
     "county": "Wabasha",
@@ -6807,7 +6807,7 @@
     "county": "Attala",
     "state": "Mississippi",
     "fips": "28007",
-    "cases": 8,
+    "cases": 9,
     "deaths": 0
   },
   {
@@ -6849,14 +6849,14 @@
     "county": "Lincoln",
     "state": "Mississippi",
     "fips": "28085",
-    "cases": 6,
+    "cases": 8,
     "deaths": 0
   },
   {
     "county": "Lowndes",
     "state": "Mississippi",
     "fips": "28087",
-    "cases": 9,
+    "cases": 10,
     "deaths": 0
   },
   {
@@ -6870,7 +6870,7 @@
     "county": "Simpson",
     "state": "Mississippi",
     "fips": "28127",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -6891,7 +6891,7 @@
     "county": "Washington",
     "state": "Mississippi",
     "fips": "28151",
-    "cases": 11,
+    "cases": 13,
     "deaths": 0
   },
   {
@@ -6912,7 +6912,7 @@
     "county": "Johnson",
     "state": "Missouri",
     "fips": "29101",
-    "cases": 8,
+    "cases": 9,
     "deaths": 0
   },
   {
@@ -6933,7 +6933,7 @@
     "county": "Strafford",
     "state": "New Hampshire",
     "fips": "33017",
-    "cases": 11,
+    "cases": 12,
     "deaths": 0
   },
   {
@@ -6947,28 +6947,28 @@
     "county": "Steuben",
     "state": "New York",
     "fips": "36101",
-    "cases": 12,
+    "cases": 13,
     "deaths": 0
   },
   {
     "county": "Buncombe",
     "state": "North Carolina",
     "fips": "37021",
-    "cases": 15,
+    "cases": 17,
     "deaths": 0
   },
   {
     "county": "Catawba",
     "state": "North Carolina",
     "fips": "37035",
-    "cases": 7,
+    "cases": 10,
     "deaths": 0
   },
   {
     "county": "Clermont",
     "state": "Ohio",
     "fips": "39025",
-    "cases": 6,
+    "cases": 8,
     "deaths": 0
   },
   {
@@ -6982,35 +6982,35 @@
     "county": "Erie",
     "state": "Ohio",
     "fips": "39043",
-    "cases": 3,
+    "cases": 5,
     "deaths": 1
   },
   {
     "county": "Licking",
     "state": "Ohio",
     "fips": "39089",
-    "cases": 10,
+    "cases": 14,
     "deaths": 0
   },
   {
     "county": "Josephine",
     "state": "Oregon",
     "fips": "41033",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Butler",
     "state": "Pennsylvania",
     "fips": "42019",
-    "cases": 26,
-    "deaths": 1
+    "cases": 41,
+    "deaths": 2
   },
   {
     "county": "Montour",
     "state": "Pennsylvania",
     "fips": "42093",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -7031,7 +7031,7 @@
     "county": "Greenwood",
     "state": "South Carolina",
     "fips": "45047",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -7052,7 +7052,7 @@
     "county": "Newberry",
     "state": "South Carolina",
     "fips": "45071",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -7073,7 +7073,7 @@
     "county": "Fayette",
     "state": "Tennessee",
     "fips": "47047",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -7087,7 +7087,7 @@
     "county": "Putnam",
     "state": "Tennessee",
     "fips": "47141",
-    "cases": 13,
+    "cases": 17,
     "deaths": 0
   },
   {
@@ -7108,14 +7108,14 @@
     "county": "Bastrop",
     "state": "Texas",
     "fips": "48021",
-    "cases": 2,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Castro",
     "state": "Texas",
     "fips": "48069",
-    "cases": 7,
+    "cases": 8,
     "deaths": 0
   },
   {
@@ -7129,7 +7129,7 @@
     "county": "Midland",
     "state": "Texas",
     "fips": "48329",
-    "cases": 6,
+    "cases": 8,
     "deaths": 1
   },
   {
@@ -7150,7 +7150,7 @@
     "county": "Franklin",
     "state": "Vermont",
     "fips": "50011",
-    "cases": 6,
+    "cases": 7,
     "deaths": 0
   },
   {
@@ -7164,7 +7164,7 @@
     "county": "Albemarle",
     "state": "Virginia",
     "fips": "51003",
-    "cases": 8,
+    "cases": 16,
     "deaths": 0
   },
   {
@@ -7185,7 +7185,7 @@
     "county": "Isle of Wight",
     "state": "Virginia",
     "fips": "51093",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -7206,7 +7206,7 @@
     "county": "Marshall",
     "state": "West Virginia",
     "fips": "54051",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -7234,7 +7234,7 @@
     "county": "Unknown",
     "state": "Colorado",
     "fips": "",
-    "cases": 136,
+    "cases": 167,
     "deaths": 0
   },
   {
@@ -7255,14 +7255,14 @@
     "county": "DeSoto",
     "state": "Florida",
     "fips": "12027",
-    "cases": 6,
+    "cases": 7,
     "deaths": 0
   },
   {
     "county": "Flagler",
     "state": "Florida",
     "fips": "12035",
-    "cases": 12,
+    "cases": 13,
     "deaths": 0
   },
   {
@@ -7283,7 +7283,7 @@
     "county": "Butts",
     "state": "Georgia",
     "fips": "13035",
-    "cases": 3,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -7304,7 +7304,7 @@
     "county": "Coffee",
     "state": "Georgia",
     "fips": "13069",
-    "cases": 3,
+    "cases": 7,
     "deaths": 0
   },
   {
@@ -7332,7 +7332,7 @@
     "county": "Champaign",
     "state": "Illinois",
     "fips": "17019",
-    "cases": 10,
+    "cases": 15,
     "deaths": 0
   },
   {
@@ -7367,28 +7367,28 @@
     "county": "Monroe",
     "state": "Indiana",
     "fips": "18105",
-    "cases": 9,
+    "cases": 16,
     "deaths": 0
   },
   {
     "county": "Morgan",
     "state": "Indiana",
     "fips": "18109",
-    "cases": 10,
+    "cases": 14,
     "deaths": 0
   },
   {
     "county": "Putnam",
     "state": "Indiana",
     "fips": "18133",
-    "cases": 2,
+    "cases": 5,
     "deaths": 1
   },
   {
     "county": "Ripley",
     "state": "Indiana",
     "fips": "18137",
-    "cases": 14,
+    "cases": 15,
     "deaths": 0
   },
   {
@@ -7409,7 +7409,7 @@
     "county": "Cerro Gordo",
     "state": "Iowa",
     "fips": "19033",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -7423,14 +7423,14 @@
     "county": "Poweshiek",
     "state": "Iowa",
     "fips": "19157",
-    "cases": 4,
+    "cases": 5,
     "deaths": 1
   },
   {
     "county": "Scott",
     "state": "Iowa",
     "fips": "19163",
-    "cases": 7,
+    "cases": 10,
     "deaths": 0
   },
   {
@@ -7444,7 +7444,7 @@
     "county": "Tama",
     "state": "Iowa",
     "fips": "19171",
-    "cases": 5,
+    "cases": 8,
     "deaths": 0
   },
   {
@@ -7507,28 +7507,28 @@
     "county": "Acadia",
     "state": "Louisiana",
     "fips": "22001",
-    "cases": 8,
+    "cases": 9,
     "deaths": 1
   },
   {
     "county": "Cecil",
     "state": "Maryland",
     "fips": "24015",
-    "cases": 9,
+    "cases": 13,
     "deaths": 0
   },
   {
     "county": "St. Mary's",
     "state": "Maryland",
     "fips": "24037",
-    "cases": 4,
+    "cases": 8,
     "deaths": 0
   },
   {
     "county": "Emmet",
     "state": "Michigan",
     "fips": "26047",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -7542,7 +7542,7 @@
     "county": "Grand Traverse",
     "state": "Michigan",
     "fips": "26055",
-    "cases": 3,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -7556,28 +7556,28 @@
     "county": "Le Sueur",
     "state": "Minnesota",
     "fips": "27079",
-    "cases": 10,
+    "cases": 11,
     "deaths": 0
   },
   {
     "county": "Chickasaw",
     "state": "Mississippi",
     "fips": "28017",
-    "cases": 9,
+    "cases": 10,
     "deaths": 0
   },
   {
     "county": "Montgomery",
     "state": "Mississippi",
     "fips": "28097",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Oktibbeha",
     "state": "Mississippi",
     "fips": "28105",
-    "cases": 12,
+    "cases": 14,
     "deaths": 0
   },
   {
@@ -7591,8 +7591,8 @@
     "county": "Sunflower",
     "state": "Mississippi",
     "fips": "28133",
-    "cases": 5,
-    "deaths": 0
+    "cases": 7,
+    "deaths": 1
   },
   {
     "county": "Tate",
@@ -7633,28 +7633,28 @@
     "county": "San Juan",
     "state": "New Mexico",
     "fips": "35045",
-    "cases": 17,
+    "cases": 18,
     "deaths": 0
   },
   {
     "county": "Cortland",
     "state": "New York",
     "fips": "36023",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Madison",
     "state": "New York",
     "fips": "36053",
-    "cases": 17,
+    "cases": 19,
     "deaths": 0
   },
   {
     "county": "St. Lawrence",
     "state": "New York",
     "fips": "36089",
-    "cases": 3,
+    "cases": 8,
     "deaths": 0
   },
   {
@@ -7668,28 +7668,28 @@
     "county": "Cumberland",
     "state": "North Carolina",
     "fips": "37051",
-    "cases": 8,
+    "cases": 10,
     "deaths": 0
   },
   {
     "county": "Davie",
     "state": "North Carolina",
     "fips": "37059",
-    "cases": 2,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Granville",
     "state": "North Carolina",
     "fips": "37077",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Henderson",
     "state": "North Carolina",
     "fips": "37089",
-    "cases": 6,
+    "cases": 9,
     "deaths": 0
   },
   {
@@ -7724,21 +7724,21 @@
     "county": "Union",
     "state": "North Carolina",
     "fips": "37179",
-    "cases": 27,
+    "cases": 30,
     "deaths": 0
   },
   {
     "county": "Carroll",
     "state": "Ohio",
     "fips": "39019",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Clinton",
     "state": "Ohio",
     "fips": "39027",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -7759,28 +7759,28 @@
     "county": "Hancock",
     "state": "Ohio",
     "fips": "39063",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Portage",
     "state": "Ohio",
     "fips": "39133",
-    "cases": 13,
+    "cases": 19,
     "deaths": 0
   },
   {
     "county": "Wood",
     "state": "Ohio",
     "fips": "39173",
-    "cases": 9,
+    "cases": 10,
     "deaths": 0
   },
   {
     "county": "Muskogee",
     "state": "Oklahoma",
     "fips": "40101",
-    "cases": 5,
+    "cases": 7,
     "deaths": 0
   },
   {
@@ -7794,42 +7794,42 @@
     "county": "Columbia",
     "state": "Pennsylvania",
     "fips": "42037",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Dauphin",
     "state": "Pennsylvania",
     "fips": "42043",
-    "cases": 18,
+    "cases": 23,
     "deaths": 0
   },
   {
     "county": "Fayette",
     "state": "Pennsylvania",
     "fips": "42051",
-    "cases": 9,
+    "cases": 10,
     "deaths": 0
   },
   {
     "county": "Mercer",
     "state": "Pennsylvania",
     "fips": "42085",
-    "cases": 4,
+    "cases": 6,
     "deaths": 0
   },
   {
     "county": "Schuylkill",
     "state": "Pennsylvania",
     "fips": "42107",
-    "cases": 13,
+    "cases": 16,
     "deaths": 0
   },
   {
     "county": "Colleton",
     "state": "South Carolina",
     "fips": "45029",
-    "cases": 2,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -7878,7 +7878,7 @@
     "county": "Marion",
     "state": "Tennessee",
     "fips": "47115",
-    "cases": 2,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -7899,7 +7899,7 @@
     "county": "Amherst",
     "state": "Virginia",
     "fips": "51009",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -7934,7 +7934,7 @@
     "county": "Louisa",
     "state": "Virginia",
     "fips": "51109",
-    "cases": 5,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -7948,7 +7948,7 @@
     "county": "Whitman",
     "state": "Washington",
     "fips": "53075",
-    "cases": 5,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -7990,14 +7990,14 @@
     "county": "La Plata",
     "state": "Colorado",
     "fips": "08067",
-    "cases": 13,
+    "cases": 17,
     "deaths": 0
   },
   {
     "county": "Logan",
     "state": "Colorado",
     "fips": "08075",
-    "cases": 3,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -8018,21 +8018,21 @@
     "county": "Catoosa",
     "state": "Georgia",
     "fips": "13047",
-    "cases": 1,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Harris",
     "state": "Georgia",
     "fips": "13145",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Liberty",
     "state": "Georgia",
     "fips": "13179",
-    "cases": 1,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -8053,7 +8053,7 @@
     "county": "Pierce",
     "state": "Georgia",
     "fips": "13229",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -8130,7 +8130,7 @@
     "county": "Allen",
     "state": "Louisiana",
     "fips": "22003",
-    "cases": 5,
+    "cases": 7,
     "deaths": 0
   },
   {
@@ -8144,7 +8144,7 @@
     "county": "Lincoln",
     "state": "Louisiana",
     "fips": "22061",
-    "cases": 7,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -8165,7 +8165,7 @@
     "county": "St. Martin",
     "state": "Louisiana",
     "fips": "22099",
-    "cases": 10,
+    "cases": 13,
     "deaths": 3
   },
   {
@@ -8200,14 +8200,14 @@
     "county": "Kalamazoo",
     "state": "Michigan",
     "fips": "26077",
-    "cases": 11,
+    "cases": 15,
     "deaths": 0
   },
   {
     "county": "Muskegon",
     "state": "Michigan",
     "fips": "26121",
-    "cases": 6,
+    "cases": 7,
     "deaths": 2
   },
   {
@@ -8242,7 +8242,7 @@
     "county": "Sherburne",
     "state": "Minnesota",
     "fips": "27141",
-    "cases": 3,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -8256,7 +8256,7 @@
     "county": "Marion",
     "state": "Mississippi",
     "fips": "28091",
-    "cases": 1,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -8277,21 +8277,21 @@
     "county": "Callaway",
     "state": "Missouri",
     "fips": "29027",
-    "cases": 3,
+    "cases": 6,
     "deaths": 0
   },
   {
     "county": "Camden",
     "state": "Missouri",
     "fips": "29029",
-    "cases": 1,
-    "deaths": 0
+    "cases": 4,
+    "deaths": 1
   },
   {
     "county": "Clay",
     "state": "Missouri",
     "fips": "29047",
-    "cases": 9,
+    "cases": 10,
     "deaths": 0
   },
   {
@@ -8312,14 +8312,14 @@
     "county": "Moniteau",
     "state": "Missouri",
     "fips": "29135",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Perry",
     "state": "Missouri",
     "fips": "29157",
-    "cases": 6,
+    "cases": 7,
     "deaths": 0
   },
   {
@@ -8333,14 +8333,14 @@
     "county": "Taney",
     "state": "Missouri",
     "fips": "29213",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Madison",
     "state": "Nebraska",
     "fips": "31119",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -8354,14 +8354,14 @@
     "county": "Douglas",
     "state": "Nevada",
     "fips": "32005",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Chaves",
     "state": "New Mexico",
     "fips": "35005",
-    "cases": 4,
+    "cases": 7,
     "deaths": 0
   },
   {
@@ -8375,14 +8375,14 @@
     "county": "Oswego",
     "state": "New York",
     "fips": "36075",
-    "cases": 4,
+    "cases": 7,
     "deaths": 0
   },
   {
     "county": "Otsego",
     "state": "New York",
     "fips": "36077",
-    "cases": 5,
+    "cases": 7,
     "deaths": 0
   },
   {
@@ -8403,7 +8403,7 @@
     "county": "Vance",
     "state": "North Carolina",
     "fips": "37181",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -8424,7 +8424,7 @@
     "county": "Logan",
     "state": "Ohio",
     "fips": "39091",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -8438,7 +8438,7 @@
     "county": "Sandusky",
     "state": "Ohio",
     "fips": "39143",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -8452,7 +8452,7 @@
     "county": "Pontotoc",
     "state": "Oklahoma",
     "fips": "40123",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -8473,14 +8473,14 @@
     "county": "Chester",
     "state": "South Carolina",
     "fips": "45023",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Georgetown",
     "state": "South Carolina",
     "fips": "45043",
-    "cases": 3,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -8494,7 +8494,7 @@
     "county": "Codington",
     "state": "South Dakota",
     "fips": "46029",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -8529,7 +8529,7 @@
     "county": "Iron",
     "state": "Utah",
     "fips": "49021",
-    "cases": 2,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -8537,7 +8537,7 @@
     "state": "Vermont",
     "fips": "",
     "cases": 23,
-    "deaths": 3
+    "deaths": 5
   },
   {
     "county": "Danville city",
@@ -8550,7 +8550,7 @@
     "county": "Rockbridge",
     "state": "Virginia",
     "fips": "51163",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -8585,7 +8585,7 @@
     "county": "Morgan",
     "state": "Alabama",
     "fips": "01103",
-    "cases": 13,
+    "cases": 15,
     "deaths": 0
   },
   {
@@ -8600,7 +8600,7 @@
     "state": "Arkansas",
     "fips": "05029",
     "cases": 2,
-    "deaths": 0
+    "deaths": 1
   },
   {
     "county": "Crawford",
@@ -8613,7 +8613,7 @@
     "county": "Cross",
     "state": "Arkansas",
     "fips": "05037",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -8627,21 +8627,21 @@
     "county": "Hot Spring",
     "state": "Arkansas",
     "fips": "05059",
-    "cases": 2,
+    "cases": 1,
     "deaths": 0
   },
   {
     "county": "Lawrence",
     "state": "Arkansas",
     "fips": "05075",
-    "cases": 3,
+    "cases": 1,
     "deaths": 0
   },
   {
     "county": "Pike",
     "state": "Arkansas",
     "fips": "05109",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -8655,7 +8655,7 @@
     "county": "Union",
     "state": "Arkansas",
     "fips": "05139",
-    "cases": 2,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -8697,7 +8697,7 @@
     "county": "Delta",
     "state": "Colorado",
     "fips": "08029",
-    "cases": 2,
+    "cases": 1,
     "deaths": 0
   },
   {
@@ -8732,7 +8732,7 @@
     "county": "Bryan",
     "state": "Georgia",
     "fips": "13029",
-    "cases": 5,
+    "cases": 7,
     "deaths": 0
   },
   {
@@ -8753,7 +8753,7 @@
     "county": "Crisp",
     "state": "Georgia",
     "fips": "13081",
-    "cases": 4,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -8802,28 +8802,28 @@
     "county": "Mitchell",
     "state": "Georgia",
     "fips": "13205",
-    "cases": 14,
+    "cases": 15,
     "deaths": 0
   },
   {
     "county": "Pulaski",
     "state": "Georgia",
     "fips": "13235",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Seminole",
     "state": "Georgia",
     "fips": "13253",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Stephens",
     "state": "Georgia",
     "fips": "13257",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -8837,7 +8837,7 @@
     "county": "Walton",
     "state": "Georgia",
     "fips": "13297",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -8872,42 +8872,42 @@
     "county": "Dearborn",
     "state": "Indiana",
     "fips": "18029",
-    "cases": 4,
+    "cases": 8,
     "deaths": 1
   },
   {
     "county": "Decatur",
     "state": "Indiana",
     "fips": "18031",
-    "cases": 26,
+    "cases": 30,
     "deaths": 0
   },
   {
     "county": "Gibson",
     "state": "Indiana",
     "fips": "18051",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Jackson",
     "state": "Indiana",
     "fips": "18071",
-    "cases": 4,
+    "cases": 7,
     "deaths": 0
   },
   {
     "county": "Lawrence",
     "state": "Indiana",
     "fips": "18093",
-    "cases": 5,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Montgomery",
     "state": "Indiana",
     "fips": "18107",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -8921,7 +8921,7 @@
     "county": "Porter",
     "state": "Indiana",
     "fips": "18127",
-    "cases": 6,
+    "cases": 9,
     "deaths": 0
   },
   {
@@ -8942,28 +8942,28 @@
     "county": "Warrick",
     "state": "Indiana",
     "fips": "18173",
-    "cases": 3,
+    "cases": 6,
     "deaths": 0
   },
   {
     "county": "Buchanan",
     "state": "Iowa",
     "fips": "19019",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Cedar",
     "state": "Iowa",
     "fips": "19031",
-    "cases": 5,
+    "cases": 6,
     "deaths": 0
   },
   {
     "county": "Jasper",
     "state": "Iowa",
     "fips": "19099",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -9005,7 +9005,7 @@
     "county": "McCracken",
     "state": "Kentucky",
     "fips": "21145",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -9047,7 +9047,7 @@
     "county": "Hillsdale",
     "state": "Michigan",
     "fips": "26059",
-    "cases": 6,
+    "cases": 7,
     "deaths": 0
   },
   {
@@ -9096,7 +9096,7 @@
     "county": "Noxubee",
     "state": "Mississippi",
     "fips": "28103",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -9110,14 +9110,14 @@
     "county": "Franklin",
     "state": "Missouri",
     "fips": "29071",
-    "cases": 4,
+    "cases": 6,
     "deaths": 0
   },
   {
     "county": "Jefferson",
     "state": "Missouri",
     "fips": "29099",
-    "cases": 15,
+    "cases": 17,
     "deaths": 0
   },
   {
@@ -9159,7 +9159,7 @@
     "county": "Chemung",
     "state": "New York",
     "fips": "36015",
-    "cases": 11,
+    "cases": 12,
     "deaths": 0
   },
   {
@@ -9187,14 +9187,14 @@
     "county": "Randolph",
     "state": "North Carolina",
     "fips": "37151",
-    "cases": 5,
+    "cases": 9,
     "deaths": 0
   },
   {
     "county": "Transylvania",
     "state": "North Carolina",
     "fips": "37175",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -9215,14 +9215,14 @@
     "county": "Crawford",
     "state": "Ohio",
     "fips": "39033",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Fairfield",
     "state": "Ohio",
     "fips": "39045",
-    "cases": 8,
+    "cases": 14,
     "deaths": 0
   },
   {
@@ -9236,7 +9236,7 @@
     "county": "Mayes",
     "state": "Oklahoma",
     "fips": "40097",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -9244,34 +9244,34 @@
     "state": "Oklahoma",
     "fips": "40145",
     "cases": 8,
-    "deaths": 0
+    "deaths": 1
   },
   {
     "county": "Clatsop",
     "state": "Oregon",
     "fips": "41007",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Armstrong",
     "state": "Pennsylvania",
     "fips": "42005",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Bradford",
     "state": "Pennsylvania",
     "fips": "42015",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Carbon",
     "state": "Pennsylvania",
     "fips": "42025",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -9327,7 +9327,7 @@
     "county": "Grundy",
     "state": "Tennessee",
     "fips": "47061",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -9355,7 +9355,7 @@
     "county": "Overton",
     "state": "Tennessee",
     "fips": "47133",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -9369,7 +9369,7 @@
     "county": "Chambers",
     "state": "Texas",
     "fips": "48071",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -9404,21 +9404,21 @@
     "county": "Jefferson",
     "state": "Texas",
     "fips": "48245",
-    "cases": 8,
+    "cases": 12,
     "deaths": 0
   },
   {
     "county": "Nueces",
     "state": "Texas",
     "fips": "48355",
-    "cases": 18,
+    "cases": 20,
     "deaths": 0
   },
   {
     "county": "Parker",
     "state": "Texas",
     "fips": "48367",
-    "cases": 2,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -9439,14 +9439,14 @@
     "county": "Orleans",
     "state": "Vermont",
     "fips": "50019",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Chesapeake city",
     "state": "Virginia",
     "fips": "51550",
-    "cases": 5,
+    "cases": 7,
     "deaths": 0
   },
   {
@@ -9460,14 +9460,14 @@
     "county": "Berkeley",
     "state": "West Virginia",
     "fips": "54003",
-    "cases": 9,
+    "cases": 10,
     "deaths": 0
   },
   {
     "county": "Harrison",
     "state": "West Virginia",
     "fips": "54033",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -9523,14 +9523,14 @@
     "county": "Clay",
     "state": "Alabama",
     "fips": "01027",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Cleburne",
     "state": "Alabama",
     "fips": "01029",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -9551,7 +9551,7 @@
     "county": "Etowah",
     "state": "Alabama",
     "fips": "01055",
-    "cases": 5,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -9621,7 +9621,7 @@
     "county": "Otero",
     "state": "Colorado",
     "fips": "08089",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -9635,7 +9635,7 @@
     "county": "Decatur",
     "state": "Georgia",
     "fips": "13087",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -9677,14 +9677,14 @@
     "county": "Thomas",
     "state": "Georgia",
     "fips": "13275",
-    "cases": 3,
+    "cases": 7,
     "deaths": 0
   },
   {
     "county": "Ware",
     "state": "Georgia",
     "fips": "13299",
-    "cases": 2,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -9761,7 +9761,7 @@
     "county": "Morgan",
     "state": "Illinois",
     "fips": "17137",
-    "cases": 1,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -9775,21 +9775,21 @@
     "county": "Jasper",
     "state": "Indiana",
     "fips": "18073",
-    "cases": 4,
+    "cases": 5,
     "deaths": 1
   },
   {
     "county": "Rush",
     "state": "Indiana",
     "fips": "18139",
-    "cases": 3,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Benton",
     "state": "Iowa",
     "fips": "19011",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -9810,8 +9810,8 @@
     "county": "Shawnee",
     "state": "Kansas",
     "fips": "20177",
-    "cases": 5,
-    "deaths": 0
+    "cases": 7,
+    "deaths": 1
   },
   {
     "county": "Grayson",
@@ -9845,7 +9845,7 @@
     "county": "Jackson",
     "state": "Louisiana",
     "fips": "22049",
-    "cases": 3,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -9866,7 +9866,7 @@
     "county": "Union",
     "state": "Louisiana",
     "fips": "22111",
-    "cases": 4,
+    "cases": 7,
     "deaths": 0
   },
   {
@@ -9901,7 +9901,7 @@
     "county": "Lenawee",
     "state": "Michigan",
     "fips": "26091",
-    "cases": 8,
+    "cases": 11,
     "deaths": 0
   },
   {
@@ -9929,7 +9929,7 @@
     "county": "Van Buren",
     "state": "Michigan",
     "fips": "26159",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -9964,7 +9964,7 @@
     "county": "Prentiss",
     "state": "Mississippi",
     "fips": "28117",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -9992,14 +9992,14 @@
     "county": "Newton",
     "state": "Missouri",
     "fips": "29145",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Platte",
     "state": "Missouri",
     "fips": "29165",
-    "cases": 5,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -10034,7 +10034,7 @@
     "county": "Dodge",
     "state": "Nebraska",
     "fips": "31053",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -10048,7 +10048,7 @@
     "county": "Eddy",
     "state": "New Mexico",
     "fips": "35015",
-    "cases": 2,
+    "cases": 3,
     "deaths": 1
   },
   {
@@ -10062,14 +10062,14 @@
     "county": "Chautauqua",
     "state": "New York",
     "fips": "36013",
-    "cases": 1,
+    "cases": 5,
     "deaths": 0
   },
   {
     "county": "Franklin",
     "state": "New York",
     "fips": "36033",
-    "cases": 2,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -10097,7 +10097,7 @@
     "county": "Cleveland",
     "state": "North Carolina",
     "fips": "37045",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -10132,7 +10132,7 @@
     "county": "Northampton",
     "state": "North Carolina",
     "fips": "37131",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -10146,7 +10146,7 @@
     "county": "Stark",
     "state": "North Dakota",
     "fips": "38089",
-    "cases": 7,
+    "cases": 9,
     "deaths": 0
   },
   {
@@ -10174,21 +10174,21 @@
     "county": "Pickaway",
     "state": "Ohio",
     "fips": "39129",
-    "cases": 2,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Seneca",
     "state": "Ohio",
     "fips": "39147",
-    "cases": 2,
+    "cases": 1,
     "deaths": 0
   },
   {
     "county": "Wayne",
     "state": "Ohio",
     "fips": "39169",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -10216,21 +10216,21 @@
     "county": "Creek",
     "state": "Oklahoma",
     "fips": "40037",
-    "cases": 14,
+    "cases": 16,
     "deaths": 1
   },
   {
     "county": "Delaware",
     "state": "Oklahoma",
     "fips": "40041",
-    "cases": 2,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Osage",
     "state": "Oklahoma",
     "fips": "40113",
-    "cases": 5,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -10244,7 +10244,7 @@
     "county": "Stephens",
     "state": "Oklahoma",
     "fips": "40137",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -10258,14 +10258,14 @@
     "county": "Greene",
     "state": "Pennsylvania",
     "fips": "42059",
-    "cases": 4,
+    "cases": 6,
     "deaths": 0
   },
   {
     "county": "Lawrence",
     "state": "Pennsylvania",
     "fips": "42073",
-    "cases": 4,
+    "cases": 8,
     "deaths": 0
   },
   {
@@ -10335,14 +10335,14 @@
     "county": "Williamsburg",
     "state": "South Carolina",
     "fips": "45089",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Lincoln",
     "state": "South Dakota",
     "fips": "46083",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -10419,7 +10419,7 @@
     "county": "Eastland",
     "state": "Texas",
     "fips": "48133",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -10468,8 +10468,8 @@
     "county": "Hardin",
     "state": "Texas",
     "fips": "48199",
-    "cases": 4,
-    "deaths": 0
+    "cases": 6,
+    "deaths": 1
   },
   {
     "county": "Hopkins",
@@ -10496,14 +10496,14 @@
     "county": "Kendall",
     "state": "Texas",
     "fips": "48259",
-    "cases": 4,
+    "cases": 6,
     "deaths": 0
   },
   {
     "county": "Lamar",
     "state": "Texas",
     "fips": "48277",
-    "cases": 1,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -10552,7 +10552,7 @@
     "county": "Robertson",
     "state": "Texas",
     "fips": "48395",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -10573,14 +10573,14 @@
     "county": "Tom Green",
     "state": "Texas",
     "fips": "48451",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Walker",
     "state": "Texas",
     "fips": "48471",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -10594,14 +10594,14 @@
     "county": "Wilson",
     "state": "Texas",
     "fips": "48493",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Lamoille",
     "state": "Vermont",
     "fips": "50015",
-    "cases": 6,
+    "cases": 9,
     "deaths": 0
   },
   {
@@ -10629,28 +10629,28 @@
     "county": "Madison",
     "state": "Virginia",
     "fips": "51113",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Manassas city",
     "state": "Virginia",
     "fips": "51683",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Mathews",
     "state": "Virginia",
     "fips": "51115",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Nelson",
     "state": "Virginia",
     "fips": "51125",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -10692,14 +10692,14 @@
     "county": "Okanogan",
     "state": "Washington",
     "fips": "53047",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Hancock",
     "state": "West Virginia",
     "fips": "54029",
-    "cases": 1,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -10713,7 +10713,7 @@
     "county": "Marion",
     "state": "West Virginia",
     "fips": "54049",
-    "cases": 3,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -10769,7 +10769,7 @@
     "county": "Bullock",
     "state": "Alabama",
     "fips": "01011",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -10811,7 +10811,7 @@
     "county": "Marengo",
     "state": "Alabama",
     "fips": "01091",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -10825,7 +10825,7 @@
     "county": "Mohave",
     "state": "Arizona",
     "fips": "04015",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -10860,7 +10860,7 @@
     "county": "Kit Carson",
     "state": "Colorado",
     "fips": "08063",
-    "cases": 2,
+    "cases": 1,
     "deaths": 0
   },
   {
@@ -10888,21 +10888,21 @@
     "county": "Calhoun",
     "state": "Georgia",
     "fips": "13037",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Franklin",
     "state": "Georgia",
     "fips": "13119",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Haralson",
     "state": "Georgia",
     "fips": "13143",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -10944,7 +10944,7 @@
     "county": "Tazewell",
     "state": "Illinois",
     "fips": "17179",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -10958,7 +10958,7 @@
     "county": "Marshall",
     "state": "Indiana",
     "fips": "18099",
-    "cases": 4,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -10972,7 +10972,7 @@
     "county": "Posey",
     "state": "Indiana",
     "fips": "18129",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -11042,14 +11042,14 @@
     "county": "Boone",
     "state": "Kentucky",
     "fips": "21015",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Hopkins",
     "state": "Kentucky",
     "fips": "21107",
-    "cases": 1,
+    "cases": 2,
     "deaths": 1
   },
   {
@@ -11063,7 +11063,7 @@
     "county": "Mercer",
     "state": "Kentucky",
     "fips": "21167",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -11084,14 +11084,14 @@
     "county": "East Feliciana",
     "state": "Louisiana",
     "fips": "22037",
-    "cases": 5,
+    "cases": 6,
     "deaths": 0
   },
   {
     "county": "LaSalle",
     "state": "Louisiana",
     "fips": "22059",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -11105,21 +11105,21 @@
     "county": "Pointe Coupee",
     "state": "Louisiana",
     "fips": "22077",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Vermilion",
     "state": "Louisiana",
     "fips": "22113",
-    "cases": 2,
-    "deaths": 0
+    "cases": 3,
+    "deaths": 1
   },
   {
     "county": "Franklin",
     "state": "Maine",
     "fips": "23007",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -11175,7 +11175,7 @@
     "county": "Unknown",
     "state": "Michigan",
     "fips": "",
-    "cases": 23,
+    "cases": 47,
     "deaths": 0
   },
   {
@@ -11210,14 +11210,14 @@
     "county": "Lauderdale",
     "state": "Mississippi",
     "fips": "28075",
-    "cases": 10,
+    "cases": 12,
     "deaths": 0
   },
   {
     "county": "Quitman",
     "state": "Mississippi",
     "fips": "28119",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -11245,7 +11245,7 @@
     "county": "Carter",
     "state": "Missouri",
     "fips": "29035",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -11280,7 +11280,7 @@
     "county": "Hall",
     "state": "Nebraska",
     "fips": "31079",
-    "cases": 2,
+    "cases": 3,
     "deaths": 1
   },
   {
@@ -11322,14 +11322,14 @@
     "county": "Athens",
     "state": "Ohio",
     "fips": "39009",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Jefferson",
     "state": "Ohio",
     "fips": "39081",
-    "cases": 1,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -11385,15 +11385,15 @@
     "county": "Ottawa",
     "state": "Oklahoma",
     "fips": "40115",
-    "cases": 1,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Sequoyah",
     "state": "Oklahoma",
     "fips": "40135",
-    "cases": 1,
-    "deaths": 0
+    "cases": 2,
+    "deaths": 1
   },
   {
     "county": "Tillamook",
@@ -11413,14 +11413,14 @@
     "county": "Blair",
     "state": "Pennsylvania",
     "fips": "42013",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Crawford",
     "state": "Pennsylvania",
     "fips": "42039",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -11441,21 +11441,21 @@
     "county": "Benton",
     "state": "Tennessee",
     "fips": "47005",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Cannon",
     "state": "Tennessee",
     "fips": "47015",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Macon",
     "state": "Tennessee",
     "fips": "47111",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -11476,14 +11476,14 @@
     "county": "Angelina",
     "state": "Texas",
     "fips": "48005",
-    "cases": 2,
+    "cases": 1,
     "deaths": 0
   },
   {
     "county": "Calhoun",
     "state": "Texas",
     "fips": "48057",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -11532,7 +11532,7 @@
     "county": "Val Verde",
     "state": "Texas",
     "fips": "48465",
-    "cases": 2,
+    "cases": 4,
     "deaths": 0
   },
   {
@@ -11547,7 +11547,7 @@
     "state": "Utah",
     "fips": "",
     "cases": 17,
-    "deaths": 0
+    "deaths": 1
   },
   {
     "county": "Amelia",
@@ -11560,7 +11560,7 @@
     "county": "Fauquier",
     "state": "Virginia",
     "fips": "51061",
-    "cases": 4,
+    "cases": 6,
     "deaths": 0
   },
   {
@@ -11574,14 +11574,14 @@
     "county": "Hampton city",
     "state": "Virginia",
     "fips": "51650",
-    "cases": 5,
+    "cases": 7,
     "deaths": 0
   },
   {
     "county": "King George",
     "state": "Virginia",
     "fips": "51099",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -11609,7 +11609,7 @@
     "county": "Poquoson city",
     "state": "Virginia",
     "fips": "51735",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -11693,7 +11693,7 @@
     "county": "Johnson",
     "state": "Wyoming",
     "fips": "56019",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -11714,14 +11714,14 @@
     "county": "Greene",
     "state": "Alabama",
     "fips": "01063",
-    "cases": 1,
+    "cases": 3,
     "deaths": 0
   },
   {
     "county": "Randolph",
     "state": "Alabama",
     "fips": "01111",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -11812,7 +11812,7 @@
     "county": "Upson",
     "state": "Georgia",
     "fips": "13293",
-    "cases": 2,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -11833,14 +11833,14 @@
     "county": "Henry",
     "state": "Illinois",
     "fips": "17073",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Iroquois",
     "state": "Illinois",
     "fips": "17075",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -11882,7 +11882,7 @@
     "county": "Kosciusko",
     "state": "Indiana",
     "fips": "18085",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -11945,7 +11945,7 @@
     "county": "Marshall",
     "state": "Iowa",
     "fips": "19127",
-    "cases": 1,
+    "cases": 5,
     "deaths": 0
   },
   {
@@ -11980,7 +11980,7 @@
     "county": "Coffey",
     "state": "Kansas",
     "fips": "20031",
-    "cases": 1,
+    "cases": 8,
     "deaths": 0
   },
   {
@@ -12029,7 +12029,7 @@
     "county": "Campbell",
     "state": "Kentucky",
     "fips": "21037",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -12050,14 +12050,14 @@
     "county": "West Feliciana",
     "state": "Louisiana",
     "fips": "22125",
-    "cases": 1,
+    "cases": 4,
     "deaths": 0
   },
   {
     "county": "Cass",
     "state": "Michigan",
     "fips": "26027",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -12078,7 +12078,7 @@
     "county": "Gratiot",
     "state": "Michigan",
     "fips": "26057",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -12092,7 +12092,7 @@
     "county": "Beltrami",
     "state": "Minnesota",
     "fips": "27007",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -12134,7 +12134,7 @@
     "county": "Neshoba",
     "state": "Mississippi",
     "fips": "28099",
-    "cases": 1,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -12169,7 +12169,7 @@
     "county": "Buchanan",
     "state": "Missouri",
     "fips": "29021",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -12218,14 +12218,14 @@
     "county": "Lake",
     "state": "Montana",
     "fips": "30047",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
     "county": "Park",
     "state": "Montana",
     "fips": "30067",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -12274,7 +12274,7 @@
     "county": "Shelby",
     "state": "Ohio",
     "fips": "39149",
-    "cases": 1,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -12400,7 +12400,7 @@
     "county": "Hood",
     "state": "Texas",
     "fips": "48221",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0
   },
   {
@@ -12442,7 +12442,7 @@
     "county": "Taylor",
     "state": "Texas",
     "fips": "48441",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -12512,7 +12512,7 @@
     "county": "Greenbrier",
     "state": "West Virginia",
     "fips": "54025",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0
   },
   {
@@ -12548,7 +12548,7 @@
     "state": "Wisconsin",
     "fips": "55135",
     "cases": 1,
-    "deaths": 0
+    "deaths": 1
   },
   {
     "county": "Goshen",
@@ -12565,66 +12565,808 @@
     "deaths": 0
   },
   {
+    "county": "Monroe",
+    "state": "Alabama",
+    "fips": "01099",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Gila",
+    "state": "Arizona",
+    "fips": "04007",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Johnson",
+    "state": "Arkansas",
+    "fips": "05071",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Glenn",
+    "state": "California",
+    "fips": "06021",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Baca",
+    "state": "Colorado",
+    "fips": "08009",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Moffat",
+    "state": "Colorado",
+    "fips": "08081",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "county": "Hendry",
+    "state": "Florida",
+    "fips": "12051",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Bulloch",
+    "state": "Georgia",
+    "fips": "13031",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Jenkins",
+    "state": "Georgia",
+    "fips": "13165",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Murray",
+    "state": "Georgia",
+    "fips": "13213",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "county": "Pike",
+    "state": "Georgia",
+    "fips": "13231",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Wheeler",
+    "state": "Georgia",
+    "fips": "13309",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Bonneville",
+    "state": "Idaho",
+    "fips": "16019",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Lincoln",
+    "state": "Idaho",
+    "fips": "16063",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Carroll",
+    "state": "Illinois",
+    "fips": "17015",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Fayette",
+    "state": "Illinois",
+    "fips": "17051",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Macon",
+    "state": "Illinois",
+    "fips": "17115",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Crawford",
+    "state": "Indiana",
+    "fips": "18025",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Newton",
+    "state": "Indiana",
+    "fips": "18111",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Switzerland",
+    "state": "Indiana",
+    "fips": "18155",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Vermillion",
+    "state": "Indiana",
+    "fips": "18165",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Wabash",
+    "state": "Indiana",
+    "fips": "18169",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "White",
+    "state": "Indiana",
+    "fips": "18181",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Boone",
+    "state": "Iowa",
+    "fips": "19015",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Keokuk",
+    "state": "Iowa",
+    "fips": "19107",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Shelby",
+    "state": "Iowa",
+    "fips": "19165",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Taylor",
+    "state": "Iowa",
+    "fips": "19173",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Miami",
+    "state": "Kansas",
+    "fips": "20121",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Boyle",
+    "state": "Kentucky",
+    "fips": "21021",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Bracken",
+    "state": "Kentucky",
+    "fips": "21023",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Breckinridge",
+    "state": "Kentucky",
+    "fips": "21027",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "county": "Butler",
+    "state": "Kentucky",
+    "fips": "21031",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Carroll",
+    "state": "Kentucky",
+    "fips": "21041",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Floyd",
+    "state": "Kentucky",
+    "fips": "21071",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Grant",
+    "state": "Kentucky",
+    "fips": "21081",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Nicholas",
+    "state": "Kentucky",
+    "fips": "21181",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Shelby",
+    "state": "Kentucky",
+    "fips": "21211",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Washington",
+    "state": "Kentucky",
+    "fips": "21229",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "county": "East Carroll",
+    "state": "Louisiana",
+    "fips": "22035",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Franklin",
+    "state": "Louisiana",
+    "fips": "22041",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "county": "Osceola",
+    "state": "Michigan",
+    "fips": "26133",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Clearwater",
+    "state": "Minnesota",
+    "fips": "27029",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Lyon",
+    "state": "Minnesota",
+    "fips": "27083",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Clarke",
+    "state": "Mississippi",
+    "fips": "28023",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Covington",
+    "state": "Mississippi",
+    "fips": "28031",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Ripley",
+    "state": "Missouri",
+    "fips": "29181",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Warren",
+    "state": "Missouri",
+    "fips": "29219",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Gosper",
+    "state": "Nebraska",
+    "fips": "31073",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Platte",
+    "state": "Nebraska",
+    "fips": "31141",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Humboldt",
+    "state": "Nevada",
+    "fips": "32013",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Cattaraugus",
+    "state": "New York",
+    "fips": "36009",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Schuyler",
+    "state": "New York",
+    "fips": "36097",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Edgecombe",
+    "state": "North Carolina",
+    "fips": "37065",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Perquimans",
+    "state": "North Carolina",
+    "fips": "37143",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Polk",
+    "state": "North Carolina",
+    "fips": "37149",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "county": "Barnes",
+    "state": "North Dakota",
+    "fips": "38003",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "county": "Divide",
+    "state": "North Dakota",
+    "fips": "38023",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "McLean",
+    "state": "North Dakota",
+    "fips": "38055",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "county": "Mercer",
+    "state": "North Dakota",
+    "fips": "38057",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Mountrail",
+    "state": "North Dakota",
+    "fips": "38061",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "county": "Sioux",
+    "state": "North Dakota",
+    "fips": "38085",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Unknown",
+    "state": "Northern Mariana Islands",
+    "fips": "",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "county": "Allen",
+    "state": "Ohio",
+    "fips": "39003",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "county": "Auglaize",
+    "state": "Ohio",
+    "fips": "39011",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Ottawa",
+    "state": "Ohio",
+    "fips": "39123",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Pike",
+    "state": "Ohio",
+    "fips": "39131",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Van Wert",
+    "state": "Ohio",
+    "fips": "39161",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Le Flore",
+    "state": "Oklahoma",
+    "fips": "40079",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Nowata",
+    "state": "Oklahoma",
+    "fips": "40105",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Cameron",
+    "state": "Pennsylvania",
+    "fips": "42023",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Clarion",
+    "state": "Pennsylvania",
+    "fips": "42031",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Huntingdon",
+    "state": "Pennsylvania",
+    "fips": "42061",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "McKean",
+    "state": "Pennsylvania",
+    "fips": "42083",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Perry",
+    "state": "Pennsylvania",
+    "fips": "42099",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Snyder",
+    "state": "Pennsylvania",
+    "fips": "42109",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Tioga",
+    "state": "Pennsylvania",
+    "fips": "42117",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Laurens",
+    "state": "South Carolina",
+    "fips": "45059",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "county": "Deuel",
+    "state": "South Dakota",
+    "fips": "46039",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Hamlin",
+    "state": "South Dakota",
+    "fips": "46057",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Hutchinson",
+    "state": "South Dakota",
+    "fips": "46067",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "county": "Yankton",
+    "state": "South Dakota",
+    "fips": "46135",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Bledsoe",
+    "state": "Tennessee",
+    "fips": "47007",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "county": "Carter",
+    "state": "Tennessee",
+    "fips": "47019",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Decatur",
+    "state": "Tennessee",
+    "fips": "47039",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Hardeman",
+    "state": "Tennessee",
+    "fips": "47069",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Johnson",
+    "state": "Tennessee",
+    "fips": "47091",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Morgan",
+    "state": "Tennessee",
+    "fips": "47129",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Trousdale",
+    "state": "Tennessee",
+    "fips": "47169",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Union",
+    "state": "Tennessee",
+    "fips": "47173",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Andrews",
+    "state": "Texas",
+    "fips": "48003",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Burleson",
+    "state": "Texas",
+    "fips": "48051",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Caldwell",
+    "state": "Texas",
+    "fips": "48055",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Lamb",
+    "state": "Texas",
+    "fips": "48279",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Lynn",
+    "state": "Texas",
+    "fips": "48305",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Washington",
+    "state": "Texas",
+    "fips": "48477",
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "county": "Garfield",
+    "state": "Utah",
+    "fips": "49017",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "San Juan",
+    "state": "Utah",
+    "fips": "49037",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Hopewell city",
+    "state": "Virginia",
+    "fips": "51670",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Lancaster",
+    "state": "Virginia",
+    "fips": "51103",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Montgomery",
+    "state": "Virginia",
+    "fips": "51121",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "New Kent",
+    "state": "Virginia",
+    "fips": "51127",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Northumberland",
+    "state": "Virginia",
+    "fips": "51133",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "county": "Powhatan",
+    "state": "Virginia",
+    "fips": "51145",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Oneida",
+    "state": "Wisconsin",
+    "fips": "55085",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Converse",
+    "state": "Wyoming",
+    "fips": "56009",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "county": "Sublette",
+    "state": "Wyoming",
+    "fips": "56035",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
     "county": "Cass",
     "state": "Missouri",
     "fips": "29037",
-    "cases": 20,
+    "cases": 24,
     "deaths": 0
   },
   {
     "county": "Clay",
     "state": "Missouri",
     "fips": "29047",
-    "cases": 20,
+    "cases": 24,
     "deaths": 0
   },
   {
     "county": "Jackson",
     "state": "Missouri",
     "fips": "29095",
-    "cases": 20,
+    "cases": 24,
     "deaths": 0
   },
   {
     "county": "Platte",
     "state": "Missouri",
     "fips": "29165",
-    "cases": 20,
+    "cases": 24,
     "deaths": 0
   },
   {
     "county": "Bronx",
     "state": "New York",
     "fips": "36005",
-    "cases": 5080,
-    "deaths": 90
+    "cases": 6153,
+    "deaths": 134
   },
   {
     "county": "Kings",
     "state": "New York",
     "fips": "36047",
-    "cases": 5080,
-    "deaths": 90
+    "cases": 6153,
+    "deaths": 134
   },
   {
     "county": "New York",
     "state": "New York",
     "fips": "36061",
-    "cases": 5080,
-    "deaths": 90
+    "cases": 6153,
+    "deaths": 134
   },
   {
     "county": "Queens",
     "state": "New York",
     "fips": "36081",
-    "cases": 5080,
-    "deaths": 90
+    "cases": 6153,
+    "deaths": 134
   },
   {
     "county": "Richmond",
     "state": "New York",
     "fips": "36085",
-    "cases": 5080,
-    "deaths": 90
+    "cases": 6153,
+    "deaths": 134
   }
 ]
