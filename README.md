@@ -35,8 +35,6 @@ This installs dependencies, pulls latest NYTimes data, and parses the data.
 ## Resources
 
 - GitHub - [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data)
-- [Highcharts County Example](http://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/maps/demo/us-counties)
-- [us-state-capitals](https://gist.github.com/kiwiholmberg/8433478)
 
 ## Hire Me?
 

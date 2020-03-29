@@ -1,12 +1,24 @@
 import Color from 'color'
 import Highcharts from 'highcharts'
 import HighchartsReact from 'highcharts-react-official'
+import exporting from 'highcharts/modules/exporting'
 import map from 'highcharts/modules/map'
 import PropTypes from 'prop-types'
 import React from 'react'
+// import darkUnica from 'highcharts/themes/dark-unica'
 import './CountryMap.css'
 
+exporting(Highcharts)
 map(Highcharts)
+// darkUnica(Highcharts)
+
+Highcharts.setOptions({
+  chart: {
+    style: {
+      fontFamily: 'Lato',
+    },
+  },
+})
 
 const DEFAULT_BORDER_COLOR = '#DDDDDD'
 
@@ -51,20 +63,42 @@ function CountryMap({
     : {}
 
   const options = {
+    chart: {
+      fontFamily: 'Lato',
+    },
     colorAxis: {
       max: colorMaxValue,
       min: colorMinValue,
       stops: colorStops,
       tickInterval: colorValueInterval,
     },
+    exporting: {
+      enabled: true,
+      buttons: {
+        contextButton: {
+          menuItems: [
+            ...Highcharts.getOptions().exporting.buttons.contextButton.menuItems,
+            'separator',
+            {
+              text: 'County',
+              onclick: () => (window.location.href = '/county'),
+            },
+            {
+              text: 'State',
+              onclick: () => (window.location.href = '/'),
+            },
+          ],
+        },
+      },
+    },
     legend: {
-      align: 'right',
       backgroundColor:
         Highcharts.defaultOptions &&
         Highcharts.defaultOptions.legend &&
         Highcharts.defaultOptions.legend.backgroundColor,
       floating: true,
       layout: 'vertical',
+      align: 'right',
     },
     mapNavigation: {
       buttonOptions: {
@@ -85,6 +119,10 @@ function CountryMap({
       {
         borderWidth: 0.5,
         data,
+        dataLabels: {
+          enabled: true,
+          format: '{point.properties.postal-code}',
+        },
         joinBy: seriesJoinBy,
         mapData,
         name: tooltipTitle,

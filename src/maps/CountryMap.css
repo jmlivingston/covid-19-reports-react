@@ -1,3 +1,7 @@
+.highcharts-wrapper {
+  padding-top: 10px;
+}
+
 .highcharts-wrapper,
 .highcharts-wrapper > div {
   height: 100%;
