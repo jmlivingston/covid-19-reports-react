@@ -17,7 +17,9 @@ function getTitle({ title }) {
   <br />
   <a style="font-size:12px; text-decoration:underline; color: gray" target="_blank" href="mailto:jmlivingston@gmail.com?subject=I saw your Covid-19 map and want to hire you!">Hire Me!</a>
   <span style="font-size:12px"> | </span>
-  <a style="font-size:12px; text-decoration:underline; color: gray" target="_blank" href="https://www.johnlivingston.io/">johnlivingston.io</a>`
+  <a style="font-size:12px; text-decoration:underline; color: gray" target="_blank" href="https://www.johnlivingston.io/">johnlivingston.io</a>
+  <span style="font-size:12px"> | </span>
+  <a style="font-size:12px; text-decoration:underline; color: gray" target="_blank" href="https://github.com/jmlivingston/covid-19-reports-react">Source Code</a>`
 }
 
 export { getTitle }
