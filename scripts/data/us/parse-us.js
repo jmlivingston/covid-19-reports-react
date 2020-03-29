@@ -42,31 +42,31 @@ if (fs.existsSync(dataPath)) {
     const usCountiesTotalJson = usCountiesJson.reduce((acc, value) => {
       let newValue = {}
 
-      if (acc[`${value.state}-${value.county}`]) {
-        newValue = {
-          ...acc,
-          [`${value.state}-${value.county}`]: {
-            ...value,
-            cases:
-              acc[`${value.state}-${value.county}`].cases + value.cases
-                ? parseInt(value.cases)
-                : 0,
-            deaths:
-              acc[`${value.state}-${value.county}`].deaths + value.deaths
-                ? parseInt(value.deaths)
-                : 0
-          }
-        }
-      } else {
-        newValue = {
-          ...acc,
-          [`${value.state}-${value.county}`]: {
-            ...value,
-            cases: value.cases ? parseInt(value.cases) : 0,
-            deaths: value.deaths ? parseInt(value.deaths) : 0
-          }
+      // if (acc[`${value.state}-${value.county}`]) {
+      //   newValue = {
+      //     ...acc,
+      //     [`${value.state}-${value.county}`]: {
+      //       ...value,
+      //       cases:
+      //         acc[`${value.state}-${value.county}`].cases + value.cases
+      //           ? parseInt(value.cases)
+      //           : 0,
+      //       deaths:
+      //         acc[`${value.state}-${value.county}`].deaths + value.deaths
+      //           ? parseInt(value.deaths)
+      //           : 0
+      //     }
+      //   }
+      // } else {
+      newValue = {
+        ...acc,
+        [`${value.state}-${value.county}`]: {
+          ...value,
+          cases: value.cases ? parseInt(value.cases) : 0,
+          deaths: value.deaths ? parseInt(value.deaths) : 0
         }
       }
+      // }
       return newValue
     }, {})
 
@@ -133,8 +133,8 @@ if (fs.existsSync(dataPath)) {
         const columns = value.split(',')
         // const stateCode = states.getStateCodeByStateName(columns[1])
         // const stateInfo = usStateCapitals[stateCode]
-        summary.cases += parseInt(columns[3])
-        summary.deaths += parseInt(columns[4])
+        // summary.cases += parseInt(columns[3])
+        // summary.deaths += parseInt(columns[4])
 
         return {
           // date: columns[0],
@@ -154,29 +154,29 @@ if (fs.existsSync(dataPath)) {
     const usStatesTotalJson = usStatesJson.reduce((acc, value) => {
       let newValue = {}
 
-      if (acc[value.state]) {
-        newValue = {
-          ...acc,
-          [value.state]: {
-            ...value,
-            cases:
-              acc[value.state].cases + value.cases ? parseInt(value.cases) : 0,
-            deaths:
-              acc[value.state].deaths + value.deaths
-                ? parseInt(value.deaths)
-                : 0
-          }
-        }
-      } else {
-        newValue = {
-          ...acc,
-          [value.state]: {
-            ...value,
-            cases: value.cases ? parseInt(value.cases) : 0,
-            deaths: value.deaths ? parseInt(value.deaths) : 0
-          }
+      // if (acc[value.state]) {
+      //   newValue = {
+      //     ...acc,
+      //     [value.state]: {
+      //       ...value,
+      //       cases:
+      //         acc[value.state].cases + value.cases ? parseInt(value.cases) : 0,
+      //       deaths:
+      //         acc[value.state].deaths + value.deaths
+      //           ? parseInt(value.deaths)
+      //           : 0
+      //     }
+      //   }
+      // } else {
+      newValue = {
+        ...acc,
+        [value.state]: {
+          ...value,
+          cases: value.cases ? parseInt(value.cases) : 0,
+          deaths: value.deaths ? parseInt(value.deaths) : 0
         }
       }
+      // }
       return newValue
     }, {})
 
@@ -188,6 +188,11 @@ if (fs.existsSync(dataPath)) {
       path.join(parsedDataPath, 'us-states-total.json'),
       JSON.stringify(usStatesTotalArray, null, 2)
     )
+
+    usStatesTotalArray.forEach(state => {
+      summary.cases += parseInt(state.cases)
+      summary.deaths += parseInt(state.deaths)
+    })
 
     fs.writeFileSync(
       path.join(parsedDataPath, 'us-summary.json'),
