@@ -1,5 +1,5 @@
-import { Router } from '@reach/router'
 import React, { lazy, Suspense } from 'react'
+import { BrowserRouter, Route, Switch } from 'react-router-dom'
 import './App.css'
 import Footer from './Footer'
 import Header from './Header'
@@ -10,20 +10,28 @@ const USByState = lazy(() => import('../maps/us/USByState'))
 
 function App() {
   return (
-    <>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Header />
       <Suspense fallback={<Loader />}>
         <div className="content">
-          <Router>
-            <USByState path="/" />
-            <USByState path="/state/:reportType" />
-            <USByCounty path="/county/:reportType" />
-            <USByState default />
-          </Router>
+          <Switch>
+            <Route exact path="/">
+              <USByState />
+            </Route>
+            <Route exact path="/state/:reportType">
+              <USByState />
+            </Route>
+            <Route exact path="/county/:reportType">
+              <USByCounty />
+            </Route>
+            <Route>
+              <USByState />
+            </Route>
+          </Switch>
         </div>
       </Suspense>
       <Footer />
-    </>
+    </BrowserRouter>
   )
 }
 

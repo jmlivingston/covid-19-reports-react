@@ -1,16 +1,10 @@
-import { Link, navigate } from '@reach/router'
-import React, { useState } from 'react'
+import PropTypes from 'prop-types'
+import React from 'react'
+import { withRouter } from 'react-router'
+import { Link } from 'react-router-dom'
 import './Header.css'
 
-function Header() {
-  const [path, setPath] = useState(window.location.pathname)
-  const navigatePath = (newPath) => {
-    setPath(newPath)
-    setTimeout(() => {
-      // ugly hack
-      navigate(newPath)
-    }, 0)
-  }
+function Header({ location, history }) {
   return (
     <header>
       <Link to="/" className="header-home">
@@ -18,24 +12,28 @@ function Header() {
       </Link>
       <div className="header-buttons">
         <button
-          className={`${path === '/' || path === '/state/deaths' ? 'active' : ''}`}
-          onClick={() => navigatePath('/state/deaths')}>
+          className={`${location.pathname === '/' || location.pathname === '/state/deaths' ? 'active' : ''}`}
+          onClick={() => history.push('/state/deaths')}>
           State Deaths
         </button>
-        <button className={`${path === '/state/cases' ? 'active' : ''}`} onClick={() => navigatePath('/state/cases')}>
+        <button
+          className={`${location.pathname === '/state/cases' ? 'active' : ''}`}
+          onClick={() => history.push('/state/cases')}>
           State Cases
         </button>
         <button
-          className={`${path === '/county/deaths' ? 'active' : ''}`}
-          onClick={() => navigatePath('/county/deaths')}>
+          className={`${location.pathname === '/county/deaths' ? 'active' : ''}`}
+          onClick={() => history.push('/county/deaths')}>
           County Deaths
         </button>
-        <button className={`${path === '/county/cases' ? 'active' : ''}`} onClick={() => navigatePath('/county/cases')}>
+        <button
+          className={`${location.pathname === '/county/cases' ? 'active' : ''}`}
+          onClick={() => history.push('/county/cases')}>
           County Cases
         </button>
       </div>
       <div className="header-mobile-buttons">
-        <select onChange={(e) => navigatePath(e.target.value)} value={path}>
+        <select onChange={(e) => history.push(e.target.value)} value={location.pathname}>
           <option value="/state/deaths">State Deaths</option>
           <option value="/state/cases">State Cases</option>
           <option value="/county/deaths">County Deaths</option>
@@ -47,4 +45,9 @@ function Header() {
   )
 }
 
-export default Header
+Header.propTypes = {
+  history: PropTypes.object,
+  location: PropTypes.object,
+}
+
+export default withRouter(Header)

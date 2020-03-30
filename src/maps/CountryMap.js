@@ -156,7 +156,7 @@ function CountryMap({
   return colorMaxValue && colorValueInterval && data && mapData && seriesJoinBy ? (
     <Suspense fallback={<Loader />}>
       <div className="highcharts-wrapper">
-        <HighchartsReact immutable={true} constructorType={'mapChart'} highcharts={Highcharts} options={options} />
+        <HighchartsReact constructorType={'mapChart'} highcharts={Highcharts} options={options} />
       </div>
     </Suspense>
   ) : (

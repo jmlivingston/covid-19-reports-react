@@ -1,6 +1,6 @@
 import mapData from '@highcharts/map-collection/countries/us/us-all.geo.json'
-import { useParams } from '@reach/router'
 import React, { useEffect, useState } from 'react'
+import { useParams } from 'react-router-dom'
 import Loader from '../../core/Loader'
 import CountryMap from '../../maps/CountryMap'
 import { getTitle } from './report-service'
@@ -11,6 +11,7 @@ function USByState() {
   const [data, setData] = useState([])
   const [maxValue, setMaxValue] = useState(0)
   useEffect(() => {
+    setData([])
     ;(async () => {
       const stateData = await import('./us-states-total.json')
       setData(stateData.default)

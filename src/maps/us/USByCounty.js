@@ -1,11 +1,10 @@
 import mapData from '@highcharts/map-collection/countries/us/us-all-all-highres.geo.json'
-import { useParams } from '@reach/router'
 import React, { useEffect, useState } from 'react'
+import { useParams } from 'react-router-dom'
 import Loader from '../../core/Loader'
 import CountryMap from '../../maps/CountryMap'
 import { getTitle } from './report-service'
 import borderLines from './us-border-lines-highres.json'
-// import data from './us-counties-total.json'
 import separatorLines from './us-separator-lines.json'
 
 function USByCounty() {
@@ -13,6 +12,7 @@ function USByCounty() {
   const [data, setData] = useState([])
   const [maxValue, setMaxValue] = useState(0)
   useEffect(() => {
+    setData([])
     ;(async () => {
       const stateData = await import('./us-counties-total.json')
       setData(stateData.default)
