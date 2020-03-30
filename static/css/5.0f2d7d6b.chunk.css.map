@@ -1,1 +1,0 @@
-{"version":3,"sources":["CountryMap.css"],"names":[],"mappings":"AAAA,oBACE,gBACF,CAEA,4CAEE,WAAY,CACZ,UACF","file":"5.0f2d7d6b.chunk.css","sourcesContent":[".highcharts-wrapper {\n  padding-top: 10px;\n}\n\n.highcharts-wrapper,\n.highcharts-wrapper > div {\n  height: 100%;\n  width: 100%;\n}\n"]}
