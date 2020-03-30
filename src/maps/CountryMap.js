@@ -1,6 +1,7 @@
 import Color from 'color'
 import Highcharts from 'highcharts'
-import exporting from 'highcharts/modules/exporting'
+// import exporting from 'highcharts/modules/exporting'
+import boost from 'highcharts/modules/boost'
 import map from 'highcharts/modules/map'
 import PropTypes from 'prop-types'
 import React, { lazy, Suspense } from 'react'
@@ -10,7 +11,8 @@ import './CountryMap.css'
 
 const HighchartsReact = lazy(() => import('highcharts-react-official'))
 
-exporting(Highcharts)
+// exporting(Highcharts)
+boost(Highcharts)
 map(Highcharts)
 // darkUnica(Highcharts)
 
@@ -65,6 +67,11 @@ function CountryMap({
     : {}
 
   const options = {
+    boost: {
+      enabled: true,
+      useGPUTranslations: true,
+      usePreallocated: true,
+    },
     chart: {
       fontFamily: 'Lato',
     },
@@ -74,9 +81,9 @@ function CountryMap({
       stops: colorStops,
       tickInterval: colorValueInterval,
     },
-    exporting: {
-      enabled: true,
-    },
+    // exporting: {
+    //   enabled: true,
+    // },
     legend: {
       backgroundColor:
         Highcharts.defaultOptions &&
