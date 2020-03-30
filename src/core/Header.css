@@ -21,7 +21,7 @@ header {
   display: none;
 }
 
-.header-buttons > button,
+.header-buttons > a,
 .header-mobile-buttons {
   font-size: 16px;
   border: 1px solid rgba(255, 255, 255, 0.6);
@@ -42,17 +42,17 @@ header {
   font-size: 16px;
 }
 
-.header-buttons > button:hover {
+.header-buttons > a:hover {
   text-decoration: none;
   background-color: rgba(0, 0, 0, 0.6);
 }
 
-.header-buttons > button.active {
+.header-buttons > a.active {
   background-color: rgba(255, 0, 0, 0.7);
   color: #ffffff;
 }
 
-.header-buttons > button.active:hover {
+.header-buttons > a.active:hover {
   background-color: rgba(255, 0, 0, 0.5);
   color: #ffffff;
 }

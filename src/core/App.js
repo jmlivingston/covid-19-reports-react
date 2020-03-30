@@ -1,5 +1,5 @@
 import React, { lazy, Suspense } from 'react'
-import { BrowserRouter, Route, Switch } from 'react-router-dom'
+import { HashRouter, Route, Switch } from 'react-router-dom'
 import './App.css'
 import Footer from './Footer'
 import Header from './Header'
@@ -12,21 +12,21 @@ const USDeathsByState = lazy(() => import('../maps/us/USDeathsByState'))
 
 function App() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <HashRouter>
       <Header />
       <Suspense fallback={<Loader />}>
         <div className="content">
           <Switch>
-            <Route exact path={`${process.env.PUBLIC_URL}/state/cases`}>
+            <Route exact path={`/state/cases`}>
               <USByState />
             </Route>
-            <Route exact path={`${process.env.PUBLIC_URL}/state/deaths`}>
+            <Route exact path={`/state/deaths`}>
               <USDeathsByState />
             </Route>
-            <Route exact path={`${process.env.PUBLIC_URL}/county/deaths`}>
+            <Route exact path={`/county/deaths`}>
               <USDeathsByCounty />
             </Route>
-            <Route exact path={`${process.env.PUBLIC_URL}/county/cases`}>
+            <Route exact path={`/county/cases`}>
               <USByCounty />
             </Route>
             <Route>
@@ -36,7 +36,7 @@ function App() {
         </div>
       </Suspense>
       <Footer />
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 
