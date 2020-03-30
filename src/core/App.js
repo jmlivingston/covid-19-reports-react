@@ -17,19 +17,16 @@ function App() {
       <Suspense fallback={<Loader />}>
         <div className="content">
           <Switch>
-            {/* <Route exact path="/">
-              <USByState />
-            </Route> */}
-            <Route exact path="/state/cases">
+            <Route exact path={`${process.env.PUBLIC_URL}/state/cases`}>
               <USByState />
             </Route>
-            <Route exact path="/state/deaths">
+            <Route exact path={`${process.env.PUBLIC_URL}/state/deaths`}>
               <USDeathsByState />
             </Route>
-            <Route exact path="/county/deaths">
+            <Route exact path={`${process.env.PUBLIC_URL}/county/deaths`}>
               <USDeathsByCounty />
             </Route>
-            <Route exact path="/county/cases">
+            <Route exact path={`${process.env.PUBLIC_URL}/county/cases`}>
               <USByCounty />
             </Route>
             <Route>

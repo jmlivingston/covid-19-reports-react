@@ -76,22 +76,6 @@ function CountryMap({
     },
     exporting: {
       enabled: true,
-      buttons: {
-        contextButton: {
-          menuItems: [
-            ...Highcharts.getOptions().exporting.buttons.contextButton.menuItems,
-            'separator',
-            {
-              text: 'County',
-              onclick: () => (window.location.href = '/county'),
-            },
-            {
-              text: 'State',
-              onclick: () => (window.location.href = '/'),
-            },
-          ],
-        },
-      },
     },
     legend: {
       backgroundColor:
