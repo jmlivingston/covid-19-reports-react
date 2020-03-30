@@ -6,7 +6,9 @@ import Header from './Header'
 import Loader from './Loader'
 
 const USByCounty = lazy(() => import('../maps/us/USByCounty'))
+const USDeathsByCounty = lazy(() => import('../maps/us/USDeathsByCounty'))
 const USByState = lazy(() => import('../maps/us/USByState'))
+const USDeathsByState = lazy(() => import('../maps/us/USDeathsByState'))
 
 function App() {
   return (
@@ -15,13 +17,19 @@ function App() {
       <Suspense fallback={<Loader />}>
         <div className="content">
           <Switch>
-            <Route exact path="/">
+            {/* <Route exact path="/">
+              <USByState />
+            </Route> */}
+            <Route exact path="/state/cases">
               <USByState />
             </Route>
-            <Route exact path="/state/:reportType">
-              <USByState />
+            <Route exact path="/state/deaths">
+              <USDeathsByState />
             </Route>
-            <Route exact path="/county/:reportType">
+            <Route exact path="/county/deaths">
+              <USDeathsByCounty />
+            </Route>
+            <Route exact path="/county/cases">
               <USByCounty />
             </Route>
             <Route>

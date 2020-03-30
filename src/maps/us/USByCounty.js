@@ -1,25 +1,17 @@
 import mapData from '@highcharts/map-collection/countries/us/us-all-all-highres.geo.json'
-import React, { useEffect, useState } from 'react'
-import { useParams } from 'react-router-dom'
-import Loader from '../../core/Loader'
+import React from 'react'
 import CountryMap from '../../maps/CountryMap'
 import { getTitle } from './report-service'
 import borderLines from './us-border-lines-highres.json'
+import data from './us-counties-total.json'
 import separatorLines from './us-separator-lines.json'
 
 function USByCounty() {
-  const { reportType = 'deaths' } = useParams()
-  const [data, setData] = useState([])
-  const [maxValue, setMaxValue] = useState(0)
-  useEffect(() => {
-    setData([])
-    ;(async () => {
-      const stateData = await import('./us-counties-total.json')
-      setData(stateData.default)
-      setMaxValue(stateData.default.sort((a, b) => (a[reportType] > b[reportType] ? -1 : 1))[0][reportType])
-    })()
-  }, [reportType])
-  return data.length ? (
+  // const { reportType = 'deaths' } = useParams()
+  const reportType = 'cases'
+
+  const maxValue = data.sort((a, b) => (a[reportType] > b[reportType] ? -1 : 1))[0][reportType]
+  return (
     <CountryMap
       baseColor="#FF0000"
       borderLines={borderLines}
@@ -37,8 +29,6 @@ function USByCounty() {
       tooltipHeader="County: {point.key}<br />"
       tooltipSuffix=""
     />
-  ) : (
-    <Loader />
   )
 }
 
