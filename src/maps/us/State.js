@@ -1,13 +1,13 @@
-import mapData from '@highcharts/map-collection/countries/us/us-all.geo.json'
+import PropTypes from 'prop-types'
 import React from 'react'
-import CountryMap from '../../maps/CountryMap'
+import CountryMap from '../CountryMap'
 import { getTitle } from './report-service'
-import separatorLines from './us-separator-lines.json'
-import data from './us-states-total.json'
 
-function USByState() {
+function State({ data, mapData }) {
   // const { reportType = 'deaths' } = useParams()
   const reportType = 'cases'
+
+  const mappedData = data
 
   const maxValue = data.sort((a, b) => (a[reportType] > b[reportType] ? -1 : 1))[0][reportType]
   return (
@@ -17,11 +17,11 @@ function USByState() {
       colorMaxValue={maxValue}
       colorMinValue={0}
       colorValueInterval={Math.round(maxValue / 5)}
-      data={data}
+      data={mappedData}
+      drilldown={(e) => {}}
       hasSeparatorLines={true}
       hoverColor="#A4EDBA"
       mapData={mapData}
-      separatorLines={separatorLines}
       seriesJoinBy={'fips'}
       title={getTitle({ title: `USA State ${reportType.charAt(0).toUpperCase() + reportType.slice(1)}` })}
       tooltipFormat="Deaths: {point.deaths}<br />Cases: {point.cases}<br />"
@@ -31,4 +31,9 @@ function USByState() {
   )
 }
 
-export default USByState
+State.propTypes = {
+  data: PropTypes.object,
+  mapData: PropTypes.object,
+}
+
+export default State

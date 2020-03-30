@@ -1,7 +1,8 @@
 import Color from 'color'
 import Highcharts from 'highcharts'
-// import exporting from 'highcharts/modules/exporting'
 import boost from 'highcharts/modules/boost'
+import drilldown from 'highcharts/modules/drilldown'
+import exporting from 'highcharts/modules/exporting'
 import map from 'highcharts/modules/map'
 import PropTypes from 'prop-types'
 import React, { lazy, Suspense } from 'react'
@@ -11,8 +12,9 @@ import './CountryMap.css'
 
 const HighchartsReact = lazy(() => import('highcharts-react-official'))
 
-// exporting(Highcharts)
+exporting(Highcharts)
 boost(Highcharts)
+drilldown(Highcharts)
 map(Highcharts)
 // darkUnica(Highcharts)
 
@@ -34,6 +36,7 @@ function CountryMap({
   colorMinValue,
   colorValueInterval,
   data,
+  drilldown,
   hoverColor = '#A4EDBA',
   mapData,
   separatorLines,
@@ -73,6 +76,9 @@ function CountryMap({
       usePreallocated: true,
     },
     chart: {
+      events: {
+        drilldown,
+      },
       fontFamily: 'Lato',
     },
     colorAxis: {
@@ -80,6 +86,20 @@ function CountryMap({
       min: colorMinValue,
       stops: colorStops,
       tickInterval: colorValueInterval,
+    },
+    drilldown: {
+      activeDataLabelStyle: {
+        color: '#FFFFFF',
+        textDecoration: 'none',
+        textOutline: '1px #000000',
+      },
+      drillUpButton: {
+        relativeTo: 'spacingBox',
+        position: {
+          x: 0,
+          y: 60,
+        },
+      },
     },
     // exporting: {
     //   enabled: true,
@@ -171,6 +191,7 @@ CountryMap.propTypes = {
   colorMinValue: PropTypes.number,
   colorValueInterval: PropTypes.number.isRequired,
   data: PropTypes.array.isRequired,
+  drilldown: PropTypes.object,
   hoverColor: PropTypes.string,
   mapData: PropTypes.object.isRequired,
   separatorLines: PropTypes.array,

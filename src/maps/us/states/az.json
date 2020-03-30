@@ -1,0 +1,16 @@
+[
+  { "county": "Maricopa", "state": "Arizona", "stateCode": "AZ", "fips": "04013", "cases": 546, "deaths": 5 },
+  { "county": "Pinal", "state": "Arizona", "stateCode": "AZ", "fips": "04021", "cases": 51, "deaths": 0 },
+  { "county": "Pima", "state": "Arizona", "stateCode": "AZ", "fips": "04019", "cases": 153, "deaths": 6 },
+  { "county": "Graham", "state": "Arizona", "stateCode": "AZ", "fips": "04009", "cases": 2, "deaths": 0 },
+  { "county": "Navajo", "state": "Arizona", "stateCode": "AZ", "fips": "04017", "cases": 62, "deaths": 0 },
+  { "county": "Coconino", "state": "Arizona", "stateCode": "AZ", "fips": "04005", "cases": 68, "deaths": 2 },
+  { "county": "Santa Cruz", "state": "Arizona", "stateCode": "AZ", "fips": "04023", "cases": 2, "deaths": 0 },
+  { "county": "Yavapai", "state": "Arizona", "stateCode": "AZ", "fips": "04025", "cases": 12, "deaths": 0 },
+  { "county": "Yuma", "state": "Arizona", "stateCode": "AZ", "fips": "04027", "cases": 9, "deaths": 0 },
+  { "county": "Apache", "state": "Arizona", "stateCode": "AZ", "fips": "04001", "cases": 13, "deaths": 0 },
+  { "county": "Cochise", "state": "Arizona", "stateCode": "AZ", "fips": "04003", "cases": 3, "deaths": 0 },
+  { "county": "La Paz", "state": "Arizona", "stateCode": "AZ", "fips": "04012", "cases": 2, "deaths": 0 },
+  { "county": "Mohave", "state": "Arizona", "stateCode": "AZ", "fips": "04015", "cases": 6, "deaths": 0 },
+  { "county": "Gila", "state": "Arizona", "stateCode": "AZ", "fips": "04007", "cases": 1, "deaths": 0 }
+]

@@ -4,11 +4,9 @@ import './App.css'
 import Footer from './Footer'
 import Header from './Header'
 import Loader from './Loader'
+import StateRoutes from './StateRoutes'
 
-const USByCounty = lazy(() => import('../maps/us/USByCounty'))
-const USDeathsByCounty = lazy(() => import('../maps/us/USDeathsByCounty'))
-const USByState = lazy(() => import('../maps/us/USByState'))
-const USDeathsByState = lazy(() => import('../maps/us/USDeathsByState'))
+const Country = lazy(() => import('../maps/us/Country'))
 
 function App() {
   return (
@@ -17,20 +15,15 @@ function App() {
       <Suspense fallback={<Loader />}>
         <div className="content">
           <Switch>
-            <Route exact path={`/state/cases`}>
-              <USByState />
+            <Route exact path={`/`}>
+              <Country />
             </Route>
-            <Route exact path={`/state/deaths`}>
-              <USDeathsByState />
+            <Route exact path={`/us`}>
+              <Country />
             </Route>
-            <Route exact path={`/county/deaths`}>
-              <USDeathsByCounty />
-            </Route>
-            <Route exact path={`/county/cases`}>
-              <USByCounty />
-            </Route>
+            <StateRoutes />
             <Route>
-              <USByState />
+              <Country />
             </Route>
           </Switch>
         </div>

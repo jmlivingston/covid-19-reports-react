@@ -1,0 +1,10 @@
+[
+  { "county": "Fairfield", "state": "Connecticut", "stateCode": "CT", "fips": "09001", "cases": 1245, "deaths": 21 },
+  { "county": "Litchfield", "state": "Connecticut", "stateCode": "CT", "fips": "09005", "cases": 87, "deaths": 0 },
+  { "county": "Hartford", "state": "Connecticut", "stateCode": "CT", "fips": "09003", "cases": 276, "deaths": 2 },
+  { "county": "New Haven", "state": "Connecticut", "stateCode": "CT", "fips": "09009", "cases": 280, "deaths": 6 },
+  { "county": "Middlesex", "state": "Connecticut", "stateCode": "CT", "fips": "09007", "cases": 38, "deaths": 1 },
+  { "county": "Tolland", "state": "Connecticut", "stateCode": "CT", "fips": "09013", "cases": 40, "deaths": 4 },
+  { "county": "Windham", "state": "Connecticut", "stateCode": "CT", "fips": "09015", "cases": 7, "deaths": 0 },
+  { "county": "New London", "state": "Connecticut", "stateCode": "CT", "fips": "09011", "cases": 20, "deaths": 0 }
+]

@@ -1,0 +1,43 @@
+[
+  { "county": "Anchorage", "state": "Alaska", "stateCode": "AK", "fips": "02020", "cases": 59, "deaths": 2 },
+  {
+    "county": "Fairbanks North Star Borough",
+    "state": "Alaska",
+    "stateCode": "AK",
+    "fips": "02090",
+    "cases": 28,
+    "deaths": 0
+  },
+  {
+    "county": "Ketchikan Gateway Borough",
+    "state": "Alaska",
+    "stateCode": "AK",
+    "fips": "02130",
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "county": "Kenai Peninsula Borough",
+    "state": "Alaska",
+    "stateCode": "AK",
+    "fips": "02122",
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "county": "Juneau City and Borough",
+    "state": "Alaska",
+    "stateCode": "AK",
+    "fips": "02110",
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "county": "Matanuska-Susitna Borough",
+    "state": "Alaska",
+    "stateCode": "AK",
+    "fips": "02170",
+    "cases": 2,
+    "deaths": 0
+  }
+]

@@ -1,0 +1,15 @@
+[
+  { "county": "Androscoggin", "state": "Maine", "stateCode": "ME", "fips": "23001", "cases": 8, "deaths": 0 },
+  { "county": "Cumberland", "state": "Maine", "stateCode": "ME", "fips": "23005", "cases": 142, "deaths": 2 },
+  { "county": "Lincoln", "state": "Maine", "stateCode": "ME", "fips": "23015", "cases": 5, "deaths": 0 },
+  { "county": "Unknown", "state": "Maine", "stateCode": "ME", "fips": "", "cases": 5, "deaths": 1 },
+  { "county": "Kennebec", "state": "Maine", "stateCode": "ME", "fips": "23011", "cases": 10, "deaths": 0 },
+  { "county": "Oxford", "state": "Maine", "stateCode": "ME", "fips": "23017", "cases": 9, "deaths": 0 },
+  { "county": "York", "state": "Maine", "stateCode": "ME", "fips": "23031", "cases": 47, "deaths": 0 },
+  { "county": "Penobscot", "state": "Maine", "stateCode": "ME", "fips": "23019", "cases": 11, "deaths": 0 },
+  { "county": "Sagadahoc", "state": "Maine", "stateCode": "ME", "fips": "23023", "cases": 7, "deaths": 0 },
+  { "county": "Knox", "state": "Maine", "stateCode": "ME", "fips": "23013", "cases": 4, "deaths": 0 },
+  { "county": "Waldo", "state": "Maine", "stateCode": "ME", "fips": "23027", "cases": 2, "deaths": 0 },
+  { "county": "Franklin", "state": "Maine", "stateCode": "ME", "fips": "23007", "cases": 2, "deaths": 0 },
+  { "county": "Somerset", "state": "Maine", "stateCode": "ME", "fips": "23025", "cases": 1, "deaths": 0 }
+]
