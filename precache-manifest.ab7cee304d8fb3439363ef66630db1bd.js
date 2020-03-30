@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "853c3c216c43767ea57a0bf79b8724fc",
+    "revision": "106c2918ab25f00b03fe2169aa5e93bd",
     "url": "/covid-19-reports-react/index.html"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid-19-reports-react/static/css/8.0f2d7d6b.chunk.css"
   },
   {
-    "revision": "cec80ccde353e2cb3045",
+    "revision": "e36fce6deb0bbc32cef8",
     "url": "/covid-19-reports-react/static/css/main.2e96036b.chunk.css"
   },
   {
@@ -44,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid-19-reports-react/static/js/3.64430c75.chunk.js"
   },
   {
-    "revision": "724999898df7967fd8ee",
-    "url": "/covid-19-reports-react/static/js/6.f93b67a1.chunk.js"
+    "revision": "c98730dbc6d0fa25bf3f",
+    "url": "/covid-19-reports-react/static/js/6.8ab9d5fc.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/covid-19-reports-react/static/js/6.f93b67a1.chunk.js.LICENSE.txt"
+    "url": "/covid-19-reports-react/static/js/6.8ab9d5fc.chunk.js.LICENSE.txt"
   },
   {
     "revision": "36961df13db57f84da81",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid-19-reports-react/static/js/9.619f094a.chunk.js"
   },
   {
-    "revision": "cec80ccde353e2cb3045",
-    "url": "/covid-19-reports-react/static/js/main.d9250736.chunk.js"
+    "revision": "e36fce6deb0bbc32cef8",
+    "url": "/covid-19-reports-react/static/js/main.f6a0ab1f.chunk.js"
   },
   {
     "revision": "2c96a9bfad4055195219",
