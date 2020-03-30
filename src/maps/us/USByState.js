@@ -1,15 +1,23 @@
 import mapData from '@highcharts/map-collection/countries/us/us-all.geo.json'
-import React from 'react'
-import { useParams } from 'react-router-dom'
+import { useParams } from '@reach/router'
+import React, { useEffect, useState } from 'react'
+import Loader from '../../core/Loader'
 import CountryMap from '../../maps/CountryMap'
 import { getTitle } from './report-service'
 import separatorLines from './us-separator-lines.json'
-import data from './us-states-total.json'
 
 function USByState() {
   const { reportType = 'deaths' } = useParams()
-  const maxValue = data.sort((a, b) => (a[reportType] > b[reportType] ? -1 : 1))[0][reportType]
-  return (
+  const [data, setData] = useState([])
+  const [maxValue, setMaxValue] = useState(0)
+  useEffect(() => {
+    ;(async () => {
+      const stateData = await import('./us-states-total.json')
+      setData(stateData.default)
+      setMaxValue(stateData.default.sort((a, b) => (a[reportType] > b[reportType] ? -1 : 1))[0][reportType])
+    })()
+  }, [reportType])
+  return data.length ? (
     <CountryMap
       baseColor="#FF0000"
       colorKey={reportType}
@@ -27,6 +35,8 @@ function USByState() {
       tooltipHeader="{point.key}<br />"
       tooltipSuffix=""
     />
+  ) : (
+    <Loader />
   )
 }
 

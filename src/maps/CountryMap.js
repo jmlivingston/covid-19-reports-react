@@ -1,12 +1,14 @@
 import Color from 'color'
 import Highcharts from 'highcharts'
-import HighchartsReact from 'highcharts-react-official'
 import exporting from 'highcharts/modules/exporting'
 import map from 'highcharts/modules/map'
 import PropTypes from 'prop-types'
-import React from 'react'
+import React, { lazy, Suspense } from 'react'
+import Loader from '../core/Loader'
 // import darkUnica from 'highcharts/themes/dark-unica'
 import './CountryMap.css'
+
+const HighchartsReact = lazy(() => import('highcharts-react-official'))
 
 exporting(Highcharts)
 map(Highcharts)
@@ -150,10 +152,13 @@ function CountryMap({
       text: title,
     },
   }
+
   return colorMaxValue && colorValueInterval && data && mapData && seriesJoinBy ? (
-    <div className="highcharts-wrapper">
-      <HighchartsReact constructorType={'mapChart'} highcharts={Highcharts} options={options} />
-    </div>
+    <Suspense fallback={<Loader />}>
+      <div className="highcharts-wrapper">
+        <HighchartsReact immutable={true} constructorType={'mapChart'} highcharts={Highcharts} options={options} />
+      </div>
+    </Suspense>
   ) : (
     'The following props are required: colorMaxValue, colorValueInterval, data, mapData, and seriesJoinBy'
   )

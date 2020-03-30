@@ -1,31 +1,41 @@
-import React from 'react'
-import { Link, useNavigate } from 'react-router-dom'
+import { Link, navigate } from '@reach/router'
+import React, { useState } from 'react'
 import './Header.css'
 
 function Header() {
-  const navigate = useNavigate()
-  const path = window.location.pathname
+  const [path, setPath] = useState(window.location.pathname)
+  const navigatePath = (newPath) => {
+    setPath(newPath)
+    setTimeout(() => {
+      // ugly hack
+      navigate(newPath)
+    }, 0)
+  }
   return (
     <header>
       <Link to="/" className="header-home">
         COVID-19 USA
       </Link>
       <div className="header-buttons">
-        <Link to="/" className={`${path === '/' || path === '/state/deaths' ? 'active' : ''}`}>
+        <button
+          className={`${path === '/' || path === '/state/deaths' ? 'active' : ''}`}
+          onClick={() => navigatePath('/state/deaths')}>
           State Deaths
-        </Link>
-        <Link to="/state/cases" className={`${path === '/state/cases' ? 'active' : ''}`}>
+        </button>
+        <button className={`${path === '/state/cases' ? 'active' : ''}`} onClick={() => navigatePath('/state/cases')}>
           State Cases
-        </Link>
-        <Link to="/county/deaths" className={`${path === '/county/deaths' ? 'active' : ''}`}>
+        </button>
+        <button
+          className={`${path === '/county/deaths' ? 'active' : ''}`}
+          onClick={() => navigatePath('/county/deaths')}>
           County Deaths
-        </Link>
-        <Link to="/county/cases" className={`${path === '/county/cases' ? 'active' : ''}`}>
+        </button>
+        <button className={`${path === '/county/cases' ? 'active' : ''}`} onClick={() => navigatePath('/county/cases')}>
           County Cases
-        </Link>
+        </button>
       </div>
       <div className="header-mobile-buttons">
-        <select onChange={(e) => navigate(e.target.value)} value={path}>
+        <select onChange={(e) => navigatePath(e.target.value)} value={path}>
           <option value="/state/deaths">State Deaths</option>
           <option value="/state/cases">State Cases</option>
           <option value="/county/deaths">County Deaths</option>

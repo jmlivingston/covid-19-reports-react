@@ -1,5 +1,5 @@
+import { Router } from '@reach/router'
 import React, { lazy, Suspense } from 'react'
-import { Redirect, Route, Routes } from 'react-router-dom'
 import './App.css'
 import Footer from './Footer'
 import Header from './Header'
@@ -14,12 +14,12 @@ function App() {
       <Header />
       <Suspense fallback={<Loader />}>
         <div className="content">
-          <Routes>
-            <Route path="/" element={<USByState />} />
-            <Route path="/state/:reportType" element={<USByState />} />
-            <Route path="/county/:reportType" element={<USByCounty />} />
-            <Redirect from="*" to="/" />
-          </Routes>
+          <Router>
+            <USByState path="/" />
+            <USByState path="/state/:reportType" />
+            <USByCounty path="/county/:reportType" />
+            <USByState default />
+          </Router>
         </div>
       </Suspense>
       <Footer />
