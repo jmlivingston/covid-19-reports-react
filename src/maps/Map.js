@@ -8,7 +8,7 @@ import PropTypes from 'prop-types'
 import React, { lazy, Suspense } from 'react'
 import Loader from '../core/Loader'
 // import darkUnica from 'highcharts/themes/dark-unica'
-import './CountryMap.css'
+import './Map.css'
 
 const HighchartsReact = lazy(() => import('highcharts-react-official'))
 
@@ -28,21 +28,21 @@ Highcharts.setOptions({
 
 const DEFAULT_BORDER_COLOR = '#DDDDDD'
 
-function CountryMap({
-  baseColor = '#FF0000',
+function Map({
+  baseColor,
   borderLines,
-  colorKey = 'value',
+  colorKey,
   colorMaxValue,
   colorMinValue,
   colorValueInterval,
   data,
   drilldown,
-  hoverColor = '#A4EDBA',
+  hoverColor,
   mapData,
   separatorLines,
   seriesJoinBy,
-  stateBorderColor = DEFAULT_BORDER_COLOR,
-  title = 'Untitled',
+  stateBorderColor,
+  title,
   tooltipFormat,
   tooltipHeader,
   tooltipSuffix,
@@ -175,7 +175,7 @@ function CountryMap({
   )
 }
 
-CountryMap.defaultProps = {
+Map.defaultProps = {
   baseColor: '#FF0000',
   colorKey: 'value',
   hoverColor: '#A4EDBA',
@@ -183,7 +183,7 @@ CountryMap.defaultProps = {
   title: 'Untitled',
 }
 
-CountryMap.propTypes = {
+Map.propTypes = {
   baseColor: PropTypes.string,
   borderLines: PropTypes.array,
   colorKey: PropTypes.string,
@@ -204,4 +204,4 @@ CountryMap.propTypes = {
   tooltipTitle: PropTypes.string,
 }
 
-export default CountryMap
+export default Map
