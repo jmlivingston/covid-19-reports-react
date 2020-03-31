@@ -1,0 +1,84 @@
+{
+  "summary": {
+    "name": "New Hampshire",
+    "cases": 314,
+    "casesMax": 116,
+    "deaths": 3,
+    "deathsMax": 2,
+    "lastUpdated": "Tue, 31 Mar 2020 18:51:56 GMT"
+  },
+  "data": [
+    {
+      "county": "Hillsborough",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "fips": "33011",
+      "cases": 91,
+      "deaths": 2
+    },
+    {
+      "county": "Rockingham",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "fips": "33015",
+      "cases": 116,
+      "deaths": 1
+    },
+    {
+      "county": "Cheshire",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "fips": "33005",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Sullivan",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "fips": "33019",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Carroll",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "fips": "33003",
+      "cases": 10,
+      "deaths": 0
+    },
+    {
+      "county": "Belknap",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "fips": "33001",
+      "cases": 12,
+      "deaths": 0
+    },
+    {
+      "county": "Merrimack",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "fips": "33013",
+      "cases": 22,
+      "deaths": 0
+    },
+    {
+      "county": "Strafford",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "fips": "33017",
+      "cases": 22,
+      "deaths": 0
+    },
+    {
+      "county": "Grafton",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "fips": "33009",
+      "cases": 35,
+      "deaths": 0
+    }
+  ]
+}

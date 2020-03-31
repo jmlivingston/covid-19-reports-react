@@ -1,10 +1,11 @@
 import mapData from '@highcharts/map-collection/countries/us/us-va-all.geo.json'
 import React from 'react'
-import data from './va.json'
-import State from '../State'
+import data from '../../../data/us/states/va.json'
+import reportService from '../report-service'
+import State from '../../State'
 
 function VA() {
-  return <State data={data} mapData={mapData} />
+  return <State {...data} mapData={mapData} reportService={reportService} />
 }
 
 export default VA

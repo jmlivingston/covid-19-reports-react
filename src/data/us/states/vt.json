@@ -1,0 +1,116 @@
+{
+  "summary": {
+    "name": "Vermont",
+    "cases": 277,
+    "casesMax": 133,
+    "deaths": 12,
+    "deathsMax": 6,
+    "lastUpdated": "Tue, 31 Mar 2020 18:51:56 GMT"
+  },
+  "data": [
+    {
+      "county": "Chittenden",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50007",
+      "cases": 133,
+      "deaths": 6
+    },
+    {
+      "county": "Unknown",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "",
+      "cases": 23,
+      "deaths": 5
+    },
+    {
+      "county": "Windsor",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50027",
+      "cases": 18,
+      "deaths": 1
+    },
+    {
+      "county": "Caledonia",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50005",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Orange",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50017",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Orleans",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50019",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Rutland",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50021",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Franklin",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50011",
+      "cases": 11,
+      "deaths": 0
+    },
+    {
+      "county": "Windham",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50025",
+      "cases": 11,
+      "deaths": 0
+    },
+    {
+      "county": "Washington",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50023",
+      "cases": 13,
+      "deaths": 0
+    },
+    {
+      "county": "Lamoille",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50015",
+      "cases": 13,
+      "deaths": 0
+    },
+    {
+      "county": "Bennington",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50003",
+      "cases": 17,
+      "deaths": 0
+    },
+    {
+      "county": "Addison",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50001",
+      "cases": 21,
+      "deaths": 0
+    }
+  ]
+}

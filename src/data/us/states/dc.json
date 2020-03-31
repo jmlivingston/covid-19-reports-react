@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "name": "District of Columbia",
+    "cases": 495,
+    "casesMax": 495,
+    "deaths": 9,
+    "deathsMax": 9,
+    "lastUpdated": "Tue, 31 Mar 2020 18:51:56 GMT"
+  },
+  "data": [
+    {
+      "county": "District of Columbia",
+      "state": "District of Columbia",
+      "stateCode": "DC",
+      "fips": "11001",
+      "cases": 495,
+      "deaths": 9
+    }
+  ]
+}

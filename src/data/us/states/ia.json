@@ -1,0 +1,460 @@
+{
+  "summary": {
+    "name": "Iowa",
+    "cases": 424,
+    "casesMax": 71,
+    "deaths": 6,
+    "deathsMax": 2,
+    "lastUpdated": "Tue, 31 Mar 2020 18:51:56 GMT"
+  },
+  "data": [
+    {
+      "county": "Linn",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19113",
+      "cases": 71,
+      "deaths": 2
+    },
+    {
+      "county": "Poweshiek",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19157",
+      "cases": 5,
+      "deaths": 1
+    },
+    {
+      "county": "Allamakee",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19005",
+      "cases": 7,
+      "deaths": 1
+    },
+    {
+      "county": "Washington",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19183",
+      "cases": 18,
+      "deaths": 1
+    },
+    {
+      "county": "Dubuque",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19061",
+      "cases": 21,
+      "deaths": 1
+    },
+    {
+      "county": "Carroll",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19027",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Adair",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19001",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Kossuth",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19109",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Wapello",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19179",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Warren",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19181",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Appanoose",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19007",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Clayton",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19043",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Des Moines",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19057",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Butler",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19023",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Dickinson",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19059",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Hardin",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19083",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Montgomery",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19137",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Webster",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19187",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Wright",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19197",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Boone",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19015",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Keokuk",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19107",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Taylor",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19173",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Audubon",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19009",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Crawford",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19047",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Guthrie",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19077",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Jackson",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19097",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Jones",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19105",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Van Buren",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19177",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Fayette",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19065",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Story",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19169",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Sioux",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19167",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Buchanan",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19019",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Mahaska",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19123",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Page",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19145",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Clinton",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19045",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Pottawattamie",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19155",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Winneshiek",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19191",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Henry",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19087",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Hancock",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19081",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Iowa",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19095",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Shelby",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19165",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Woodbury",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19193",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Jasper",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19099",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Monona",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19133",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Black Hawk",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19013",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Marshall",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19127",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Cerro Gordo",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19033",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Benton",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19011",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Harrison",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19085",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Cedar",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19031",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Tama",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19171",
+      "cases": 10,
+      "deaths": 0
+    },
+    {
+      "county": "Muscatine",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19139",
+      "cases": 13,
+      "deaths": 0
+    },
+    {
+      "county": "Scott",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19163",
+      "cases": 16,
+      "deaths": 0
+    },
+    {
+      "county": "Dallas",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19049",
+      "cases": 21,
+      "deaths": 0
+    },
+    {
+      "county": "Polk",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19153",
+      "cases": 61,
+      "deaths": 0
+    },
+    {
+      "county": "Johnson",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "fips": "19103",
+      "cases": 70,
+      "deaths": 0
+    }
+  ]
+}

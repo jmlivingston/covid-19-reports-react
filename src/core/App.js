@@ -7,10 +7,11 @@ import Loader from './Loader'
 import ReportContext from './ReportContext'
 import StateRoutes from './StateRoutes'
 
-const Country = lazy(() => import('../maps/us/Country'))
+const US = lazy(() => import('../maps/us/US'))
 
 function App() {
   const [reportType, setReportType] = useState('cases')
+
   return (
     <ReportContext.Provider value={{ reportType, setReportType: (reportType) => setReportType(reportType) }}>
       <HashRouter>
@@ -19,14 +20,14 @@ function App() {
           <div className="content">
             <Switch>
               <Route exact path={`/`}>
-                <Country />
+                <US />
               </Route>
               <Route exact path={`/us`}>
-                <Country />
+                <US />
               </Route>
               <StateRoutes />
               <Route>
-                <Country />
+                <US />
               </Route>
             </Switch>
           </div>

@@ -1,0 +1,220 @@
+{
+  "summary": {
+    "name": "Idaho",
+    "cases": 416,
+    "casesMax": 151,
+    "deaths": 7,
+    "deathsMax": 3,
+    "lastUpdated": "Tue, 31 Mar 2020 18:51:56 GMT"
+  },
+  "data": [
+    {
+      "county": "Ada",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16001",
+      "cases": 151,
+      "deaths": 3
+    },
+    {
+      "county": "Blaine",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16013",
+      "cases": 148,
+      "deaths": 2
+    },
+    {
+      "county": "Nez Perce",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16069",
+      "cases": 7,
+      "deaths": 1
+    },
+    {
+      "county": "Canyon",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16027",
+      "cases": 48,
+      "deaths": 1
+    },
+    {
+      "county": "Bingham",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16011",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Cassia",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16031",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Fremont",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16043",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Idaho",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16049",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Payette",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16075",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Custer",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16037",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Unknown",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Lincoln",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16063",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Owyhee",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16073",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Bonner",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16017",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Elmore",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16039",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Jerome",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16053",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Minidoka",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16067",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Teton",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16081",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Madison",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16065",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Valley",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16085",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Jefferson",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16051",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Bonneville",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16019",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Bannock",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16005",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Gem",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16045",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Twin Falls",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16083",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Kootenai",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16055",
+      "cases": 28,
+      "deaths": 0
+    }
+  ]
+}

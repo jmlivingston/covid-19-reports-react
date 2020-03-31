@@ -1,0 +1,116 @@
+{
+  "summary": {
+    "name": "Maine",
+    "cases": 275,
+    "casesMax": 154,
+    "deaths": 4,
+    "deathsMax": 3,
+    "lastUpdated": "Tue, 31 Mar 2020 18:51:56 GMT"
+  },
+  "data": [
+    {
+      "county": "Cumberland",
+      "state": "Maine",
+      "stateCode": "ME",
+      "fips": "23005",
+      "cases": 154,
+      "deaths": 3
+    },
+    {
+      "county": "Unknown",
+      "state": "Maine",
+      "stateCode": "ME",
+      "fips": "",
+      "cases": 5,
+      "deaths": 1
+    },
+    {
+      "county": "Somerset",
+      "state": "Maine",
+      "stateCode": "ME",
+      "fips": "23025",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Waldo",
+      "state": "Maine",
+      "stateCode": "ME",
+      "fips": "23027",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Franklin",
+      "state": "Maine",
+      "stateCode": "ME",
+      "fips": "23007",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Knox",
+      "state": "Maine",
+      "stateCode": "ME",
+      "fips": "23013",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Sagadahoc",
+      "state": "Maine",
+      "stateCode": "ME",
+      "fips": "23023",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Androscoggin",
+      "state": "Maine",
+      "stateCode": "ME",
+      "fips": "23001",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Lincoln",
+      "state": "Maine",
+      "stateCode": "ME",
+      "fips": "23015",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Oxford",
+      "state": "Maine",
+      "stateCode": "ME",
+      "fips": "23017",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Kennebec",
+      "state": "Maine",
+      "stateCode": "ME",
+      "fips": "23011",
+      "cases": 10,
+      "deaths": 0
+    },
+    {
+      "county": "Penobscot",
+      "state": "Maine",
+      "stateCode": "ME",
+      "fips": "23019",
+      "cases": 12,
+      "deaths": 0
+    },
+    {
+      "county": "York",
+      "state": "Maine",
+      "stateCode": "ME",
+      "fips": "23031",
+      "cases": 53,
+      "deaths": 0
+    }
+  ]
+}

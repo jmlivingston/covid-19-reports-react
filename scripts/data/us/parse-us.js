@@ -128,7 +128,7 @@ if (fs.existsSync(dataPath)) {
   summary.deathsMax = usStatesTotalArray.sort((a, b) => (a.deaths < b.deaths ? 1 : -1))[0].deaths
 
   fs.writeFileSync(
-    path.join(parsedDataPath, 'country.json'),
+    path.join(parsedDataPath, 'us.json'),
     JSON.stringify(
       {
         summary: { name: 'USA', ...summary },
@@ -146,11 +146,12 @@ if (fs.existsSync(dataPath)) {
   filteredStateData.forEach(stateDatum => {
     const comp = `import mapData from '@highcharts/map-collection/countries/us/us-${stateDatum.stateCode.toLowerCase()}-all.geo.json'
   import React from 'react'
-  import data from './${stateDatum.stateCode.toLowerCase()}.json'
-  import State from '../State'
+  import data from '../../../data/us/states/${stateDatum.stateCode.toLowerCase()}.json'
+  import reportService from '../report-service'
+  import State from '../../State'
   
   function ${stateDatum.stateCode}() {
-    return <State data={data} mapData={mapData} />
+    return <State {...data} mapData={mapData} reportService={reportService} />
   }
   
   export default ${stateDatum.stateCode}
@@ -165,7 +166,7 @@ if (fs.existsSync(dataPath)) {
     const deathsMax = stateData.sort((a, b) => (a.deaths < b.deaths ? 1 : -1))[0].deaths
 
     fs.writeFileSync(
-      path.join(__dirname, `../../../src/maps/us/states/${stateDatum.stateCode.toLowerCase()}.json`),
+      path.join(__dirname, `../../../src/data/us/states/${stateDatum.stateCode.toLowerCase()}.json`),
       JSON.stringify(
         {
           summary: { name: stateDatum.state, cases, casesMax, deaths, deathsMax, lastUpdated },

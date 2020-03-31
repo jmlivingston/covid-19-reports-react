@@ -1,0 +1,36 @@
+{
+  "summary": {
+    "name": "Delaware",
+    "cases": 264,
+    "casesMax": 156,
+    "deaths": 7,
+    "deathsMax": 3,
+    "lastUpdated": "Tue, 31 Mar 2020 18:51:56 GMT"
+  },
+  "data": [
+    {
+      "county": "New Castle",
+      "state": "Delaware",
+      "stateCode": "DE",
+      "fips": "10003",
+      "cases": 156,
+      "deaths": 3
+    },
+    {
+      "county": "Kent",
+      "state": "Delaware",
+      "stateCode": "DE",
+      "fips": "10001",
+      "cases": 27,
+      "deaths": 2
+    },
+    {
+      "county": "Sussex",
+      "state": "Delaware",
+      "stateCode": "DE",
+      "fips": "10005",
+      "cases": 81,
+      "deaths": 2
+    }
+  ]
+}
