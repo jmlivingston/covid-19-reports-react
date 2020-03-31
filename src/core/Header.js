@@ -12,7 +12,9 @@ function Header() {
         <Link to="/" className="header-home-icon">
           &#8962;
         </Link>
-        <Link to="/">COVID-19</Link>
+        <Link to="/">
+          COVID-19 <span className="sub-title">Reports & Charts</span>
+        </Link>
       </div>
       <div className="header-buttons">
         <button

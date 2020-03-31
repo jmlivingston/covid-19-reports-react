@@ -4,7 +4,7 @@ const fs = require('fs')
 const states = require('us-state-codes')
 
 const dataPath = path.join(__dirname, '../../../scripts/data/us/nytimes-covid-19-data')
-const parsedDataPath = path.join(__dirname, '../../../src/maps/us')
+const parsedDataPath = path.join(__dirname, '../../../src/reports/us')
 const lastUpdated = new Date().toGMTString()
 
 if (fs.existsSync(dataPath)) {
@@ -157,7 +157,7 @@ if (fs.existsSync(dataPath)) {
   export default ${stateDatum.stateCode}
   
     `
-    fs.writeFileSync(path.join(__dirname, `../../../src/maps/us/states/${stateDatum.stateCode}.js`), comp)
+    fs.writeFileSync(path.join(__dirname, `../../../src/reports/us/states/${stateDatum.stateCode}.js`), comp)
     const stateData = usCountiesTotalArray.filter(countyDatum => countyDatum.stateCode === stateDatum.stateCode)
 
     const cases = stateData.reduce((acc, value) => acc + value.cases, 0)
@@ -182,7 +182,7 @@ if (fs.existsSync(dataPath)) {
   import { Route } from 'react-router-dom'
   ${filteredStateData
     .map(
-      stateDatum => `const ${stateDatum.stateCode} = lazy(() => import('../maps/us/states/${stateDatum.stateCode}'))`
+      stateDatum => `const ${stateDatum.stateCode} = lazy(() => import('../reports/us/states/${stateDatum.stateCode}'))`
     )
     .join('\r\n')}
   

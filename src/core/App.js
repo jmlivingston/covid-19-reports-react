@@ -7,7 +7,7 @@ import Loader from './Loader'
 import ReportContext from './ReportContext'
 import StateRoutes from './StateRoutes'
 
-const US = lazy(() => import('../maps/us/US'))
+const US = lazy(() => import('../reports/us/US'))
 
 function App() {
   const [reportType, setReportType] = useState('cases')
