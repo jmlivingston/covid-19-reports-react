@@ -1,13 +1,29 @@
 {
   "summary": {
     "name": "Montana",
-    "cases": 161,
-    "casesMax": 62,
-    "deaths": 1,
-    "deathsMax": 1,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "cases": 177,
+    "casesMax": 69,
+    "deaths": 4,
+    "deathsMax": 2,
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
+    {
+      "county": "Toole",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30101",
+      "cases": 6,
+      "deaths": 2
+    },
+    {
+      "county": "Madison",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30057",
+      "cases": 4,
+      "deaths": 1
+    },
     {
       "county": "Lincoln",
       "state": "Montana",
@@ -49,26 +65,10 @@
       "deaths": 0
     },
     {
-      "county": "Deer Lodge",
-      "state": "Montana",
-      "stateCode": "MT",
-      "fips": "30023",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Jefferson",
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30043",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Park",
-      "state": "Montana",
-      "stateCode": "MT",
-      "fips": "30067",
       "cases": 2,
       "deaths": 0
     },
@@ -89,19 +89,19 @@
       "deaths": 0
     },
     {
-      "county": "Madison",
+      "county": "Park",
       "state": "Montana",
       "stateCode": "MT",
-      "fips": "30057",
-      "cases": 4,
+      "fips": "30067",
+      "cases": 3,
       "deaths": 0
     },
     {
-      "county": "Toole",
+      "county": "Deer Lodge",
       "state": "Montana",
       "stateCode": "MT",
-      "fips": "30101",
-      "cases": 5,
+      "fips": "30023",
+      "cases": 3,
       "deaths": 0
     },
     {
@@ -113,14 +113,6 @@
       "deaths": 0
     },
     {
-      "county": "Flathead",
-      "state": "Montana",
-      "stateCode": "MT",
-      "fips": "30029",
-      "cases": 8,
-      "deaths": 0
-    },
-    {
       "county": "Silver Bow",
       "state": "Montana",
       "stateCode": "MT",
@@ -129,11 +121,19 @@
       "deaths": 0
     },
     {
+      "county": "Flathead",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30029",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
       "county": "Lewis and Clark",
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30049",
-      "cases": 10,
+      "cases": 11,
       "deaths": 0
     },
     {
@@ -141,7 +141,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30063",
-      "cases": 11,
+      "cases": 12,
       "deaths": 0
     },
     {
@@ -149,7 +149,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30111",
-      "cases": 26,
+      "cases": 28,
       "deaths": 0
     },
     {
@@ -157,7 +157,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30031",
-      "cases": 62,
+      "cases": 69,
       "deaths": 0
     }
   ]

@@ -1,13 +1,21 @@
 {
   "summary": {
     "name": "Nebraska",
-    "cases": 141,
-    "casesMax": 79,
-    "deaths": 2,
+    "cases": 186,
+    "casesMax": 104,
+    "deaths": 3,
     "deathsMax": 1,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
+    {
+      "county": "Lincoln",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31111",
+      "cases": 5,
+      "deaths": 1
+    },
     {
       "county": "Hall",
       "state": "Nebraska",
@@ -21,7 +29,7 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31055",
-      "cases": 79,
+      "cases": 104,
       "deaths": 1
     },
     {
@@ -81,6 +89,22 @@
       "deaths": 0
     },
     {
+      "county": "Antelope",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31003",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "York",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31185",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
       "county": "Cass",
       "state": "Nebraska",
       "stateCode": "NE",
@@ -93,14 +117,6 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31107",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Adams",
-      "state": "Nebraska",
-      "stateCode": "NE",
-      "fips": "31001",
       "cases": 2,
       "deaths": 0
     },
@@ -129,10 +145,10 @@
       "deaths": 0
     },
     {
-      "county": "Lincoln",
+      "county": "Adams",
       "state": "Nebraska",
       "stateCode": "NE",
-      "fips": "31111",
+      "fips": "31001",
       "cases": 3,
       "deaths": 0
     },
@@ -149,7 +165,7 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31019",
-      "cases": 5,
+      "cases": 6,
       "deaths": 0
     },
     {
@@ -157,15 +173,7 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31109",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
-      "county": "Washington",
-      "state": "Nebraska",
-      "stateCode": "NE",
-      "fips": "31177",
-      "cases": 9,
+      "cases": 8,
       "deaths": 0
     },
     {
@@ -173,7 +181,15 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31153",
-      "cases": 11,
+      "cases": 13,
+      "deaths": 0
+    },
+    {
+      "county": "Washington",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31177",
+      "cases": 19,
       "deaths": 0
     }
   ]

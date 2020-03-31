@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Missouri",
-    "cases": 907,
-    "casesMax": 336,
-    "deaths": 12,
+    "cases": 1051,
+    "casesMax": 366,
+    "deaths": 13,
     "deathsMax": 3,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "Missouri",
       "stateCode": "MO",
       "fips": "29077",
-      "cases": 41,
+      "cases": 38,
       "deaths": 3
     },
     {
@@ -21,7 +21,7 @@
       "state": "Missouri",
       "stateCode": "MO",
       "fips": "29183",
-      "cases": 43,
+      "cases": 56,
       "deaths": 2
     },
     {
@@ -29,7 +29,7 @@
       "state": "Missouri",
       "stateCode": "MO",
       "fips": "29189",
-      "cases": 336,
+      "cases": 366,
       "deaths": 2
     },
     {
@@ -45,7 +45,15 @@
       "state": "Missouri",
       "stateCode": "MO",
       "fips": "29029",
-      "cases": 7,
+      "cases": 11,
+      "deaths": 1
+    },
+    {
+      "county": "Lafayette",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29107",
+      "cases": 17,
       "deaths": 1
     },
     {
@@ -53,7 +61,7 @@
       "state": "Missouri",
       "stateCode": "MO",
       "fips": "29095",
-      "cases": 48,
+      "cases": 56,
       "deaths": 1
     },
     {
@@ -61,7 +69,7 @@
       "state": "Missouri",
       "stateCode": "MO",
       "fips": "29019",
-      "cases": 50,
+      "cases": 59,
       "deaths": 1
     },
     {
@@ -69,22 +77,14 @@
       "state": "Missouri",
       "stateCode": "MO",
       "fips": "29510",
-      "cases": 97,
+      "cases": 102,
       "deaths": 1
     },
     {
-      "county": "Clinton",
+      "county": "Bates",
       "state": "Missouri",
       "stateCode": "MO",
-      "fips": "29049",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Pemiscot",
-      "state": "Missouri",
-      "stateCode": "MO",
-      "fips": "29155",
+      "fips": "29013",
       "cases": 1,
       "deaths": 0
     },
@@ -93,14 +93,6 @@
       "state": "Missouri",
       "stateCode": "MO",
       "fips": "29053",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "McDonald",
-      "state": "Missouri",
-      "stateCode": "MO",
-      "fips": "29119",
       "cases": 1,
       "deaths": 0
     },
@@ -161,14 +153,6 @@
       "deaths": 0
     },
     {
-      "county": "Chariton",
-      "state": "Missouri",
-      "stateCode": "MO",
-      "fips": "29041",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Pettis",
       "state": "Missouri",
       "stateCode": "MO",
@@ -193,19 +177,75 @@
       "deaths": 0
     },
     {
-      "county": "Bates",
+      "county": "Crawford",
       "state": "Missouri",
       "stateCode": "MO",
-      "fips": "29013",
-      "cases": 2,
+      "fips": "29055",
+      "cases": 1,
       "deaths": 0
     },
     {
-      "county": "Jasper",
+      "county": "Livingston",
       "state": "Missouri",
       "stateCode": "MO",
-      "fips": "29097",
-      "cases": 2,
+      "fips": "29117",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Macon",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29121",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Maries",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29125",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Morgan",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29141",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Osage",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29151",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Pike",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29163",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Stone",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29209",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Webster",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29225",
+      "cases": 1,
       "deaths": 0
     },
     {
@@ -217,10 +257,42 @@
       "deaths": 0
     },
     {
+      "county": "Moniteau",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29135",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
       "county": "Taney",
       "state": "Missouri",
       "stateCode": "MO",
       "fips": "29213",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Pemiscot",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29155",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "McDonald",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29119",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Montgomery",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29139",
       "cases": 2,
       "deaths": 0
     },
@@ -241,14 +313,6 @@
       "deaths": 0
     },
     {
-      "county": "Lincoln",
-      "state": "Missouri",
-      "stateCode": "MO",
-      "fips": "29113",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Ripley",
       "state": "Missouri",
       "stateCode": "MO",
@@ -265,26 +329,18 @@
       "deaths": 0
     },
     {
-      "county": "Dunklin",
+      "county": "Reynolds",
       "state": "Missouri",
       "stateCode": "MO",
-      "fips": "29069",
-      "cases": 3,
+      "fips": "29179",
+      "cases": 2,
       "deaths": 0
     },
     {
-      "county": "Scott",
+      "county": "St. Francois",
       "state": "Missouri",
       "stateCode": "MO",
-      "fips": "29201",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Montgomery",
-      "state": "Missouri",
-      "stateCode": "MO",
-      "fips": "29139",
+      "fips": "29187",
       "cases": 3,
       "deaths": 0
     },
@@ -297,34 +353,26 @@
       "deaths": 0
     },
     {
-      "county": "Wright",
+      "county": "Chariton",
       "state": "Missouri",
       "stateCode": "MO",
-      "fips": "29229",
+      "fips": "29041",
       "cases": 3,
       "deaths": 0
     },
     {
-      "county": "Lafayette",
+      "county": "Jasper",
       "state": "Missouri",
       "stateCode": "MO",
-      "fips": "29107",
+      "fips": "29097",
       "cases": 4,
       "deaths": 0
     },
     {
-      "county": "Moniteau",
+      "county": "Clinton",
       "state": "Missouri",
       "stateCode": "MO",
-      "fips": "29135",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "St. Francois",
-      "state": "Missouri",
-      "stateCode": "MO",
-      "fips": "29187",
+      "fips": "29049",
       "cases": 4,
       "deaths": 0
     },
@@ -337,43 +385,51 @@
       "deaths": 0
     },
     {
-      "county": "Pulaski",
+      "county": "Wright",
       "state": "Missouri",
       "stateCode": "MO",
-      "fips": "29169",
+      "fips": "29229",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Scott",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29201",
       "cases": 5,
       "deaths": 0
     },
     {
-      "county": "Cape Girardeau",
+      "county": "Lincoln",
       "state": "Missouri",
       "stateCode": "MO",
-      "fips": "29031",
+      "fips": "29113",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Cedar",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29039",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Dunklin",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29069",
       "cases": 6,
       "deaths": 0
     },
     {
-      "county": "Platte",
+      "county": "Pulaski",
       "state": "Missouri",
       "stateCode": "MO",
-      "fips": "29165",
+      "fips": "29169",
       "cases": 6,
-      "deaths": 0
-    },
-    {
-      "county": "Christian",
-      "state": "Missouri",
-      "stateCode": "MO",
-      "fips": "29043",
-      "cases": 7,
-      "deaths": 0
-    },
-    {
-      "county": "Perry",
-      "state": "Missouri",
-      "stateCode": "MO",
-      "fips": "29157",
-      "cases": 7,
       "deaths": 0
     },
     {
@@ -385,27 +441,19 @@
       "deaths": 0
     },
     {
+      "county": "Platte",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29165",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
       "county": "Cass",
       "state": "Missouri",
       "stateCode": "MO",
       "fips": "29037",
-      "cases": 8,
-      "deaths": 0
-    },
-    {
-      "county": "Unknown",
-      "state": "Missouri",
-      "stateCode": "MO",
-      "fips": "",
-      "cases": 8,
-      "deaths": 0
-    },
-    {
-      "county": "Callaway",
-      "state": "Missouri",
-      "stateCode": "MO",
-      "fips": "29027",
-      "cases": 8,
+      "cases": 9,
       "deaths": 0
     },
     {
@@ -417,19 +465,51 @@
       "deaths": 0
     },
     {
+      "county": "Christian",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29043",
+      "cases": 12,
+      "deaths": 0
+    },
+    {
+      "county": "Unknown",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "",
+      "cases": 12,
+      "deaths": 0
+    },
+    {
+      "county": "Perry",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29157",
+      "cases": 12,
+      "deaths": 0
+    },
+    {
+      "county": "Callaway",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29027",
+      "cases": 13,
+      "deaths": 0
+    },
+    {
       "county": "Clay",
       "state": "Missouri",
       "stateCode": "MO",
       "fips": "29047",
-      "cases": 11,
+      "cases": 13,
       "deaths": 0
     },
     {
-      "county": "Cole",
+      "county": "Cape Girardeau",
       "state": "Missouri",
       "stateCode": "MO",
-      "fips": "29051",
-      "cases": 17,
+      "fips": "29031",
+      "cases": 13,
       "deaths": 0
     },
     {
@@ -437,7 +517,15 @@
       "state": "Missouri",
       "stateCode": "MO",
       "fips": "29099",
-      "cases": 17,
+      "cases": 18,
+      "deaths": 0
+    },
+    {
+      "county": "Cole",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "fips": "29051",
+      "cases": 25,
       "deaths": 0
     },
     {
@@ -445,7 +533,7 @@
       "state": "Missouri",
       "stateCode": "MO",
       "fips": "29037",
-      "cases": 26,
+      "cases": 25,
       "deaths": 0
     },
     {
@@ -453,7 +541,7 @@
       "state": "Missouri",
       "stateCode": "MO",
       "fips": "29047",
-      "cases": 26,
+      "cases": 25,
       "deaths": 0
     },
     {
@@ -461,7 +549,7 @@
       "state": "Missouri",
       "stateCode": "MO",
       "fips": "29095",
-      "cases": 26,
+      "cases": 25,
       "deaths": 0
     },
     {
@@ -469,7 +557,7 @@
       "state": "Missouri",
       "stateCode": "MO",
       "fips": "29165",
-      "cases": 26,
+      "cases": 25,
       "deaths": 0
     }
   ]

@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Alaska",
-    "cases": 114,
-    "casesMax": 59,
+    "cases": 120,
+    "casesMax": 61,
     "deaths": 2,
     "deathsMax": 2,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "Alaska",
       "stateCode": "AK",
       "fips": "02020",
-      "cases": 59,
+      "cases": 61,
       "deaths": 2
     },
     {
@@ -21,7 +21,7 @@
       "state": "Alaska",
       "stateCode": "AK",
       "fips": "02170",
-      "cases": 2,
+      "cases": 3,
       "deaths": 0
     },
     {
@@ -53,7 +53,7 @@
       "state": "Alaska",
       "stateCode": "AK",
       "fips": "02090",
-      "cases": 28,
+      "cases": 31,
       "deaths": 0
     }
   ]

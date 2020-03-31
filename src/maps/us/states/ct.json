@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Connecticut",
-    "cases": 1993,
-    "casesMax": 1245,
-    "deaths": 34,
+    "cases": 2571,
+    "casesMax": 1445,
+    "deaths": 36,
     "deathsMax": 21,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09001",
-      "cases": 1245,
+      "cases": 1445,
       "deaths": 21
     },
     {
@@ -21,7 +21,7 @@
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09009",
-      "cases": 280,
+      "cases": 373,
       "deaths": 6
     },
     {
@@ -29,7 +29,7 @@
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09013",
-      "cases": 40,
+      "cases": 50,
       "deaths": 4
     },
     {
@@ -37,15 +37,23 @@
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09003",
-      "cases": 276,
-      "deaths": 2
+      "cases": 330,
+      "deaths": 3
     },
     {
       "county": "Middlesex",
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09007",
-      "cases": 38,
+      "cases": 50,
+      "deaths": 1
+    },
+    {
+      "county": "Litchfield",
+      "state": "Connecticut",
+      "stateCode": "CT",
+      "fips": "09005",
+      "cases": 113,
       "deaths": 1
     },
     {
@@ -53,7 +61,7 @@
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09015",
-      "cases": 7,
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -61,15 +69,15 @@
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09011",
-      "cases": 20,
+      "cases": 24,
       "deaths": 0
     },
     {
-      "county": "Litchfield",
+      "county": "Unknown",
       "state": "Connecticut",
       "stateCode": "CT",
-      "fips": "09005",
-      "cases": 87,
+      "fips": "",
+      "cases": 176,
       "deaths": 0
     }
   ]

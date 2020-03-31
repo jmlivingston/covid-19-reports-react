@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Idaho",
-    "cases": 311,
-    "casesMax": 115,
-    "deaths": 6,
-    "deathsMax": 2,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "cases": 416,
+    "casesMax": 151,
+    "deaths": 7,
+    "deathsMax": 3,
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
     {
@@ -13,15 +13,15 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16001",
-      "cases": 113,
-      "deaths": 2
+      "cases": 151,
+      "deaths": 3
     },
     {
       "county": "Blaine",
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16013",
-      "cases": 115,
+      "cases": 148,
       "deaths": 2
     },
     {
@@ -29,7 +29,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16069",
-      "cases": 4,
+      "cases": 7,
       "deaths": 1
     },
     {
@@ -37,7 +37,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16027",
-      "cases": 40,
+      "cases": 48,
       "deaths": 1
     },
     {
@@ -45,14 +45,6 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16011",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Valley",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16085",
       "cases": 1,
       "deaths": 0
     },
@@ -105,14 +97,6 @@
       "deaths": 0
     },
     {
-      "county": "Bonneville",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16019",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Lincoln",
       "state": "Idaho",
       "stateCode": "ID",
@@ -125,6 +109,38 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16073",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Bonner",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16017",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Elmore",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16039",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Jerome",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16053",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Minidoka",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16067",
       "cases": 1,
       "deaths": 0
     },
@@ -145,6 +161,14 @@
       "deaths": 0
     },
     {
+      "county": "Valley",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16085",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
       "county": "Jefferson",
       "state": "Idaho",
       "stateCode": "ID",
@@ -153,11 +177,11 @@
       "deaths": 0
     },
     {
-      "county": "Twin Falls",
+      "county": "Bonneville",
       "state": "Idaho",
       "stateCode": "ID",
-      "fips": "16083",
-      "cases": 3,
+      "fips": "16019",
+      "cases": 2,
       "deaths": 0
     },
     {
@@ -177,11 +201,19 @@
       "deaths": 0
     },
     {
+      "county": "Twin Falls",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16083",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
       "county": "Kootenai",
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16055",
-      "cases": 13,
+      "cases": 28,
       "deaths": 0
     }
   ]

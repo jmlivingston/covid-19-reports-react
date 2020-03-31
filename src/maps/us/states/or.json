@@ -1,19 +1,27 @@
 {
   "summary": {
     "name": "Oregon",
-    "cases": 549,
-    "casesMax": 154,
-    "deaths": 13,
+    "cases": 607,
+    "casesMax": 168,
+    "deaths": 16,
     "deathsMax": 3,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
+    {
+      "county": "Clackamas",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41005",
+      "cases": 40,
+      "deaths": 3
+    },
     {
       "county": "Marion",
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41047",
-      "cases": 109,
+      "cases": 123,
       "deaths": 3
     },
     {
@@ -21,40 +29,16 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41067",
-      "cases": 154,
+      "cases": 168,
       "deaths": 3
-    },
-    {
-      "county": "Clackamas",
-      "state": "Oregon",
-      "stateCode": "OR",
-      "fips": "41005",
-      "cases": 39,
-      "deaths": 2
-    },
-    {
-      "county": "Multnomah",
-      "state": "Oregon",
-      "stateCode": "OR",
-      "fips": "41051",
-      "cases": 91,
-      "deaths": 2
-    },
-    {
-      "county": "Lane",
-      "state": "Oregon",
-      "stateCode": "OR",
-      "fips": "41039",
-      "cases": 10,
-      "deaths": 1
     },
     {
       "county": "Yamhill",
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41071",
-      "cases": 13,
-      "deaths": 1
+      "cases": 14,
+      "deaths": 2
     },
     {
       "county": "Linn",
@@ -62,6 +46,22 @@
       "stateCode": "OR",
       "fips": "41043",
       "cases": 36,
+      "deaths": 2
+    },
+    {
+      "county": "Multnomah",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41051",
+      "cases": 100,
+      "deaths": 2
+    },
+    {
+      "county": "Lane",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41039",
+      "cases": 12,
       "deaths": 1
     },
     {
@@ -113,14 +113,6 @@
       "deaths": 0
     },
     {
-      "county": "Tillamook",
-      "state": "Oregon",
-      "stateCode": "OR",
-      "fips": "41057",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Clatsop",
       "state": "Oregon",
       "stateCode": "OR",
@@ -129,10 +121,10 @@
       "deaths": 0
     },
     {
-      "county": "Wasco",
+      "county": "Tillamook",
       "state": "Oregon",
       "stateCode": "OR",
-      "fips": "41065",
+      "fips": "41057",
       "cases": 3,
       "deaths": 0
     },
@@ -145,14 +137,6 @@
       "deaths": 0
     },
     {
-      "county": "Douglas",
-      "state": "Oregon",
-      "stateCode": "OR",
-      "fips": "41019",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
       "county": "Umatilla",
       "state": "Oregon",
       "stateCode": "OR",
@@ -161,11 +145,19 @@
       "deaths": 0
     },
     {
-      "county": "Josephine",
+      "county": "Wasco",
       "state": "Oregon",
       "stateCode": "OR",
-      "fips": "41033",
-      "cases": 6,
+      "fips": "41065",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Douglas",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41019",
+      "cases": 8,
       "deaths": 0
     },
     {
@@ -173,7 +165,15 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41003",
-      "cases": 9,
+      "cases": 10,
+      "deaths": 0
+    },
+    {
+      "county": "Josephine",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41033",
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -181,7 +181,7 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41053",
-      "cases": 13,
+      "cases": 15,
       "deaths": 0
     },
     {
@@ -189,7 +189,7 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41029",
-      "cases": 19,
+      "cases": 20,
       "deaths": 0
     },
     {
@@ -197,7 +197,7 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41017",
-      "cases": 23,
+      "cases": 25,
       "deaths": 0
     }
   ]

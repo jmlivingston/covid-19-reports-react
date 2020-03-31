@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Utah",
-    "cases": 719,
-    "casesMax": 324,
-    "deaths": 2,
-    "deathsMax": 1,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "cases": 806,
+    "casesMax": 363,
+    "deaths": 4,
+    "deathsMax": 3,
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
     {
@@ -13,15 +13,15 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "",
-      "cases": 1,
-      "deaths": 1
+      "cases": 8,
+      "deaths": 3
     },
     {
       "county": "Davis",
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49011",
-      "cases": 69,
+      "cases": 77,
       "deaths": 1
     },
     {
@@ -45,15 +45,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49029",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Box Elder",
-      "state": "Utah",
-      "stateCode": "UT",
-      "fips": "49003",
-      "cases": 4,
+      "cases": 3,
       "deaths": 0
     },
     {
@@ -77,7 +69,15 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49005",
-      "cases": 5,
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Box Elder",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49003",
+      "cases": 7,
       "deaths": 0
     },
     {
@@ -101,7 +101,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49057",
-      "cases": 37,
+      "cases": 36,
       "deaths": 0
     },
     {
@@ -109,7 +109,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49051",
-      "cases": 40,
+      "cases": 45,
       "deaths": 0
     },
     {
@@ -117,7 +117,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49049",
-      "cases": 51,
+      "cases": 58,
       "deaths": 0
     },
     {
@@ -125,7 +125,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49043",
-      "cases": 159,
+      "cases": 176,
       "deaths": 0
     },
     {
@@ -133,7 +133,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49035",
-      "cases": 324,
+      "cases": 363,
       "deaths": 0
     }
   ]

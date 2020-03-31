@@ -1,19 +1,35 @@
 {
   "summary": {
     "name": "North Dakota",
-    "cases": 98,
-    "casesMax": 28,
-    "deaths": 1,
+    "cases": 110,
+    "casesMax": 29,
+    "deaths": 3,
     "deathsMax": 1,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
+    {
+      "county": "McHenry",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38049",
+      "cases": 1,
+      "deaths": 1
+    },
+    {
+      "county": "Morton",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38059",
+      "cases": 14,
+      "deaths": 1
+    },
     {
       "county": "Cass",
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38017",
-      "cases": 20,
+      "cases": 23,
       "deaths": 1
     },
     {
@@ -37,14 +53,6 @@
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38031",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "McHenry",
-      "state": "North Dakota",
-      "stateCode": "ND",
-      "fips": "38049",
       "cases": 1,
       "deaths": 0
     },
@@ -81,6 +89,14 @@
       "deaths": 0
     },
     {
+      "county": "Oliver",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38065",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
       "county": "Pierce",
       "state": "North Dakota",
       "stateCode": "ND",
@@ -105,10 +121,10 @@
       "deaths": 0
     },
     {
-      "county": "Mountrail",
+      "county": "Grand Forks",
       "state": "North Dakota",
       "stateCode": "ND",
-      "fips": "38061",
+      "fips": "38035",
       "cases": 2,
       "deaths": 0
     },
@@ -121,11 +137,19 @@
       "deaths": 0
     },
     {
+      "county": "Mountrail",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38061",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
       "county": "Ward",
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38101",
-      "cases": 7,
+      "cases": 9,
       "deaths": 0
     },
     {
@@ -133,15 +157,7 @@
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38089",
-      "cases": 10,
-      "deaths": 0
-    },
-    {
-      "county": "Morton",
-      "state": "North Dakota",
-      "stateCode": "ND",
-      "fips": "38059",
-      "cases": 14,
+      "cases": 11,
       "deaths": 0
     },
     {
@@ -149,7 +165,7 @@
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38015",
-      "cases": 28,
+      "cases": 29,
       "deaths": 0
     }
   ]

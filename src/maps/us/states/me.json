@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Maine",
-    "cases": 253,
-    "casesMax": 142,
-    "deaths": 3,
-    "deathsMax": 2,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "cases": 275,
+    "casesMax": 154,
+    "deaths": 4,
+    "deathsMax": 3,
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
     {
@@ -13,8 +13,8 @@
       "state": "Maine",
       "stateCode": "ME",
       "fips": "23005",
-      "cases": 142,
-      "deaths": 2
+      "cases": 154,
+      "deaths": 3
     },
     {
       "county": "Unknown",
@@ -57,14 +57,6 @@
       "deaths": 0
     },
     {
-      "county": "Lincoln",
-      "state": "Maine",
-      "stateCode": "ME",
-      "fips": "23015",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
       "county": "Sagadahoc",
       "state": "Maine",
       "stateCode": "ME",
@@ -77,6 +69,14 @@
       "state": "Maine",
       "stateCode": "ME",
       "fips": "23001",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Lincoln",
+      "state": "Maine",
+      "stateCode": "ME",
+      "fips": "23015",
       "cases": 8,
       "deaths": 0
     },
@@ -101,7 +101,7 @@
       "state": "Maine",
       "stateCode": "ME",
       "fips": "23019",
-      "cases": 11,
+      "cases": 12,
       "deaths": 0
     },
     {
@@ -109,7 +109,7 @@
       "state": "Maine",
       "stateCode": "ME",
       "fips": "23031",
-      "cases": 47,
+      "cases": 53,
       "deaths": 0
     }
   ]

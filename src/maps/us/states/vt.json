@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Vermont",
-    "cases": 251,
-    "casesMax": 117,
+    "cases": 277,
+    "casesMax": 133,
     "deaths": 12,
     "deathsMax": 6,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50007",
-      "cases": 117,
+      "cases": 133,
       "deaths": 6
     },
     {
@@ -45,7 +45,7 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50017",
-      "cases": 3,
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -69,7 +69,7 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50011",
-      "cases": 9,
+      "cases": 11,
       "deaths": 0
     },
     {
@@ -85,7 +85,7 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50023",
-      "cases": 12,
+      "cases": 13,
       "deaths": 0
     },
     {
@@ -93,7 +93,7 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50015",
-      "cases": 12,
+      "cases": 13,
       "deaths": 0
     },
     {
@@ -101,7 +101,7 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50003",
-      "cases": 16,
+      "cases": 17,
       "deaths": 0
     },
     {
@@ -109,7 +109,7 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50001",
-      "cases": 17,
+      "cases": 21,
       "deaths": 0
     }
   ]

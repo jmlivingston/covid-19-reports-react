@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Wisconsin",
-    "cases": 1120,
-    "casesMax": 565,
-    "deaths": 17,
-    "deathsMax": 9,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "cases": 1269,
+    "casesMax": 663,
+    "deaths": 20,
+    "deathsMax": 10,
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
     {
@@ -13,16 +13,32 @@
       "state": "Wisconsin",
       "stateCode": "WI",
       "fips": "55079",
-      "cases": 565,
-      "deaths": 9
+      "cases": 663,
+      "deaths": 10
     },
     {
       "county": "Ozaukee",
       "state": "Wisconsin",
       "stateCode": "WI",
       "fips": "55089",
-      "cases": 34,
+      "cases": 36,
       "deaths": 3
+    },
+    {
+      "county": "Fond du Lac",
+      "state": "Wisconsin",
+      "stateCode": "WI",
+      "fips": "55039",
+      "cases": 22,
+      "deaths": 2
+    },
+    {
+      "county": "Dane",
+      "state": "Wisconsin",
+      "stateCode": "WI",
+      "fips": "55025",
+      "cases": 183,
+      "deaths": 2
     },
     {
       "county": "Iron",
@@ -45,23 +61,7 @@
       "state": "Wisconsin",
       "stateCode": "WI",
       "fips": "55111",
-      "cases": 12,
-      "deaths": 1
-    },
-    {
-      "county": "Fond du Lac",
-      "state": "Wisconsin",
-      "stateCode": "WI",
-      "fips": "55039",
-      "cases": 20,
-      "deaths": 1
-    },
-    {
-      "county": "Dane",
-      "state": "Wisconsin",
-      "stateCode": "WI",
-      "fips": "55025",
-      "cases": 179,
+      "cases": 13,
       "deaths": 1
     },
     {
@@ -69,14 +69,6 @@
       "state": "Wisconsin",
       "stateCode": "WI",
       "fips": "55015",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Marathon",
-      "state": "Wisconsin",
-      "stateCode": "WI",
-      "fips": "55073",
       "cases": 1,
       "deaths": 0
     },
@@ -113,10 +105,10 @@
       "deaths": 0
     },
     {
-      "county": "Oneida",
+      "county": "Door",
       "state": "Wisconsin",
       "stateCode": "WI",
-      "fips": "55085",
+      "fips": "55029",
       "cases": 1,
       "deaths": 0
     },
@@ -137,10 +129,10 @@
       "deaths": 0
     },
     {
-      "county": "Vilas",
+      "county": "Marathon",
       "state": "Wisconsin",
       "stateCode": "WI",
-      "fips": "55125",
+      "fips": "55073",
       "cases": 2,
       "deaths": 0
     },
@@ -149,6 +141,22 @@
       "state": "Wisconsin",
       "stateCode": "WI",
       "fips": "55103",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Jackson",
+      "state": "Wisconsin",
+      "stateCode": "WI",
+      "fips": "55053",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Marquette",
+      "state": "Wisconsin",
+      "stateCode": "WI",
+      "fips": "55077",
       "cases": 2,
       "deaths": 0
     },
@@ -185,27 +193,19 @@
       "deaths": 0
     },
     {
-      "county": "Pierce",
+      "county": "Vilas",
       "state": "Wisconsin",
       "stateCode": "WI",
-      "fips": "55093",
-      "cases": 4,
+      "fips": "55125",
+      "cases": 3,
       "deaths": 0
     },
     {
-      "county": "Chippewa",
+      "county": "Oneida",
       "state": "Wisconsin",
       "stateCode": "WI",
-      "fips": "55017",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "Green",
-      "state": "Wisconsin",
-      "stateCode": "WI",
-      "fips": "55045",
-      "cases": 4,
+      "fips": "55085",
+      "cases": 3,
       "deaths": 0
     },
     {
@@ -217,18 +217,18 @@
       "deaths": 0
     },
     {
-      "county": "Outagamie",
+      "county": "Green",
       "state": "Wisconsin",
       "stateCode": "WI",
-      "fips": "55087",
-      "cases": 6,
+      "fips": "55045",
+      "cases": 5,
       "deaths": 0
     },
     {
-      "county": "Brown",
+      "county": "Pierce",
       "state": "Wisconsin",
       "stateCode": "WI",
-      "fips": "55009",
+      "fips": "55093",
       "cases": 6,
       "deaths": 0
     },
@@ -249,26 +249,26 @@
       "deaths": 0
     },
     {
+      "county": "Brown",
+      "state": "Wisconsin",
+      "stateCode": "WI",
+      "fips": "55009",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Chippewa",
+      "state": "Wisconsin",
+      "stateCode": "WI",
+      "fips": "55017",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
       "county": "Sheboygan",
       "state": "Wisconsin",
       "stateCode": "WI",
       "fips": "55117",
-      "cases": 8,
-      "deaths": 0
-    },
-    {
-      "county": "Winnebago",
-      "state": "Wisconsin",
-      "stateCode": "WI",
-      "fips": "55139",
-      "cases": 8,
-      "deaths": 0
-    },
-    {
-      "county": "Jefferson",
-      "state": "Wisconsin",
-      "stateCode": "WI",
-      "fips": "55055",
       "cases": 8,
       "deaths": 0
     },
@@ -281,11 +281,27 @@
       "deaths": 0
     },
     {
+      "county": "Outagamie",
+      "state": "Wisconsin",
+      "stateCode": "WI",
+      "fips": "55087",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
       "county": "Columbia",
       "state": "Wisconsin",
       "stateCode": "WI",
       "fips": "55021",
       "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Winnebago",
+      "state": "Wisconsin",
+      "stateCode": "WI",
+      "fips": "55139",
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -297,11 +313,19 @@
       "deaths": 0
     },
     {
+      "county": "Jefferson",
+      "state": "Wisconsin",
+      "stateCode": "WI",
+      "fips": "55055",
+      "cases": 10,
+      "deaths": 0
+    },
+    {
       "county": "Rock",
       "state": "Wisconsin",
       "stateCode": "WI",
       "fips": "55105",
-      "cases": 14,
+      "cases": 15,
       "deaths": 0
     },
     {
@@ -309,7 +333,7 @@
       "state": "Wisconsin",
       "stateCode": "WI",
       "fips": "55063",
-      "cases": 15,
+      "cases": 16,
       "deaths": 0
     },
     {
@@ -317,7 +341,7 @@
       "state": "Wisconsin",
       "stateCode": "WI",
       "fips": "55101",
-      "cases": 17,
+      "cases": 21,
       "deaths": 0
     },
     {
@@ -333,7 +357,7 @@
       "state": "Wisconsin",
       "stateCode": "WI",
       "fips": "55131",
-      "cases": 31,
+      "cases": 34,
       "deaths": 0
     },
     {
@@ -341,7 +365,7 @@
       "state": "Wisconsin",
       "stateCode": "WI",
       "fips": "55133",
-      "cases": 83,
+      "cases": 93,
       "deaths": 0
     }
   ]

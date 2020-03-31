@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Georgia",
-    "cases": 2688,
-    "casesMax": 425,
-    "deaths": 83,
-    "deathsMax": 17,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "cases": 3034,
+    "casesMax": 503,
+    "deaths": 105,
+    "deathsMax": 18,
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
     {
@@ -13,39 +13,47 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13095",
-      "cases": 247,
-      "deaths": 17
+      "cases": 278,
+      "deaths": 18
     },
     {
       "county": "Fulton",
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13121",
-      "cases": 425,
-      "deaths": 12
+      "cases": 503,
+      "deaths": 16
     },
     {
       "county": "Cobb",
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13067",
-      "cases": 228,
-      "deaths": 9
+      "cases": 250,
+      "deaths": 11
     },
     {
       "county": "Lee",
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13177",
-      "cases": 43,
+      "cases": 44,
       "deaths": 6
+    },
+    {
+      "county": "Clarke",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13059",
+      "cases": 47,
+      "deaths": 5
     },
     {
       "county": "Fayette",
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13113",
-      "cases": 27,
+      "cases": 42,
       "deaths": 3
     },
     {
@@ -53,15 +61,39 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13089",
-      "cases": 273,
+      "cases": 294,
       "deaths": 3
     },
     {
-      "county": "Whitfield",
+      "county": "Barrow",
       "state": "Georgia",
       "stateCode": "GA",
-      "fips": "13313",
-      "cases": 8,
+      "fips": "13013",
+      "cases": 9,
+      "deaths": 2
+    },
+    {
+      "county": "Sumter",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13261",
+      "cases": 17,
+      "deaths": 2
+    },
+    {
+      "county": "Chatham",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13051",
+      "cases": 19,
+      "deaths": 2
+    },
+    {
+      "county": "Early",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13099",
+      "cases": 20,
       "deaths": 2
     },
     {
@@ -69,15 +101,23 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13273",
-      "cases": 10,
+      "cases": 20,
       "deaths": 2
     },
     {
-      "county": "Coweta",
+      "county": "Houston",
       "state": "Georgia",
       "stateCode": "GA",
-      "fips": "13077",
-      "cases": 23,
+      "fips": "13153",
+      "cases": 26,
+      "deaths": 2
+    },
+    {
+      "county": "Rockdale",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13247",
+      "cases": 29,
       "deaths": 2
     },
     {
@@ -85,15 +125,23 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13115",
-      "cases": 28,
+      "cases": 31,
       "deaths": 2
     },
     {
-      "county": "Clarke",
+      "county": "Coweta",
       "state": "Georgia",
       "stateCode": "GA",
-      "fips": "13059",
-      "cases": 35,
+      "fips": "13077",
+      "cases": 37,
+      "deaths": 2
+    },
+    {
+      "county": "Clayton",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13063",
+      "cases": 62,
       "deaths": 2
     },
     {
@@ -101,7 +149,7 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13151",
-      "cases": 56,
+      "cases": 68,
       "deaths": 2
     },
     {
@@ -109,7 +157,15 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "",
-      "cases": 228,
+      "cases": 114,
+      "deaths": 2
+    },
+    {
+      "county": "Gwinnett",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13135",
+      "cases": 178,
       "deaths": 2
     },
     {
@@ -129,11 +185,27 @@
       "deaths": 1
     },
     {
+      "county": "Baldwin",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13009",
+      "cases": 3,
+      "deaths": 1
+    },
+    {
+      "county": "Madison",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13195",
+      "cases": 3,
+      "deaths": 1
+    },
+    {
       "county": "Pickens",
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13227",
-      "cases": 5,
+      "cases": 6,
       "deaths": 1
     },
     {
@@ -141,23 +213,15 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13225",
-      "cases": 6,
+      "cases": 7,
       "deaths": 1
     },
     {
-      "county": "Barrow",
+      "county": "Whitfield",
       "state": "Georgia",
       "stateCode": "GA",
-      "fips": "13013",
-      "cases": 6,
-      "deaths": 1
-    },
-    {
-      "county": "Troup",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13285",
-      "cases": 10,
+      "fips": "13313",
+      "cases": 8,
       "deaths": 1
     },
     {
@@ -165,7 +229,7 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13321",
-      "cases": 10,
+      "cases": 12,
       "deaths": 1
     },
     {
@@ -173,39 +237,23 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13129",
-      "cases": 14,
-      "deaths": 1
-    },
-    {
-      "county": "Houston",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13153",
       "cases": 15,
       "deaths": 1
     },
     {
-      "county": "Sumter",
+      "county": "Troup",
       "state": "Georgia",
       "stateCode": "GA",
-      "fips": "13261",
+      "fips": "13285",
       "cases": 15,
       "deaths": 1
     },
     {
-      "county": "Early",
+      "county": "Mitchell",
       "state": "Georgia",
       "stateCode": "GA",
-      "fips": "13099",
+      "fips": "13205",
       "cases": 16,
-      "deaths": 1
-    },
-    {
-      "county": "Rockdale",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13247",
-      "cases": 18,
       "deaths": 1
     },
     {
@@ -213,7 +261,7 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13185",
-      "cases": 20,
+      "cases": 21,
       "deaths": 1
     },
     {
@@ -221,7 +269,7 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13117",
-      "cases": 28,
+      "cases": 36,
       "deaths": 1
     },
     {
@@ -229,15 +277,7 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13097",
-      "cases": 38,
-      "deaths": 1
-    },
-    {
-      "county": "Clayton",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13063",
-      "cases": 59,
+      "cases": 43,
       "deaths": 1
     },
     {
@@ -245,7 +285,15 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13057",
-      "cases": 60,
+      "cases": 69,
+      "deaths": 1
+    },
+    {
+      "county": "Carroll",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13045",
+      "cases": 97,
       "deaths": 1
     },
     {
@@ -253,15 +301,7 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13015",
-      "cases": 119,
-      "deaths": 1
-    },
-    {
-      "county": "Gwinnett",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13135",
-      "cases": 145,
+      "cases": 125,
       "deaths": 1
     },
     {
@@ -269,14 +309,6 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13049",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Chattooga",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13055",
       "cases": 1,
       "deaths": 0
     },
@@ -297,14 +329,6 @@
       "deaths": 0
     },
     {
-      "county": "Greene",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13133",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Macon",
       "state": "Georgia",
       "stateCode": "GA",
@@ -321,14 +345,6 @@
       "deaths": 0
     },
     {
-      "county": "Dodge",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13091",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Long",
       "state": "Georgia",
       "stateCode": "GA",
@@ -337,34 +353,10 @@
       "deaths": 0
     },
     {
-      "county": "Taylor",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13269",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "White",
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13311",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Wilkes",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13317",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "McDuffie",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13189",
       "cases": 1,
       "deaths": 0
     },
@@ -381,14 +373,6 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13137",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Hart",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13147",
       "cases": 1,
       "deaths": 0
     },
@@ -441,19 +425,107 @@
       "deaths": 0
     },
     {
-      "county": "Turner",
+      "county": "Banks",
       "state": "Georgia",
       "stateCode": "GA",
-      "fips": "13287",
-      "cases": 2,
+      "fips": "13011",
+      "cases": 1,
       "deaths": 0
     },
     {
-      "county": "Baldwin",
+      "county": "Berrien",
       "state": "Georgia",
       "stateCode": "GA",
-      "fips": "13009",
-      "cases": 2,
+      "fips": "13019",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Bleckley",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13023",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Clay",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13061",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Cook",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13075",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Dade",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13083",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Gilmer",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13123",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Jeff Davis",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13161",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Jefferson",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13163",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Johnson",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13167",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "McIntosh",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13191",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Schley",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13249",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Talbot",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13263",
+      "cases": 1,
       "deaths": 0
     },
     {
@@ -489,26 +561,18 @@
       "deaths": 0
     },
     {
-      "county": "Ben Hill",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13017",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Camden",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13039",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Jasper",
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13159",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Dodge",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13091",
       "cases": 2,
       "deaths": 0
     },
@@ -529,18 +593,26 @@
       "deaths": 0
     },
     {
-      "county": "Franklin",
+      "county": "Taylor",
       "state": "Georgia",
       "stateCode": "GA",
-      "fips": "13119",
+      "fips": "13269",
       "cases": 2,
       "deaths": 0
     },
     {
-      "county": "Haralson",
+      "county": "Wilkes",
       "state": "Georgia",
       "stateCode": "GA",
-      "fips": "13143",
+      "fips": "13317",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "McDuffie",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13189",
       "cases": 2,
       "deaths": 0
     },
@@ -553,6 +625,14 @@
       "deaths": 0
     },
     {
+      "county": "Hart",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13147",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
       "county": "Pike",
       "state": "Georgia",
       "stateCode": "GA",
@@ -561,18 +641,26 @@
       "deaths": 0
     },
     {
+      "county": "Appling",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13001",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Warren",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13301",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
       "county": "Lamar",
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13171",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Lincoln",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13181",
       "cases": 3,
       "deaths": 0
     },
@@ -593,6 +681,22 @@
       "deaths": 0
     },
     {
+      "county": "Turner",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13287",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Chattooga",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13055",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "Catoosa",
       "state": "Georgia",
       "stateCode": "GA",
@@ -601,26 +705,10 @@
       "deaths": 0
     },
     {
-      "county": "Harris",
+      "county": "Ben Hill",
       "state": "Georgia",
       "stateCode": "GA",
-      "fips": "13145",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Liberty",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13179",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Madison",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13195",
+      "fips": "13017",
       "cases": 3,
       "deaths": 0
     },
@@ -629,6 +717,14 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13111",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Greene",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13133",
       "cases": 3,
       "deaths": 0
     },
@@ -657,18 +753,10 @@
       "deaths": 0
     },
     {
-      "county": "Calhoun",
+      "county": "Dooly",
       "state": "Georgia",
       "stateCode": "GA",
-      "fips": "13037",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Murray",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13213",
+      "fips": "13093",
       "cases": 3,
       "deaths": 0
     },
@@ -681,18 +769,10 @@
       "deaths": 0
     },
     {
-      "county": "Dawson",
+      "county": "Lincoln",
       "state": "Georgia",
       "stateCode": "GA",
-      "fips": "13085",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "Miller",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13201",
+      "fips": "13181",
       "cases": 4,
       "deaths": 0
     },
@@ -713,42 +793,66 @@
       "deaths": 0
     },
     {
+      "county": "Harris",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13145",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Liberty",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13179",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Camden",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13039",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Franklin",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13119",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Haralson",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13143",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Murray",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13213",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Miller",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13201",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
       "county": "Walton",
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13297",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "Decatur",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13087",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "Butts",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13035",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Meriwether",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13199",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Seminole",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13253",
       "cases": 5,
       "deaths": 0
     },
@@ -769,19 +873,43 @@
       "deaths": 0
     },
     {
-      "county": "Colquitt",
+      "county": "Butts",
       "state": "Georgia",
       "stateCode": "GA",
-      "fips": "13071",
+      "fips": "13035",
       "cases": 6,
       "deaths": 0
     },
     {
-      "county": "Crisp",
+      "county": "Meriwether",
       "state": "Georgia",
       "stateCode": "GA",
-      "fips": "13081",
+      "fips": "13199",
       "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Decatur",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13087",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Calhoun",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13037",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Dawson",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13085",
+      "cases": 7,
       "deaths": 0
     },
     {
@@ -789,6 +917,22 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13029",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Colquitt",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13071",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Seminole",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13253",
       "cases": 7,
       "deaths": 0
     },
@@ -801,27 +945,11 @@
       "deaths": 0
     },
     {
-      "county": "Glynn",
+      "county": "Crisp",
       "state": "Georgia",
       "stateCode": "GA",
-      "fips": "13127",
+      "fips": "13081",
       "cases": 8,
-      "deaths": 0
-    },
-    {
-      "county": "Muscogee",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13215",
-      "cases": 9,
-      "deaths": 0
-    },
-    {
-      "county": "Polk",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13233",
-      "cases": 10,
       "deaths": 0
     },
     {
@@ -837,22 +965,6 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13219",
-      "cases": 11,
-      "deaths": 0
-    },
-    {
-      "county": "Richmond",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13245",
-      "cases": 12,
-      "deaths": 0
-    },
-    {
-      "county": "Columbia",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13073",
       "cases": 12,
       "deaths": 0
     },
@@ -861,7 +973,31 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13175",
-      "cases": 12,
+      "cases": 13,
+      "deaths": 0
+    },
+    {
+      "county": "Polk",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13233",
+      "cases": 14,
+      "deaths": 0
+    },
+    {
+      "county": "Columbia",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13073",
+      "cases": 14,
+      "deaths": 0
+    },
+    {
+      "county": "Muscogee",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13215",
+      "cases": 14,
       "deaths": 0
     },
     {
@@ -869,15 +1005,7 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13255",
-      "cases": 12,
-      "deaths": 0
-    },
-    {
-      "county": "Tift",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13277",
-      "cases": 13,
+      "cases": 14,
       "deaths": 0
     },
     {
@@ -885,23 +1013,31 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13021",
-      "cases": 14,
-      "deaths": 0
-    },
-    {
-      "county": "Mitchell",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13205",
-      "cases": 15,
-      "deaths": 0
-    },
-    {
-      "county": "Chatham",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13051",
       "cases": 16,
+      "deaths": 0
+    },
+    {
+      "county": "Richmond",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13245",
+      "cases": 17,
+      "deaths": 0
+    },
+    {
+      "county": "Glynn",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13127",
+      "cases": 17,
+      "deaths": 0
+    },
+    {
+      "county": "Tift",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "fips": "13277",
+      "cases": 19,
       "deaths": 0
     },
     {
@@ -909,7 +1045,7 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13217",
-      "cases": 18,
+      "cases": 22,
       "deaths": 0
     },
     {
@@ -917,7 +1053,7 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13223",
-      "cases": 23,
+      "cases": 26,
       "deaths": 0
     },
     {
@@ -925,15 +1061,7 @@
       "state": "Georgia",
       "stateCode": "GA",
       "fips": "13139",
-      "cases": 33,
-      "deaths": 0
-    },
-    {
-      "county": "Carroll",
-      "state": "Georgia",
-      "stateCode": "GA",
-      "fips": "13045",
-      "cases": 70,
+      "cases": 34,
       "deaths": 0
     }
   ]

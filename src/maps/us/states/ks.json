@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Kansas",
-    "cases": 333,
-    "casesMax": 108,
-    "deaths": 7,
+    "cases": 374,
+    "casesMax": 116,
+    "deaths": 9,
     "deathsMax": 4,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20209",
-      "cases": 55,
+      "cases": 67,
       "deaths": 4
     },
     {
@@ -21,15 +21,31 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20091",
-      "cases": 108,
+      "cases": 116,
       "deaths": 2
+    },
+    {
+      "county": "Crawford",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20037",
+      "cases": 5,
+      "deaths": 1
     },
     {
       "county": "Shawnee",
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20177",
-      "cases": 13,
+      "cases": 14,
+      "deaths": 1
+    },
+    {
+      "county": "Sedgwick",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20173",
+      "cases": 49,
       "deaths": 1
     },
     {
@@ -121,14 +137,6 @@
       "deaths": 0
     },
     {
-      "county": "Osage",
-      "state": "Kansas",
-      "stateCode": "KS",
-      "fips": "20139",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Ottawa",
       "state": "Kansas",
       "stateCode": "KS",
@@ -161,10 +169,18 @@
       "deaths": 0
     },
     {
-      "county": "Stevens",
+      "county": "Atchison",
       "state": "Kansas",
       "stateCode": "KS",
-      "fips": "20189",
+      "fips": "20005",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Saline",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20169",
       "cases": 1,
       "deaths": 0
     },
@@ -189,6 +205,22 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20161",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Osage",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20139",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Stevens",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20189",
       "cases": 2,
       "deaths": 0
     },
@@ -229,14 +261,6 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20125",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Crawford",
-      "state": "Kansas",
-      "stateCode": "KS",
-      "fips": "20037",
       "cases": 4,
       "deaths": 0
     },
@@ -269,7 +293,7 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20111",
-      "cases": 7,
+      "cases": 9,
       "deaths": 0
     },
     {
@@ -277,7 +301,7 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20031",
-      "cases": 8,
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -285,7 +309,7 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20103",
-      "cases": 17,
+      "cases": 20,
       "deaths": 0
     },
     {
@@ -294,14 +318,6 @@
       "stateCode": "KS",
       "fips": "20045",
       "cases": 23,
-      "deaths": 0
-    },
-    {
-      "county": "Sedgwick",
-      "state": "Kansas",
-      "stateCode": "KS",
-      "fips": "20173",
-      "cases": 42,
       "deaths": 0
     }
   ]

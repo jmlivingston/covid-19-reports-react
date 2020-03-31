@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "New Hampshire",
-    "cases": 258,
-    "casesMax": 100,
+    "cases": 314,
+    "casesMax": 116,
     "deaths": 3,
     "deathsMax": 2,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33011",
-      "cases": 68,
+      "cases": 91,
       "deaths": 2
     },
     {
@@ -21,7 +21,7 @@
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33015",
-      "cases": 100,
+      "cases": 116,
       "deaths": 1
     },
     {
@@ -41,14 +41,6 @@
       "deaths": 0
     },
     {
-      "county": "Belknap",
-      "state": "New Hampshire",
-      "stateCode": "NH",
-      "fips": "33001",
-      "cases": 9,
-      "deaths": 0
-    },
-    {
       "county": "Carroll",
       "state": "New Hampshire",
       "stateCode": "NH",
@@ -57,11 +49,11 @@
       "deaths": 0
     },
     {
-      "county": "Strafford",
+      "county": "Belknap",
       "state": "New Hampshire",
       "stateCode": "NH",
-      "fips": "33017",
-      "cases": 17,
+      "fips": "33001",
+      "cases": 12,
       "deaths": 0
     },
     {
@@ -69,7 +61,15 @@
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33013",
-      "cases": 18,
+      "cases": 22,
+      "deaths": 0
+    },
+    {
+      "county": "Strafford",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "fips": "33017",
+      "cases": 22,
       "deaths": 0
     },
     {
@@ -77,7 +77,7 @@
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33009",
-      "cases": 30,
+      "cases": 35,
       "deaths": 0
     }
   ]

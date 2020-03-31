@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Nevada",
-    "cases": 920,
-    "casesMax": 528,
-    "deaths": 15,
-    "deathsMax": 14,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "cases": 1044,
+    "casesMax": 753,
+    "deaths": 18,
+    "deathsMax": 15,
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
     {
@@ -13,16 +13,16 @@
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "32003",
-      "cases": 528,
-      "deaths": 14
+      "cases": 753,
+      "deaths": 15
     },
     {
       "county": "Washoe",
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "32031",
-      "cases": 107,
-      "deaths": 1
+      "cases": 121,
+      "deaths": 3
     },
     {
       "county": "Nye",
@@ -45,14 +45,6 @@
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "32013",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Elko",
-      "state": "Nevada",
-      "stateCode": "NV",
-      "fips": "32007",
       "cases": 3,
       "deaths": 0
     },
@@ -61,6 +53,14 @@
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "32510",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Elko",
+      "state": "Nevada",
+      "stateCode": "NV",
+      "fips": "32007",
       "cases": 5,
       "deaths": 0
     },
@@ -77,7 +77,7 @@
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "",
-      "cases": 269,
+      "cases": 150,
       "deaths": 0
     }
   ]

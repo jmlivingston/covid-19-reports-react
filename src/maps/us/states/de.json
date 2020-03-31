@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Delaware",
-    "cases": 232,
-    "casesMax": 141,
-    "deaths": 6,
+    "cases": 264,
+    "casesMax": 156,
+    "deaths": 7,
     "deathsMax": 3,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "Delaware",
       "stateCode": "DE",
       "fips": "10003",
-      "cases": 141,
+      "cases": 156,
       "deaths": 3
     },
     {
@@ -21,7 +21,7 @@
       "state": "Delaware",
       "stateCode": "DE",
       "fips": "10001",
-      "cases": 25,
+      "cases": 27,
       "deaths": 2
     },
     {
@@ -29,8 +29,8 @@
       "state": "Delaware",
       "stateCode": "DE",
       "fips": "10005",
-      "cases": 66,
-      "deaths": 1
+      "cases": 81,
+      "deaths": 2
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Washington",
-    "cases": 4634,
-    "casesMax": 2163,
-    "deaths": 209,
-    "deathsMax": 146,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "cases": 4932,
+    "casesMax": 2332,
+    "deaths": 221,
+    "deathsMax": 152,
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
     {
@@ -13,16 +13,16 @@
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53033",
-      "cases": 2163,
-      "deaths": 146
+      "cases": 2332,
+      "deaths": 152
     },
     {
       "county": "Snohomish",
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53061",
-      "cases": 1067,
-      "deaths": 23
+      "cases": 1126,
+      "deaths": 30
     },
     {
       "county": "Whatcom",
@@ -37,7 +37,7 @@
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53011",
-      "cases": 90,
+      "cases": 110,
       "deaths": 6
     },
     {
@@ -45,7 +45,7 @@
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53053",
-      "cases": 317,
+      "cases": 352,
       "deaths": 6
     },
     {
@@ -101,15 +101,7 @@
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53035",
-      "cases": 56,
-      "deaths": 1
-    },
-    {
-      "county": "Grant",
-      "state": "Washington",
-      "stateCode": "WA",
-      "fips": "53025",
-      "cases": 58,
+      "cases": 63,
       "deaths": 1
     },
     {
@@ -169,14 +161,6 @@
       "deaths": 0
     },
     {
-      "county": "Stevens",
-      "state": "Washington",
-      "stateCode": "WA",
-      "fips": "53065",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
       "county": "Okanogan",
       "state": "Washington",
       "stateCode": "WA",
@@ -189,6 +173,14 @@
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53055",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Stevens",
+      "state": "Washington",
+      "stateCode": "WA",
+      "fips": "53065",
       "cases": 4,
       "deaths": 0
     },
@@ -277,7 +269,15 @@
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53067",
-      "cases": 36,
+      "cases": 43,
+      "deaths": 0
+    },
+    {
+      "county": "Grant",
+      "state": "Washington",
+      "stateCode": "WA",
+      "fips": "53025",
+      "cases": 58,
       "deaths": 0
     }
   ]

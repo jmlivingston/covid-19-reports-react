@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Wyoming",
-    "cases": 88,
-    "casesMax": 23,
+    "cases": 96,
+    "casesMax": 24,
     "deaths": 0,
     "deathsMax": 0,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
     {
@@ -21,14 +21,6 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56005",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Sweetwater",
-      "state": "Wyoming",
-      "stateCode": "WY",
-      "fips": "56037",
       "cases": 1,
       "deaths": 0
     },
@@ -81,6 +73,14 @@
       "deaths": 0
     },
     {
+      "county": "Sweetwater",
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "fips": "56037",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
       "county": "Carbon",
       "state": "Wyoming",
       "stateCode": "WY",
@@ -101,7 +101,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56033",
-      "cases": 6,
+      "cases": 8,
       "deaths": 0
     },
     {
@@ -117,7 +117,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56039",
-      "cases": 14,
+      "cases": 17,
       "deaths": 0
     },
     {
@@ -125,7 +125,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56021",
-      "cases": 19,
+      "cases": 20,
       "deaths": 0
     },
     {
@@ -133,7 +133,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56013",
-      "cases": 23,
+      "cases": 24,
       "deaths": 0
     }
   ]

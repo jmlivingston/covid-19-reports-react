@@ -1,19 +1,35 @@
 {
   "summary": {
     "name": "Alabama",
-    "cases": 830,
-    "casesMax": 246,
-    "deaths": 5,
-    "deathsMax": 1,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "cases": 947,
+    "casesMax": 257,
+    "deaths": 11,
+    "deathsMax": 4,
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
+    {
+      "county": "Chambers",
+      "state": "Alabama",
+      "stateCode": "AL",
+      "fips": "01017",
+      "cases": 36,
+      "deaths": 4
+    },
+    {
+      "county": "Lee",
+      "state": "Alabama",
+      "stateCode": "AL",
+      "fips": "01081",
+      "cases": 74,
+      "deaths": 2
+    },
     {
       "county": "Jackson",
       "state": "Alabama",
       "stateCode": "AL",
       "fips": "01071",
-      "cases": 5,
+      "cases": 7,
       "deaths": 1
     },
     {
@@ -25,11 +41,11 @@
       "deaths": 1
     },
     {
-      "county": "Chambers",
+      "county": "Tallapoosa",
       "state": "Alabama",
       "stateCode": "AL",
-      "fips": "01017",
-      "cases": 27,
+      "fips": "01123",
+      "cases": 12,
       "deaths": 1
     },
     {
@@ -37,7 +53,7 @@
       "state": "Alabama",
       "stateCode": "AL",
       "fips": "01097",
-      "cases": 41,
+      "cases": 45,
       "deaths": 1
     },
     {
@@ -45,7 +61,7 @@
       "state": "Alabama",
       "stateCode": "AL",
       "fips": "01089",
-      "cases": 80,
+      "cases": 96,
       "deaths": 1
     },
     {
@@ -69,14 +85,6 @@
       "state": "Alabama",
       "stateCode": "AL",
       "fips": "01113",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Choctaw",
-      "state": "Alabama",
-      "stateCode": "AL",
-      "fips": "01023",
       "cases": 1,
       "deaths": 0
     },
@@ -121,6 +129,30 @@
       "deaths": 0
     },
     {
+      "county": "Fayette",
+      "state": "Alabama",
+      "stateCode": "AL",
+      "fips": "01057",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Hale",
+      "state": "Alabama",
+      "stateCode": "AL",
+      "fips": "01065",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Sumter",
+      "state": "Alabama",
+      "stateCode": "AL",
+      "fips": "01119",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
       "county": "Cherokee",
       "state": "Alabama",
       "stateCode": "AL",
@@ -137,14 +169,6 @@
       "deaths": 0
     },
     {
-      "county": "Colbert",
-      "state": "Alabama",
-      "stateCode": "AL",
-      "fips": "01033",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Dallas",
       "state": "Alabama",
       "stateCode": "AL",
@@ -153,18 +177,18 @@
       "deaths": 0
     },
     {
-      "county": "Pickens",
-      "state": "Alabama",
-      "stateCode": "AL",
-      "fips": "01107",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Wilcox",
       "state": "Alabama",
       "stateCode": "AL",
       "fips": "01131",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Choctaw",
+      "state": "Alabama",
+      "stateCode": "AL",
+      "fips": "01023",
       "cases": 2,
       "deaths": 0
     },
@@ -193,10 +217,18 @@
       "deaths": 0
     },
     {
-      "county": "Calhoun",
+      "county": "Bibb",
       "state": "Alabama",
       "stateCode": "AL",
-      "fips": "01015",
+      "fips": "01007",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Washington",
+      "state": "Alabama",
+      "stateCode": "AL",
+      "fips": "01129",
       "cases": 3,
       "deaths": 0
     },
@@ -217,18 +249,18 @@
       "deaths": 0
     },
     {
-      "county": "Bullock",
+      "county": "Pickens",
       "state": "Alabama",
       "stateCode": "AL",
-      "fips": "01011",
+      "fips": "01107",
       "cases": 3,
       "deaths": 0
     },
     {
-      "county": "Coosa",
+      "county": "Bullock",
       "state": "Alabama",
       "stateCode": "AL",
-      "fips": "01037",
+      "fips": "01011",
       "cases": 3,
       "deaths": 0
     },
@@ -241,18 +273,10 @@
       "deaths": 0
     },
     {
-      "county": "Talladega",
+      "county": "Colbert",
       "state": "Alabama",
       "stateCode": "AL",
-      "fips": "01121",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "Washington",
-      "state": "Alabama",
-      "stateCode": "AL",
-      "fips": "01129",
+      "fips": "01033",
       "cases": 4,
       "deaths": 0
     },
@@ -265,10 +289,26 @@
       "deaths": 0
     },
     {
+      "county": "Coosa",
+      "state": "Alabama",
+      "stateCode": "AL",
+      "fips": "01037",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
       "county": "DeKalb",
       "state": "Alabama",
       "stateCode": "AL",
       "fips": "01049",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Marengo",
+      "state": "Alabama",
+      "stateCode": "AL",
+      "fips": "01091",
       "cases": 4,
       "deaths": 0
     },
@@ -289,26 +329,10 @@
       "deaths": 0
     },
     {
-      "county": "Marshall",
+      "county": "Talladega",
       "state": "Alabama",
       "stateCode": "AL",
-      "fips": "01095",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Marengo",
-      "state": "Alabama",
-      "stateCode": "AL",
-      "fips": "01091",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Autauga",
-      "state": "Alabama",
-      "stateCode": "AL",
-      "fips": "01001",
+      "fips": "01121",
       "cases": 6,
       "deaths": 0
     },
@@ -321,35 +345,35 @@
       "deaths": 0
     },
     {
-      "county": "Cullman",
+      "county": "Autauga",
       "state": "Alabama",
       "stateCode": "AL",
-      "fips": "01043",
+      "fips": "01001",
       "cases": 7,
       "deaths": 0
     },
     {
-      "county": "Houston",
+      "county": "Marshall",
       "state": "Alabama",
       "stateCode": "AL",
-      "fips": "01069",
+      "fips": "01095",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Cullman",
+      "state": "Alabama",
+      "stateCode": "AL",
+      "fips": "01043",
       "cases": 8,
       "deaths": 0
     },
     {
-      "county": "Tallapoosa",
+      "county": "Calhoun",
       "state": "Alabama",
       "stateCode": "AL",
-      "fips": "01123",
-      "cases": 8,
-      "deaths": 0
-    },
-    {
-      "county": "Chilton",
-      "state": "Alabama",
-      "stateCode": "AL",
-      "fips": "01021",
-      "cases": 8,
+      "fips": "01015",
+      "cases": 9,
       "deaths": 0
     },
     {
@@ -357,6 +381,22 @@
       "state": "Alabama",
       "stateCode": "AL",
       "fips": "01093",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Houston",
+      "state": "Alabama",
+      "stateCode": "AL",
+      "fips": "01069",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Chilton",
+      "state": "Alabama",
+      "stateCode": "AL",
+      "fips": "01021",
       "cases": 10,
       "deaths": 0
     },
@@ -373,7 +413,7 @@
       "state": "Alabama",
       "stateCode": "AL",
       "fips": "01115",
-      "cases": 13,
+      "cases": 14,
       "deaths": 0
     },
     {
@@ -381,15 +421,7 @@
       "state": "Alabama",
       "stateCode": "AL",
       "fips": "01003",
-      "cases": 15,
-      "deaths": 0
-    },
-    {
-      "county": "Limestone",
-      "state": "Alabama",
-      "stateCode": "AL",
-      "fips": "01083",
-      "cases": 16,
+      "cases": 18,
       "deaths": 0
     },
     {
@@ -397,15 +429,15 @@
       "state": "Alabama",
       "stateCode": "AL",
       "fips": "01103",
-      "cases": 17,
+      "cases": 19,
       "deaths": 0
     },
     {
-      "county": "Montgomery",
+      "county": "Limestone",
       "state": "Alabama",
       "stateCode": "AL",
-      "fips": "01101",
-      "cases": 22,
+      "fips": "01083",
+      "cases": 20,
       "deaths": 0
     },
     {
@@ -413,7 +445,15 @@
       "state": "Alabama",
       "stateCode": "AL",
       "fips": "01125",
-      "cases": 23,
+      "cases": 28,
+      "deaths": 0
+    },
+    {
+      "county": "Montgomery",
+      "state": "Alabama",
+      "stateCode": "AL",
+      "fips": "01101",
+      "cases": 29,
       "deaths": 0
     },
     {
@@ -421,15 +461,7 @@
       "state": "Alabama",
       "stateCode": "AL",
       "fips": "01127",
-      "cases": 30,
-      "deaths": 0
-    },
-    {
-      "county": "Lee",
-      "state": "Alabama",
-      "stateCode": "AL",
-      "fips": "01081",
-      "cases": 57,
+      "cases": 31,
       "deaths": 0
     },
     {
@@ -437,7 +469,7 @@
       "state": "Alabama",
       "stateCode": "AL",
       "fips": "01117",
-      "cases": 79,
+      "cases": 88,
       "deaths": 0
     },
     {
@@ -445,7 +477,7 @@
       "state": "Alabama",
       "stateCode": "AL",
       "fips": "01073",
-      "cases": 246,
+      "cases": 257,
       "deaths": 0
     }
   ]

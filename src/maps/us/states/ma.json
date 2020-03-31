@@ -1,43 +1,59 @@
 {
   "summary": {
     "name": "Massachusetts",
-    "cases": 4955,
-    "casesMax": 981,
-    "deaths": 48,
-    "deathsMax": 9,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "cases": 5752,
+    "casesMax": 1141,
+    "deaths": 61,
+    "deathsMax": 10,
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
+    {
+      "county": "Hampden",
+      "state": "Massachusetts",
+      "stateCode": "MA",
+      "fips": "25013",
+      "cases": 255,
+      "deaths": 10
+    },
     {
       "county": "Norfolk",
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "25021",
-      "cases": 548,
-      "deaths": 9
+      "cases": 628,
+      "deaths": 10
     },
     {
       "county": "Middlesex",
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "25017",
-      "cases": 981,
-      "deaths": 7
+      "cases": 1141,
+      "deaths": 9
+    },
+    {
+      "county": "Essex",
+      "state": "Massachusetts",
+      "stateCode": "MA",
+      "fips": "25009",
+      "cases": 653,
+      "deaths": 6
+    },
+    {
+      "county": "Suffolk",
+      "state": "Massachusetts",
+      "stateCode": "MA",
+      "fips": "25025",
+      "cases": 1115,
+      "deaths": 6
     },
     {
       "county": "Berkshire",
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "25003",
-      "cases": 151,
-      "deaths": 5
-    },
-    {
-      "county": "Hampden",
-      "state": "Massachusetts",
-      "stateCode": "MA",
-      "fips": "25013",
-      "cases": 201,
+      "cases": 162,
       "deaths": 5
     },
     {
@@ -45,7 +61,7 @@
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "25027",
-      "cases": 337,
+      "cases": 390,
       "deaths": 5
     },
     {
@@ -53,23 +69,7 @@
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "",
-      "cases": 462,
-      "deaths": 4
-    },
-    {
-      "county": "Essex",
-      "state": "Massachusetts",
-      "stateCode": "MA",
-      "fips": "25009",
-      "cases": 570,
-      "deaths": 4
-    },
-    {
-      "county": "Suffolk",
-      "state": "Massachusetts",
-      "stateCode": "MA",
-      "fips": "25025",
-      "cases": 940,
+      "cases": 491,
       "deaths": 4
     },
     {
@@ -77,7 +77,7 @@
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "25011",
-      "cases": 41,
+      "cases": 49,
       "deaths": 2
     },
     {
@@ -85,7 +85,7 @@
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "25001",
-      "cases": 148,
+      "cases": 173,
       "deaths": 2
     },
     {
@@ -93,8 +93,8 @@
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "25005",
-      "cases": 208,
-      "deaths": 1
+      "cases": 263,
+      "deaths": 2
     },
     {
       "county": "Dukes",
@@ -117,7 +117,7 @@
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "25015",
-      "cases": 37,
+      "cases": 46,
       "deaths": 0
     },
     {
@@ -125,7 +125,7 @@
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "25023",
-      "cases": 325,
+      "cases": 380,
       "deaths": 0
     }
   ]

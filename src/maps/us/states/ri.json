@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Rhode Island",
-    "cases": 331,
-    "casesMax": 148,
-    "deaths": 3,
-    "deathsMax": 3,
-    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+    "cases": 415,
+    "casesMax": 214,
+    "deaths": 4,
+    "deathsMax": 4,
+    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT"
   },
   "data": [
     {
@@ -14,14 +14,14 @@
       "stateCode": "RI",
       "fips": "",
       "cases": 106,
-      "deaths": 3
+      "deaths": 4
     },
     {
       "county": "Bristol",
       "state": "Rhode Island",
       "stateCode": "RI",
       "fips": "44001",
-      "cases": 11,
+      "cases": 14,
       "deaths": 0
     },
     {
@@ -29,7 +29,7 @@
       "state": "Rhode Island",
       "stateCode": "RI",
       "fips": "44005",
-      "cases": 17,
+      "cases": 21,
       "deaths": 0
     },
     {
@@ -37,7 +37,7 @@
       "state": "Rhode Island",
       "stateCode": "RI",
       "fips": "44009",
-      "cases": 21,
+      "cases": 28,
       "deaths": 0
     },
     {
@@ -45,7 +45,7 @@
       "state": "Rhode Island",
       "stateCode": "RI",
       "fips": "44003",
-      "cases": 28,
+      "cases": 32,
       "deaths": 0
     },
     {
@@ -53,7 +53,7 @@
       "state": "Rhode Island",
       "stateCode": "RI",
       "fips": "44007",
-      "cases": 148,
+      "cases": 214,
       "deaths": 0
     }
   ]
