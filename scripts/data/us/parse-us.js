@@ -5,8 +5,10 @@ const states = require('us-state-codes')
 
 const dataPath = path.join(__dirname, '../../../scripts/data/us/nytimes-covid-19-data')
 const parsedDataPath = path.join(__dirname, '../../../src/maps/us')
+const lastUpdated = new Date().toGMTString()
 
 if (fs.existsSync(dataPath)) {
+  // Counties
   const usCountiesCsv = fs.readFileSync(path.join(dataPath, 'us-counties.csv')).toString()
 
   const usCountiesJson = usCountiesCsv
@@ -77,12 +79,13 @@ if (fs.existsSync(dataPath)) {
 
   // fs.writeFileSync(path.join(parsedDataPath, 'us-counties-total.json'), JSON.stringify(usCountiesTotalArray, null, 2))
 
+  // States
   const usStatesCsv = fs.readFileSync(path.join(dataPath, 'us-states.csv')).toString()
 
   let summary = {
     cases: 0,
     deaths: 0,
-    lastUpdated: new Date().toGMTString(),
+    lastUpdated,
   }
 
   const usStatesJson = usStatesCsv
@@ -116,14 +119,22 @@ if (fs.existsSync(dataPath)) {
     return usStatesTotalJson[key]
   })
 
-  fs.writeFileSync(path.join(parsedDataPath, 'country.json'), JSON.stringify(usStatesTotalArray, null, 2))
-
   usStatesTotalArray.forEach((state) => {
     summary.cases += parseInt(state.cases)
     summary.deaths += parseInt(state.deaths)
   })
 
-  fs.writeFileSync(path.join(parsedDataPath, 'us-summary.json'), JSON.stringify(summary, null, 2))
+  fs.writeFileSync(
+    path.join(parsedDataPath, 'country.json'),
+    JSON.stringify(
+      {
+        summary: { name: 'USA', ...summary },
+        data: usStatesTotalArray,
+      },
+      null,
+      2
+    )
+  )
 
   const filteredStateData = usStatesTotalArray.filter(
     (stateDatum) => stateDatum.stateCode && stateDatum.stateCode !== 'PR'
@@ -143,10 +154,14 @@ if (fs.existsSync(dataPath)) {
   
     `
     fs.writeFileSync(path.join(__dirname, `../../../src/maps/us/states/${stateDatum.stateCode}.js`), comp)
+    const stateData = usCountiesTotalArray.filter((countyDatum) => countyDatum.stateCode === stateDatum.stateCode)
+
+    const cases = stateData.reduce((acc, value) => acc + value.cases, 0)
+    const deaths = stateData.reduce((acc, value) => acc + value.deaths, 0)
 
     fs.writeFileSync(
       path.join(__dirname, `../../../src/maps/us/states/${stateDatum.stateCode.toLowerCase()}.json`),
-      JSON.stringify(usCountiesTotalArray.filter((countyDatum) => countyDatum.stateCode === stateDatum.stateCode))
+      JSON.stringify({ summary: { name: stateDatum.state, cases, deaths, lastUpdated }, data: stateData })
     )
   })
 

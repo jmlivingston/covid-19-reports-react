@@ -1,10 +1,18 @@
-[
-  {
-    "county": "District of Columbia",
-    "state": "District of Columbia",
-    "stateCode": "DC",
-    "fips": "11001",
+{
+  "summary": {
+    "name": "District of Columbia",
     "cases": 342,
-    "deaths": 4
-  }
-]
+    "deaths": 4,
+    "lastUpdated": "Tue, 31 Mar 2020 01:01:54 GMT"
+  },
+  "data": [
+    {
+      "county": "District of Columbia",
+      "state": "District of Columbia",
+      "stateCode": "DC",
+      "fips": "11001",
+      "cases": 342,
+      "deaths": 4
+    }
+  ]
+}

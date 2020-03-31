@@ -1,11 +1,14 @@
-[
-  { "county": "Clark", "state": "Nevada", "stateCode": "NV", "fips": "32003", "cases": 528, "deaths": 14 },
-  { "county": "Washoe", "state": "Nevada", "stateCode": "NV", "fips": "32031", "cases": 107, "deaths": 1 },
-  { "county": "Carson City", "state": "Nevada", "stateCode": "NV", "fips": "32510", "cases": 5, "deaths": 0 },
-  { "county": "Elko", "state": "Nevada", "stateCode": "NV", "fips": "32007", "cases": 3, "deaths": 0 },
-  { "county": "Unknown", "state": "Nevada", "stateCode": "NV", "fips": "", "cases": 269, "deaths": 0 },
-  { "county": "Nye", "state": "Nevada", "stateCode": "NV", "fips": "32023", "cases": 1, "deaths": 0 },
-  { "county": "Douglas", "state": "Nevada", "stateCode": "NV", "fips": "32005", "cases": 5, "deaths": 0 },
-  { "county": "Lyon", "state": "Nevada", "stateCode": "NV", "fips": "32019", "cases": 1, "deaths": 0 },
-  { "county": "Humboldt", "state": "Nevada", "stateCode": "NV", "fips": "32013", "cases": 1, "deaths": 0 }
-]
+{
+  "summary": { "name": "Nevada", "cases": 920, "deaths": 15, "lastUpdated": "Tue, 31 Mar 2020 01:01:54 GMT" },
+  "data": [
+    { "county": "Clark", "state": "Nevada", "stateCode": "NV", "fips": "32003", "cases": 528, "deaths": 14 },
+    { "county": "Washoe", "state": "Nevada", "stateCode": "NV", "fips": "32031", "cases": 107, "deaths": 1 },
+    { "county": "Carson City", "state": "Nevada", "stateCode": "NV", "fips": "32510", "cases": 5, "deaths": 0 },
+    { "county": "Elko", "state": "Nevada", "stateCode": "NV", "fips": "32007", "cases": 3, "deaths": 0 },
+    { "county": "Unknown", "state": "Nevada", "stateCode": "NV", "fips": "", "cases": 269, "deaths": 0 },
+    { "county": "Nye", "state": "Nevada", "stateCode": "NV", "fips": "32023", "cases": 1, "deaths": 0 },
+    { "county": "Douglas", "state": "Nevada", "stateCode": "NV", "fips": "32005", "cases": 5, "deaths": 0 },
+    { "county": "Lyon", "state": "Nevada", "stateCode": "NV", "fips": "32019", "cases": 1, "deaths": 0 },
+    { "county": "Humboldt", "state": "Nevada", "stateCode": "NV", "fips": "32013", "cases": 1, "deaths": 0 }
+  ]
+}

@@ -191,7 +191,7 @@ Map.propTypes = {
   colorMinValue: PropTypes.number,
   colorValueInterval: PropTypes.number.isRequired,
   data: PropTypes.array.isRequired,
-  drilldown: PropTypes.object,
+  drilldown: PropTypes.func,
   hoverColor: PropTypes.string,
   mapData: PropTypes.object.isRequired,
   separatorLines: PropTypes.array,

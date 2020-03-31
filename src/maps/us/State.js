@@ -7,18 +7,17 @@ function State({ data, mapData }) {
   // const { reportType = 'deaths' } = useParams()
   const reportType = 'cases'
 
-  const maxValue = data.sort((a, b) => (a[reportType] > b[reportType] ? -1 : 1))[0][reportType]
   return (
     <Map
       colorKey={reportType}
-      colorMaxValue={maxValue}
+      colorMaxValue={data.summary[reportType]}
       colorMinValue={0}
-      colorValueInterval={Math.round(maxValue / 5)}
-      data={data}
+      colorValueInterval={Math.round(data.summary[reportType] / 5)}
+      data={data.data}
       hasSeparatorLines={true}
       mapData={mapData}
       seriesJoinBy={'fips'}
-      title={getTitle({ title: `USA State ${reportType.charAt(0).toUpperCase() + reportType.slice(1)}` })}
+      title={getTitle({ ...data.summary, reportType })}
       tooltipFormat="Deaths: {point.deaths}<br />Cases: {point.cases}<br />"
       tooltipHeader="{point.key}<br />"
       tooltipSuffix=""
