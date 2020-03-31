@@ -1,22 +1,148 @@
 {
-  "summary": { "name": "New Mexico", "cases": 237, "deaths": 2, "lastUpdated": "Tue, 31 Mar 2020 01:01:54 GMT" },
+  "summary": {
+    "name": "New Mexico",
+    "cases": 237,
+    "casesMax": 101,
+    "deaths": 2,
+    "deathsMax": 1,
+    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+  },
   "data": [
-    { "county": "Bernalillo", "state": "New Mexico", "stateCode": "NM", "fips": "35001", "cases": 101, "deaths": 1 },
-    { "county": "Santa Fe", "state": "New Mexico", "stateCode": "NM", "fips": "35049", "cases": 34, "deaths": 0 },
-    { "county": "Socorro", "state": "New Mexico", "stateCode": "NM", "fips": "35053", "cases": 2, "deaths": 0 },
-    { "county": "Sandoval", "state": "New Mexico", "stateCode": "NM", "fips": "35043", "cases": 18, "deaths": 0 },
-    { "county": "Taos", "state": "New Mexico", "stateCode": "NM", "fips": "35055", "cases": 9, "deaths": 0 },
-    { "county": "San Miguel", "state": "New Mexico", "stateCode": "NM", "fips": "35047", "cases": 1, "deaths": 0 },
-    { "county": "Doña Ana", "state": "New Mexico", "stateCode": "NM", "fips": "35013", "cases": 17, "deaths": 0 },
-    { "county": "McKinley", "state": "New Mexico", "stateCode": "NM", "fips": "35031", "cases": 9, "deaths": 0 },
-    { "county": "Lea", "state": "New Mexico", "stateCode": "NM", "fips": "35025", "cases": 2, "deaths": 0 },
-    { "county": "San Juan", "state": "New Mexico", "stateCode": "NM", "fips": "35045", "cases": 22, "deaths": 0 },
-    { "county": "Chaves", "state": "New Mexico", "stateCode": "NM", "fips": "35005", "cases": 8, "deaths": 0 },
-    { "county": "Cibola", "state": "New Mexico", "stateCode": "NM", "fips": "35006", "cases": 2, "deaths": 0 },
-    { "county": "Curry", "state": "New Mexico", "stateCode": "NM", "fips": "35009", "cases": 3, "deaths": 0 },
-    { "county": "Eddy", "state": "New Mexico", "stateCode": "NM", "fips": "35015", "cases": 4, "deaths": 1 },
-    { "county": "Rio Arriba", "state": "New Mexico", "stateCode": "NM", "fips": "35039", "cases": 2, "deaths": 0 },
-    { "county": "Roosevelt", "state": "New Mexico", "stateCode": "NM", "fips": "35041", "cases": 1, "deaths": 0 },
-    { "county": "Valencia", "state": "New Mexico", "stateCode": "NM", "fips": "35061", "cases": 2, "deaths": 0 }
+    {
+      "county": "Eddy",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35015",
+      "cases": 4,
+      "deaths": 1
+    },
+    {
+      "county": "Bernalillo",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35001",
+      "cases": 101,
+      "deaths": 1
+    },
+    {
+      "county": "San Miguel",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35047",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Roosevelt",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35041",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Socorro",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35053",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Lea",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35025",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Cibola",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35006",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Rio Arriba",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35039",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Valencia",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35061",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Curry",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35009",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Chaves",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35005",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Taos",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35055",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "McKinley",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35031",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Doña Ana",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35013",
+      "cases": 17,
+      "deaths": 0
+    },
+    {
+      "county": "Sandoval",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35043",
+      "cases": 18,
+      "deaths": 0
+    },
+    {
+      "county": "San Juan",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35045",
+      "cases": 22,
+      "deaths": 0
+    },
+    {
+      "county": "Santa Fe",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35049",
+      "cases": 34,
+      "deaths": 0
+    }
   ]
 }

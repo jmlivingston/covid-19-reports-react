@@ -13,9 +13,9 @@ function Country() {
   return (
     <Map
       colorKey={reportType}
-      colorMaxValue={data.summary[reportType]}
+      colorMaxValue={data.summary[`${reportType}Max`]}
       colorMinValue={0}
-      colorValueInterval={Math.round(data.summary[reportType] / 5)}
+      colorValueInterval={Math.round(data.summary[`${reportType}Max`] / 5)}
       data={data.data}
       drilldown={(e) => history.push(`/us/${e.point.properties['postal-code'].toLowerCase()}`)}
       hasSeparatorLines={true}

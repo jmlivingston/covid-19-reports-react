@@ -1,52 +1,388 @@
 {
-  "summary": { "name": "Colorado", "cases": 2315, "deaths": 46, "lastUpdated": "Tue, 31 Mar 2020 01:01:54 GMT" },
+  "summary": {
+    "name": "Colorado",
+    "cases": 2315,
+    "casesMax": 408,
+    "deaths": 46,
+    "deathsMax": 11,
+    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+  },
   "data": [
-    { "county": "Douglas", "state": "Colorado", "stateCode": "CO", "fips": "08035", "cases": 102, "deaths": 0 },
-    { "county": "Jefferson", "state": "Colorado", "stateCode": "CO", "fips": "08059", "cases": 213, "deaths": 5 },
-    { "county": "Denver", "state": "Colorado", "stateCode": "CO", "fips": "08031", "cases": 408, "deaths": 5 },
-    { "county": "Eagle", "state": "Colorado", "stateCode": "CO", "fips": "08037", "cases": 187, "deaths": 2 },
-    { "county": "El Paso", "state": "Colorado", "stateCode": "CO", "fips": "08041", "cases": 214, "deaths": 11 },
-    { "county": "Arapahoe", "state": "Colorado", "stateCode": "CO", "fips": "08005", "cases": 241, "deaths": 3 },
-    { "county": "Larimer", "state": "Colorado", "stateCode": "CO", "fips": "08069", "cases": 84, "deaths": 3 },
-    { "county": "Gunnison", "state": "Colorado", "stateCode": "CO", "fips": "08051", "cases": 79, "deaths": 1 },
-    { "county": "Pitkin", "state": "Colorado", "stateCode": "CO", "fips": "08097", "cases": 27, "deaths": 2 },
-    { "county": "Adams", "state": "Colorado", "stateCode": "CO", "fips": "08001", "cases": 110, "deaths": 0 },
-    { "county": "Clear Creek", "state": "Colorado", "stateCode": "CO", "fips": "08019", "cases": 3, "deaths": 0 },
-    { "county": "Pueblo", "state": "Colorado", "stateCode": "CO", "fips": "08101", "cases": 18, "deaths": 1 },
-    { "county": "Routt", "state": "Colorado", "stateCode": "CO", "fips": "08107", "cases": 16, "deaths": 0 },
-    { "county": "Summit", "state": "Colorado", "stateCode": "CO", "fips": "08117", "cases": 11, "deaths": 0 },
-    { "county": "Weld", "state": "Colorado", "stateCode": "CO", "fips": "08123", "cases": 180, "deaths": 9 },
-    { "county": "Boulder", "state": "Colorado", "stateCode": "CO", "fips": "08013", "cases": 90, "deaths": 1 },
-    { "county": "Mesa", "state": "Colorado", "stateCode": "CO", "fips": "08077", "cases": 11, "deaths": 0 },
-    { "county": "Garfield", "state": "Colorado", "stateCode": "CO", "fips": "08045", "cases": 25, "deaths": 0 },
-    { "county": "Yuma", "state": "Colorado", "stateCode": "CO", "fips": "08125", "cases": 2, "deaths": 0 },
-    { "county": "Crowley", "state": "Colorado", "stateCode": "CO", "fips": "08025", "cases": 1, "deaths": 1 },
-    { "county": "Grand", "state": "Colorado", "stateCode": "CO", "fips": "08049", "cases": 2, "deaths": 0 },
-    { "county": "Morgan", "state": "Colorado", "stateCode": "CO", "fips": "08087", "cases": 5, "deaths": 0 },
-    { "county": "Broomfield", "state": "Colorado", "stateCode": "CO", "fips": "08014", "cases": 17, "deaths": 0 },
-    { "county": "Park", "state": "Colorado", "stateCode": "CO", "fips": "08093", "cases": 3, "deaths": 0 },
-    { "county": "San Miguel", "state": "Colorado", "stateCode": "CO", "fips": "08113", "cases": 1, "deaths": 0 },
-    { "county": "Chaffee", "state": "Colorado", "stateCode": "CO", "fips": "08015", "cases": 15, "deaths": 1 },
-    { "county": "Elbert", "state": "Colorado", "stateCode": "CO", "fips": "08039", "cases": 3, "deaths": 0 },
-    { "county": "Hinsdale", "state": "Colorado", "stateCode": "CO", "fips": "08053", "cases": 1, "deaths": 0 },
-    { "county": "Montrose", "state": "Colorado", "stateCode": "CO", "fips": "08085", "cases": 8, "deaths": 0 },
-    { "county": "Unknown", "state": "Colorado", "stateCode": "CO", "fips": "", "cases": 186, "deaths": 0 },
-    { "county": "La Plata", "state": "Colorado", "stateCode": "CO", "fips": "08067", "cases": 21, "deaths": 0 },
-    { "county": "Logan", "state": "Colorado", "stateCode": "CO", "fips": "08075", "cases": 5, "deaths": 0 },
-    { "county": "Teller", "state": "Colorado", "stateCode": "CO", "fips": "08119", "cases": 7, "deaths": 1 },
-    { "county": "Delta", "state": "Colorado", "stateCode": "CO", "fips": "08029", "cases": 1, "deaths": 0 },
-    { "county": "Fremont", "state": "Colorado", "stateCode": "CO", "fips": "08043", "cases": 1, "deaths": 0 },
-    { "county": "Huerfano", "state": "Colorado", "stateCode": "CO", "fips": "08055", "cases": 1, "deaths": 0 },
-    { "county": "Otero", "state": "Colorado", "stateCode": "CO", "fips": "08089", "cases": 3, "deaths": 0 },
-    { "county": "Kit Carson", "state": "Colorado", "stateCode": "CO", "fips": "08063", "cases": 1, "deaths": 0 },
-    { "county": "Rio Grande", "state": "Colorado", "stateCode": "CO", "fips": "08105", "cases": 3, "deaths": 0 },
-    { "county": "Washington", "state": "Colorado", "stateCode": "CO", "fips": "08121", "cases": 1, "deaths": 0 },
-    { "county": "Alamosa", "state": "Colorado", "stateCode": "CO", "fips": "08003", "cases": 1, "deaths": 0 },
-    { "county": "Costilla", "state": "Colorado", "stateCode": "CO", "fips": "08023", "cases": 1, "deaths": 0 },
-    { "county": "Lincoln", "state": "Colorado", "stateCode": "CO", "fips": "08073", "cases": 1, "deaths": 0 },
-    { "county": "Baca", "state": "Colorado", "stateCode": "CO", "fips": "08009", "cases": 1, "deaths": 0 },
-    { "county": "Moffat", "state": "Colorado", "stateCode": "CO", "fips": "08081", "cases": 2, "deaths": 0 },
-    { "county": "Mineral", "state": "Colorado", "stateCode": "CO", "fips": "08079", "cases": 1, "deaths": 0 },
-    { "county": "Montezuma", "state": "Colorado", "stateCode": "CO", "fips": "08083", "cases": 1, "deaths": 0 }
+    {
+      "county": "El Paso",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08041",
+      "cases": 214,
+      "deaths": 11
+    },
+    {
+      "county": "Weld",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08123",
+      "cases": 180,
+      "deaths": 9
+    },
+    {
+      "county": "Jefferson",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08059",
+      "cases": 213,
+      "deaths": 5
+    },
+    {
+      "county": "Denver",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08031",
+      "cases": 408,
+      "deaths": 5
+    },
+    {
+      "county": "Larimer",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08069",
+      "cases": 84,
+      "deaths": 3
+    },
+    {
+      "county": "Arapahoe",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08005",
+      "cases": 241,
+      "deaths": 3
+    },
+    {
+      "county": "Pitkin",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08097",
+      "cases": 27,
+      "deaths": 2
+    },
+    {
+      "county": "Eagle",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08037",
+      "cases": 187,
+      "deaths": 2
+    },
+    {
+      "county": "Crowley",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08025",
+      "cases": 1,
+      "deaths": 1
+    },
+    {
+      "county": "Teller",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08119",
+      "cases": 7,
+      "deaths": 1
+    },
+    {
+      "county": "Chaffee",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08015",
+      "cases": 15,
+      "deaths": 1
+    },
+    {
+      "county": "Pueblo",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08101",
+      "cases": 18,
+      "deaths": 1
+    },
+    {
+      "county": "Gunnison",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08051",
+      "cases": 79,
+      "deaths": 1
+    },
+    {
+      "county": "Boulder",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08013",
+      "cases": 90,
+      "deaths": 1
+    },
+    {
+      "county": "San Miguel",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08113",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Hinsdale",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08053",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Delta",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08029",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Fremont",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08043",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Huerfano",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08055",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Kit Carson",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08063",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Washington",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08121",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Alamosa",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08003",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Costilla",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08023",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Lincoln",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08073",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Baca",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08009",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Mineral",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08079",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Montezuma",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08083",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Yuma",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08125",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Grand",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08049",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Moffat",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08081",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Clear Creek",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08019",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Park",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08093",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Elbert",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08039",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Otero",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08089",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Rio Grande",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08105",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Morgan",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08087",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Logan",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08075",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Montrose",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08085",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Summit",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08117",
+      "cases": 11,
+      "deaths": 0
+    },
+    {
+      "county": "Mesa",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08077",
+      "cases": 11,
+      "deaths": 0
+    },
+    {
+      "county": "Routt",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08107",
+      "cases": 16,
+      "deaths": 0
+    },
+    {
+      "county": "Broomfield",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08014",
+      "cases": 17,
+      "deaths": 0
+    },
+    {
+      "county": "La Plata",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08067",
+      "cases": 21,
+      "deaths": 0
+    },
+    {
+      "county": "Garfield",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08045",
+      "cases": 25,
+      "deaths": 0
+    },
+    {
+      "county": "Douglas",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08035",
+      "cases": 102,
+      "deaths": 0
+    },
+    {
+      "county": "Adams",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08001",
+      "cases": 110,
+      "deaths": 0
+    },
+    {
+      "county": "Unknown",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "",
+      "cases": 186,
+      "deaths": 0
+    }
   ]
 }

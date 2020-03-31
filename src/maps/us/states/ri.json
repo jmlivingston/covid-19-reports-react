@@ -1,11 +1,60 @@
 {
-  "summary": { "name": "Rhode Island", "cases": 331, "deaths": 3, "lastUpdated": "Tue, 31 Mar 2020 01:01:54 GMT" },
+  "summary": {
+    "name": "Rhode Island",
+    "cases": 331,
+    "casesMax": 148,
+    "deaths": 3,
+    "deathsMax": 3,
+    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+  },
   "data": [
-    { "county": "Unknown", "state": "Rhode Island", "stateCode": "RI", "fips": "", "cases": 106, "deaths": 3 },
-    { "county": "Bristol", "state": "Rhode Island", "stateCode": "RI", "fips": "44001", "cases": 11, "deaths": 0 },
-    { "county": "Kent", "state": "Rhode Island", "stateCode": "RI", "fips": "44003", "cases": 28, "deaths": 0 },
-    { "county": "Newport", "state": "Rhode Island", "stateCode": "RI", "fips": "44005", "cases": 17, "deaths": 0 },
-    { "county": "Providence", "state": "Rhode Island", "stateCode": "RI", "fips": "44007", "cases": 148, "deaths": 0 },
-    { "county": "Washington", "state": "Rhode Island", "stateCode": "RI", "fips": "44009", "cases": 21, "deaths": 0 }
+    {
+      "county": "Unknown",
+      "state": "Rhode Island",
+      "stateCode": "RI",
+      "fips": "",
+      "cases": 106,
+      "deaths": 3
+    },
+    {
+      "county": "Bristol",
+      "state": "Rhode Island",
+      "stateCode": "RI",
+      "fips": "44001",
+      "cases": 11,
+      "deaths": 0
+    },
+    {
+      "county": "Newport",
+      "state": "Rhode Island",
+      "stateCode": "RI",
+      "fips": "44005",
+      "cases": 17,
+      "deaths": 0
+    },
+    {
+      "county": "Washington",
+      "state": "Rhode Island",
+      "stateCode": "RI",
+      "fips": "44009",
+      "cases": 21,
+      "deaths": 0
+    },
+    {
+      "county": "Kent",
+      "state": "Rhode Island",
+      "stateCode": "RI",
+      "fips": "44003",
+      "cases": 28,
+      "deaths": 0
+    },
+    {
+      "county": "Providence",
+      "state": "Rhode Island",
+      "stateCode": "RI",
+      "fips": "44007",
+      "cases": 148,
+      "deaths": 0
+    }
   ]
 }

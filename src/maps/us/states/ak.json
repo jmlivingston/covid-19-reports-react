@@ -1,29 +1,27 @@
 {
-  "summary": { "name": "Alaska", "cases": 114, "deaths": 2, "lastUpdated": "Tue, 31 Mar 2020 01:01:54 GMT" },
+  "summary": {
+    "name": "Alaska",
+    "cases": 114,
+    "casesMax": 59,
+    "deaths": 2,
+    "deathsMax": 2,
+    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+  },
   "data": [
-    { "county": "Anchorage", "state": "Alaska", "stateCode": "AK", "fips": "02020", "cases": 59, "deaths": 2 },
     {
-      "county": "Fairbanks North Star Borough",
+      "county": "Anchorage",
       "state": "Alaska",
       "stateCode": "AK",
-      "fips": "02090",
-      "cases": 28,
-      "deaths": 0
+      "fips": "02020",
+      "cases": 59,
+      "deaths": 2
     },
     {
-      "county": "Ketchikan Gateway Borough",
+      "county": "Matanuska-Susitna Borough",
       "state": "Alaska",
       "stateCode": "AK",
-      "fips": "02130",
-      "cases": 13,
-      "deaths": 0
-    },
-    {
-      "county": "Kenai Peninsula Borough",
-      "state": "Alaska",
-      "stateCode": "AK",
-      "fips": "02122",
-      "cases": 7,
+      "fips": "02170",
+      "cases": 2,
       "deaths": 0
     },
     {
@@ -35,11 +33,27 @@
       "deaths": 0
     },
     {
-      "county": "Matanuska-Susitna Borough",
+      "county": "Kenai Peninsula Borough",
       "state": "Alaska",
       "stateCode": "AK",
-      "fips": "02170",
-      "cases": 2,
+      "fips": "02122",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Ketchikan Gateway Borough",
+      "state": "Alaska",
+      "stateCode": "AK",
+      "fips": "02130",
+      "cases": 13,
+      "deaths": 0
+    },
+    {
+      "county": "Fairbanks North Star Borough",
+      "state": "Alaska",
+      "stateCode": "AK",
+      "fips": "02090",
+      "cases": 28,
       "deaths": 0
     }
   ]

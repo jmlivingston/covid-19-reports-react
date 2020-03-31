@@ -1,0 +1,20 @@
+section {
+  display: flex;
+  /* width: 192px;
+  height: 192px; */
+  /* width: 512px;
+  height: 512px; */
+  width: 1024px;
+  height: 512px;
+  margin: auto;
+  background-color: #333;
+  color: #fff;
+  /* font-size: 30px; */
+  /* font-size: 64px; */
+  font-size: 96px;
+}
+
+p {
+  margin: auto;
+  text-align: center;
+}

@@ -1,24 +1,164 @@
 {
-  "summary": { "name": "Montana", "cases": 161, "deaths": 1, "lastUpdated": "Tue, 31 Mar 2020 01:01:54 GMT" },
+  "summary": {
+    "name": "Montana",
+    "cases": 161,
+    "casesMax": 62,
+    "deaths": 1,
+    "deathsMax": 1,
+    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+  },
   "data": [
-    { "county": "Gallatin", "state": "Montana", "stateCode": "MT", "fips": "30031", "cases": 62, "deaths": 0 },
-    { "county": "Lewis and Clark", "state": "Montana", "stateCode": "MT", "fips": "30049", "cases": 10, "deaths": 0 },
-    { "county": "Silver Bow", "state": "Montana", "stateCode": "MT", "fips": "30093", "cases": 9, "deaths": 0 },
-    { "county": "Yellowstone", "state": "Montana", "stateCode": "MT", "fips": "30111", "cases": 26, "deaths": 0 },
-    { "county": "Missoula", "state": "Montana", "stateCode": "MT", "fips": "30063", "cases": 11, "deaths": 0 },
-    { "county": "Broadwater", "state": "Montana", "stateCode": "MT", "fips": "30007", "cases": 3, "deaths": 0 },
-    { "county": "Flathead", "state": "Montana", "stateCode": "MT", "fips": "30029", "cases": 8, "deaths": 0 },
-    { "county": "Madison", "state": "Montana", "stateCode": "MT", "fips": "30057", "cases": 4, "deaths": 0 },
-    { "county": "Roosevelt", "state": "Montana", "stateCode": "MT", "fips": "30085", "cases": 1, "deaths": 0 },
-    { "county": "Cascade", "state": "Montana", "stateCode": "MT", "fips": "30013", "cases": 7, "deaths": 0 },
-    { "county": "Ravalli", "state": "Montana", "stateCode": "MT", "fips": "30081", "cases": 1, "deaths": 0 },
-    { "county": "Jefferson", "state": "Montana", "stateCode": "MT", "fips": "30043", "cases": 2, "deaths": 0 },
-    { "county": "Hill", "state": "Montana", "stateCode": "MT", "fips": "30041", "cases": 1, "deaths": 0 },
-    { "county": "Lincoln", "state": "Montana", "stateCode": "MT", "fips": "30053", "cases": 4, "deaths": 1 },
-    { "county": "Meagher", "state": "Montana", "stateCode": "MT", "fips": "30059", "cases": 1, "deaths": 0 },
-    { "county": "Toole", "state": "Montana", "stateCode": "MT", "fips": "30101", "cases": 5, "deaths": 0 },
-    { "county": "Lake", "state": "Montana", "stateCode": "MT", "fips": "30047", "cases": 3, "deaths": 0 },
-    { "county": "Park", "state": "Montana", "stateCode": "MT", "fips": "30067", "cases": 2, "deaths": 0 },
-    { "county": "Deer Lodge", "state": "Montana", "stateCode": "MT", "fips": "30023", "cases": 1, "deaths": 0 }
+    {
+      "county": "Lincoln",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30053",
+      "cases": 4,
+      "deaths": 1
+    },
+    {
+      "county": "Roosevelt",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30085",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Ravalli",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30081",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Hill",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30041",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Meagher",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30059",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Deer Lodge",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30023",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Jefferson",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30043",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Park",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30067",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Broadwater",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30007",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Lake",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30047",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Madison",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30057",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Toole",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30101",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Cascade",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30013",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Flathead",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30029",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Silver Bow",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30093",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Lewis and Clark",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30049",
+      "cases": 10,
+      "deaths": 0
+    },
+    {
+      "county": "Missoula",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30063",
+      "cases": 11,
+      "deaths": 0
+    },
+    {
+      "county": "Yellowstone",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30111",
+      "cases": 26,
+      "deaths": 0
+    },
+    {
+      "county": "Gallatin",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30031",
+      "cases": 62,
+      "deaths": 0
+    }
   ]
 }

@@ -1,23 +1,156 @@
 {
-  "summary": { "name": "North Dakota", "cases": 98, "deaths": 1, "lastUpdated": "Tue, 31 Mar 2020 01:01:54 GMT" },
+  "summary": {
+    "name": "North Dakota",
+    "cases": 98,
+    "casesMax": 28,
+    "deaths": 1,
+    "deathsMax": 1,
+    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+  },
   "data": [
-    { "county": "Ward", "state": "North Dakota", "stateCode": "ND", "fips": "38101", "cases": 7, "deaths": 0 },
-    { "county": "Burleigh", "state": "North Dakota", "stateCode": "ND", "fips": "38015", "cases": 28, "deaths": 0 },
-    { "county": "Cass", "state": "North Dakota", "stateCode": "ND", "fips": "38017", "cases": 20, "deaths": 1 },
-    { "county": "Morton", "state": "North Dakota", "stateCode": "ND", "fips": "38059", "cases": 14, "deaths": 0 },
-    { "county": "Pierce", "state": "North Dakota", "stateCode": "ND", "fips": "38069", "cases": 2, "deaths": 0 },
-    { "county": "Ramsey", "state": "North Dakota", "stateCode": "ND", "fips": "38071", "cases": 3, "deaths": 0 },
-    { "county": "Walsh", "state": "North Dakota", "stateCode": "ND", "fips": "38099", "cases": 1, "deaths": 0 },
-    { "county": "Dunn", "state": "North Dakota", "stateCode": "ND", "fips": "38025", "cases": 1, "deaths": 0 },
-    { "county": "Foster", "state": "North Dakota", "stateCode": "ND", "fips": "38031", "cases": 1, "deaths": 0 },
-    { "county": "Stark", "state": "North Dakota", "stateCode": "ND", "fips": "38089", "cases": 10, "deaths": 0 },
-    { "county": "McHenry", "state": "North Dakota", "stateCode": "ND", "fips": "38049", "cases": 1, "deaths": 0 },
-    { "county": "McIntosh", "state": "North Dakota", "stateCode": "ND", "fips": "38051", "cases": 1, "deaths": 0 },
-    { "county": "Barnes", "state": "North Dakota", "stateCode": "ND", "fips": "38003", "cases": 2, "deaths": 0 },
-    { "county": "Divide", "state": "North Dakota", "stateCode": "ND", "fips": "38023", "cases": 1, "deaths": 0 },
-    { "county": "McLean", "state": "North Dakota", "stateCode": "ND", "fips": "38055", "cases": 2, "deaths": 0 },
-    { "county": "Mercer", "state": "North Dakota", "stateCode": "ND", "fips": "38057", "cases": 1, "deaths": 0 },
-    { "county": "Mountrail", "state": "North Dakota", "stateCode": "ND", "fips": "38061", "cases": 2, "deaths": 0 },
-    { "county": "Sioux", "state": "North Dakota", "stateCode": "ND", "fips": "38085", "cases": 1, "deaths": 0 }
+    {
+      "county": "Cass",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38017",
+      "cases": 20,
+      "deaths": 1
+    },
+    {
+      "county": "Walsh",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38099",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Dunn",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38025",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Foster",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38031",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "McHenry",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38049",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "McIntosh",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38051",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Divide",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38023",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Mercer",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38057",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Sioux",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38085",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Pierce",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38069",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Barnes",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38003",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "McLean",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38055",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Mountrail",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38061",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Ramsey",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38071",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Ward",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38101",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Stark",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38089",
+      "cases": 10,
+      "deaths": 0
+    },
+    {
+      "county": "Morton",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38059",
+      "cases": 14,
+      "deaths": 0
+    },
+    {
+      "county": "Burleigh",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38015",
+      "cases": 28,
+      "deaths": 0
+    }
   ]
 }

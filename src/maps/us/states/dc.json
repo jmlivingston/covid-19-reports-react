@@ -2,8 +2,10 @@
   "summary": {
     "name": "District of Columbia",
     "cases": 342,
+    "casesMax": 342,
     "deaths": 4,
-    "lastUpdated": "Tue, 31 Mar 2020 01:01:54 GMT"
+    "deathsMax": 4,
+    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
   },
   "data": [
     {

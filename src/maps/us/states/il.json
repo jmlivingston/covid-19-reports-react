@@ -1,54 +1,404 @@
 {
-  "summary": { "name": "Illinois", "cases": 4674, "deaths": 71, "lastUpdated": "Tue, 31 Mar 2020 01:01:54 GMT" },
+  "summary": {
+    "name": "Illinois",
+    "cases": 4674,
+    "casesMax": 3445,
+    "deaths": 71,
+    "deathsMax": 40,
+    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+  },
   "data": [
-    { "county": "Cook", "state": "Illinois", "stateCode": "IL", "fips": "17031", "cases": 3445, "deaths": 40 },
-    { "county": "Kane", "state": "Illinois", "stateCode": "IL", "fips": "17089", "cases": 100, "deaths": 7 },
-    { "county": "McHenry", "state": "Illinois", "stateCode": "IL", "fips": "17111", "cases": 52, "deaths": 2 },
-    { "county": "Lake", "state": "Illinois", "stateCode": "IL", "fips": "17097", "cases": 300, "deaths": 3 },
-    { "county": "Cumberland", "state": "Illinois", "stateCode": "IL", "fips": "17035", "cases": 1, "deaths": 0 },
-    { "county": "DuPage", "state": "Illinois", "stateCode": "IL", "fips": "17043", "cases": 274, "deaths": 7 },
-    { "county": "Sangamon", "state": "Illinois", "stateCode": "IL", "fips": "17167", "cases": 9, "deaths": 1 },
-    { "county": "St. Clair", "state": "Illinois", "stateCode": "IL", "fips": "17163", "cases": 31, "deaths": 3 },
-    { "county": "Woodford", "state": "Illinois", "stateCode": "IL", "fips": "17203", "cases": 3, "deaths": 0 },
-    { "county": "Clinton", "state": "Illinois", "stateCode": "IL", "fips": "17027", "cases": 6, "deaths": 0 },
-    { "county": "Whiteside", "state": "Illinois", "stateCode": "IL", "fips": "17195", "cases": 3, "deaths": 0 },
-    { "county": "Winnebago", "state": "Illinois", "stateCode": "IL", "fips": "17201", "cases": 12, "deaths": 0 },
-    { "county": "Peoria", "state": "Illinois", "stateCode": "IL", "fips": "17143", "cases": 8, "deaths": 0 },
-    { "county": "Will", "state": "Illinois", "stateCode": "IL", "fips": "17197", "cases": 192, "deaths": 4 },
-    { "county": "Jackson", "state": "Illinois", "stateCode": "IL", "fips": "17077", "cases": 3, "deaths": 0 },
-    { "county": "Kankakee", "state": "Illinois", "stateCode": "IL", "fips": "17091", "cases": 38, "deaths": 0 },
-    { "county": "Kendall", "state": "Illinois", "stateCode": "IL", "fips": "17093", "cases": 15, "deaths": 1 },
-    { "county": "LaSalle", "state": "Illinois", "stateCode": "IL", "fips": "17099", "cases": 4, "deaths": 2 },
-    { "county": "Madison", "state": "Illinois", "stateCode": "IL", "fips": "17119", "cases": 12, "deaths": 0 },
-    { "county": "Washington", "state": "Illinois", "stateCode": "IL", "fips": "17189", "cases": 1, "deaths": 0 },
-    { "county": "Williamson", "state": "Illinois", "stateCode": "IL", "fips": "17199", "cases": 1, "deaths": 0 },
-    { "county": "Adams", "state": "Illinois", "stateCode": "IL", "fips": "17001", "cases": 2, "deaths": 0 },
-    { "county": "Christian", "state": "Illinois", "stateCode": "IL", "fips": "17021", "cases": 19, "deaths": 0 },
-    { "county": "McLean", "state": "Illinois", "stateCode": "IL", "fips": "17113", "cases": 14, "deaths": 1 },
-    { "county": "DeKalb", "state": "Illinois", "stateCode": "IL", "fips": "17037", "cases": 8, "deaths": 0 },
-    { "county": "Champaign", "state": "Illinois", "stateCode": "IL", "fips": "17019", "cases": 21, "deaths": 0 },
-    { "county": "Jo Daviess", "state": "Illinois", "stateCode": "IL", "fips": "17085", "cases": 1, "deaths": 0 },
-    { "county": "Livingston", "state": "Illinois", "stateCode": "IL", "fips": "17105", "cases": 2, "deaths": 0 },
-    { "county": "Rock Island", "state": "Illinois", "stateCode": "IL", "fips": "17161", "cases": 5, "deaths": 0 },
-    { "county": "Stephenson", "state": "Illinois", "stateCode": "IL", "fips": "17177", "cases": 3, "deaths": 0 },
-    { "county": "Monroe", "state": "Illinois", "stateCode": "IL", "fips": "17133", "cases": 3, "deaths": 0 },
-    { "county": "Unknown", "state": "Illinois", "stateCode": "IL", "fips": "", "cases": 58, "deaths": 0 },
-    { "county": "Grundy", "state": "Illinois", "stateCode": "IL", "fips": "17063", "cases": 3, "deaths": 0 },
-    { "county": "Douglas", "state": "Illinois", "stateCode": "IL", "fips": "17041", "cases": 1, "deaths": 0 },
-    { "county": "Logan", "state": "Illinois", "stateCode": "IL", "fips": "17107", "cases": 1, "deaths": 0 },
-    { "county": "Marshall", "state": "Illinois", "stateCode": "IL", "fips": "17123", "cases": 1, "deaths": 0 },
-    { "county": "Morgan", "state": "Illinois", "stateCode": "IL", "fips": "17137", "cases": 3, "deaths": 0 },
-    { "county": "Franklin", "state": "Illinois", "stateCode": "IL", "fips": "17055", "cases": 2, "deaths": 0 },
-    { "county": "Tazewell", "state": "Illinois", "stateCode": "IL", "fips": "17179", "cases": 4, "deaths": 0 },
-    { "county": "Bureau", "state": "Illinois", "stateCode": "IL", "fips": "17011", "cases": 1, "deaths": 0 },
-    { "county": "Henry", "state": "Illinois", "stateCode": "IL", "fips": "17073", "cases": 2, "deaths": 0 },
-    { "county": "Iroquois", "state": "Illinois", "stateCode": "IL", "fips": "17075", "cases": 2, "deaths": 0 },
-    { "county": "Carroll", "state": "Illinois", "stateCode": "IL", "fips": "17015", "cases": 1, "deaths": 0 },
-    { "county": "Fayette", "state": "Illinois", "stateCode": "IL", "fips": "17051", "cases": 1, "deaths": 0 },
-    { "county": "Macon", "state": "Illinois", "stateCode": "IL", "fips": "17115", "cases": 2, "deaths": 0 },
-    { "county": "Bond", "state": "Illinois", "stateCode": "IL", "fips": "17005", "cases": 1, "deaths": 0 },
-    { "county": "Knox", "state": "Illinois", "stateCode": "IL", "fips": "17095", "cases": 1, "deaths": 0 },
-    { "county": "Menard", "state": "Illinois", "stateCode": "IL", "fips": "17129", "cases": 1, "deaths": 0 },
-    { "county": "Montgomery", "state": "Illinois", "stateCode": "IL", "fips": "17135", "cases": 1, "deaths": 0 }
+    {
+      "county": "Cook",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17031",
+      "cases": 3445,
+      "deaths": 40
+    },
+    {
+      "county": "Kane",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17089",
+      "cases": 100,
+      "deaths": 7
+    },
+    {
+      "county": "DuPage",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17043",
+      "cases": 274,
+      "deaths": 7
+    },
+    {
+      "county": "Will",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17197",
+      "cases": 192,
+      "deaths": 4
+    },
+    {
+      "county": "St. Clair",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17163",
+      "cases": 31,
+      "deaths": 3
+    },
+    {
+      "county": "Lake",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17097",
+      "cases": 300,
+      "deaths": 3
+    },
+    {
+      "county": "LaSalle",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17099",
+      "cases": 4,
+      "deaths": 2
+    },
+    {
+      "county": "McHenry",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17111",
+      "cases": 52,
+      "deaths": 2
+    },
+    {
+      "county": "Sangamon",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17167",
+      "cases": 9,
+      "deaths": 1
+    },
+    {
+      "county": "McLean",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17113",
+      "cases": 14,
+      "deaths": 1
+    },
+    {
+      "county": "Kendall",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17093",
+      "cases": 15,
+      "deaths": 1
+    },
+    {
+      "county": "Cumberland",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17035",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Washington",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17189",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Williamson",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17199",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Jo Daviess",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17085",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Douglas",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17041",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Logan",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17107",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Marshall",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17123",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Bureau",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17011",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Carroll",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17015",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Fayette",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17051",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Bond",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17005",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Knox",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17095",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Menard",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17129",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Montgomery",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17135",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Adams",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17001",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Livingston",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17105",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Franklin",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17055",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Henry",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17073",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Iroquois",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17075",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Macon",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17115",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Woodford",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17203",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Whiteside",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17195",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Jackson",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17077",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Stephenson",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17177",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Monroe",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17133",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Grundy",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17063",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Morgan",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17137",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Tazewell",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17179",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Rock Island",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17161",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Clinton",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17027",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Peoria",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17143",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "DeKalb",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17037",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Winnebago",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17201",
+      "cases": 12,
+      "deaths": 0
+    },
+    {
+      "county": "Madison",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17119",
+      "cases": 12,
+      "deaths": 0
+    },
+    {
+      "county": "Christian",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17021",
+      "cases": 19,
+      "deaths": 0
+    },
+    {
+      "county": "Champaign",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17019",
+      "cases": 21,
+      "deaths": 0
+    },
+    {
+      "county": "Kankakee",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17091",
+      "cases": 38,
+      "deaths": 0
+    },
+    {
+      "county": "Unknown",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "",
+      "cases": 58,
+      "deaths": 0
+    }
   ]
 }

@@ -1,21 +1,140 @@
 {
-  "summary": { "name": "Utah", "cases": 719, "deaths": 2, "lastUpdated": "Tue, 31 Mar 2020 01:01:54 GMT" },
+  "summary": {
+    "name": "Utah",
+    "cases": 719,
+    "casesMax": 324,
+    "deaths": 2,
+    "deathsMax": 1,
+    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+  },
   "data": [
-    { "county": "Salt Lake", "state": "Utah", "stateCode": "UT", "fips": "49035", "cases": 324, "deaths": 0 },
-    { "county": "Davis", "state": "Utah", "stateCode": "UT", "fips": "49011", "cases": 69, "deaths": 1 },
-    { "county": "Washington", "state": "Utah", "stateCode": "UT", "fips": "49053", "cases": 8, "deaths": 0 },
-    { "county": "Weber", "state": "Utah", "stateCode": "UT", "fips": "49057", "cases": 37, "deaths": 0 },
-    { "county": "Summit", "state": "Utah", "stateCode": "UT", "fips": "49043", "cases": 159, "deaths": 0 },
-    { "county": "Utah", "state": "Utah", "stateCode": "UT", "fips": "49049", "cases": 51, "deaths": 0 },
-    { "county": "Tooele", "state": "Utah", "stateCode": "UT", "fips": "49045", "cases": 9, "deaths": 0 },
-    { "county": "Wasatch", "state": "Utah", "stateCode": "UT", "fips": "49051", "cases": 40, "deaths": 0 },
-    { "county": "Box Elder", "state": "Utah", "stateCode": "UT", "fips": "49003", "cases": 4, "deaths": 0 },
-    { "county": "Cache", "state": "Utah", "stateCode": "UT", "fips": "49005", "cases": 5, "deaths": 0 },
-    { "county": "Iron", "state": "Utah", "stateCode": "UT", "fips": "49021", "cases": 4, "deaths": 0 },
-    { "county": "Morgan", "state": "Utah", "stateCode": "UT", "fips": "49029", "cases": 2, "deaths": 0 },
-    { "county": "Unknown", "state": "Utah", "stateCode": "UT", "fips": "", "cases": 1, "deaths": 1 },
-    { "county": "Uintah", "state": "Utah", "stateCode": "UT", "fips": "49047", "cases": 1, "deaths": 0 },
-    { "county": "Garfield", "state": "Utah", "stateCode": "UT", "fips": "49017", "cases": 1, "deaths": 0 },
-    { "county": "San Juan", "state": "Utah", "stateCode": "UT", "fips": "49037", "cases": 4, "deaths": 0 }
+    {
+      "county": "Unknown",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "",
+      "cases": 1,
+      "deaths": 1
+    },
+    {
+      "county": "Davis",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49011",
+      "cases": 69,
+      "deaths": 1
+    },
+    {
+      "county": "Uintah",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49047",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Garfield",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49017",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Morgan",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49029",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Box Elder",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49003",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Iron",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49021",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "San Juan",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49037",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Cache",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49005",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Washington",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49053",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Tooele",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49045",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Weber",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49057",
+      "cases": 37,
+      "deaths": 0
+    },
+    {
+      "county": "Wasatch",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49051",
+      "cases": 40,
+      "deaths": 0
+    },
+    {
+      "county": "Utah",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49049",
+      "cases": 51,
+      "deaths": 0
+    },
+    {
+      "county": "Summit",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49043",
+      "cases": 159,
+      "deaths": 0
+    },
+    {
+      "county": "Salt Lake",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49035",
+      "cases": 324,
+      "deaths": 0
+    }
   ]
 }

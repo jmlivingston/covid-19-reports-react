@@ -14,7 +14,7 @@ if (fs.existsSync(dataPath)) {
   const usCountiesJson = usCountiesCsv
     .split('\n')
     .slice(1)
-    .map((value) => {
+    .map(value => {
       const columns = value.split(',')
       return {
         county: columns[1],
@@ -22,7 +22,7 @@ if (fs.existsSync(dataPath)) {
         stateCode: states.getStateCodeByStateName(columns[2]),
         fips: columns[3],
         cases: columns[4],
-        deaths: columns[5],
+        deaths: columns[5]
       }
     })
 
@@ -32,8 +32,8 @@ if (fs.existsSync(dataPath)) {
       [`${value.state}-${value.county}`]: {
         ...value,
         cases: value.cases ? parseInt(value.cases) : 0,
-        deaths: value.deaths ? parseInt(value.deaths) : 0,
-      },
+        deaths: value.deaths ? parseInt(value.deaths) : 0
+      }
     }),
     {}
   )
@@ -44,7 +44,7 @@ if (fs.existsSync(dataPath)) {
       { county: 'Cass', fips: '29037' },
       { county: 'Clay', fips: '29047' },
       { county: 'Jackson', fips: '29095' },
-      { county: 'Platte', fips: '29165' },
+      { county: 'Platte', fips: '29165' }
     ],
     // Yes, I know these are boroughs. ;)
     'New York-New York City': [
@@ -52,27 +52,27 @@ if (fs.existsSync(dataPath)) {
       { county: 'Kings', fips: '36047' },
       { county: 'New York', fips: '36061' },
       { county: 'Queens', fips: '36081' },
-      { county: 'Richmond', fips: '36085' },
-    ],
+      { county: 'Richmond', fips: '36085' }
+    ]
   }
 
   let usCountiesTotalArray = Object.keys(usCountiesTotalJson)
-    .filter((key) => !Object.keys(exceptions).includes(key))
-    .map((key) => {
+    .filter(key => !Object.keys(exceptions).includes(key))
+    .map(key => {
       return usCountiesTotalJson[key]
     })
 
-  Object.keys(exceptions).forEach((key) => {
+  Object.keys(exceptions).forEach(key => {
     const countyTotal = usCountiesTotalJson[key]
     const exception = exceptions[key]
     const cases = Math.round(countyTotal.cases / exception.length)
     const deaths = Math.round(countyTotal.deaths / exception.length)
-    exceptions[key].forEach((county) => {
+    exceptions[key].forEach(county => {
       usCountiesTotalArray.push({
         ...countyTotal,
         ...county,
         cases,
-        deaths,
+        deaths
       })
     })
   })
@@ -85,13 +85,13 @@ if (fs.existsSync(dataPath)) {
   let summary = {
     cases: 0,
     deaths: 0,
-    lastUpdated,
+    lastUpdated
   }
 
   const usStatesJson = usStatesCsv
     .split('\n')
     .slice(1)
-    .map((value) => {
+    .map(value => {
       const columns = value.split(',')
       return {
         state: columns[1],
@@ -99,7 +99,7 @@ if (fs.existsSync(dataPath)) {
         stateCode: states.getStateCodeByStateName(columns[1]),
         fips: `US${columns[2]}`, // Highcharts requires a prefix
         cases: columns[3],
-        deaths: columns[4],
+        deaths: columns[4]
       }
     })
 
@@ -109,27 +109,30 @@ if (fs.existsSync(dataPath)) {
       [value.state]: {
         ...value,
         cases: value.cases ? parseInt(value.cases) : 0,
-        deaths: value.deaths ? parseInt(value.deaths) : 0,
-      },
+        deaths: value.deaths ? parseInt(value.deaths) : 0
+      }
     }),
     {}
   )
 
-  let usStatesTotalArray = Object.keys(usStatesTotalJson).map((key) => {
+  let usStatesTotalArray = Object.keys(usStatesTotalJson).map(key => {
     return usStatesTotalJson[key]
   })
 
-  usStatesTotalArray.forEach((state) => {
+  usStatesTotalArray.forEach(state => {
     summary.cases += parseInt(state.cases)
     summary.deaths += parseInt(state.deaths)
   })
+
+  summary.casesMax = usStatesTotalArray.sort((a, b) => (a.cases < b.cases ? 1 : -1))[0].cases
+  summary.deathsMax = usStatesTotalArray.sort((a, b) => (a.deaths < b.deaths ? 1 : -1))[0].deaths
 
   fs.writeFileSync(
     path.join(parsedDataPath, 'country.json'),
     JSON.stringify(
       {
         summary: { name: 'USA', ...summary },
-        data: usStatesTotalArray,
+        data: usStatesTotalArray
       },
       null,
       2
@@ -137,10 +140,10 @@ if (fs.existsSync(dataPath)) {
   )
 
   const filteredStateData = usStatesTotalArray.filter(
-    (stateDatum) => stateDatum.stateCode && stateDatum.stateCode !== 'PR'
+    stateDatum => stateDatum.stateCode && stateDatum.stateCode !== 'PR'
   )
 
-  filteredStateData.forEach((stateDatum) => {
+  filteredStateData.forEach(stateDatum => {
     const comp = `import mapData from '@highcharts/map-collection/countries/us/us-${stateDatum.stateCode.toLowerCase()}-all.geo.json'
   import React from 'react'
   import data from './${stateDatum.stateCode.toLowerCase()}.json'
@@ -154,14 +157,23 @@ if (fs.existsSync(dataPath)) {
   
     `
     fs.writeFileSync(path.join(__dirname, `../../../src/maps/us/states/${stateDatum.stateCode}.js`), comp)
-    const stateData = usCountiesTotalArray.filter((countyDatum) => countyDatum.stateCode === stateDatum.stateCode)
+    const stateData = usCountiesTotalArray.filter(countyDatum => countyDatum.stateCode === stateDatum.stateCode)
 
     const cases = stateData.reduce((acc, value) => acc + value.cases, 0)
     const deaths = stateData.reduce((acc, value) => acc + value.deaths, 0)
+    const casesMax = stateData.sort((a, b) => (a.cases < b.cases ? 1 : -1))[0].cases
+    const deathsMax = stateData.sort((a, b) => (a.deaths < b.deaths ? 1 : -1))[0].deaths
 
     fs.writeFileSync(
       path.join(__dirname, `../../../src/maps/us/states/${stateDatum.stateCode.toLowerCase()}.json`),
-      JSON.stringify({ summary: { name: stateDatum.state, cases, deaths, lastUpdated }, data: stateData })
+      JSON.stringify(
+        {
+          summary: { name: stateDatum.state, cases, casesMax, deaths, deathsMax, lastUpdated },
+          data: stateData
+        },
+        null,
+        2
+      )
     )
   })
 
@@ -169,7 +181,7 @@ if (fs.existsSync(dataPath)) {
   import { Route } from 'react-router-dom'
   ${filteredStateData
     .map(
-      (stateDatum) => `const ${stateDatum.stateCode} = lazy(() => import('../maps/us/states/${stateDatum.stateCode}'))`
+      stateDatum => `const ${stateDatum.stateCode} = lazy(() => import('../maps/us/states/${stateDatum.stateCode}'))`
     )
     .join('\r\n')}
   
@@ -178,7 +190,7 @@ if (fs.existsSync(dataPath)) {
       <>
       ${filteredStateData
         .map(
-          (stateDatum) =>
+          stateDatum =>
             `<Route exact path={\`/us/${stateDatum.stateCode.toLowerCase()}\`}><${stateDatum.stateCode} /></Route>`
         )
         .join('\r\n')}

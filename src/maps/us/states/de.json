@@ -1,8 +1,36 @@
 {
-  "summary": { "name": "Delaware", "cases": 232, "deaths": 6, "lastUpdated": "Tue, 31 Mar 2020 01:01:54 GMT" },
+  "summary": {
+    "name": "Delaware",
+    "cases": 232,
+    "casesMax": 141,
+    "deaths": 6,
+    "deathsMax": 3,
+    "lastUpdated": "Tue, 31 Mar 2020 14:33:24 GMT"
+  },
   "data": [
-    { "county": "New Castle", "state": "Delaware", "stateCode": "DE", "fips": "10003", "cases": 141, "deaths": 3 },
-    { "county": "Sussex", "state": "Delaware", "stateCode": "DE", "fips": "10005", "cases": 66, "deaths": 1 },
-    { "county": "Kent", "state": "Delaware", "stateCode": "DE", "fips": "10001", "cases": 25, "deaths": 2 }
+    {
+      "county": "New Castle",
+      "state": "Delaware",
+      "stateCode": "DE",
+      "fips": "10003",
+      "cases": 141,
+      "deaths": 3
+    },
+    {
+      "county": "Kent",
+      "state": "Delaware",
+      "stateCode": "DE",
+      "fips": "10001",
+      "cases": 25,
+      "deaths": 2
+    },
+    {
+      "county": "Sussex",
+      "state": "Delaware",
+      "stateCode": "DE",
+      "fips": "10005",
+      "cases": 66,
+      "deaths": 1
+    }
   ]
 }
