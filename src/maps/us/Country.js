@@ -23,7 +23,7 @@ function Country() {
       separatorLines={separatorLines}
       seriesJoinBy={'fips'}
       title={getTitle({ ...data.summary, reportType })}
-      tooltipFormat="Deaths: {point.deaths}<br />Cases: {point.cases}<br />"
+      tooltipFormat="Deaths: {point.deaths}<br />Cases: {point.cases}<br />Click for Details"
       tooltipHeader="{point.key}<br />"
       tooltipSuffix=""
     />

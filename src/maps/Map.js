@@ -101,9 +101,6 @@ function Map({
         },
       },
     },
-    // exporting: {
-    //   enabled: true,
-    // },
     legend: {
       backgroundColor:
         Highcharts.defaultOptions &&

@@ -18,7 +18,7 @@ function State({ data, mapData }) {
       mapData={mapData}
       seriesJoinBy={'fips'}
       title={getTitle({ ...data.summary, reportType })}
-      tooltipFormat="Deaths: {point.deaths}<br />Cases: {point.cases}<br />"
+      tooltipFormat="Deaths: {point.deaths}<br />Cases: {point.cases}"
       tooltipHeader="{point.key}<br />"
       tooltipSuffix=""
     />
