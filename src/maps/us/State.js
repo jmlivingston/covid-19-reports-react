@@ -1,11 +1,11 @@
 import PropTypes from 'prop-types'
-import React from 'react'
+import React, { useContext } from 'react'
+import ReportContext from '../../core/ReportContext'
 import Map from '../Map'
 import { getTitle } from './report-service'
 
 function State({ data, mapData }) {
-  // const { reportType = 'deaths' } = useParams()
-  const reportType = 'cases'
+  const { reportType } = useContext(ReportContext)
 
   return (
     <Map

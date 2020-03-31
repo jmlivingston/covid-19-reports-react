@@ -164,14 +164,14 @@ function Map({
     },
   }
 
-  return colorMaxValue && colorValueInterval && data && mapData && seriesJoinBy ? (
+  return colorMaxValue && data && mapData && seriesJoinBy ? (
     <Suspense fallback={<Loader />}>
       <div className="highcharts-wrapper">
         <HighchartsReact constructorType={'mapChart'} highcharts={Highcharts} options={options} />
       </div>
     </Suspense>
   ) : (
-    'The following props are required: colorMaxValue, colorValueInterval, data, mapData, and seriesJoinBy'
+    'The following props are required: colorMaxValue, data, mapData, and seriesJoinBy'
   )
 }
 

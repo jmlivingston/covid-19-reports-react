@@ -1,6 +1,7 @@
 import mapData from '@highcharts/map-collection/countries/us/us-all.geo.json'
-import React from 'react'
+import React, { useContext } from 'react'
 import { useHistory } from 'react-router-dom'
+import ReportContext from '../../core/ReportContext'
 import Map from '../Map'
 import data from './country.json'
 import { getTitle } from './report-service'
@@ -8,9 +9,7 @@ import separatorLines from './us-separator-lines.json'
 
 function Country() {
   const history = useHistory()
-  // const { reportType = 'deaths' } = useParams()
-  const reportType = 'cases'
-
+  const { reportType } = useContext(ReportContext)
   return (
     <Map
       colorKey={reportType}

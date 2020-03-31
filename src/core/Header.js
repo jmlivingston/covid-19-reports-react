@@ -1,37 +1,33 @@
-import PropTypes from 'prop-types'
-import React from 'react'
-import { withRouter } from 'react-router'
+import React, { useContext } from 'react'
 import { Link } from 'react-router-dom'
 import './Header.css'
+import ReportContext from './ReportContext'
 
-function Header({ location, history }) {
+function Header() {
+  const { reportType, setReportType } = useContext(ReportContext)
+
   return (
     <header>
-      <Link to="/" className="header-home">
-        COVID-19 USA
-      </Link>
+      <div className="header-home">
+        <Link to="/" className="header-home-icon">
+          &#8962;
+        </Link>
+        <Link to="/">COVID-19</Link>
+      </div>
       <div className="header-buttons">
-        <Link
-          className={`${location.pathname === '/' || location.pathname === '/state/deaths' ? 'active' : ''}`}
-          to="/state/deaths">
-          State Deaths
-        </Link>
-        <Link className={`${location.pathname === '/state/cases' ? 'active' : ''}`} to="/state/cases">
-          State Cases
-        </Link>
-        <Link className={`${location.pathname === '/county/deaths' ? 'active' : ''}`} to="/county/deaths">
-          County Deaths
-        </Link>
-        <Link className={`${location.pathname === '/county/cases' ? 'active' : ''}`} to="/county/cases">
-          County Cases
-        </Link>
+        <button
+          className={`${reportType === '/' || reportType === 'deaths' ? 'active' : ''}`}
+          onClick={() => setReportType('deaths')}>
+          Deaths
+        </button>
+        <button className={`${reportType === 'cases' ? 'active' : ''}`} onClick={() => setReportType('cases')}>
+          Cases
+        </button>
       </div>
       <div className="header-mobile-buttons">
-        <select onChange={(e) => history.push(e.target.value)} value={location.pathname}>
-          <option value={`#/state/deaths`}>State Deaths</option>
-          <option value={`#/state/cases`}>State Cases</option>
-          <option value={`#/county/deaths`}>County Deaths</option>
-          <option value={`#/county/cases`}>County Cases</option>
+        <select onChange={(e) => setReportType(e.target.value)} value={reportType}>
+          <option value={`deaths`}>Deaths</option>
+          <option value={`cases`}>Cases</option>
         </select>
         <span className="caret">&#x25BE;</span>
       </div>
@@ -39,9 +35,4 @@ function Header({ location, history }) {
   )
 }
 
-Header.propTypes = {
-  history: PropTypes.object,
-  location: PropTypes.object,
-}
-
-export default withRouter(Header)
+export default Header
