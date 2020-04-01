@@ -1,0 +1,1 @@
+{"version":3,"sources":["Map.css"],"names":[],"mappings":"AAAA,oBACE,gBAAiB,CACjB,QAAO,CACP,WACF,CAEA,4CAEE,WAAY,CACZ,UACF","file":"21.e49e2a53.chunk.css","sourcesContent":[".highcharts-wrapper {\n  padding-top: 10px;\n  flex: 1;\n  height: 100%;\n}\n\n.highcharts-wrapper,\n.highcharts-wrapper > div {\n  height: 100%;\n  width: 100%;\n}\n"]}
