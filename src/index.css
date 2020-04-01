@@ -18,7 +18,7 @@ body {
 }
 
 a {
-  color: #333333;
+  color: rgba(255, 0, 0, 0.8);
   text-decoration: none;
 }
 
@@ -40,6 +40,10 @@ a:hover {
 
 .float-right {
   float: right;
+}
+
+.text-center {
+  text-align: center;
 }
 
 .clearfix::after {

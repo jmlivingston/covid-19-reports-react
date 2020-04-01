@@ -11,7 +11,7 @@ import './SEOImage.css'
 
 function SEOImage() {
   const title = 'COVID-19'
-  const subTitle = 'Reports & Charts'
+  const subTitle = 'Maps & Charts'
   const subSubTitle = 'No Commentary'
   return (
     <>

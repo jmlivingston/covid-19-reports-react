@@ -1,5 +1,7 @@
 .highcharts-wrapper {
   padding-top: 10px;
+  flex: 1;
+  height: 100%;
 }
 
 .highcharts-wrapper,

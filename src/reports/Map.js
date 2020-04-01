@@ -7,7 +7,6 @@ import map from 'highcharts/modules/map'
 import PropTypes from 'prop-types'
 import React, { lazy, Suspense } from 'react'
 import Loader from '../core/Loader'
-// import darkUnica from 'highcharts/themes/dark-unica'
 import './Map.css'
 
 const HighchartsReact = lazy(() => import('highcharts-react-official'))
@@ -16,15 +15,6 @@ exporting(Highcharts)
 boost(Highcharts)
 drilldown(Highcharts)
 map(Highcharts)
-// darkUnica(Highcharts)
-
-Highcharts.setOptions({
-  chart: {
-    style: {
-      fontFamily: 'Lato',
-    },
-  },
-})
 
 const DEFAULT_BORDER_COLOR = '#DDDDDD'
 
@@ -93,13 +83,13 @@ function Map({
         textDecoration: 'none',
         textOutline: '1px #000000',
       },
-      drillUpButton: {
-        relativeTo: 'spacingBox',
-        position: {
-          x: 0,
-          y: 60,
-        },
-      },
+      // drillUpButton: {
+      //   relativeTo: 'spacingBox',
+      //   position: {
+      //     x: 0,
+      //     y: 60,
+      //   },
+      // },
     },
     legend: {
       backgroundColor:

@@ -1,0 +1,33 @@
+a.button,
+button.button {
+  cursor: pointer;
+  font-size: 16px;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #eeeeee;
+  border-radius: 2px;
+  padding: 6px 14px;
+}
+
+.button-check {
+  display: inline-block;
+  width: 14px;
+}
+
+a.button:hover,
+button.button:hover {
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+a.button.active,
+button.button.active {
+  background-color: rgba(255, 0, 0, 0.7);
+  color: #ffffff;
+}
+
+a.button.active,
+button.button.active:hover {
+  background-color: rgba(255, 0, 0, 0.5);
+  color: #ffffff;
+}

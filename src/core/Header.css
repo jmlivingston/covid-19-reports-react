@@ -1,73 +1,78 @@
 header {
   display: flex;
-  justify-content: center;
-  height: 60px;
   align-items: center;
   justify-content: center;
-  padding: 0px 15px;
+  padding: 14px 12px;
   background-color: rgba(0, 0, 0, 0.3);
   box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.2) !important;
 }
 
-.header-home {
-  flex: 1;
-  font-size: 30px;
-  font-family: 'Sen', sans-serif;
+.header-title {
+  display: inline-block;
+  text-align: center;
 }
 
-.header-home-icon {
-  font-size: 40px;
-  margin-right: 4px;
-}
-
-.header-buttons {
-  flex: 2;
-  text-align: right;
+.covid-abbr {
   display: none;
 }
 
-.header-buttons > button,
-.header-mobile-buttons {
-  cursor: pointer;
-  font-size: 16px;
-  border: 1px solid rgba(255, 255, 255, 0.6);
-  background-color: rgba(0, 0, 0, 0.5);
-  color: #eeeeee;
-  border-radius: 2px;
-  padding: 6px 14px;
-  margin-left: 6px;
-  text-transform: uppercase;
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1) !important;
+.header-home {
+  flex: 1;
+  font-size: 18px;
+  font-family: 'Sen', sans-serif;
 }
 
-.header-mobile-buttons > select {
-  background-color: transparent;
-  color: #ffffff;
-  outline: none;
-  border: none;
-  font-size: 16px;
+.header-home > a {
+  color: #333333;
+  vertical-align: middle;
 }
 
-.header-buttons > button:hover {
+.header-home > a:hover {
   text-decoration: none;
-  background-color: rgba(0, 0, 0, 0.6);
 }
 
-.header-buttons > button.active {
-  background-color: rgba(255, 0, 0, 0.7);
-  color: #ffffff;
+.header-home-icon {
+  height: 30px;
+  display: none;
 }
 
-.header-buttons > button.active:hover {
-  background-color: rgba(255, 0, 0, 0.5);
-  color: #ffffff;
+.header-home-icon > svg {
+  height: 1.75rem;
+  width: 1.75rem;
 }
 
-.header-mobile-buttons > select {
-  margin-right: 10px;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
+.header-buttons {
+  text-align: right;
+}
+
+.header-buttons > button:nth-child(1),
+.header-buttons > button:nth-child(3),
+.header-buttons > .about {
+  border-right: none;
+  margin-right: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+  border-top-left-radius: 16px;
+  border-bottom-left-radius: 16px;
+}
+
+.header-buttons > button:nth-child(2),
+.header-buttons > button:nth-child(4),
+.header-buttons > .about {
+  border-left: none;
+  margin-left: 0px;
+  padding-left: 4px;
+  padding-right: 4px;
+  border-top-right-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+
+.header-buttons > .about {
+  margin-left: 8px;
+}
+
+.header-buttons > button:nth-child(2) {
+  margin-right: 4px;
 }
 
 .sub-title {
@@ -80,18 +85,87 @@ header {
   }
 }
 
-@media (min-width: 1024px) {
-  .header-buttons {
-    display: block;
+@media (min-width: 321px) {
+  .header-home {
+    font-size: 22px;
   }
 
-  .header-mobile-buttons {
-    display: none;
+  .header-buttons > button:nth-child(1),
+  .header-buttons > button:nth-child(3),
+  .about {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  .header-buttons > button:nth-child(2),
+  .header-buttons > button:nth-child(4),
+  .header-buttons > .about {
+    padding-left: 8px;
+    padding-right: 8px;
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 400px) {
+  .header-home-icon {
+    display: inline-block;
+    margin-right: 6px;
+  }
+
+  .header-buttons > button:nth-child(1),
+  .header-buttons > button:nth-child(3),
+  .header-buttons > .about {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  .header-buttons > button:nth-child(2),
+  .header-buttons > button:nth-child(4),
+  .header-buttons > .about {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+
+  .header-buttons > button:nth-child(2) {
+    margin-right: 4px;
+  }
+}
+
+@media (min-width: 640px) {
+  .header-home {
+    font-size: 30px;
+  }
+
+  .covid-abbr {
+    display: inline-block;
+  }
+
+  .header-buttons > button {
+    padding: 9px 14px !important;
+  }
+
+  .header-buttons > button:nth-child(2) {
+    margin-right: 8px;
+  }
+
+  .header-buttons > button:nth-child(1),
+  .header-buttons > button:nth-child(3),
+  .header-buttons > .about {
+    border-top-left-radius: 19px;
+    border-bottom-left-radius: 19px;
+  }
+  .header-buttons > button:nth-child(2),
+  .header-buttons > button:nth-child(4),
+  .header-buttons > .about {
+    border-top-right-radius: 19px;
+    border-bottom-right-radius: 19px;
+  }
+}
+
+@media (min-width: 768px) {
   .sub-title {
     display: inline;
   }
+}
+
+button:focus,
+button:active {
+  outline: none !important;
 }

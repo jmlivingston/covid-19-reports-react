@@ -2,6 +2,8 @@ import PropTypes from 'prop-types'
 import React, { useContext } from 'react'
 import { useHistory } from 'react-router-dom'
 import ReportContext from '../core/ReportContext'
+import Bar from './Bar'
+import './Country.css'
 import Map from './Map'
 
 function Country({ data, mapData, reportService, separatorLines, summary }) {
@@ -9,20 +11,40 @@ function Country({ data, mapData, reportService, separatorLines, summary }) {
   const { reportType } = useContext(ReportContext)
 
   return (
-    <Map
-      colorKey={reportType}
-      colorMaxValue={summary[`${reportType}Max`]}
-      colorMinValue={0}
-      colorValueInterval={Math.round(summary[`${reportType}Max`] / 5)}
-      data={data}
-      drilldown={({ point }) => history.push(`/us/${point.properties['postal-code'].toLowerCase()}`)}
-      mapData={mapData}
-      separatorLines={separatorLines}
-      seriesJoinBy={'fips'}
-      title={reportService.getTitle({ ...summary, reportType })}
-      tooltipFormat="Deaths: {point.deaths}<br />Cases: {point.cases}<br />Click for Details"
-      tooltipHeader="{point.key}<br />"
-    />
+    <>
+      {reportType.type === 'map' && (
+        <div className="map-wrapper">
+          <Map
+            colorKey={reportType.category}
+            colorMaxValue={summary[`${reportType.category}Max`]}
+            colorMinValue={0}
+            colorValueInterval={Math.round(summary[`${reportType.category}Max`] / 5)}
+            data={data}
+            drilldown={({ point }) => history.push(`/us/${point.properties['postal-code'].toLowerCase()}`)}
+            mapData={mapData}
+            separatorLines={separatorLines}
+            seriesJoinBy={'fips'}
+            title={reportService.getTitle({ ...summary, reportType: reportType.category })}
+            tooltipFormat="Deaths: {point.deaths}<br />Cases: {point.cases}<br />Click for Details"
+            tooltipHeader="{point.key}<br />"
+          />
+        </div>
+      )}
+      {reportType.type === 'chart' && (
+        <Bar
+          colorKey={reportType.category}
+          colorMaxValue={summary[`${reportType.category}Max`]}
+          colorMinValue={0}
+          colorValueInterval={Math.round(summary[`${reportType.category}Max`] / 5)}
+          data={data}
+          drilldown={({ point }) => history.push(`/us/${point.properties['postal-code'].toLowerCase()}`)}
+          seriesJoinBy={'fips'}
+          title={reportService.getTitle({ ...summary, reportType: reportType.category })}
+          tooltipFormat="Deaths: {point.deaths}<br />Cases: {point.cases}<br />Click for Details"
+          tooltipHeader="{point.key}<br />"
+        />
+      )}
+    </>
   )
 }
 

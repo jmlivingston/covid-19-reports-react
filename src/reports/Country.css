@@ -1,0 +1,9 @@
+.country-wrapper {
+  padding-top: 10px;
+}
+
+.map-wrapper,
+.map-wrapper > div {
+  height: 100%;
+  width: 100%;
+}

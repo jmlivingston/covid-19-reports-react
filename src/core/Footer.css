@@ -1,9 +1,13 @@
 footer {
-  position: absolute;
-  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  color: #ffffff;
   left: 50%;
   text-align: center;
-  margin-bottom: 10px;
-  margin-left: -113px;
+  padding-bottom: 10px;
+  padding-top: 10px;
   font-size: 16px;
+}
+
+footer > a {
+  color: #ffffff;
 }

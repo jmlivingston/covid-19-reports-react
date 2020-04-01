@@ -8,14 +8,14 @@ function State({ data, mapData, reportService, summary }) {
 
   return (
     <Map
-      colorKey={reportType}
-      colorMaxValue={summary[`${reportType}Max`]}
+      colorKey={reportType.category}
+      colorMaxValue={summary[`${reportType.category}Max`]}
       colorMinValue={0}
-      colorValueInterval={Math.round(summary[`${reportType}Max`] / 5)}
+      colorValueInterval={Math.round(summary[`${reportType.category}Max`] / 5)}
       data={data}
       mapData={mapData}
       seriesJoinBy={'fips'}
-      title={reportService.getTitle({ ...summary, reportType })}
+      title={reportService.getTitle({ ...summary, reportType: reportType.category })}
       tooltipFormat="Deaths: {point.deaths}<br />Cases: {point.cases}"
       tooltipHeader="{point.key}<br />"
     />
