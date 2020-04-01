@@ -35,18 +35,12 @@ function About() {
             </a>
           </li>
           <li>
-            <a
-              href="https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&module=styln-coronavirus&variant=show&region=TOP_BANNER&context=storyline_menu"
-              target="_blank"
-              rel="noopener noreferrer">
+            <a href="https://www.nytimes.com/news-event/coronavirus/" target="_blank" rel="noopener noreferrer">
               The New York Times
             </a>
           </li>
           <li>
-            <a
-              href="https://www.washingtonpost.com/world/2020/03/31/coronavirus-latest-news/"
-              target="_blank"
-              rel="noopener noreferrer">
+            <a href="https://www.washingtonpost.com/topics/coronavirus/" target="_blank" rel="noopener noreferrer">
               The Washington Post
             </a>
           </li>

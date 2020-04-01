@@ -32,13 +32,37 @@ This installs dependencies, pulls latest NYTimes data, and parses the data.
 - [React](https://reactjs.org/)
 - [Highcharts](https://www.highcharts.com/)
 
+---
+
+## About
+
+I am recently unemployed and thought I would put some of my skills to work after seeing that The New York Times was publishing it's extensive statistics for COVID-19 AKA Coronavirus. My primary goal was to quickly build something that was fast, responsive, and focused on the numbers with little to no commentary. I built some algorithms for aggregating and normalizing The New York Time's data, then experimented with a few different mapping and charting frameworks. The result is a few days work, but something I will continue updating and tweaking.
+
+For more in-depth information or help, I have compiled a list of helpful links below. Above and beyond all, please keep yourself and your families safe and let's fight this thing together.
+
+- [CDC - Center for Disease Control and Prevention](https://www.cdc.gov/coronavirus)
+- [American Red Cross](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/coronavirus-safety.html)
+- [The New York Times](https://www.nytimes.com/news-event/coronavirus)
+- [The Washington Post](https://www.washingtonpost.com/topics/coronavirus/)
+- [BBC](https://www.bbc.com/news/coronavirus/)
+- [United Nations](https://www.un.org/en/coronavirus)
+
 ## Resources
 
 - GitHub - [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data)
 
-## Hire Me?
+---
 
-I'm currently looking for work, so reach out at [jmlivingston@gmail.com](mailto:jmlivingston@gmail.com) if you're looking for a seasoned JavaScript developer / lead / architect with a focus on the React and Node ecosystem. Check out my blog at [johnlivingston.io](https://www.johnlivingston.io/).
+## Contact
+
+As am recently unemployed, but actively seeking full-time or contract employment. I have a proven record for
+building highly performant, accessible, secure, responsive, and maintainable front-end systems that integrate
+seamlessly with the backend. I will help lead and build up your team, handle your front-end architecture, or
+be a highly productive individual contributor. I consider myself a full-stack engineer with a focus on
+technologies such as React, Node, Azure, Git. For more information, please check out my resume.
+
+- [Resume](https://docs.google.com/document/d/1XtegNZsCSssBPXJVmd4tmx7c_yUUzXN_vv8GXWLOKAM/edit?usp=sharing)
+- [Email]('mailto:jmlivingston@gmail.com)
 
 ---
 
