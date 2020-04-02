@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "New Mexico",
-    "cases": 282,
-    "casesMax": 117,
-    "deaths": 4,
+    "cases": 363,
+    "casesMax": 148,
+    "deaths": 6,
     "deathsMax": 3,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
     {
@@ -13,8 +13,16 @@
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35001",
-      "cases": 117,
+      "cases": 148,
       "deaths": 3
+    },
+    {
+      "county": "Sandoval",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35043",
+      "cases": 32,
+      "deaths": 2
     },
     {
       "county": "Eddy",
@@ -41,18 +49,34 @@
       "deaths": 0
     },
     {
+      "county": "Catron",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35003",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Grant",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35017",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Otero",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35035",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
       "county": "Lea",
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35025",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Cibola",
-      "state": "New Mexico",
-      "stateCode": "NM",
-      "fips": "35006",
       "cases": 2,
       "deaths": 0
     },
@@ -65,11 +89,19 @@
       "deaths": 0
     },
     {
-      "county": "Curry",
+      "county": "Torrance",
       "state": "New Mexico",
       "stateCode": "NM",
-      "fips": "35009",
+      "fips": "35057",
       "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Cibola",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35006",
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -77,15 +109,15 @@
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35039",
-      "cases": 3,
+      "cases": 4,
       "deaths": 0
     },
     {
-      "county": "Torrance",
+      "county": "Curry",
       "state": "New Mexico",
       "stateCode": "NM",
-      "fips": "35057",
-      "cases": 3,
+      "fips": "35009",
+      "cases": 5,
       "deaths": 0
     },
     {
@@ -97,14 +129,6 @@
       "deaths": 0
     },
     {
-      "county": "Taos",
-      "state": "New Mexico",
-      "stateCode": "NM",
-      "fips": "35055",
-      "cases": 10,
-      "deaths": 0
-    },
-    {
       "county": "Chaves",
       "state": "New Mexico",
       "stateCode": "NM",
@@ -113,11 +137,19 @@
       "deaths": 0
     },
     {
+      "county": "Taos",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35055",
+      "cases": 12,
+      "deaths": 0
+    },
+    {
       "county": "McKinley",
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35031",
-      "cases": 12,
+      "cases": 20,
       "deaths": 0
     },
     {
@@ -125,15 +157,7 @@
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35013",
-      "cases": 18,
-      "deaths": 0
-    },
-    {
-      "county": "Sandoval",
-      "state": "New Mexico",
-      "stateCode": "NM",
-      "fips": "35043",
-      "cases": 23,
+      "cases": 21,
       "deaths": 0
     },
     {
@@ -141,7 +165,7 @@
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35045",
-      "cases": 27,
+      "cases": 37,
       "deaths": 0
     },
     {
@@ -149,7 +173,7 @@
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35049",
-      "cases": 38,
+      "cases": 48,
       "deaths": 0
     }
   ]

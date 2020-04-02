@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Montana",
-    "cases": 177,
-    "casesMax": 69,
+    "cases": 219,
+    "casesMax": 79,
     "deaths": 4,
     "deathsMax": 2,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
     {
@@ -21,7 +21,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30057",
-      "cases": 4,
+      "cases": 6,
       "deaths": 1
     },
     {
@@ -29,7 +29,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30053",
-      "cases": 4,
+      "cases": 6,
       "deaths": 1
     },
     {
@@ -65,6 +65,30 @@
       "deaths": 0
     },
     {
+      "county": "Liberty",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30051",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Musselshell",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30065",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Carbon",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30009",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
       "county": "Jefferson",
       "state": "Montana",
       "stateCode": "MT",
@@ -81,22 +105,6 @@
       "deaths": 0
     },
     {
-      "county": "Lake",
-      "state": "Montana",
-      "stateCode": "MT",
-      "fips": "30047",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Park",
-      "state": "Montana",
-      "stateCode": "MT",
-      "fips": "30067",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
       "county": "Deer Lodge",
       "state": "Montana",
       "stateCode": "MT",
@@ -105,11 +113,27 @@
       "deaths": 0
     },
     {
+      "county": "Lake",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30047",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Park",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30067",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
       "county": "Cascade",
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30013",
-      "cases": 7,
+      "cases": 9,
       "deaths": 0
     },
     {
@@ -117,15 +141,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30093",
-      "cases": 9,
-      "deaths": 0
-    },
-    {
-      "county": "Flathead",
-      "state": "Montana",
-      "stateCode": "MT",
-      "fips": "30029",
-      "cases": 9,
+      "cases": 11,
       "deaths": 0
     },
     {
@@ -133,7 +149,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30049",
-      "cases": 11,
+      "cases": 14,
       "deaths": 0
     },
     {
@@ -141,7 +157,15 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30063",
-      "cases": 12,
+      "cases": 15,
+      "deaths": 0
+    },
+    {
+      "county": "Flathead",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30029",
+      "cases": 17,
       "deaths": 0
     },
     {
@@ -149,7 +173,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30111",
-      "cases": 28,
+      "cases": 32,
       "deaths": 0
     },
     {
@@ -157,7 +181,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30031",
-      "cases": 69,
+      "cases": 79,
       "deaths": 0
     }
   ]

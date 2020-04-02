@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Kentucky",
-    "cases": 484,
-    "casesMax": 125,
-    "deaths": 11,
-    "deathsMax": 4,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "cases": 691,
+    "casesMax": 221,
+    "deaths": 20,
+    "deathsMax": 8,
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
     {
@@ -13,31 +13,47 @@
       "state": "Kentucky",
       "stateCode": "KY",
       "fips": "21111",
-      "cases": 125,
-      "deaths": 4
+      "cases": 221,
+      "deaths": 8
+    },
+    {
+      "county": "Hopkins",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21107",
+      "cases": 21,
+      "deaths": 2
     },
     {
       "county": "Kenton",
       "state": "Kentucky",
       "stateCode": "KY",
       "fips": "21117",
-      "cases": 20,
+      "cases": 26,
       "deaths": 2
     },
     {
-      "county": "Bourbon",
+      "county": "Daviess",
       "state": "Kentucky",
       "stateCode": "KY",
-      "fips": "21017",
-      "cases": 2,
-      "deaths": 1
+      "fips": "21059",
+      "cases": 42,
+      "deaths": 2
+    },
+    {
+      "county": "Fayette",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21067",
+      "cases": 118,
+      "deaths": 2
     },
     {
       "county": "Anderson",
       "state": "Kentucky",
       "stateCode": "KY",
       "fips": "21005",
-      "cases": 2,
+      "cases": 3,
       "deaths": 1
     },
     {
@@ -45,40 +61,24 @@
       "state": "Kentucky",
       "stateCode": "KY",
       "fips": "21213",
-      "cases": 2,
+      "cases": 5,
       "deaths": 1
     },
     {
-      "county": "Hopkins",
+      "county": "Bourbon",
       "state": "Kentucky",
       "stateCode": "KY",
-      "fips": "21107",
-      "cases": 11,
+      "fips": "21017",
+      "cases": 6,
       "deaths": 1
     },
     {
-      "county": "Fayette",
+      "county": "Bullitt",
       "state": "Kentucky",
       "stateCode": "KY",
-      "fips": "21067",
-      "cases": 83,
+      "fips": "21029",
+      "cases": 6,
       "deaths": 1
-    },
-    {
-      "county": "Lyon",
-      "state": "Kentucky",
-      "stateCode": "KY",
-      "fips": "21143",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Spencer",
-      "state": "Kentucky",
-      "stateCode": "KY",
-      "fips": "21215",
-      "cases": 1,
-      "deaths": 0
     },
     {
       "county": "Allen",
@@ -97,14 +97,6 @@
       "deaths": 0
     },
     {
-      "county": "Laurel",
-      "state": "Kentucky",
-      "stateCode": "KY",
-      "fips": "21125",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "McCreary",
       "state": "Kentucky",
       "stateCode": "KY",
@@ -113,42 +105,10 @@
       "deaths": 0
     },
     {
-      "county": "Wayne",
-      "state": "Kentucky",
-      "stateCode": "KY",
-      "fips": "21231",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Mason",
       "state": "Kentucky",
       "stateCode": "KY",
       "fips": "21161",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Union",
-      "state": "Kentucky",
-      "stateCode": "KY",
-      "fips": "21225",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Webster",
-      "state": "Kentucky",
-      "stateCode": "KY",
-      "fips": "21233",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Larue",
-      "state": "Kentucky",
-      "stateCode": "KY",
-      "fips": "21123",
       "cases": 1,
       "deaths": 0
     },
@@ -177,14 +137,6 @@
       "deaths": 0
     },
     {
-      "county": "Carroll",
-      "state": "Kentucky",
-      "stateCode": "KY",
-      "fips": "21041",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Floyd",
       "state": "Kentucky",
       "stateCode": "KY",
@@ -205,14 +157,6 @@
       "state": "Kentucky",
       "stateCode": "KY",
       "fips": "21181",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Shelby",
-      "state": "Kentucky",
-      "stateCode": "KY",
-      "fips": "21211",
       "cases": 1,
       "deaths": 0
     },
@@ -241,18 +185,74 @@
       "deaths": 0
     },
     {
-      "county": "Montgomery",
+      "county": "Barren",
       "state": "Kentucky",
       "stateCode": "KY",
-      "fips": "21173",
-      "cases": 2,
+      "fips": "21009",
+      "cases": 1,
       "deaths": 0
     },
     {
-      "county": "Breathitt",
+      "county": "Graves",
       "state": "Kentucky",
       "stateCode": "KY",
-      "fips": "21025",
+      "fips": "21083",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Hancock",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21091",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Henry",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21103",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Lawrence",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21127",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Powell",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21197",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Rockcastle",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21203",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Russell",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21207",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Lyon",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21143",
       "cases": 2,
       "deaths": 0
     },
@@ -265,26 +265,18 @@
       "deaths": 0
     },
     {
-      "county": "Menifee",
-      "state": "Kentucky",
-      "stateCode": "KY",
-      "fips": "21165",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Muhlenberg",
-      "state": "Kentucky",
-      "stateCode": "KY",
-      "fips": "21177",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Grayson",
       "state": "Kentucky",
       "stateCode": "KY",
       "fips": "21085",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Laurel",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21125",
       "cases": 2,
       "deaths": 0
     },
@@ -297,10 +289,42 @@
       "deaths": 0
     },
     {
+      "county": "Union",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21225",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Webster",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21233",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Larue",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21123",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
       "county": "Breckinridge",
       "state": "Kentucky",
       "stateCode": "KY",
       "fips": "21027",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Carroll",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21041",
       "cases": 2,
       "deaths": 0
     },
@@ -321,19 +345,51 @@
       "deaths": 0
     },
     {
-      "county": "Nelson",
+      "county": "Edmonson",
       "state": "Kentucky",
       "stateCode": "KY",
-      "fips": "21179",
+      "fips": "21061",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Spencer",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21215",
       "cases": 3,
       "deaths": 0
     },
     {
-      "county": "Franklin",
+      "county": "Breathitt",
       "state": "Kentucky",
       "stateCode": "KY",
-      "fips": "21073",
+      "fips": "21025",
       "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Menifee",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21165",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Wayne",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21231",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Nelson",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21179",
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -341,7 +397,7 @@
       "state": "Kentucky",
       "stateCode": "KY",
       "fips": "21035",
-      "cases": 3,
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -349,7 +405,15 @@
       "state": "Kentucky",
       "stateCode": "KY",
       "fips": "21185",
-      "cases": 3,
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Shelby",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21211",
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -361,26 +425,10 @@
       "deaths": 0
     },
     {
-      "county": "Henderson",
+      "county": "Montgomery",
       "state": "Kentucky",
       "stateCode": "KY",
-      "fips": "21101",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Hardin",
-      "state": "Kentucky",
-      "stateCode": "KY",
-      "fips": "21093",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "McCracken",
-      "state": "Kentucky",
-      "stateCode": "KY",
-      "fips": "21145",
+      "fips": "21173",
       "cases": 5,
       "deaths": 0
     },
@@ -393,11 +441,11 @@
       "deaths": 0
     },
     {
-      "county": "Bullitt",
+      "county": "McCracken",
       "state": "Kentucky",
       "stateCode": "KY",
-      "fips": "21029",
-      "cases": 5,
+      "fips": "21145",
+      "cases": 6,
       "deaths": 0
     },
     {
@@ -405,7 +453,7 @@
       "state": "Kentucky",
       "stateCode": "KY",
       "fips": "21037",
-      "cases": 5,
+      "cases": 6,
       "deaths": 0
     },
     {
@@ -413,7 +461,23 @@
       "state": "Kentucky",
       "stateCode": "KY",
       "fips": "21239",
-      "cases": 5,
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Franklin",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21073",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Henderson",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21101",
+      "cases": 7,
       "deaths": 0
     },
     {
@@ -421,15 +485,23 @@
       "state": "Kentucky",
       "stateCode": "KY",
       "fips": "21209",
-      "cases": 6,
+      "cases": 7,
       "deaths": 0
     },
     {
-      "county": "Clark",
+      "county": "Hardin",
       "state": "Kentucky",
       "stateCode": "KY",
-      "fips": "21049",
+      "fips": "21093",
       "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Muhlenberg",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21177",
+      "cases": 8,
       "deaths": 0
     },
     {
@@ -437,7 +509,23 @@
       "state": "Kentucky",
       "stateCode": "KY",
       "fips": "21047",
-      "cases": 7,
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Unknown",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Clark",
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "fips": "21049",
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -445,7 +533,7 @@
       "state": "Kentucky",
       "stateCode": "KY",
       "fips": "21199",
-      "cases": 7,
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -453,22 +541,6 @@
       "state": "Kentucky",
       "stateCode": "KY",
       "fips": "21151",
-      "cases": 7,
-      "deaths": 0
-    },
-    {
-      "county": "Harrison",
-      "state": "Kentucky",
-      "stateCode": "KY",
-      "fips": "21097",
-      "cases": 11,
-      "deaths": 0
-    },
-    {
-      "county": "Warren",
-      "state": "Kentucky",
-      "stateCode": "KY",
-      "fips": "21227",
       "cases": 11,
       "deaths": 0
     },
@@ -477,23 +549,23 @@
       "state": "Kentucky",
       "stateCode": "KY",
       "fips": "21113",
-      "cases": 11,
+      "cases": 15,
       "deaths": 0
     },
     {
-      "county": "Daviess",
+      "county": "Warren",
       "state": "Kentucky",
       "stateCode": "KY",
-      "fips": "21059",
-      "cases": 20,
+      "fips": "21227",
+      "cases": 17,
       "deaths": 0
     },
     {
-      "county": "Unknown",
+      "county": "Harrison",
       "state": "Kentucky",
       "stateCode": "KY",
-      "fips": "",
-      "cases": 59,
+      "fips": "21097",
+      "cases": 19,
       "deaths": 0
     }
   ]

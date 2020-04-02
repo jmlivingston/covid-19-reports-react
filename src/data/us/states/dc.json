@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "District of Columbia",
-    "cases": 495,
-    "casesMax": 495,
-    "deaths": 9,
-    "deathsMax": 9,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "cases": 586,
+    "casesMax": 586,
+    "deaths": 11,
+    "deathsMax": 11,
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
     {
@@ -13,8 +13,8 @@
       "state": "District of Columbia",
       "stateCode": "DC",
       "fips": "11001",
-      "cases": 495,
-      "deaths": 9
+      "cases": 586,
+      "deaths": 11
     }
   ]
 }

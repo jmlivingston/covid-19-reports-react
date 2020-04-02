@@ -1,20 +1,20 @@
 {
   "summary": {
     "name": "Hawaii",
-    "cases": 199,
-    "casesMax": 139,
-    "deaths": 0,
-    "deathsMax": 0,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "cases": 256,
+    "casesMax": 182,
+    "deaths": 1,
+    "deathsMax": 1,
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
     {
-      "county": "Unknown",
+      "county": "Honolulu",
       "state": "Hawaii",
       "stateCode": "HI",
-      "fips": "",
-      "cases": 8,
-      "deaths": 0
+      "fips": "15003",
+      "cases": 182,
+      "deaths": 1
     },
     {
       "county": "Kauai",
@@ -29,7 +29,15 @@
       "state": "Hawaii",
       "stateCode": "HI",
       "fips": "15001",
-      "cases": 15,
+      "cases": 18,
+      "deaths": 0
+    },
+    {
+      "county": "Unknown",
+      "state": "Hawaii",
+      "stateCode": "HI",
+      "fips": "",
+      "cases": 18,
       "deaths": 0
     },
     {
@@ -37,15 +45,7 @@
       "state": "Hawaii",
       "stateCode": "HI",
       "fips": "15009",
-      "cases": 25,
-      "deaths": 0
-    },
-    {
-      "county": "Honolulu",
-      "state": "Hawaii",
-      "stateCode": "HI",
-      "fips": "15003",
-      "cases": 139,
+      "cases": 26,
       "deaths": 0
     }
   ]

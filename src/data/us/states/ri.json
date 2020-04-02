@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Rhode Island",
-    "cases": 415,
-    "casesMax": 214,
-    "deaths": 4,
-    "deathsMax": 4,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "cases": 708,
+    "casesMax": 391,
+    "deaths": 11,
+    "deathsMax": 8,
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
     {
@@ -13,15 +13,23 @@
       "state": "Rhode Island",
       "stateCode": "RI",
       "fips": "",
-      "cases": 106,
-      "deaths": 4
+      "cases": 179,
+      "deaths": 8
+    },
+    {
+      "county": "Providence",
+      "state": "Rhode Island",
+      "stateCode": "RI",
+      "fips": "44007",
+      "cases": 391,
+      "deaths": 3
     },
     {
       "county": "Bristol",
       "state": "Rhode Island",
       "stateCode": "RI",
       "fips": "44001",
-      "cases": 14,
+      "cases": 20,
       "deaths": 0
     },
     {
@@ -29,7 +37,7 @@
       "state": "Rhode Island",
       "stateCode": "RI",
       "fips": "44005",
-      "cases": 21,
+      "cases": 31,
       "deaths": 0
     },
     {
@@ -37,7 +45,7 @@
       "state": "Rhode Island",
       "stateCode": "RI",
       "fips": "44009",
-      "cases": 28,
+      "cases": 32,
       "deaths": 0
     },
     {
@@ -45,15 +53,7 @@
       "state": "Rhode Island",
       "stateCode": "RI",
       "fips": "44003",
-      "cases": 32,
-      "deaths": 0
-    },
-    {
-      "county": "Providence",
-      "state": "Rhode Island",
-      "stateCode": "RI",
-      "fips": "44007",
-      "cases": 214,
+      "cases": 55,
       "deaths": 0
     }
   ]

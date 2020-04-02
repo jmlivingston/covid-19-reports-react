@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "USA",
-    "cases": 163796,
-    "deaths": 3073,
-    "lastUpdated": "Tue, 31 Mar 2020 15:35:32 GMT",
-    "casesMax": 67174,
-    "deathsMax": 1224
+    "cases": 214461,
+    "deaths": 4841,
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT",
+    "casesMax": 83889,
+    "deathsMax": 1941
   },
   "data": [
     {
@@ -13,311 +13,343 @@
       "drilldown": "New York",
       "stateCode": "NY",
       "fips": "US36",
-      "cases": 67174,
-      "deaths": 1224
-    },
-    {
-      "state": "Washington",
-      "drilldown": "Washington",
-      "stateCode": "WA",
-      "fips": "US53",
-      "cases": 5179,
-      "deaths": 221
+      "cases": 83889,
+      "deaths": 1941
     },
     {
       "state": "New Jersey",
       "drilldown": "New Jersey",
       "stateCode": "NJ",
       "fips": "US34",
-      "cases": 16636,
-      "deaths": 199
+      "cases": 22255,
+      "deaths": 355
     },
     {
       "state": "Michigan",
       "drilldown": "Michigan",
       "stateCode": "MI",
       "fips": "US26",
-      "cases": 6508,
-      "deaths": 197
+      "cases": 9293,
+      "deaths": 336
     },
     {
       "state": "Louisiana",
       "drilldown": "Louisiana",
       "stateCode": "LA",
       "fips": "US22",
-      "cases": 4025,
-      "deaths": 186
+      "cases": 6424,
+      "deaths": 273
+    },
+    {
+      "state": "Washington",
+      "drilldown": "Washington",
+      "stateCode": "WA",
+      "fips": "US53",
+      "cases": 5588,
+      "deaths": 249
     },
     {
       "state": "California",
       "drilldown": "California",
       "stateCode": "CA",
       "fips": "US06",
-      "cases": 7421,
-      "deaths": 146
+      "cases": 9816,
+      "deaths": 212
     },
     {
       "state": "Georgia",
       "drilldown": "Georgia",
       "stateCode": "GA",
       "fips": "US13",
-      "cases": 3032,
-      "deaths": 102
+      "cases": 4748,
+      "deaths": 154
     },
     {
       "state": "Illinois",
       "drilldown": "Illinois",
       "stateCode": "IL",
       "fips": "US17",
-      "cases": 5070,
-      "deaths": 84
-    },
-    {
-      "state": "Florida",
-      "drilldown": "Florida",
-      "stateCode": "FL",
-      "fips": "US12",
-      "cases": 5694,
-      "deaths": 71
+      "cases": 6980,
+      "deaths": 146
     },
     {
       "state": "Massachusetts",
       "drilldown": "Massachusetts",
       "stateCode": "MA",
       "fips": "US25",
-      "cases": 5752,
-      "deaths": 61
+      "cases": 7738,
+      "deaths": 122
     },
     {
-      "state": "Colorado",
-      "drilldown": "Colorado",
-      "stateCode": "CO",
-      "fips": "US08",
-      "cases": 2628,
-      "deaths": 51
-    },
-    {
-      "state": "Pennsylvania",
-      "drilldown": "Pennsylvania",
-      "stateCode": "PA",
-      "fips": "US42",
-      "cases": 4156,
-      "deaths": 48
-    },
-    {
-      "state": "Texas",
-      "drilldown": "Texas",
-      "stateCode": "TX",
-      "fips": "US48",
-      "cases": 3043,
-      "deaths": 46
-    },
-    {
-      "state": "Ohio",
-      "drilldown": "Ohio",
-      "stateCode": "OH",
-      "fips": "US39",
-      "cases": 1933,
-      "deaths": 40
+      "state": "Florida",
+      "drilldown": "Florida",
+      "stateCode": "FL",
+      "fips": "US12",
+      "cases": 7765,
+      "deaths": 100
     },
     {
       "state": "Connecticut",
       "drilldown": "Connecticut",
       "stateCode": "CT",
       "fips": "US09",
-      "cases": 2571,
-      "deaths": 36
+      "cases": 3557,
+      "deaths": 85
+    },
+    {
+      "state": "Colorado",
+      "drilldown": "Colorado",
+      "stateCode": "CO",
+      "fips": "US08",
+      "cases": 3346,
+      "deaths": 80
+    },
+    {
+      "state": "Pennsylvania",
+      "drilldown": "Pennsylvania",
+      "stateCode": "PA",
+      "fips": "US42",
+      "cases": 5805,
+      "deaths": 74
+    },
+    {
+      "state": "Ohio",
+      "drilldown": "Ohio",
+      "stateCode": "OH",
+      "fips": "US39",
+      "cases": 2547,
+      "deaths": 65
     },
     {
       "state": "Indiana",
       "drilldown": "Indiana",
       "stateCode": "IN",
       "fips": "US18",
-      "cases": 1788,
-      "deaths": 35
+      "cases": 2565,
+      "deaths": 65
+    },
+    {
+      "state": "Texas",
+      "drilldown": "Texas",
+      "stateCode": "TX",
+      "fips": "US48",
+      "cases": 4261,
+      "deaths": 63
     },
     {
       "state": "Virginia",
       "drilldown": "Virginia",
       "stateCode": "VA",
       "fips": "US51",
-      "cases": 1021,
-      "deaths": 26
-    },
-    {
-      "state": "Arizona",
-      "drilldown": "Arizona",
-      "stateCode": "AZ",
-      "fips": "US04",
-      "cases": 1169,
-      "deaths": 20
+      "cases": 1511,
+      "deaths": 34
     },
     {
       "state": "Wisconsin",
       "drilldown": "Wisconsin",
       "stateCode": "WI",
       "fips": "US55",
-      "cases": 1267,
-      "deaths": 20
-    },
-    {
-      "state": "South Carolina",
-      "drilldown": "South Carolina",
-      "stateCode": "SC",
-      "fips": "US45",
-      "cases": 925,
-      "deaths": 18
-    },
-    {
-      "state": "Nevada",
-      "drilldown": "Nevada",
-      "stateCode": "NV",
-      "fips": "US32",
-      "cases": 1044,
-      "deaths": 18
-    },
-    {
-      "state": "Oklahoma",
-      "drilldown": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "US40",
-      "cases": 481,
-      "deaths": 17
-    },
-    {
-      "state": "Oregon",
-      "drilldown": "Oregon",
-      "stateCode": "OR",
-      "fips": "US41",
-      "cases": 606,
-      "deaths": 16
-    },
-    {
-      "state": "Mississippi",
-      "drilldown": "Mississippi",
-      "stateCode": "MS",
-      "fips": "US28",
-      "cases": 848,
-      "deaths": 16
+      "cases": 1550,
+      "deaths": 33
     },
     {
       "state": "Maryland",
       "drilldown": "Maryland",
       "stateCode": "MD",
       "fips": "US24",
-      "cases": 1414,
-      "deaths": 15
+      "cases": 1985,
+      "deaths": 33
     },
     {
-      "state": "Missouri",
-      "drilldown": "Missouri",
-      "stateCode": "MO",
-      "fips": "US29",
-      "cases": 1050,
-      "deaths": 13
+      "state": "Nevada",
+      "drilldown": "Nevada",
+      "stateCode": "NV",
+      "fips": "US32",
+      "cases": 1279,
+      "deaths": 32
     },
     {
-      "state": "Tennessee",
-      "drilldown": "Tennessee",
-      "stateCode": "TN",
-      "fips": "US47",
-      "cases": 1834,
-      "deaths": 13
+      "state": "Oklahoma",
+      "drilldown": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "US40",
+      "cases": 719,
+      "deaths": 30
     },
     {
-      "state": "Vermont",
-      "drilldown": "Vermont",
-      "stateCode": "VT",
-      "fips": "US50",
-      "cases": 256,
-      "deaths": 12
-    },
-    {
-      "state": "Kentucky",
-      "drilldown": "Kentucky",
-      "stateCode": "KY",
-      "fips": "US21",
-      "cases": 480,
-      "deaths": 11
+      "state": "Arizona",
+      "drilldown": "Arizona",
+      "stateCode": "AZ",
+      "fips": "US04",
+      "cases": 1413,
+      "deaths": 29
     },
     {
       "state": "Alabama",
       "drilldown": "Alabama",
       "stateCode": "AL",
       "fips": "US01",
-      "cases": 947,
-      "deaths": 11
+      "cases": 1106,
+      "deaths": 28
+    },
+    {
+      "state": "South Carolina",
+      "drilldown": "South Carolina",
+      "stateCode": "SC",
+      "fips": "US45",
+      "cases": 1293,
+      "deaths": 26
+    },
+    {
+      "state": "Tennessee",
+      "drilldown": "Tennessee",
+      "stateCode": "TN",
+      "fips": "US47",
+      "cases": 2440,
+      "deaths": 23
+    },
+    {
+      "state": "Mississippi",
+      "drilldown": "Mississippi",
+      "stateCode": "MS",
+      "fips": "US28",
+      "cases": 1073,
+      "deaths": 22
+    },
+    {
+      "state": "Kentucky",
+      "drilldown": "Kentucky",
+      "stateCode": "KY",
+      "fips": "US21",
+      "cases": 682,
+      "deaths": 20
+    },
+    {
+      "state": "Oregon",
+      "drilldown": "Oregon",
+      "stateCode": "OR",
+      "fips": "US41",
+      "cases": 736,
+      "deaths": 19
+    },
+    {
+      "state": "Missouri",
+      "drilldown": "Missouri",
+      "stateCode": "MO",
+      "fips": "US29",
+      "cases": 1581,
+      "deaths": 18
     },
     {
       "state": "Minnesota",
       "drilldown": "Minnesota",
       "stateCode": "MN",
       "fips": "US27",
-      "cases": 576,
-      "deaths": 10
+      "cases": 689,
+      "deaths": 17
     },
     {
-      "state": "Kansas",
-      "drilldown": "Kansas",
-      "stateCode": "KS",
-      "fips": "US20",
-      "cases": 373,
-      "deaths": 9
-    },
-    {
-      "state": "District of Columbia",
-      "drilldown": "District of Columbia",
-      "stateCode": "DC",
-      "fips": "US11",
-      "cases": 495,
-      "deaths": 9
-    },
-    {
-      "state": "Delaware",
-      "drilldown": "Delaware",
-      "stateCode": "DE",
-      "fips": "US10",
-      "cases": 264,
-      "deaths": 7
-    },
-    {
-      "state": "Idaho",
-      "drilldown": "Idaho",
-      "stateCode": "ID",
-      "fips": "US16",
-      "cases": 415,
-      "deaths": 7
-    },
-    {
-      "state": "Arkansas",
-      "drilldown": "Arkansas",
-      "stateCode": "AR",
-      "fips": "US05",
-      "cases": 508,
-      "deaths": 7
+      "state": "Vermont",
+      "drilldown": "Vermont",
+      "stateCode": "VT",
+      "fips": "US50",
+      "cases": 321,
+      "deaths": 16
     },
     {
       "state": "Puerto Rico",
       "drilldown": "Puerto Rico",
       "stateCode": "PR",
       "fips": "US72",
-      "cases": 174,
-      "deaths": 6
+      "cases": 286,
+      "deaths": 11
     },
     {
-      "state": "Iowa",
-      "drilldown": "Iowa",
-      "stateCode": "IA",
-      "fips": "US19",
-      "cases": 424,
-      "deaths": 6
+      "state": "Delaware",
+      "drilldown": "Delaware",
+      "stateCode": "DE",
+      "fips": "US10",
+      "cases": 368,
+      "deaths": 11
+    },
+    {
+      "state": "Kansas",
+      "drilldown": "Kansas",
+      "stateCode": "KS",
+      "fips": "US20",
+      "cases": 488,
+      "deaths": 11
+    },
+    {
+      "state": "District of Columbia",
+      "drilldown": "District of Columbia",
+      "stateCode": "DC",
+      "fips": "US11",
+      "cases": 586,
+      "deaths": 11
     },
     {
       "state": "North Carolina",
       "drilldown": "North Carolina",
       "stateCode": "NC",
       "fips": "US37",
-      "cases": 1304,
+      "cases": 1582,
+      "deaths": 11
+    },
+    {
+      "state": "Rhode Island",
+      "drilldown": "Rhode Island",
+      "stateCode": "RI",
+      "fips": "US44",
+      "cases": 566,
+      "deaths": 10
+    },
+    {
+      "state": "Arkansas",
+      "drilldown": "Arkansas",
+      "stateCode": "AR",
+      "fips": "US05",
+      "cases": 624,
+      "deaths": 10
+    },
+    {
+      "state": "Iowa",
+      "drilldown": "Iowa",
+      "stateCode": "IA",
+      "fips": "US19",
+      "cases": 549,
+      "deaths": 9
+    },
+    {
+      "state": "Idaho",
+      "drilldown": "Idaho",
+      "stateCode": "ID",
+      "fips": "US16",
+      "cases": 669,
+      "deaths": 9
+    },
+    {
+      "state": "Maine",
+      "drilldown": "Maine",
+      "stateCode": "ME",
+      "fips": "US23",
+      "cases": 344,
+      "deaths": 7
+    },
+    {
+      "state": "Utah",
+      "drilldown": "Utah",
+      "stateCode": "UT",
+      "fips": "US49",
+      "cases": 1012,
+      "deaths": 7
+    },
+    {
+      "state": "New Mexico",
+      "drilldown": "New Mexico",
+      "stateCode": "NM",
+      "fips": "US35",
+      "cases": 363,
       "deaths": 6
     },
     {
@@ -325,31 +357,23 @@
       "drilldown": "Montana",
       "stateCode": "MT",
       "fips": "US30",
-      "cases": 177,
-      "deaths": 4
+      "cases": 217,
+      "deaths": 5
     },
     {
-      "state": "New Mexico",
-      "drilldown": "New Mexico",
-      "stateCode": "NM",
-      "fips": "US35",
-      "cases": 281,
-      "deaths": 4
+      "state": "Nebraska",
+      "drilldown": "Nebraska",
+      "stateCode": "NE",
+      "fips": "US31",
+      "cases": 249,
+      "deaths": 5
     },
     {
-      "state": "Rhode Island",
-      "drilldown": "Rhode Island",
-      "stateCode": "RI",
-      "fips": "US44",
-      "cases": 408,
-      "deaths": 4
-    },
-    {
-      "state": "Utah",
-      "drilldown": "Utah",
-      "stateCode": "UT",
-      "fips": "US49",
-      "cases": 806,
+      "state": "New Hampshire",
+      "drilldown": "New Hampshire",
+      "stateCode": "NH",
+      "fips": "US33",
+      "cases": 415,
       "deaths": 4
     },
     {
@@ -357,72 +381,56 @@
       "drilldown": "North Dakota",
       "stateCode": "ND",
       "fips": "US38",
-      "cases": 109,
+      "cases": 147,
       "deaths": 3
-    },
-    {
-      "state": "Nebraska",
-      "drilldown": "Nebraska",
-      "stateCode": "NE",
-      "fips": "US31",
-      "cases": 185,
-      "deaths": 3
-    },
-    {
-      "state": "Maine",
-      "drilldown": "Maine",
-      "stateCode": "ME",
-      "fips": "US23",
-      "cases": 275,
-      "deaths": 3
-    },
-    {
-      "state": "New Hampshire",
-      "drilldown": "New Hampshire",
-      "stateCode": "NH",
-      "fips": "US33",
-      "cases": 314,
-      "deaths": 3
-    },
-    {
-      "state": "Alaska",
-      "drilldown": "Alaska",
-      "stateCode": "AK",
-      "fips": "US02",
-      "cases": 119,
-      "deaths": 2
     },
     {
       "state": "Guam",
       "drilldown": "Guam",
       "stateCode": null,
       "fips": "US66",
-      "cases": 60,
-      "deaths": 1
+      "cases": 147,
+      "deaths": 3
     },
     {
       "state": "South Dakota",
       "drilldown": "South Dakota",
       "stateCode": "SD",
       "fips": "US46",
-      "cases": 101,
-      "deaths": 1
+      "cases": 129,
+      "deaths": 2
+    },
+    {
+      "state": "Alaska",
+      "drilldown": "Alaska",
+      "stateCode": "AK",
+      "fips": "US02",
+      "cases": 143,
+      "deaths": 2
     },
     {
       "state": "West Virginia",
       "drilldown": "West Virginia",
       "stateCode": "WV",
       "fips": "US54",
-      "cases": 145,
-      "deaths": 1
+      "cases": 191,
+      "deaths": 2
     },
     {
       "state": "Northern Mariana Islands",
       "drilldown": "Northern Mariana Islands",
       "stateCode": null,
       "fips": "US69",
-      "cases": 2,
-      "deaths": 0
+      "cases": 6,
+      "deaths": 1
+    },
+    {
+      "state": "Hawaii",
+      "drilldown": "Hawaii",
+      "stateCode": "HI",
+      "fips": "US15",
+      "cases": 258,
+      "deaths": 1
     },
     {
       "state": "Virgin Islands",
@@ -437,15 +445,7 @@
       "drilldown": "Wyoming",
       "stateCode": "WY",
       "fips": "US56",
-      "cases": 95,
-      "deaths": 0
-    },
-    {
-      "state": "Hawaii",
-      "drilldown": "Hawaii",
-      "stateCode": "HI",
-      "fips": "US15",
-      "cases": 204,
+      "cases": 137,
       "deaths": 0
     }
   ]

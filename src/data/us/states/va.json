@@ -1,43 +1,51 @@
 {
   "summary": {
     "name": "Virginia",
-    "cases": 1021,
-    "casesMax": 225,
-    "deaths": 12,
-    "deathsMax": 3,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "cases": 1518,
+    "casesMax": 288,
+    "deaths": 18,
+    "deathsMax": 5,
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
+    {
+      "county": "Fairfax",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51059",
+      "cases": 288,
+      "deaths": 5
+    },
     {
       "county": "Henrico",
       "state": "Virginia",
       "stateCode": "VA",
       "fips": "51087",
-      "cases": 44,
+      "cases": 78,
       "deaths": 3
     },
     {
-      "county": "James City",
+      "county": "James city",
       "state": "Virginia",
       "stateCode": "VA",
       "fips": "51095",
-      "cases": 73,
+      "cases": 95,
       "deaths": 3
+    },
+    {
+      "county": "Richmond city",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51760",
+      "cases": 33,
+      "deaths": 2
     },
     {
       "county": "Arlington",
       "state": "Virginia",
       "stateCode": "VA",
       "fips": "51013",
-      "cases": 86,
-      "deaths": 2
-    },
-    {
-      "county": "Fairfax",
-      "state": "Virginia",
-      "stateCode": "VA",
-      "fips": "51059",
-      "cases": 225,
+      "cases": 119,
       "deaths": 2
     },
     {
@@ -45,7 +53,7 @@
       "state": "Virginia",
       "stateCode": "VA",
       "fips": "51830",
-      "cases": 7,
+      "cases": 9,
       "deaths": 1
     },
     {
@@ -53,7 +61,15 @@
       "state": "Virginia",
       "stateCode": "VA",
       "fips": "51700",
-      "cases": 18,
+      "cases": 29,
+      "deaths": 1
+    },
+    {
+      "county": "Prince William",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51153",
+      "cases": 106,
       "deaths": 1
     },
     {
@@ -93,22 +109,6 @@
       "state": "Virginia",
       "stateCode": "VA",
       "fips": "51135",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Orange",
-      "state": "Virginia",
-      "stateCode": "VA",
-      "fips": "51137",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Amelia",
-      "state": "Virginia",
-      "stateCode": "VA",
-      "fips": "51007",
       "cases": 1,
       "deaths": 0
     },
@@ -209,22 +209,6 @@
       "deaths": 0
     },
     {
-      "county": "Wythe",
-      "state": "Virginia",
-      "stateCode": "VA",
-      "fips": "51197",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Henry",
-      "state": "Virginia",
-      "stateCode": "VA",
-      "fips": "51089",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "King William",
       "state": "Virginia",
       "stateCode": "VA",
@@ -233,10 +217,82 @@
       "deaths": 0
     },
     {
-      "county": "Smyth",
+      "county": "Brunswick",
       "state": "Virginia",
       "stateCode": "VA",
-      "fips": "51173",
+      "fips": "51025",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Carroll",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51035",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Clarke",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51043",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Franklin city",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51620",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "King and Queen",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51097",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Page",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51139",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Surry",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51181",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Augusta",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51015",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Covington city",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51580",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Sussex",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51183",
       "cases": 1,
       "deaths": 0
     },
@@ -245,14 +301,6 @@
       "state": "Virginia",
       "stateCode": "VA",
       "fips": "51147",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Bedford",
-      "state": "Virginia",
-      "stateCode": "VA",
-      "fips": "51019",
       "cases": 2,
       "deaths": 0
     },
@@ -289,26 +337,10 @@
       "deaths": 0
     },
     {
-      "county": "Roanoke",
+      "county": "Amelia",
       "state": "Virginia",
       "stateCode": "VA",
-      "fips": "51161",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Poquoson city",
-      "state": "Virginia",
-      "stateCode": "VA",
-      "fips": "51735",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Warren",
-      "state": "Virginia",
-      "stateCode": "VA",
-      "fips": "51187",
+      "fips": "51007",
       "cases": 2,
       "deaths": 0
     },
@@ -321,14 +353,6 @@
       "deaths": 0
     },
     {
-      "county": "Northumberland",
-      "state": "Virginia",
-      "stateCode": "VA",
-      "fips": "51133",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Tazewell",
       "state": "Virginia",
       "stateCode": "VA",
@@ -337,42 +361,58 @@
       "deaths": 0
     },
     {
-      "county": "Petersburg city",
+      "county": "Wythe",
       "state": "Virginia",
       "stateCode": "VA",
-      "fips": "51730",
+      "fips": "51197",
       "cases": 2,
       "deaths": 0
     },
     {
-      "county": "Isle of Wight",
+      "county": "Henry",
       "state": "Virginia",
       "stateCode": "VA",
-      "fips": "51093",
-      "cases": 3,
+      "fips": "51089",
+      "cases": 2,
       "deaths": 0
     },
     {
-      "county": "Suffolk city",
+      "county": "Smyth",
       "state": "Virginia",
       "stateCode": "VA",
-      "fips": "51800",
-      "cases": 3,
+      "fips": "51173",
+      "cases": 2,
       "deaths": 0
     },
     {
-      "county": "Amherst",
+      "county": "Buckingham",
       "state": "Virginia",
       "stateCode": "VA",
-      "fips": "51009",
-      "cases": 3,
+      "fips": "51029",
+      "cases": 2,
       "deaths": 0
     },
     {
-      "county": "Culpeper",
+      "county": "Campbell",
       "state": "Virginia",
       "stateCode": "VA",
-      "fips": "51047",
+      "fips": "51031",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Waynesboro city",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51820",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Bedford",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51019",
       "cases": 3,
       "deaths": 0
     },
@@ -393,26 +433,26 @@
       "deaths": 0
     },
     {
-      "county": "King George",
+      "county": "Poquoson city",
       "state": "Virginia",
       "stateCode": "VA",
-      "fips": "51099",
+      "fips": "51735",
       "cases": 3,
       "deaths": 0
     },
     {
-      "county": "Hopewell city",
+      "county": "Warren",
       "state": "Virginia",
       "stateCode": "VA",
-      "fips": "51670",
+      "fips": "51187",
       "cases": 3,
       "deaths": 0
     },
     {
-      "county": "Powhatan",
+      "county": "Northumberland",
       "state": "Virginia",
       "stateCode": "VA",
-      "fips": "51145",
+      "fips": "51133",
       "cases": 3,
       "deaths": 0
     },
@@ -422,22 +462,6 @@
       "stateCode": "VA",
       "fips": "51081",
       "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Winchester city",
-      "state": "Virginia",
-      "stateCode": "VA",
-      "fips": "51840",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Portsmouth city",
-      "state": "Virginia",
-      "stateCode": "VA",
-      "fips": "51740",
-      "cases": 4,
       "deaths": 0
     },
     {
@@ -457,27 +481,51 @@
       "deaths": 0
     },
     {
-      "county": "Lynchburg city",
+      "county": "Orange",
       "state": "Virginia",
       "stateCode": "VA",
-      "fips": "51680",
+      "fips": "51137",
       "cases": 4,
       "deaths": 0
     },
     {
-      "county": "Hanover",
+      "county": "Roanoke",
       "state": "Virginia",
       "stateCode": "VA",
-      "fips": "51085",
-      "cases": 5,
+      "fips": "51161",
+      "cases": 4,
       "deaths": 0
     },
     {
-      "county": "Botetourt",
+      "county": "King George",
       "state": "Virginia",
       "stateCode": "VA",
-      "fips": "51023",
-      "cases": 5,
+      "fips": "51099",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Hopewell city",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51670",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Powhatan",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51145",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Petersburg city",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51730",
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -489,66 +537,58 @@
       "deaths": 0
     },
     {
-      "county": "Rockingham",
+      "county": "Isle of Wight",
       "state": "Virginia",
       "stateCode": "VA",
-      "fips": "51165",
+      "fips": "51093",
       "cases": 5,
       "deaths": 0
     },
     {
-      "county": "Prince George",
+      "county": "Amherst",
       "state": "Virginia",
       "stateCode": "VA",
-      "fips": "51149",
+      "fips": "51009",
       "cases": 5,
       "deaths": 0
     },
     {
-      "county": "Harrisonburg city",
+      "county": "Culpeper",
       "state": "Virginia",
       "stateCode": "VA",
-      "fips": "51660",
+      "fips": "51047",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Winchester city",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51840",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Hanover",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51085",
       "cases": 6,
       "deaths": 0
     },
     {
-      "county": "Spotsylvania",
+      "county": "Botetourt",
       "state": "Virginia",
       "stateCode": "VA",
-      "fips": "51177",
+      "fips": "51023",
       "cases": 6,
       "deaths": 0
     },
     {
-      "county": "Goochland",
+      "county": "Suffolk city",
       "state": "Virginia",
       "stateCode": "VA",
-      "fips": "51075",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
-      "county": "Accomack",
-      "state": "Virginia",
-      "stateCode": "VA",
-      "fips": "51001",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
-      "county": "Shenandoah",
-      "state": "Virginia",
-      "stateCode": "VA",
-      "fips": "51171",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
-      "county": "Fauquier",
-      "state": "Virginia",
-      "stateCode": "VA",
-      "fips": "51061",
+      "fips": "51800",
       "cases": 6,
       "deaths": 0
     },
@@ -561,11 +601,75 @@
       "deaths": 0
     },
     {
+      "county": "Goochland",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51075",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Accomack",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51001",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Fauquier",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51061",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Lynchburg city",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51680",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Spotsylvania",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51177",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
       "county": "Gloucester",
       "state": "Virginia",
       "stateCode": "VA",
       "fips": "51073",
-      "cases": 7,
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Shenandoah",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51171",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Prince George",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51149",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Rockingham",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51165",
+      "cases": 9,
       "deaths": 0
     },
     {
@@ -573,7 +677,15 @@
       "state": "Virginia",
       "stateCode": "VA",
       "fips": "51683",
-      "cases": 7,
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Harrisonburg city",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51660",
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -581,7 +693,15 @@
       "state": "Virginia",
       "stateCode": "VA",
       "fips": "51109",
-      "cases": 8,
+      "cases": 11,
+      "deaths": 0
+    },
+    {
+      "county": "Portsmouth city",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51740",
+      "cases": 13,
       "deaths": 0
     },
     {
@@ -589,7 +709,7 @@
       "state": "Virginia",
       "stateCode": "VA",
       "fips": "51650",
-      "cases": 9,
+      "cases": 14,
       "deaths": 0
     },
     {
@@ -597,7 +717,7 @@
       "state": "Virginia",
       "stateCode": "VA",
       "fips": "51069",
-      "cases": 10,
+      "cases": 15,
       "deaths": 0
     },
     {
@@ -605,7 +725,7 @@
       "state": "Virginia",
       "stateCode": "VA",
       "fips": "51199",
-      "cases": 11,
+      "cases": 16,
       "deaths": 0
     },
     {
@@ -613,23 +733,7 @@
       "state": "Virginia",
       "stateCode": "VA",
       "fips": "51540",
-      "cases": 13,
-      "deaths": 0
-    },
-    {
-      "county": "Norfolk city",
-      "state": "Virginia",
-      "stateCode": "VA",
-      "fips": "51710",
-      "cases": 17,
-      "deaths": 0
-    },
-    {
-      "county": "Chesapeake city",
-      "state": "Virginia",
-      "stateCode": "VA",
-      "fips": "51550",
-      "cases": 18,
+      "cases": 16,
       "deaths": 0
     },
     {
@@ -637,7 +741,7 @@
       "state": "Virginia",
       "stateCode": "VA",
       "fips": "51003",
-      "cases": 19,
+      "cases": 21,
       "deaths": 0
     },
     {
@@ -645,23 +749,15 @@
       "state": "Virginia",
       "stateCode": "VA",
       "fips": "51179",
-      "cases": 20,
+      "cases": 28,
       "deaths": 0
     },
     {
-      "county": "Chesterfield",
+      "county": "Chesapeake city",
       "state": "Virginia",
       "stateCode": "VA",
-      "fips": "51041",
-      "cases": 21,
-      "deaths": 0
-    },
-    {
-      "county": "Richmond city",
-      "state": "Virginia",
-      "stateCode": "VA",
-      "fips": "51760",
-      "cases": 25,
+      "fips": "51550",
+      "cases": 31,
       "deaths": 0
     },
     {
@@ -669,7 +765,31 @@
       "state": "Virginia",
       "stateCode": "VA",
       "fips": "51510",
-      "cases": 26,
+      "cases": 32,
+      "deaths": 0
+    },
+    {
+      "county": "Norfolk city",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51710",
+      "cases": 33,
+      "deaths": 0
+    },
+    {
+      "county": "Richmond",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51159",
+      "cases": 33,
+      "deaths": 0
+    },
+    {
+      "county": "Chesterfield",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "fips": "51041",
+      "cases": 59,
       "deaths": 0
     },
     {
@@ -677,7 +797,7 @@
       "state": "Virginia",
       "stateCode": "VA",
       "fips": "51810",
-      "cases": 52,
+      "cases": 88,
       "deaths": 0
     },
     {
@@ -685,15 +805,7 @@
       "state": "Virginia",
       "stateCode": "VA",
       "fips": "51107",
-      "cases": 61,
-      "deaths": 0
-    },
-    {
-      "county": "Prince William",
-      "state": "Virginia",
-      "stateCode": "VA",
-      "fips": "51153",
-      "cases": 79,
+      "cases": 105,
       "deaths": 0
     }
   ]

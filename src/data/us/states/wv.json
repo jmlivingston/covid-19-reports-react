@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "West Virginia",
-    "cases": 145,
-    "casesMax": 31,
+    "cases": 191,
+    "casesMax": 37,
     "deaths": 1,
     "deathsMax": 1,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54049",
-      "cases": 5,
+      "cases": 8,
       "deaths": 1
     },
     {
@@ -49,14 +49,6 @@
       "deaths": 0
     },
     {
-      "county": "Wetzel",
-      "state": "West Virginia",
-      "stateCode": "WV",
-      "fips": "54103",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Wirt",
       "state": "West Virginia",
       "stateCode": "WV",
@@ -69,6 +61,22 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54083",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Hardy",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "fips": "54031",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Barbour",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "fips": "54001",
       "cases": 1,
       "deaths": 0
     },
@@ -89,14 +97,6 @@
       "deaths": 0
     },
     {
-      "county": "Preston",
-      "state": "West Virginia",
-      "stateCode": "WV",
-      "fips": "54077",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Wood",
       "state": "West Virginia",
       "stateCode": "WV",
@@ -105,10 +105,10 @@
       "deaths": 0
     },
     {
-      "county": "Logan",
+      "county": "Wetzel",
       "state": "West Virginia",
       "stateCode": "WV",
-      "fips": "54045",
+      "fips": "54103",
       "cases": 2,
       "deaths": 0
     },
@@ -118,6 +118,22 @@
       "stateCode": "WV",
       "fips": "54087",
       "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Preston",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "fips": "54077",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Logan",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "fips": "54045",
+      "cases": 3,
       "deaths": 0
     },
     {
@@ -145,14 +161,6 @@
       "deaths": 0
     },
     {
-      "county": "Hancock",
-      "state": "West Virginia",
-      "stateCode": "WV",
-      "fips": "54029",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
       "county": "Marshall",
       "state": "West Virginia",
       "stateCode": "WV",
@@ -165,7 +173,15 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54079",
-      "cases": 4,
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Hancock",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "fips": "54029",
+      "cases": 6,
       "deaths": 0
     },
     {
@@ -173,7 +189,7 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54037",
-      "cases": 6,
+      "cases": 9,
       "deaths": 0
     },
     {
@@ -181,7 +197,7 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54035",
-      "cases": 8,
+      "cases": 11,
       "deaths": 0
     },
     {
@@ -189,7 +205,7 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54069",
-      "cases": 9,
+      "cases": 11,
       "deaths": 0
     },
     {
@@ -197,7 +213,7 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54033",
-      "cases": 10,
+      "cases": 14,
       "deaths": 0
     },
     {
@@ -205,15 +221,7 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54003",
-      "cases": 14,
-      "deaths": 0
-    },
-    {
-      "county": "Kanawha",
-      "state": "West Virginia",
-      "stateCode": "WV",
-      "fips": "54039",
-      "cases": 23,
+      "cases": 21,
       "deaths": 0
     },
     {
@@ -221,7 +229,15 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54061",
-      "cases": 31,
+      "cases": 32,
+      "deaths": 0
+    },
+    {
+      "county": "Kanawha",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "fips": "54039",
+      "cases": 37,
       "deaths": 0
     }
   ]

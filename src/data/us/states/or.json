@@ -1,19 +1,35 @@
 {
   "summary": {
     "name": "Oregon",
-    "cases": 607,
-    "casesMax": 168,
-    "deaths": 16,
+    "cases": 737,
+    "casesMax": 189,
+    "deaths": 19,
     "deathsMax": 3,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
+    {
+      "county": "Yamhill",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41071",
+      "cases": 17,
+      "deaths": 3
+    },
     {
       "county": "Clackamas",
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41005",
-      "cases": 40,
+      "cases": 56,
+      "deaths": 3
+    },
+    {
+      "county": "Multnomah",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41051",
+      "cases": 134,
       "deaths": 3
     },
     {
@@ -21,7 +37,7 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41047",
-      "cases": 123,
+      "cases": 151,
       "deaths": 3
     },
     {
@@ -29,39 +45,31 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41067",
-      "cases": 168,
+      "cases": 189,
       "deaths": 3
-    },
-    {
-      "county": "Yamhill",
-      "state": "Oregon",
-      "stateCode": "OR",
-      "fips": "41071",
-      "cases": 14,
-      "deaths": 2
     },
     {
       "county": "Linn",
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41043",
-      "cases": 36,
+      "cases": 37,
       "deaths": 2
     },
     {
-      "county": "Multnomah",
+      "county": "Benton",
       "state": "Oregon",
       "stateCode": "OR",
-      "fips": "41051",
-      "cases": 100,
-      "deaths": 2
+      "fips": "41003",
+      "cases": 13,
+      "deaths": 1
     },
     {
       "county": "Lane",
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41039",
-      "cases": 12,
+      "cases": 18,
       "deaths": 1
     },
     {
@@ -77,14 +85,6 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41061",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Lincoln",
-      "state": "Oregon",
-      "stateCode": "OR",
-      "fips": "41041",
       "cases": 1,
       "deaths": 0
     },
@@ -105,11 +105,27 @@
       "deaths": 0
     },
     {
+      "county": "Malheur",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41045",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Wallowa",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41063",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
       "county": "Hood River",
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41027",
-      "cases": 2,
+      "cases": 3,
       "deaths": 0
     },
     {
@@ -117,6 +133,14 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41007",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Lincoln",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41041",
       "cases": 3,
       "deaths": 0
     },
@@ -133,7 +157,7 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41035",
-      "cases": 4,
+      "cases": 5,
       "deaths": 0
     },
     {
@@ -141,7 +165,7 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41059",
-      "cases": 4,
+      "cases": 5,
       "deaths": 0
     },
     {
@@ -149,7 +173,7 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41065",
-      "cases": 5,
+      "cases": 7,
       "deaths": 0
     },
     {
@@ -157,14 +181,6 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41019",
-      "cases": 8,
-      "deaths": 0
-    },
-    {
-      "county": "Benton",
-      "state": "Oregon",
-      "stateCode": "OR",
-      "fips": "41003",
       "cases": 10,
       "deaths": 0
     },
@@ -181,7 +197,7 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41053",
-      "cases": 15,
+      "cases": 18,
       "deaths": 0
     },
     {
@@ -189,7 +205,7 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41029",
-      "cases": 20,
+      "cases": 22,
       "deaths": 0
     },
     {
@@ -197,7 +213,7 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41017",
-      "cases": 25,
+      "cases": 27,
       "deaths": 0
     }
   ]

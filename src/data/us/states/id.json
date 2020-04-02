@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Idaho",
-    "cases": 416,
-    "casesMax": 151,
-    "deaths": 7,
+    "cases": 670,
+    "casesMax": 265,
+    "deaths": 9,
     "deathsMax": 3,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
     {
@@ -13,40 +13,24 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16001",
-      "cases": 151,
+      "cases": 226,
       "deaths": 3
-    },
-    {
-      "county": "Blaine",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16013",
-      "cases": 148,
-      "deaths": 2
     },
     {
       "county": "Nez Perce",
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16069",
-      "cases": 7,
-      "deaths": 1
+      "cases": 10,
+      "deaths": 2
     },
     {
-      "county": "Canyon",
+      "county": "Blaine",
       "state": "Idaho",
       "stateCode": "ID",
-      "fips": "16027",
-      "cases": 48,
-      "deaths": 1
-    },
-    {
-      "county": "Bingham",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16011",
-      "cases": 1,
-      "deaths": 0
+      "fips": "16013",
+      "cases": 265,
+      "deaths": 2
     },
     {
       "county": "Cassia",
@@ -54,7 +38,15 @@
       "stateCode": "ID",
       "fips": "16031",
       "cases": 1,
-      "deaths": 0
+      "deaths": 1
+    },
+    {
+      "county": "Canyon",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16027",
+      "cases": 68,
+      "deaths": 1
     },
     {
       "county": "Fremont",
@@ -65,42 +57,10 @@
       "deaths": 0
     },
     {
-      "county": "Idaho",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16049",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Payette",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16075",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Custer",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16037",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Unknown",
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Lincoln",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16063",
       "cases": 1,
       "deaths": 0
     },
@@ -121,22 +81,6 @@
       "deaths": 0
     },
     {
-      "county": "Elmore",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16039",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Jerome",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16053",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Minidoka",
       "state": "Idaho",
       "stateCode": "ID",
@@ -145,18 +89,42 @@
       "deaths": 0
     },
     {
-      "county": "Teton",
+      "county": "Adams",
       "state": "Idaho",
       "stateCode": "ID",
-      "fips": "16081",
-      "cases": 2,
+      "fips": "16003",
+      "cases": 1,
       "deaths": 0
     },
     {
-      "county": "Madison",
+      "county": "Camas",
       "state": "Idaho",
       "stateCode": "ID",
-      "fips": "16065",
+      "fips": "16025",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Gooding",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16047",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Latah",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16057",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Bingham",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16011",
       "cases": 2,
       "deaths": 0
     },
@@ -169,10 +137,18 @@
       "deaths": 0
     },
     {
-      "county": "Jefferson",
+      "county": "Idaho",
       "state": "Idaho",
       "stateCode": "ID",
-      "fips": "16051",
+      "fips": "16049",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Custer",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16037",
       "cases": 2,
       "deaths": 0
     },
@@ -185,11 +161,51 @@
       "deaths": 0
     },
     {
+      "county": "Teton",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16081",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Jefferson",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16051",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Payette",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16075",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Elmore",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16039",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Madison",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16065",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
       "county": "Bannock",
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16005",
-      "cases": 3,
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -197,7 +213,23 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16045",
-      "cases": 3,
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Jerome",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16053",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Lincoln",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16063",
+      "cases": 5,
       "deaths": 0
     },
     {
@@ -205,7 +237,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16083",
-      "cases": 5,
+      "cases": 17,
       "deaths": 0
     },
     {
@@ -213,7 +245,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16055",
-      "cases": 28,
+      "cases": 31,
       "deaths": 0
     }
   ]

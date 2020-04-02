@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Connecticut",
-    "cases": 2571,
-    "casesMax": 1445,
-    "deaths": 36,
-    "deathsMax": 21,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "cases": 3557,
+    "casesMax": 1986,
+    "deaths": 85,
+    "deathsMax": 38,
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
     {
@@ -13,39 +13,55 @@
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09001",
-      "cases": 1445,
-      "deaths": 21
+      "cases": 1986,
+      "deaths": 38
+    },
+    {
+      "county": "Unknown",
+      "state": "Connecticut",
+      "stateCode": "CT",
+      "fips": "",
+      "cases": 185,
+      "deaths": 17
     },
     {
       "county": "New Haven",
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09009",
-      "cases": 373,
-      "deaths": 6
-    },
-    {
-      "county": "Tolland",
-      "state": "Connecticut",
-      "stateCode": "CT",
-      "fips": "09013",
-      "cases": 50,
-      "deaths": 4
+      "cases": 611,
+      "deaths": 12
     },
     {
       "county": "Hartford",
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09003",
-      "cases": 330,
-      "deaths": 3
+      "cases": 469,
+      "deaths": 8
+    },
+    {
+      "county": "Tolland",
+      "state": "Connecticut",
+      "stateCode": "CT",
+      "fips": "09013",
+      "cases": 61,
+      "deaths": 7
+    },
+    {
+      "county": "New London",
+      "state": "Connecticut",
+      "stateCode": "CT",
+      "fips": "09011",
+      "cases": 29,
+      "deaths": 1
     },
     {
       "county": "Middlesex",
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09007",
-      "cases": 50,
+      "cases": 66,
       "deaths": 1
     },
     {
@@ -53,7 +69,7 @@
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09005",
-      "cases": 113,
+      "cases": 131,
       "deaths": 1
     },
     {
@@ -61,23 +77,7 @@
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09015",
-      "cases": 10,
-      "deaths": 0
-    },
-    {
-      "county": "New London",
-      "state": "Connecticut",
-      "stateCode": "CT",
-      "fips": "09011",
-      "cases": 24,
-      "deaths": 0
-    },
-    {
-      "county": "Unknown",
-      "state": "Connecticut",
-      "stateCode": "CT",
-      "fips": "",
-      "cases": 176,
+      "cases": 19,
       "deaths": 0
     }
   ]

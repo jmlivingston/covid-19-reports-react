@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Delaware",
-    "cases": 264,
-    "casesMax": 156,
-    "deaths": 7,
-    "deathsMax": 3,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "cases": 368,
+    "casesMax": 226,
+    "deaths": 11,
+    "deathsMax": 6,
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
     {
@@ -13,7 +13,15 @@
       "state": "Delaware",
       "stateCode": "DE",
       "fips": "10003",
-      "cases": 156,
+      "cases": 226,
+      "deaths": 6
+    },
+    {
+      "county": "Sussex",
+      "state": "Delaware",
+      "stateCode": "DE",
+      "fips": "10005",
+      "cases": 101,
       "deaths": 3
     },
     {
@@ -21,15 +29,7 @@
       "state": "Delaware",
       "stateCode": "DE",
       "fips": "10001",
-      "cases": 27,
-      "deaths": 2
-    },
-    {
-      "county": "Sussex",
-      "state": "Delaware",
-      "stateCode": "DE",
-      "fips": "10005",
-      "cases": 81,
+      "cases": 41,
       "deaths": 2
     }
   ]

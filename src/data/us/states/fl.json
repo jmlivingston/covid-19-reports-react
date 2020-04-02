@@ -1,43 +1,51 @@
 {
   "summary": {
     "name": "Florida",
-    "cases": 5696,
-    "casesMax": 1700,
-    "deaths": 72,
-    "deathsMax": 12,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "cases": 7772,
+    "casesMax": 2415,
+    "deaths": 100,
+    "deathsMax": 22,
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
-    {
-      "county": "Broward",
-      "state": "Florida",
-      "stateCode": "FL",
-      "fips": "12011",
-      "cases": 1137,
-      "deaths": 12
-    },
     {
       "county": "Palm Beach",
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12099",
-      "cases": 462,
-      "deaths": 10
+      "cases": 616,
+      "deaths": 22
+    },
+    {
+      "county": "Broward",
+      "state": "Florida",
+      "stateCode": "FL",
+      "fips": "12011",
+      "cases": 1348,
+      "deaths": 13
+    },
+    {
+      "county": "Miami-Dade",
+      "state": "Florida",
+      "stateCode": "FL",
+      "fips": "12086",
+      "cases": 2415,
+      "deaths": 11
     },
     {
       "county": "Lee",
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12071",
-      "cases": 170,
-      "deaths": 6
+      "cases": 235,
+      "deaths": 10
     },
     {
       "county": "Clay",
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12019",
-      "cases": 34,
+      "cases": 53,
       "deaths": 5
     },
     {
@@ -45,7 +53,7 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12103",
-      "cases": 129,
+      "cases": 233,
       "deaths": 5
     },
     {
@@ -53,47 +61,47 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12031",
-      "cases": 163,
+      "cases": 239,
       "deaths": 4
+    },
+    {
+      "county": "Manatee",
+      "state": "Florida",
+      "stateCode": "FL",
+      "fips": "12081",
+      "cases": 70,
+      "deaths": 3
+    },
+    {
+      "county": "Sarasota",
+      "state": "Florida",
+      "stateCode": "FL",
+      "fips": "12115",
+      "cases": 99,
+      "deaths": 3
+    },
+    {
+      "county": "Hillsborough",
+      "state": "Florida",
+      "stateCode": "FL",
+      "fips": "12057",
+      "cases": 362,
+      "deaths": 3
     },
     {
       "county": "Orange",
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12095",
-      "cases": 299,
-      "deaths": 4
-    },
-    {
-      "county": "Miami-Dade",
-      "state": "Florida",
-      "stateCode": "FL",
-      "fips": "12086",
-      "cases": 1700,
-      "deaths": 4
-    },
-    {
-      "county": "DeSoto",
-      "state": "Florida",
-      "stateCode": "FL",
-      "fips": "12027",
-      "cases": 7,
-      "deaths": 2
+      "cases": 458,
+      "deaths": 3
     },
     {
       "county": "Citrus",
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12017",
-      "cases": 17,
-      "deaths": 2
-    },
-    {
-      "county": "St. Lucie",
-      "state": "Florida",
-      "stateCode": "FL",
-      "fips": "12111",
-      "cases": 31,
+      "cases": 23,
       "deaths": 2
     },
     {
@@ -101,7 +109,15 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12113",
-      "cases": 36,
+      "cases": 46,
+      "deaths": 2
+    },
+    {
+      "county": "St. Lucie",
+      "state": "Florida",
+      "stateCode": "FL",
+      "fips": "12111",
+      "cases": 47,
       "deaths": 2
     },
     {
@@ -109,7 +125,7 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12101",
-      "cases": 38,
+      "cases": 51,
       "deaths": 2
     },
     {
@@ -117,31 +133,31 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12109",
-      "cases": 61,
+      "cases": 90,
       "deaths": 2
     },
     {
-      "county": "Sarasota",
+      "county": "Glades",
       "state": "Florida",
       "stateCode": "FL",
-      "fips": "12115",
-      "cases": 67,
-      "deaths": 2
+      "fips": "12043",
+      "cases": 3,
+      "deaths": 1
     },
     {
-      "county": "Hillsborough",
+      "county": "DeSoto",
       "state": "Florida",
       "stateCode": "FL",
-      "fips": "12057",
-      "cases": 272,
-      "deaths": 2
+      "fips": "12027",
+      "cases": 7,
+      "deaths": 1
     },
     {
       "county": "Highlands",
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12055",
-      "cases": 14,
+      "cases": 21,
       "deaths": 1
     },
     {
@@ -149,15 +165,15 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12091",
-      "cases": 35,
+      "cases": 44,
       "deaths": 1
     },
     {
-      "county": "Manatee",
+      "county": "Polk",
       "state": "Florida",
       "stateCode": "FL",
-      "fips": "12081",
-      "cases": 42,
+      "fips": "12105",
+      "cases": 91,
       "deaths": 1
     },
     {
@@ -165,7 +181,7 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12127",
-      "cases": 69,
+      "cases": 93,
       "deaths": 1
     },
     {
@@ -173,7 +189,7 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12097",
-      "cases": 94,
+      "cases": 140,
       "deaths": 1
     },
     {
@@ -181,16 +197,8 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12021",
-      "cases": 127,
+      "cases": 158,
       "deaths": 1
-    },
-    {
-      "county": "Unknown",
-      "state": "Florida",
-      "stateCode": "FL",
-      "fips": "",
-      "cases": 1,
-      "deaths": 0
     },
     {
       "county": "Gadsden",
@@ -209,14 +217,6 @@
       "deaths": 0
     },
     {
-      "county": "Wakulla",
-      "state": "Florida",
-      "stateCode": "FL",
-      "fips": "12129",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Holmes",
       "state": "Florida",
       "stateCode": "FL",
@@ -225,19 +225,43 @@
       "deaths": 0
     },
     {
-      "county": "Jackson",
+      "county": "Calhoun",
       "state": "Florida",
       "stateCode": "FL",
-      "fips": "12063",
-      "cases": 2,
+      "fips": "12013",
+      "cases": 1,
       "deaths": 0
     },
     {
-      "county": "Bradford",
+      "county": "Union",
       "state": "Florida",
       "stateCode": "FL",
-      "fips": "12007",
-      "cases": 2,
+      "fips": "12125",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Gulf",
+      "state": "Florida",
+      "stateCode": "FL",
+      "fips": "12045",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Hardee",
+      "state": "Florida",
+      "stateCode": "FL",
+      "fips": "12049",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Okeechobee",
+      "state": "Florida",
+      "stateCode": "FL",
+      "fips": "12093",
+      "cases": 1,
       "deaths": 0
     },
     {
@@ -249,6 +273,30 @@
       "deaths": 0
     },
     {
+      "county": "Wakulla",
+      "state": "Florida",
+      "stateCode": "FL",
+      "fips": "12129",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Madison",
+      "state": "Florida",
+      "stateCode": "FL",
+      "fips": "12079",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Bradford",
+      "state": "Florida",
+      "stateCode": "FL",
+      "fips": "12007",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "Columbia",
       "state": "Florida",
       "stateCode": "FL",
@@ -257,11 +305,19 @@
       "deaths": 0
     },
     {
-      "county": "Suwannee",
+      "county": "Unknown",
       "state": "Florida",
       "stateCode": "FL",
-      "fips": "12121",
+      "fips": "",
       "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Jackson",
+      "state": "Florida",
+      "stateCode": "FL",
+      "fips": "12063",
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -269,31 +325,15 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12051",
-      "cases": 3,
+      "cases": 4,
       "deaths": 0
     },
     {
-      "county": "Glades",
+      "county": "Suwannee",
       "state": "Florida",
       "stateCode": "FL",
-      "fips": "12043",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Bay",
-      "state": "Florida",
-      "stateCode": "FL",
-      "fips": "12005",
+      "fips": "12121",
       "cases": 6,
-      "deaths": 0
-    },
-    {
-      "county": "Nassau",
-      "state": "Florida",
-      "stateCode": "FL",
-      "fips": "12089",
-      "cases": 7,
       "deaths": 0
     },
     {
@@ -301,7 +341,23 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12003",
-      "cases": 8,
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Nassau",
+      "state": "Florida",
+      "stateCode": "FL",
+      "fips": "12089",
+      "cases": 11,
+      "deaths": 0
+    },
+    {
+      "county": "Bay",
+      "state": "Florida",
+      "stateCode": "FL",
+      "fips": "12005",
+      "cases": 13,
       "deaths": 0
     },
     {
@@ -313,19 +369,19 @@
       "deaths": 0
     },
     {
-      "county": "Flagler",
-      "state": "Florida",
-      "stateCode": "FL",
-      "fips": "12035",
-      "cases": 15,
-      "deaths": 0
-    },
-    {
       "county": "Walton",
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12131",
-      "cases": 16,
+      "cases": 18,
+      "deaths": 0
+    },
+    {
+      "county": "Flagler",
+      "state": "Florida",
+      "stateCode": "FL",
+      "fips": "12035",
+      "cases": 24,
       "deaths": 0
     },
     {
@@ -333,15 +389,7 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12015",
-      "cases": 20,
-      "deaths": 0
-    },
-    {
-      "county": "Leon",
-      "state": "Florida",
-      "stateCode": "FL",
-      "fips": "12073",
-      "cases": 21,
+      "cases": 26,
       "deaths": 0
     },
     {
@@ -349,23 +397,7 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12053",
-      "cases": 21,
-      "deaths": 0
-    },
-    {
-      "county": "Marion",
-      "state": "Florida",
-      "stateCode": "FL",
-      "fips": "12083",
-      "cases": 23,
-      "deaths": 0
-    },
-    {
-      "county": "Indian River",
-      "state": "Florida",
-      "stateCode": "FL",
-      "fips": "12061",
-      "cases": 25,
+      "cases": 28,
       "deaths": 0
     },
     {
@@ -373,7 +405,23 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12087",
-      "cases": 26,
+      "cases": 30,
+      "deaths": 0
+    },
+    {
+      "county": "Marion",
+      "state": "Florida",
+      "stateCode": "FL",
+      "fips": "12083",
+      "cases": 30,
+      "deaths": 0
+    },
+    {
+      "county": "Leon",
+      "state": "Florida",
+      "stateCode": "FL",
+      "fips": "12073",
+      "cases": 32,
       "deaths": 0
     },
     {
@@ -381,7 +429,15 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12085",
-      "cases": 27,
+      "cases": 33,
+      "deaths": 0
+    },
+    {
+      "county": "Indian River",
+      "state": "Florida",
+      "stateCode": "FL",
+      "fips": "12061",
+      "cases": 35,
       "deaths": 0
     },
     {
@@ -389,7 +445,7 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12009",
-      "cases": 32,
+      "cases": 47,
       "deaths": 0
     },
     {
@@ -397,7 +453,7 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12119",
-      "cases": 47,
+      "cases": 57,
       "deaths": 0
     },
     {
@@ -405,15 +461,7 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12069",
-      "cases": 50,
-      "deaths": 0
-    },
-    {
-      "county": "Polk",
-      "state": "Florida",
-      "stateCode": "FL",
-      "fips": "12105",
-      "cases": 63,
+      "cases": 71,
       "deaths": 0
     },
     {
@@ -421,7 +469,7 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12001",
-      "cases": 80,
+      "cases": 92,
       "deaths": 0
     },
     {
@@ -429,7 +477,7 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12033",
-      "cases": 81,
+      "cases": 96,
       "deaths": 0
     },
     {
@@ -437,7 +485,7 @@
       "state": "Florida",
       "stateCode": "FL",
       "fips": "12117",
-      "cases": 88,
+      "cases": 128,
       "deaths": 0
     }
   ]

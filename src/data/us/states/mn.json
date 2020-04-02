@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Minnesota",
-    "cases": 578,
-    "casesMax": 190,
+    "cases": 690,
+    "casesMax": 218,
     "deaths": 10,
     "deathsMax": 6,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27053",
-      "cases": 190,
+      "cases": 218,
       "deaths": 6
     },
     {
@@ -21,7 +21,7 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27091",
-      "cases": 23,
+      "cases": 29,
       "deaths": 2
     },
     {
@@ -29,7 +29,7 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27123",
-      "cases": 50,
+      "cases": 66,
       "deaths": 2
     },
     {
@@ -89,14 +89,6 @@
       "deaths": 0
     },
     {
-      "county": "Kandiyohi",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27067",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Sibley",
       "state": "Minnesota",
       "stateCode": "MN",
@@ -113,14 +105,6 @@
       "deaths": 0
     },
     {
-      "county": "Faribault",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27043",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Lincoln",
       "state": "Minnesota",
       "stateCode": "MN",
@@ -133,22 +117,6 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27087",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Lyon",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27083",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Cottonwood",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27033",
       "cases": 1,
       "deaths": 0
     },
@@ -185,11 +153,35 @@
       "deaths": 0
     },
     {
-      "county": "Watonwan",
+      "county": "Crow Wing",
       "state": "Minnesota",
       "stateCode": "MN",
-      "fips": "27165",
+      "fips": "27035",
       "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Yellow Medicine",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27173",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Kandiyohi",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27067",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Faribault",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27043",
+      "cases": 2,
       "deaths": 0
     },
     {
@@ -201,10 +193,58 @@
       "deaths": 0
     },
     {
+      "county": "Lyon",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27083",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
       "county": "Isanti",
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27059",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Watonwan",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27165",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Brown",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27015",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Carlton",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27017",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Traverse",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27155",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Freeborn",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27047",
       "cases": 2,
       "deaths": 0
     },
@@ -225,14 +265,6 @@
       "deaths": 0
     },
     {
-      "county": "Rice",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27131",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
       "county": "Chisago",
       "state": "Minnesota",
       "stateCode": "MN",
@@ -241,11 +273,27 @@
       "deaths": 0
     },
     {
+      "county": "Cottonwood",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27033",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Rice",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27131",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
       "county": "Goodhue",
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27049",
-      "cases": 3,
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -253,14 +301,6 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27007",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Clay",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27027",
       "cases": 4,
       "deaths": 0
     },
@@ -269,14 +309,6 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27145",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Winona",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27169",
       "cases": 5,
       "deaths": 0
     },
@@ -305,11 +337,19 @@
       "deaths": 0
     },
     {
+      "county": "Clay",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27027",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
       "county": "Fillmore",
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27045",
-      "cases": 7,
+      "cases": 8,
       "deaths": 0
     },
     {
@@ -317,14 +357,6 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27141",
-      "cases": 7,
-      "deaths": 0
-    },
-    {
-      "county": "Dodge",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27039",
       "cases": 8,
       "deaths": 0
     },
@@ -353,11 +385,19 @@
       "deaths": 0
     },
     {
-      "county": "Mower",
+      "county": "Dodge",
       "state": "Minnesota",
       "stateCode": "MN",
-      "fips": "27099",
-      "cases": 12,
+      "fips": "27039",
+      "cases": 10,
+      "deaths": 0
+    },
+    {
+      "county": "Winona",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27169",
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -365,7 +405,15 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27137",
-      "cases": 12,
+      "cases": 13,
+      "deaths": 0
+    },
+    {
+      "county": "Mower",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27099",
+      "cases": 14,
       "deaths": 0
     },
     {
@@ -373,7 +421,7 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27079",
-      "cases": 13,
+      "cases": 15,
       "deaths": 0
     },
     {
@@ -381,7 +429,7 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27003",
-      "cases": 22,
+      "cases": 26,
       "deaths": 0
     },
     {
@@ -389,7 +437,7 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27163",
-      "cases": 34,
+      "cases": 44,
       "deaths": 0
     },
     {
@@ -397,7 +445,7 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27037",
-      "cases": 46,
+      "cases": 48,
       "deaths": 0
     },
     {
@@ -405,7 +453,7 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27109",
-      "cases": 51,
+      "cases": 61,
       "deaths": 0
     }
   ]

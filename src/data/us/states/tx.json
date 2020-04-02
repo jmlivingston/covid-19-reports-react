@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Texas",
-    "cases": 3046,
-    "casesMax": 563,
-    "deaths": 47,
-    "deathsMax": 11,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "cases": 4262,
+    "casesMax": 847,
+    "deaths": 64,
+    "deathsMax": 13,
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
     {
@@ -13,31 +13,47 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48113",
-      "cases": 549,
-      "deaths": 11
-    },
-    {
-      "county": "Harris",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48201",
-      "cases": 563,
-      "deaths": 7
+      "cases": 631,
+      "deaths": 13
     },
     {
       "county": "Bexar",
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48029",
-      "cases": 157,
-      "deaths": 5
+      "cases": 207,
+      "deaths": 9
+    },
+    {
+      "county": "Harris",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48201",
+      "cases": 847,
+      "deaths": 6
     },
     {
       "county": "Denton",
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48121",
-      "cases": 191,
+      "cases": 206,
+      "deaths": 4
+    },
+    {
+      "county": "Brazos",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48041",
+      "cases": 63,
+      "deaths": 3
+    },
+    {
+      "county": "Tarrant",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48439",
+      "cases": 288,
       "deaths": 3
     },
     {
@@ -45,15 +61,47 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48091",
-      "cases": 9,
+      "cases": 12,
       "deaths": 2
     },
     {
-      "county": "Brazos",
+      "county": "Matagorda",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48041",
-      "cases": 44,
+      "fips": "48321",
+      "cases": 29,
+      "deaths": 2
+    },
+    {
+      "county": "Webb",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48479",
+      "cases": 45,
+      "deaths": 2
+    },
+    {
+      "county": "Lubbock",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48303",
+      "cases": 100,
+      "deaths": 2
+    },
+    {
+      "county": "Montgomery",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48339",
+      "cases": 110,
+      "deaths": 2
+    },
+    {
+      "county": "Fort Bend",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48157",
+      "cases": 163,
       "deaths": 2
     },
     {
@@ -61,7 +109,7 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48453",
-      "cases": 206,
+      "cases": 244,
       "deaths": 2
     },
     {
@@ -85,7 +133,7 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48251",
-      "cases": 8,
+      "cases": 12,
       "deaths": 1
     },
     {
@@ -93,14 +141,6 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48199",
-      "cases": 9,
-      "deaths": 1
-    },
-    {
-      "county": "Matagorda",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48321",
       "cases": 13,
       "deaths": 1
     },
@@ -109,7 +149,7 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48329",
-      "cases": 13,
+      "cases": 16,
       "deaths": 1
     },
     {
@@ -117,15 +157,7 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48139",
-      "cases": 16,
-      "deaths": 1
-    },
-    {
-      "county": "Bell",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48027",
-      "cases": 28,
+      "cases": 20,
       "deaths": 1
     },
     {
@@ -133,15 +165,23 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48423",
-      "cases": 32,
+      "cases": 43,
       "deaths": 1
     },
     {
-      "county": "Webb",
+      "county": "Bell",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48479",
-      "cases": 32,
+      "fips": "48027",
+      "cases": 44,
+      "deaths": 1
+    },
+    {
+      "county": "McLennan",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48309",
+      "cases": 48,
       "deaths": 1
     },
     {
@@ -149,23 +189,15 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48491",
-      "cases": 37,
+      "cases": 55,
       "deaths": 1
     },
     {
-      "county": "Lubbock",
+      "county": "Brazoria",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48303",
-      "cases": 51,
-      "deaths": 1
-    },
-    {
-      "county": "Fort Bend",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48157",
-      "cases": 119,
+      "fips": "48039",
+      "cases": 95,
       "deaths": 1
     },
     {
@@ -173,15 +205,7 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48085",
-      "cases": 134,
-      "deaths": 1
-    },
-    {
-      "county": "Tarrant",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48439",
-      "cases": 139,
+      "cases": 184,
       "deaths": 1
     },
     {
@@ -189,14 +213,6 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48285",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Crane",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48103",
       "cases": 1,
       "deaths": 0
     },
@@ -241,14 +257,6 @@
       "deaths": 0
     },
     {
-      "county": "Erath",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48143",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Gaines",
       "state": "Texas",
       "stateCode": "TX",
@@ -269,14 +277,6 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48323",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "San Patricio",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48409",
       "cases": 1,
       "deaths": 0
     },
@@ -305,14 +305,6 @@
       "deaths": 0
     },
     {
-      "county": "Harrison",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48203",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Montague",
       "state": "Texas",
       "stateCode": "TX",
@@ -325,14 +317,6 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48501",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Young",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48503",
       "cases": 1,
       "deaths": 0
     },
@@ -369,14 +353,6 @@
       "deaths": 0
     },
     {
-      "county": "Dawson",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48115",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Franklin",
       "state": "Texas",
       "stateCode": "TX",
@@ -397,14 +373,6 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48273",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Polk",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48373",
       "cases": 1,
       "deaths": 0
     },
@@ -433,26 +401,10 @@
       "deaths": 0
     },
     {
-      "county": "Hill",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48217",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Jim Wells",
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48249",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Leon",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48289",
       "cases": 1,
       "deaths": 0
     },
@@ -465,18 +417,98 @@
       "deaths": 0
     },
     {
-      "county": "Wise",
+      "county": "Anderson",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48497",
+      "fips": "48001",
       "cases": 1,
       "deaths": 0
     },
     {
-      "county": "Cass",
+      "county": "Camp",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48067",
+      "fips": "48063",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Clay",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48077",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Comanche",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48093",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Gonzales",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48177",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Gray",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48179",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Kerr",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48265",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Live Oak",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48297",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Newton",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48351",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "San Augustine",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48405",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Wood",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48499",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Crane",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48103",
       "cases": 2,
       "deaths": 0
     },
@@ -513,42 +545,10 @@
       "deaths": 0
     },
     {
-      "county": "Burnet",
+      "county": "Erath",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48053",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Fayette",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48149",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Grimes",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48185",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Hopkins",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48223",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Liberty",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48291",
+      "fips": "48143",
       "cases": 2,
       "deaths": 0
     },
@@ -577,10 +577,10 @@
       "deaths": 0
     },
     {
-      "county": "Wilson",
+      "county": "San Patricio",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48493",
+      "fips": "48409",
       "cases": 2,
       "deaths": 0
     },
@@ -593,42 +593,10 @@
       "deaths": 0
     },
     {
-      "county": "Nacogdoches",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48347",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Cherokee",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48073",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Shelby",
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48419",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Starr",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48427",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Uvalde",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48463",
       "cases": 2,
       "deaths": 0
     },
@@ -657,26 +625,34 @@
       "deaths": 0
     },
     {
+      "county": "Hill",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48217",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Leon",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48289",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Colorado",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48089",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
       "county": "Medina",
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48325",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Rusk",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48401",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "DeWitt",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48123",
       "cases": 3,
       "deaths": 0
     },
@@ -689,6 +665,22 @@
       "deaths": 0
     },
     {
+      "county": "Cass",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48067",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Burnet",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48053",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "Eastland",
       "state": "Texas",
       "stateCode": "TX",
@@ -697,18 +689,18 @@
       "deaths": 0
     },
     {
-      "county": "Hunt",
+      "county": "Grimes",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48231",
+      "fips": "48185",
       "cases": 3,
       "deaths": 0
     },
     {
-      "county": "Kaufman",
+      "county": "Hopkins",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48257",
+      "fips": "48223",
       "cases": 3,
       "deaths": 0
     },
@@ -721,6 +713,14 @@
       "deaths": 0
     },
     {
+      "county": "Liberty",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48291",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "Llano",
       "state": "Texas",
       "stateCode": "TX",
@@ -729,58 +729,26 @@
       "deaths": 0
     },
     {
-      "county": "Terry",
+      "county": "Harrison",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48445",
+      "fips": "48203",
       "cases": 3,
       "deaths": 0
     },
     {
-      "county": "Walker",
+      "county": "Young",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48471",
+      "fips": "48503",
       "cases": 3,
       "deaths": 0
     },
     {
-      "county": "Angelina",
+      "county": "Dawson",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48005",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Calhoun",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48057",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Hood",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48221",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Navarro",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48349",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Ector",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48135",
+      "fips": "48115",
       "cases": 3,
       "deaths": 0
     },
@@ -793,10 +761,18 @@
       "deaths": 0
     },
     {
-      "county": "Bowie",
+      "county": "Wise",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48037",
+      "fips": "48497",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "DeWitt",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48123",
       "cases": 4,
       "deaths": 0
     },
@@ -809,50 +785,114 @@
       "deaths": 0
     },
     {
-      "county": "Rockwall",
+      "county": "Fayette",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48397",
+      "fips": "48149",
       "cases": 4,
       "deaths": 0
     },
     {
-      "county": "Gregg",
+      "county": "Hunt",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48183",
+      "fips": "48231",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Kaufman",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48257",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Terry",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48445",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Nacogdoches",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48347",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Cherokee",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48073",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Navarro",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48349",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Starr",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48427",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Uvalde",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48463",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Polk",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48373",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Rusk",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48401",
       "cases": 5,
       "deaths": 0
     },
     {
-      "county": "Potter",
+      "county": "Walker",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48375",
+      "fips": "48471",
       "cases": 5,
       "deaths": 0
     },
     {
-      "county": "Chambers",
+      "county": "Wilson",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48071",
+      "fips": "48493",
       "cases": 5,
       "deaths": 0
     },
     {
-      "county": "Orange",
+      "county": "Angelina",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48361",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Tom Green",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48451",
+      "fips": "48005",
       "cases": 5,
       "deaths": 0
     },
@@ -865,42 +905,18 @@
       "deaths": 0
     },
     {
-      "county": "Bastrop",
+      "county": "Gregg",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48021",
+      "fips": "48183",
       "cases": 6,
       "deaths": 0
     },
     {
-      "county": "Grayson",
+      "county": "Hood",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48181",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
-      "county": "Victoria",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48469",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
-      "county": "Wharton",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48481",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
-      "county": "Randall",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48381",
+      "fips": "48221",
       "cases": 6,
       "deaths": 0
     },
@@ -921,11 +937,35 @@
       "deaths": 0
     },
     {
-      "county": "Taylor",
+      "county": "Orange",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48441",
+      "fips": "48361",
       "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Wharton",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48481",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Calhoun",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48057",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Bastrop",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48021",
+      "cases": 8,
       "deaths": 0
     },
     {
@@ -937,11 +977,75 @@
       "deaths": 0
     },
     {
-      "county": "Washington",
+      "county": "Grayson",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48477",
+      "fips": "48181",
       "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Bowie",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48037",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Chambers",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48071",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Tom Green",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48451",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Rockwall",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48397",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Ector",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48135",
+      "cases": 11,
+      "deaths": 0
+    },
+    {
+      "county": "Taylor",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48441",
+      "cases": 14,
+      "deaths": 0
+    },
+    {
+      "county": "Potter",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48375",
+      "cases": 16,
+      "deaths": 0
+    },
+    {
+      "county": "Victoria",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48469",
+      "cases": 16,
       "deaths": 0
     },
     {
@@ -949,23 +1053,23 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48187",
-      "cases": 13,
+      "cases": 17,
       "deaths": 0
     },
     {
-      "county": "Hays",
+      "county": "Randall",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48209",
-      "cases": 16,
+      "fips": "48381",
+      "cases": 17,
       "deaths": 0
     },
     {
-      "county": "Jefferson",
+      "county": "Washington",
       "state": "Texas",
       "stateCode": "TX",
-      "fips": "48245",
-      "cases": 18,
+      "fips": "48477",
+      "cases": 17,
       "deaths": 0
     },
     {
@@ -973,7 +1077,15 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48061",
-      "cases": 20,
+      "cases": 26,
+      "deaths": 0
+    },
+    {
+      "county": "Jefferson",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48245",
+      "cases": 27,
       "deaths": 0
     },
     {
@@ -981,7 +1093,15 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48355",
-      "cases": 22,
+      "cases": 34,
+      "deaths": 0
+    },
+    {
+      "county": "Hays",
+      "state": "Texas",
+      "stateCode": "TX",
+      "fips": "48209",
+      "cases": 38,
       "deaths": 0
     },
     {
@@ -989,7 +1109,7 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48485",
-      "cases": 28,
+      "cases": 38,
       "deaths": 0
     },
     {
@@ -997,15 +1117,7 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48215",
-      "cases": 28,
-      "deaths": 0
-    },
-    {
-      "county": "McLennan",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48309",
-      "cases": 39,
+      "cases": 46,
       "deaths": 0
     },
     {
@@ -1013,23 +1125,7 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48141",
-      "cases": 47,
-      "deaths": 0
-    },
-    {
-      "county": "Brazoria",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48039",
-      "cases": 61,
-      "deaths": 0
-    },
-    {
-      "county": "Montgomery",
-      "state": "Texas",
-      "stateCode": "TX",
-      "fips": "48339",
-      "cases": 66,
+      "cases": 50,
       "deaths": 0
     },
     {
@@ -1037,7 +1133,7 @@
       "state": "Texas",
       "stateCode": "TX",
       "fips": "48167",
-      "cases": 92,
+      "cases": 118,
       "deaths": 0
     }
   ]

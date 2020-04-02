@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "South Dakota",
-    "cases": 102,
-    "casesMax": 28,
+    "cases": 132,
+    "casesMax": 40,
     "deaths": 1,
     "deathsMax": 1,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
     {
@@ -33,26 +33,10 @@
       "deaths": 0
     },
     {
-      "county": "Hughes",
-      "state": "South Dakota",
-      "stateCode": "SD",
-      "fips": "46065",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Lyman",
       "state": "South Dakota",
       "stateCode": "SD",
       "fips": "46085",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Brookings",
-      "state": "South Dakota",
-      "stateCode": "SD",
-      "fips": "46011",
       "cases": 1,
       "deaths": 0
     },
@@ -129,14 +113,6 @@
       "deaths": 0
     },
     {
-      "county": "Roberts",
-      "state": "South Dakota",
-      "stateCode": "SD",
-      "fips": "46109",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Turner",
       "state": "South Dakota",
       "stateCode": "SD",
@@ -169,10 +145,34 @@
       "deaths": 0
     },
     {
+      "county": "Kingsbury",
+      "state": "South Dakota",
+      "stateCode": "SD",
+      "fips": "46077",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
       "county": "McCook",
       "state": "South Dakota",
       "stateCode": "SD",
       "fips": "46087",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Hughes",
+      "state": "South Dakota",
+      "stateCode": "SD",
+      "fips": "46065",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Brookings",
+      "state": "South Dakota",
+      "stateCode": "SD",
+      "fips": "46011",
       "cases": 2,
       "deaths": 0
     },
@@ -185,11 +185,11 @@
       "deaths": 0
     },
     {
-      "county": "Brown",
+      "county": "Roberts",
       "state": "South Dakota",
       "stateCode": "SD",
-      "fips": "46013",
-      "cases": 3,
+      "fips": "46109",
+      "cases": 2,
       "deaths": 0
     },
     {
@@ -201,18 +201,10 @@
       "deaths": 0
     },
     {
-      "county": "Lincoln",
+      "county": "Brown",
       "state": "South Dakota",
       "stateCode": "SD",
-      "fips": "46083",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "Yankton",
-      "state": "South Dakota",
-      "stateCode": "SD",
-      "fips": "46135",
+      "fips": "46013",
       "cases": 4,
       "deaths": 0
     },
@@ -237,7 +229,23 @@
       "state": "South Dakota",
       "stateCode": "SD",
       "fips": "46081",
-      "cases": 5,
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Yankton",
+      "state": "South Dakota",
+      "stateCode": "SD",
+      "fips": "46135",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Lincoln",
+      "state": "South Dakota",
+      "stateCode": "SD",
+      "fips": "46083",
+      "cases": 11,
       "deaths": 0
     },
     {
@@ -245,7 +253,7 @@
       "state": "South Dakota",
       "stateCode": "SD",
       "fips": "46005",
-      "cases": 20,
+      "cases": 21,
       "deaths": 0
     },
     {
@@ -253,7 +261,7 @@
       "state": "South Dakota",
       "stateCode": "SD",
       "fips": "46099",
-      "cases": 28,
+      "cases": 40,
       "deaths": 0
     }
   ]

@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Indiana",
-    "cases": 1788,
-    "casesMax": 804,
-    "deaths": 35,
-    "deathsMax": 12,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "cases": 2566,
+    "casesMax": 1117,
+    "deaths": 66,
+    "deathsMax": 21,
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
     {
@@ -13,15 +13,31 @@
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18097",
-      "cases": 804,
-      "deaths": 12
+      "cases": 1117,
+      "deaths": 21
+    },
+    {
+      "county": "Lake",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18089",
+      "cases": 180,
+      "deaths": 6
     },
     {
       "county": "Franklin",
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18047",
-      "cases": 28,
+      "cases": 39,
+      "deaths": 5
+    },
+    {
+      "county": "Hamilton",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18057",
+      "cases": 179,
       "deaths": 4
     },
     {
@@ -29,8 +45,56 @@
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18081",
-      "cases": 81,
+      "cases": 118,
       "deaths": 3
+    },
+    {
+      "county": "Vigo",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18167",
+      "cases": 9,
+      "deaths": 2
+    },
+    {
+      "county": "Fayette",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18041",
+      "cases": 10,
+      "deaths": 2
+    },
+    {
+      "county": "Elkhart",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18039",
+      "cases": 23,
+      "deaths": 2
+    },
+    {
+      "county": "Hancock",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18059",
+      "cases": 33,
+      "deaths": 2
+    },
+    {
+      "county": "Allen",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18003",
+      "cases": 39,
+      "deaths": 2
+    },
+    {
+      "county": "Madison",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18095",
+      "cases": 46,
+      "deaths": 2
     },
     {
       "county": "Scott",
@@ -41,19 +105,19 @@
       "deaths": 1
     },
     {
+      "county": "Warren",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18171",
+      "cases": 2,
+      "deaths": 1
+    },
+    {
       "county": "Jasper",
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18073",
-      "cases": 6,
-      "deaths": 1
-    },
-    {
-      "county": "Vigo",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18167",
-      "cases": 7,
+      "cases": 9,
       "deaths": 1
     },
     {
@@ -61,15 +125,15 @@
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18133",
-      "cases": 7,
+      "cases": 11,
       "deaths": 1
     },
     {
-      "county": "Fayette",
+      "county": "Lawrence",
       "state": "Indiana",
       "stateCode": "IN",
-      "fips": "18041",
-      "cases": 8,
+      "fips": "18093",
+      "cases": 11,
       "deaths": 1
     },
     {
@@ -77,15 +141,7 @@
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18029",
-      "cases": 10,
-      "deaths": 1
-    },
-    {
-      "county": "Howard",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18067",
-      "cases": 14,
+      "cases": 17,
       "deaths": 1
     },
     {
@@ -93,7 +149,15 @@
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18157",
-      "cases": 14,
+      "cases": 18,
+      "deaths": 1
+    },
+    {
+      "county": "Howard",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18067",
+      "cases": 20,
       "deaths": 1
     },
     {
@@ -101,7 +165,23 @@
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18035",
-      "cases": 15,
+      "cases": 22,
+      "deaths": 1
+    },
+    {
+      "county": "Ripley",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18137",
+      "cases": 33,
+      "deaths": 1
+    },
+    {
+      "county": "Clark",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18019",
+      "cases": 38,
       "deaths": 1
     },
     {
@@ -109,31 +189,15 @@
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18109",
-      "cases": 23,
+      "cases": 41,
       "deaths": 1
     },
     {
-      "county": "Hancock",
+      "county": "Decatur",
       "state": "Indiana",
       "stateCode": "IN",
-      "fips": "18059",
-      "cases": 28,
-      "deaths": 1
-    },
-    {
-      "county": "Madison",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18095",
-      "cases": 29,
-      "deaths": 1
-    },
-    {
-      "county": "Allen",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18003",
-      "cases": 30,
+      "fips": "18031",
+      "cases": 48,
       "deaths": 1
     },
     {
@@ -141,7 +205,7 @@
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18141",
-      "cases": 36,
+      "cases": 57,
       "deaths": 1
     },
     {
@@ -149,15 +213,7 @@
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18063",
-      "cases": 58,
-      "deaths": 1
-    },
-    {
-      "county": "Lake",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18089",
-      "cases": 97,
+      "cases": 91,
       "deaths": 1
     },
     {
@@ -165,22 +221,6 @@
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18001",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Wells",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18179",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Wayne",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18177",
       "cases": 1,
       "deaths": 0
     },
@@ -197,22 +237,6 @@
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18149",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Sullivan",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18153",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "DeKalb",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18033",
       "cases": 1,
       "deaths": 0
     },
@@ -237,22 +261,6 @@
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18049",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Randolph",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18135",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Whitley",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18183",
       "cases": 1,
       "deaths": 0
     },
@@ -297,50 +305,50 @@
       "deaths": 0
     },
     {
-      "county": "Greene",
+      "county": "Cass",
       "state": "Indiana",
       "stateCode": "IN",
-      "fips": "18055",
+      "fips": "18017",
       "cases": 1,
       "deaths": 0
     },
     {
-      "county": "Steuben",
+      "county": "Jefferson",
       "state": "Indiana",
       "stateCode": "IN",
-      "fips": "18151",
+      "fips": "18077",
       "cases": 1,
       "deaths": 0
     },
     {
-      "county": "Noble",
+      "county": "Benton",
       "state": "Indiana",
       "stateCode": "IN",
-      "fips": "18113",
+      "fips": "18007",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Jay",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18075",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Wells",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18179",
       "cases": 2,
       "deaths": 0
     },
     {
-      "county": "Dubois",
+      "county": "DeKalb",
       "state": "Indiana",
       "stateCode": "IN",
-      "fips": "18037",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Orange",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18117",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Warren",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18171",
+      "fips": "18033",
       "cases": 2,
       "deaths": 0
     },
@@ -349,14 +357,6 @@
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18015",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Henry",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18065",
       "cases": 2,
       "deaths": 0
     },
@@ -385,11 +385,35 @@
       "deaths": 0
     },
     {
-      "county": "Knox",
+      "county": "Steuben",
       "state": "Indiana",
       "stateCode": "IN",
-      "fips": "18083",
+      "fips": "18151",
       "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Unknown",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Noble",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18113",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Wayne",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18177",
+      "cases": 3,
       "deaths": 0
     },
     {
@@ -397,6 +421,14 @@
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18103",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Dubois",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18037",
       "cases": 3,
       "deaths": 0
     },
@@ -409,6 +441,14 @@
       "deaths": 0
     },
     {
+      "county": "Sullivan",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18153",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "Marshall",
       "state": "Indiana",
       "stateCode": "IN",
@@ -417,10 +457,26 @@
       "deaths": 0
     },
     {
-      "county": "Posey",
+      "county": "Orange",
       "state": "Indiana",
       "stateCode": "IN",
-      "fips": "18129",
+      "fips": "18117",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Randolph",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18135",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Whitley",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18183",
       "cases": 3,
       "deaths": 0
     },
@@ -433,11 +489,19 @@
       "deaths": 0
     },
     {
-      "county": "Tipton",
+      "county": "Greene",
       "state": "Indiana",
       "stateCode": "IN",
-      "fips": "18159",
-      "cases": 4,
+      "fips": "18055",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Knox",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18083",
+      "cases": 3,
       "deaths": 0
     },
     {
@@ -449,11 +513,35 @@
       "deaths": 0
     },
     {
+      "county": "Posey",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18129",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Henry",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18065",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Tipton",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18159",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
       "county": "Rush",
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18139",
-      "cases": 4,
+      "cases": 5,
       "deaths": 0
     },
     {
@@ -461,23 +549,7 @@
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18085",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "LaPorte",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18091",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
-      "county": "Washington",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18175",
-      "cases": 6,
+      "cases": 5,
       "deaths": 0
     },
     {
@@ -489,22 +561,6 @@
       "deaths": 0
     },
     {
-      "county": "Grant",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18053",
-      "cases": 7,
-      "deaths": 0
-    },
-    {
-      "county": "Jackson",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18071",
-      "cases": 8,
-      "deaths": 0
-    },
-    {
       "county": "Warrick",
       "state": "Indiana",
       "stateCode": "IN",
@@ -513,19 +569,35 @@
       "deaths": 0
     },
     {
-      "county": "Lawrence",
+      "county": "Grant",
       "state": "Indiana",
       "stateCode": "IN",
-      "fips": "18093",
+      "fips": "18053",
       "cases": 9,
       "deaths": 0
     },
     {
-      "county": "Bartholomew",
+      "county": "Washington",
       "state": "Indiana",
       "stateCode": "IN",
-      "fips": "18005",
+      "fips": "18175",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Jackson",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18071",
       "cases": 10,
+      "deaths": 0
+    },
+    {
+      "county": "LaPorte",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18091",
+      "cases": 11,
       "deaths": 0
     },
     {
@@ -533,31 +605,15 @@
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18119",
-      "cases": 10,
-      "deaths": 0
-    },
-    {
-      "county": "Elkhart",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18039",
       "cases": 12,
       "deaths": 0
     },
     {
-      "county": "Shelby",
+      "county": "Bartholomew",
       "state": "Indiana",
       "stateCode": "IN",
-      "fips": "18145",
+      "fips": "18005",
       "cases": 13,
-      "deaths": 0
-    },
-    {
-      "county": "Jennings",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18079",
-      "cases": 14,
       "deaths": 0
     },
     {
@@ -569,11 +625,11 @@
       "deaths": 0
     },
     {
-      "county": "Porter",
+      "county": "Jennings",
       "state": "Indiana",
       "stateCode": "IN",
-      "fips": "18127",
-      "cases": 15,
+      "fips": "18079",
+      "cases": 17,
       "deaths": 0
     },
     {
@@ -581,15 +637,15 @@
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18163",
-      "cases": 17,
+      "cases": 18,
       "deaths": 0
     },
     {
-      "county": "Boone",
+      "county": "Shelby",
       "state": "Indiana",
       "stateCode": "IN",
-      "fips": "18011",
-      "cases": 20,
+      "fips": "18145",
+      "cases": 19,
       "deaths": 0
     },
     {
@@ -597,15 +653,23 @@
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18043",
-      "cases": 20,
+      "cases": 21,
       "deaths": 0
     },
     {
-      "county": "Ripley",
+      "county": "Porter",
       "state": "Indiana",
       "stateCode": "IN",
-      "fips": "18137",
-      "cases": 25,
+      "fips": "18127",
+      "cases": 27,
+      "deaths": 0
+    },
+    {
+      "county": "Boone",
+      "state": "Indiana",
+      "stateCode": "IN",
+      "fips": "18011",
+      "cases": 29,
       "deaths": 0
     },
     {
@@ -613,31 +677,7 @@
       "state": "Indiana",
       "stateCode": "IN",
       "fips": "18105",
-      "cases": 26,
-      "deaths": 0
-    },
-    {
-      "county": "Clark",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18019",
-      "cases": 27,
-      "deaths": 0
-    },
-    {
-      "county": "Decatur",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18031",
-      "cases": 42,
-      "deaths": 0
-    },
-    {
-      "county": "Hamilton",
-      "state": "Indiana",
-      "stateCode": "IN",
-      "fips": "18057",
-      "cases": 106,
+      "cases": 33,
       "deaths": 0
     }
   ]

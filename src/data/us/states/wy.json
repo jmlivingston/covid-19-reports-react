@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Wyoming",
-    "cases": 96,
-    "casesMax": 24,
+    "cases": 138,
+    "casesMax": 35,
     "deaths": 0,
     "deathsMax": 0,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
     {
@@ -13,22 +13,6 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56029",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Campbell",
-      "state": "Wyoming",
-      "stateCode": "WY",
-      "fips": "56005",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Albany",
-      "state": "Wyoming",
-      "stateCode": "WY",
-      "fips": "56001",
       "cases": 1,
       "deaths": 0
     },
@@ -57,14 +41,6 @@
       "deaths": 0
     },
     {
-      "county": "Converse",
-      "state": "Wyoming",
-      "stateCode": "WY",
-      "fips": "56009",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Sublette",
       "state": "Wyoming",
       "stateCode": "WY",
@@ -73,10 +49,10 @@
       "deaths": 0
     },
     {
-      "county": "Sweetwater",
+      "county": "Converse",
       "state": "Wyoming",
       "stateCode": "WY",
-      "fips": "56037",
+      "fips": "56009",
       "cases": 2,
       "deaths": 0
     },
@@ -89,11 +65,35 @@
       "deaths": 0
     },
     {
+      "county": "Sweetwater",
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "fips": "56037",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Albany",
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "fips": "56001",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Campbell",
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "fips": "56005",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
       "county": "Johnson",
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56019",
-      "cases": 5,
+      "cases": 7,
       "deaths": 0
     },
     {
@@ -101,7 +101,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56033",
-      "cases": 8,
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -109,23 +109,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56025",
-      "cases": 9,
-      "deaths": 0
-    },
-    {
-      "county": "Teton",
-      "state": "Wyoming",
-      "stateCode": "WY",
-      "fips": "56039",
-      "cases": 17,
-      "deaths": 0
-    },
-    {
-      "county": "Laramie",
-      "state": "Wyoming",
-      "stateCode": "WY",
-      "fips": "56021",
-      "cases": 20,
+      "cases": 14,
       "deaths": 0
     },
     {
@@ -133,7 +117,23 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56013",
-      "cases": 24,
+      "cases": 25,
+      "deaths": 0
+    },
+    {
+      "county": "Teton",
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "fips": "56039",
+      "cases": 26,
+      "deaths": 0
+    },
+    {
+      "county": "Laramie",
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "fips": "56021",
+      "cases": 35,
       "deaths": 0
     }
   ]

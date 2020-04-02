@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Alaska",
-    "cases": 120,
-    "casesMax": 61,
+    "cases": 143,
+    "casesMax": 67,
     "deaths": 2,
     "deathsMax": 2,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "Alaska",
       "stateCode": "AK",
       "fips": "02020",
-      "cases": 61,
+      "cases": 67,
       "deaths": 2
     },
     {
@@ -21,15 +21,7 @@
       "state": "Alaska",
       "stateCode": "AK",
       "fips": "02170",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Juneau City and Borough",
-      "state": "Alaska",
-      "stateCode": "AK",
-      "fips": "02110",
-      "cases": 5,
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -37,7 +29,15 @@
       "state": "Alaska",
       "stateCode": "AK",
       "fips": "02122",
-      "cases": 7,
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Juneau City and Borough",
+      "state": "Alaska",
+      "stateCode": "AK",
+      "fips": "02110",
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -45,7 +45,7 @@
       "state": "Alaska",
       "stateCode": "AK",
       "fips": "02130",
-      "cases": 13,
+      "cases": 14,
       "deaths": 0
     },
     {
@@ -53,7 +53,7 @@
       "state": "Alaska",
       "stateCode": "AK",
       "fips": "02090",
-      "cases": 31,
+      "cases": 40,
       "deaths": 0
     }
   ]

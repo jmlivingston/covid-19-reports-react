@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Arizona",
-    "cases": 1169,
-    "casesMax": 690,
-    "deaths": 14,
-    "deathsMax": 6,
-    "lastUpdated": "Tue, 31 Mar 2020 19:31:37 GMT"
+    "cases": 1413,
+    "casesMax": 871,
+    "deaths": 21,
+    "deathsMax": 10,
+    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
   },
   "data": [
     {
@@ -13,23 +13,23 @@
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04019",
-      "cases": 187,
-      "deaths": 6
+      "cases": 217,
+      "deaths": 10
     },
     {
       "county": "Maricopa",
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04013",
-      "cases": 690,
-      "deaths": 5
+      "cases": 871,
+      "deaths": 8
     },
     {
       "county": "Coconino",
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04005",
-      "cases": 73,
+      "cases": 85,
       "deaths": 3
     },
     {
@@ -57,19 +57,19 @@
       "deaths": 0
     },
     {
-      "county": "Santa Cruz",
-      "state": "Arizona",
-      "stateCode": "AZ",
-      "fips": "04023",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "La Paz",
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04012",
       "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Santa Cruz",
+      "state": "Arizona",
+      "stateCode": "AZ",
+      "fips": "04023",
+      "cases": 3,
       "deaths": 0
     },
     {
@@ -109,7 +109,7 @@
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04025",
-      "cases": 19,
+      "cases": 24,
       "deaths": 0
     },
     {
@@ -117,7 +117,7 @@
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04021",
-      "cases": 64,
+      "cases": 65,
       "deaths": 0
     },
     {
@@ -125,7 +125,7 @@
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04017",
-      "cases": 88,
+      "cases": 102,
       "deaths": 0
     }
   ]
