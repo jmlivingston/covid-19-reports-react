@@ -1,44 +1,52 @@
 {
   "summary": {
     "name": "Arizona",
-    "cases": 1413,
-    "casesMax": 871,
-    "deaths": 21,
-    "deathsMax": 10,
-    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
+    "cases": 2019,
+    "casesMax": 1171,
+    "deaths": 53,
+    "deathsMax": 28,
+    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
   },
   "data": [
-    {
-      "county": "Pima",
-      "state": "Arizona",
-      "stateCode": "AZ",
-      "fips": "04019",
-      "cases": 217,
-      "deaths": 10
-    },
     {
       "county": "Maricopa",
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04013",
-      "cases": 871,
-      "deaths": 8
+      "cases": 1171,
+      "deaths": 28
+    },
+    {
+      "county": "Pima",
+      "state": "Arizona",
+      "stateCode": "AZ",
+      "fips": "04019",
+      "cases": 326,
+      "deaths": 12
     },
     {
       "county": "Coconino",
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04005",
-      "cases": 85,
-      "deaths": 3
+      "cases": 147,
+      "deaths": 10
     },
     {
-      "county": "Gila",
+      "county": "Unknown",
       "state": "Arizona",
       "stateCode": "AZ",
-      "fips": "04007",
-      "cases": 1,
-      "deaths": 0
+      "fips": "",
+      "cases": 0,
+      "deaths": 2
+    },
+    {
+      "county": "Navajo",
+      "state": "Arizona",
+      "stateCode": "AZ",
+      "fips": "04017",
+      "cases": 177,
+      "deaths": 1
     },
     {
       "county": "Greenlee",
@@ -46,14 +54,6 @@
       "stateCode": "AZ",
       "fips": "04011",
       "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Graham",
-      "state": "Arizona",
-      "stateCode": "AZ",
-      "fips": "04009",
-      "cases": 2,
       "deaths": 0
     },
     {
@@ -65,11 +65,27 @@
       "deaths": 0
     },
     {
+      "county": "Graham",
+      "state": "Arizona",
+      "stateCode": "AZ",
+      "fips": "04009",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Gila",
+      "state": "Arizona",
+      "stateCode": "AZ",
+      "fips": "04007",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "Santa Cruz",
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04023",
-      "cases": 3,
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -77,7 +93,7 @@
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04003",
-      "cases": 4,
+      "cases": 7,
       "deaths": 0
     },
     {
@@ -85,7 +101,7 @@
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04015",
-      "cases": 7,
+      "cases": 12,
       "deaths": 0
     },
     {
@@ -93,7 +109,7 @@
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04027",
-      "cases": 12,
+      "cases": 14,
       "deaths": 0
     },
     {
@@ -101,7 +117,7 @@
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04001",
-      "cases": 17,
+      "cases": 20,
       "deaths": 0
     },
     {
@@ -109,7 +125,7 @@
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04025",
-      "cases": 24,
+      "cases": 43,
       "deaths": 0
     },
     {
@@ -117,15 +133,7 @@
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04021",
-      "cases": 65,
-      "deaths": 0
-    },
-    {
-      "county": "Navajo",
-      "state": "Arizona",
-      "stateCode": "AZ",
-      "fips": "04017",
-      "cases": 102,
+      "cases": 89,
       "deaths": 0
     }
   ]

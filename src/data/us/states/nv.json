@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Nevada",
-    "cases": 1279,
-    "casesMax": 961,
-    "deaths": 32,
-    "deathsMax": 28,
-    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
+    "cases": 1758,
+    "casesMax": 1418,
+    "deaths": 46,
+    "deathsMax": 41,
+    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
   },
   "data": [
     {
@@ -13,30 +13,30 @@
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "32003",
-      "cases": 961,
-      "deaths": 28
+      "cases": 1418,
+      "deaths": 41
     },
     {
       "county": "Washoe",
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "32031",
-      "cases": 163,
+      "cases": 245,
       "deaths": 4
+    },
+    {
+      "county": "Elko",
+      "state": "Nevada",
+      "stateCode": "NV",
+      "fips": "32007",
+      "cases": 7,
+      "deaths": 1
     },
     {
       "county": "Lyon",
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "32019",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Humboldt",
-      "state": "Nevada",
-      "stateCode": "NV",
-      "fips": "32013",
       "cases": 3,
       "deaths": 0
     },
@@ -45,23 +45,7 @@
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "32023",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "Carson City",
-      "state": "Nevada",
-      "stateCode": "NV",
-      "fips": "32510",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Elko",
-      "state": "Nevada",
-      "stateCode": "NV",
-      "fips": "32007",
-      "cases": 5,
+      "cases": 7,
       "deaths": 0
     },
     {
@@ -69,7 +53,23 @@
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "32005",
-      "cases": 6,
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Humboldt",
+      "state": "Nevada",
+      "stateCode": "NV",
+      "fips": "32013",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Carson City",
+      "state": "Nevada",
+      "stateCode": "NV",
+      "fips": "32510",
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -77,7 +77,7 @@
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "",
-      "cases": 131,
+      "cases": 52,
       "deaths": 0
     }
   ]

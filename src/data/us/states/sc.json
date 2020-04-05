@@ -1,59 +1,75 @@
 {
   "summary": {
     "name": "South Carolina",
-    "cases": 1293,
-    "casesMax": 190,
-    "deaths": 26,
-    "deathsMax": 3,
-    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
+    "cases": 1917,
+    "casesMax": 274,
+    "deaths": 40,
+    "deathsMax": 6,
+    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
   },
   "data": [
+    {
+      "county": "Richland",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "fips": "45079",
+      "cases": 242,
+      "deaths": 6
+    },
     {
       "county": "Florence",
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45041",
-      "cases": 21,
-      "deaths": 3
+      "cases": 35,
+      "deaths": 5
     },
     {
       "county": "Horry",
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45051",
-      "cases": 42,
-      "deaths": 3
-    },
-    {
-      "county": "Richland",
-      "state": "South Carolina",
-      "stateCode": "SC",
-      "fips": "45079",
-      "cases": 176,
-      "deaths": 3
+      "cases": 63,
+      "deaths": 4
     },
     {
       "county": "Anderson",
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45007",
-      "cases": 47,
-      "deaths": 2
+      "cases": 68,
+      "deaths": 3
     },
     {
       "county": "Sumter",
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45085",
-      "cases": 48,
-      "deaths": 2
+      "cases": 79,
+      "deaths": 3
+    },
+    {
+      "county": "Lexington",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "fips": "45063",
+      "cases": 95,
+      "deaths": 3
     },
     {
       "county": "Beaufort",
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45013",
-      "cases": 101,
+      "cases": 148,
+      "deaths": 3
+    },
+    {
+      "county": "York",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "fips": "45091",
+      "cases": 81,
       "deaths": 2
     },
     {
@@ -61,7 +77,15 @@
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45055",
-      "cases": 116,
+      "cases": 141,
+      "deaths": 2
+    },
+    {
+      "county": "Greenville",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "fips": "45045",
+      "cases": 183,
       "deaths": 2
     },
     {
@@ -77,7 +101,7 @@
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45017",
-      "cases": 3,
+      "cases": 4,
       "deaths": 1
     },
     {
@@ -85,7 +109,15 @@
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45061",
-      "cases": 5,
+      "cases": 16,
+      "deaths": 1
+    },
+    {
+      "county": "Georgetown",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "fips": "45043",
+      "cases": 17,
       "deaths": 1
     },
     {
@@ -93,7 +125,7 @@
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45003",
-      "cases": 18,
+      "cases": 24,
       "deaths": 1
     },
     {
@@ -101,31 +133,7 @@
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45027",
-      "cases": 28,
-      "deaths": 1
-    },
-    {
-      "county": "Lexington",
-      "state": "South Carolina",
-      "stateCode": "SC",
-      "fips": "45063",
-      "cases": 61,
-      "deaths": 1
-    },
-    {
-      "county": "York",
-      "state": "South Carolina",
-      "stateCode": "SC",
-      "fips": "45091",
-      "cases": 66,
-      "deaths": 1
-    },
-    {
-      "county": "Greenville",
-      "state": "South Carolina",
-      "stateCode": "SC",
-      "fips": "45045",
-      "cases": 129,
+      "cases": 45,
       "deaths": 1
     },
     {
@@ -133,16 +141,8 @@
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45019",
-      "cases": 190,
+      "cases": 274,
       "deaths": 1
-    },
-    {
-      "county": "Saluda",
-      "state": "South Carolina",
-      "stateCode": "SC",
-      "fips": "45081",
-      "cases": 1,
-      "deaths": 0
     },
     {
       "county": "Dillon",
@@ -153,27 +153,19 @@
       "deaths": 0
     },
     {
-      "county": "Allendale",
+      "county": "Hampton",
       "state": "South Carolina",
       "stateCode": "SC",
-      "fips": "45005",
+      "fips": "45049",
       "cases": 1,
       "deaths": 0
     },
     {
-      "county": "Marlboro",
+      "county": "McCormick",
       "state": "South Carolina",
       "stateCode": "SC",
-      "fips": "45069",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Newberry",
-      "state": "South Carolina",
-      "stateCode": "SC",
-      "fips": "45071",
-      "cases": 2,
+      "fips": "45065",
+      "cases": 1,
       "deaths": 0
     },
     {
@@ -185,34 +177,34 @@
       "deaths": 0
     },
     {
-      "county": "Chester",
+      "county": "Allendale",
       "state": "South Carolina",
       "stateCode": "SC",
-      "fips": "45023",
+      "fips": "45005",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Cherokee",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "fips": "45021",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Marlboro",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "fips": "45069",
       "cases": 3,
       "deaths": 0
     },
     {
-      "county": "Union",
+      "county": "Saluda",
       "state": "South Carolina",
       "stateCode": "SC",
-      "fips": "45087",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Williamsburg",
-      "state": "South Carolina",
-      "stateCode": "SC",
-      "fips": "45089",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Abbeville",
-      "state": "South Carolina",
-      "stateCode": "SC",
-      "fips": "45001",
+      "fips": "45081",
       "cases": 4,
       "deaths": 0
     },
@@ -221,23 +213,7 @@
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45037",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "Jasper",
-      "state": "South Carolina",
-      "stateCode": "SC",
-      "fips": "45053",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "Laurens",
-      "state": "South Carolina",
-      "stateCode": "SC",
-      "fips": "45059",
-      "cases": 4,
+      "cases": 5,
       "deaths": 0
     },
     {
@@ -245,15 +221,31 @@
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45009",
-      "cases": 4,
+      "cases": 5,
       "deaths": 0
     },
     {
-      "county": "Colleton",
+      "county": "Abbeville",
       "state": "South Carolina",
       "stateCode": "SC",
-      "fips": "45029",
-      "cases": 5,
+      "fips": "45001",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Laurens",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "fips": "45059",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Newberry",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "fips": "45071",
+      "cases": 8,
       "deaths": 0
     },
     {
@@ -261,7 +253,39 @@
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45073",
-      "cases": 5,
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Jasper",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "fips": "45053",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Colleton",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "fips": "45029",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Union",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "fips": "45087",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Williamsburg",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "fips": "45089",
+      "cases": 9,
       "deaths": 0
     },
     {
@@ -269,7 +293,7 @@
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45047",
-      "cases": 6,
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -277,7 +301,15 @@
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45039",
-      "cases": 7,
+      "cases": 12,
+      "deaths": 0
+    },
+    {
+      "county": "Chester",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "fips": "45023",
+      "cases": 12,
       "deaths": 0
     },
     {
@@ -285,15 +317,7 @@
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45025",
-      "cases": 9,
-      "deaths": 0
-    },
-    {
-      "county": "Darlington",
-      "state": "South Carolina",
-      "stateCode": "SC",
-      "fips": "45031",
-      "cases": 11,
+      "cases": 13,
       "deaths": 0
     },
     {
@@ -301,31 +325,15 @@
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45077",
-      "cases": 14,
-      "deaths": 0
-    },
-    {
-      "county": "Georgetown",
-      "state": "South Carolina",
-      "stateCode": "SC",
-      "fips": "45043",
-      "cases": 14,
-      "deaths": 0
-    },
-    {
-      "county": "Lancaster",
-      "state": "South Carolina",
-      "stateCode": "SC",
-      "fips": "45057",
       "cases": 17,
       "deaths": 0
     },
     {
-      "county": "Berkeley",
+      "county": "Darlington",
       "state": "South Carolina",
       "stateCode": "SC",
-      "fips": "45015",
-      "cases": 18,
+      "fips": "45031",
+      "cases": 19,
       "deaths": 0
     },
     {
@@ -333,7 +341,15 @@
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45075",
-      "cases": 24,
+      "cases": 26,
+      "deaths": 0
+    },
+    {
+      "county": "Lancaster",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "fips": "45057",
+      "cases": 39,
       "deaths": 0
     },
     {
@@ -341,7 +357,15 @@
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45035",
-      "cases": 27,
+      "cases": 45,
+      "deaths": 0
+    },
+    {
+      "county": "Berkeley",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "fips": "45015",
+      "cases": 45,
       "deaths": 0
     },
     {
@@ -349,7 +373,7 @@
       "state": "South Carolina",
       "stateCode": "SC",
       "fips": "45083",
-      "cases": 45,
+      "cases": 72,
       "deaths": 0
     }
   ]

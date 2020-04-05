@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Montana",
-    "cases": 219,
-    "casesMax": 79,
-    "deaths": 4,
-    "deathsMax": 2,
-    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
+    "cases": 281,
+    "casesMax": 109,
+    "deaths": 6,
+    "deathsMax": 3,
+    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
   },
   "data": [
     {
@@ -13,8 +13,8 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30101",
-      "cases": 6,
-      "deaths": 2
+      "cases": 15,
+      "deaths": 3
     },
     {
       "county": "Madison",
@@ -33,18 +33,18 @@
       "deaths": 1
     },
     {
+      "county": "Missoula",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30063",
+      "cases": 19,
+      "deaths": 1
+    },
+    {
       "county": "Roosevelt",
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30085",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Ravalli",
-      "state": "Montana",
-      "stateCode": "MT",
-      "fips": "30081",
       "cases": 1,
       "deaths": 0
     },
@@ -89,6 +89,30 @@
       "deaths": 0
     },
     {
+      "county": "Glacier",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30035",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Beaverhead",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30001",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Ravalli",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30081",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
       "county": "Jefferson",
       "state": "Montana",
       "stateCode": "MT",
@@ -97,19 +121,19 @@
       "deaths": 0
     },
     {
-      "county": "Broadwater",
-      "state": "Montana",
-      "stateCode": "MT",
-      "fips": "30007",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
       "county": "Deer Lodge",
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30023",
       "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Broadwater",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30007",
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -125,15 +149,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30067",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Cascade",
-      "state": "Montana",
-      "stateCode": "MT",
-      "fips": "30013",
-      "cases": 9,
+      "cases": 6,
       "deaths": 0
     },
     {
@@ -141,6 +157,14 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30093",
+      "cases": 11,
+      "deaths": 0
+    },
+    {
+      "county": "Cascade",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30013",
       "cases": 11,
       "deaths": 0
     },
@@ -153,19 +177,11 @@
       "deaths": 0
     },
     {
-      "county": "Missoula",
-      "state": "Montana",
-      "stateCode": "MT",
-      "fips": "30063",
-      "cases": 15,
-      "deaths": 0
-    },
-    {
       "county": "Flathead",
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30029",
-      "cases": 17,
+      "cases": 23,
       "deaths": 0
     },
     {
@@ -173,7 +189,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30111",
-      "cases": 32,
+      "cases": 38,
       "deaths": 0
     },
     {
@@ -181,7 +197,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30031",
-      "cases": 79,
+      "cases": 109,
       "deaths": 0
     }
   ]

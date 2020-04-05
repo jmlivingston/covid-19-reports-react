@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Louisiana",
-    "cases": 6425,
-    "casesMax": 2270,
-    "deaths": 279,
-    "deathsMax": 115,
-    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
+    "cases": 12494,
+    "casesMax": 3966,
+    "deaths": 412,
+    "deathsMax": 153,
+    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
   },
   "data": [
     {
@@ -13,71 +13,111 @@
       "state": "Louisiana",
       "stateCode": "LA",
       "fips": "22071",
-      "cases": 2270,
-      "deaths": 115
+      "cases": 3966,
+      "deaths": 153
     },
     {
       "county": "Jefferson",
       "state": "Louisiana",
       "stateCode": "LA",
       "fips": "22051",
-      "cases": 1433,
-      "deaths": 64
+      "cases": 3008,
+      "deaths": 95
     },
     {
       "county": "St. John the Baptist",
       "state": "Louisiana",
       "stateCode": "LA",
       "fips": "22095",
-      "cases": 118,
-      "deaths": 13
-    },
-    {
-      "county": "East Baton Rouge",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22033",
-      "cases": 244,
-      "deaths": 10
-    },
-    {
-      "county": "St. Charles",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22089",
-      "cases": 82,
-      "deaths": 7
-    },
-    {
-      "county": "Caddo",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22017",
-      "cases": 298,
-      "deaths": 7
-    },
-    {
-      "county": "Ascension",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22005",
-      "cases": 189,
-      "deaths": 6
+      "cases": 338,
+      "deaths": 23
     },
     {
       "county": "St. Tammany",
       "state": "Louisiana",
       "stateCode": "LA",
       "fips": "22103",
-      "cases": 270,
+      "cases": 532,
+      "deaths": 14
+    },
+    {
+      "county": "East Baton Rouge",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22033",
+      "cases": 621,
+      "deaths": 14
+    },
+    {
+      "county": "St. Charles",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22089",
+      "cases": 252,
+      "deaths": 12
+    },
+    {
+      "county": "Caddo",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22017",
+      "cases": 598,
+      "deaths": 10
+    },
+    {
+      "county": "Terrebonne",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22109",
+      "cases": 143,
+      "deaths": 8
+    },
+    {
+      "county": "St. Bernard",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22087",
+      "cases": 239,
+      "deaths": 8
+    },
+    {
+      "county": "Ascension",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22005",
+      "cases": 284,
+      "deaths": 7
+    },
+    {
+      "county": "St. James",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22093",
+      "cases": 150,
       "deaths": 6
     },
     {
-      "county": "Unknown",
+      "county": "St. Martin",
       "state": "Louisiana",
       "stateCode": "LA",
-      "fips": "",
-      "cases": 28,
+      "fips": "22099",
+      "cases": 64,
+      "deaths": 5
+    },
+    {
+      "county": "Iberville",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22047",
+      "cases": 119,
+      "deaths": 5
+    },
+    {
+      "county": "West Baton Rouge",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22121",
+      "cases": 40,
       "deaths": 4
     },
     {
@@ -85,7 +125,7 @@
       "state": "Louisiana",
       "stateCode": "LA",
       "fips": "22075",
-      "cases": 47,
+      "cases": 86,
       "deaths": 4
     },
     {
@@ -93,136 +133,72 @@
       "state": "Louisiana",
       "stateCode": "LA",
       "fips": "22079",
-      "cases": 69,
+      "cases": 97,
       "deaths": 4
-    },
-    {
-      "county": "St. James",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22093",
-      "cases": 86,
-      "deaths": 4
-    },
-    {
-      "county": "Lafourche",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22057",
-      "cases": 105,
-      "deaths": 4
-    },
-    {
-      "county": "Iberville",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22047",
-      "cases": 36,
-      "deaths": 3
-    },
-    {
-      "county": "St. Martin",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22099",
-      "cases": 41,
-      "deaths": 3
-    },
-    {
-      "county": "St. Bernard",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22087",
-      "cases": 94,
-      "deaths": 3
-    },
-    {
-      "county": "Avoyelles",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22009",
-      "cases": 31,
-      "deaths": 2
-    },
-    {
-      "county": "Tangipahoa",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22105",
-      "cases": 33,
-      "deaths": 2
-    },
-    {
-      "county": "Washington",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22117",
-      "cases": 39,
-      "deaths": 2
     },
     {
       "county": "Lafayette",
       "state": "Louisiana",
       "stateCode": "LA",
       "fips": "22055",
-      "cases": 159,
-      "deaths": 2
-    },
-    {
-      "county": "Catahoula",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22025",
-      "cases": 3,
-      "deaths": 1
-    },
-    {
-      "county": "Bienville",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22013",
-      "cases": 6,
-      "deaths": 1
-    },
-    {
-      "county": "Vermilion",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22113",
-      "cases": 10,
-      "deaths": 1
-    },
-    {
-      "county": "West Baton Rouge",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22121",
-      "cases": 14,
-      "deaths": 1
-    },
-    {
-      "county": "Webster",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22119",
-      "cases": 17,
-      "deaths": 1
+      "cases": 229,
+      "deaths": 4
     },
     {
       "county": "Allen",
       "state": "Louisiana",
       "stateCode": "LA",
       "fips": "22003",
-      "cases": 19,
-      "deaths": 1
+      "cases": 39,
+      "deaths": 3
+    },
+    {
+      "county": "Iberia",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22045",
+      "cases": 68,
+      "deaths": 3
     },
     {
       "county": "De Soto",
       "state": "Louisiana",
       "stateCode": "LA",
       "fips": "22031",
-      "cases": 39,
-      "deaths": 1
+      "cases": 71,
+      "deaths": 3
+    },
+    {
+      "county": "Calcasieu",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22019",
+      "cases": 135,
+      "deaths": 3
+    },
+    {
+      "county": "Lafourche",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22057",
+      "cases": 217,
+      "deaths": 3
+    },
+    {
+      "county": "Claiborne",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22027",
+      "cases": 20,
+      "deaths": 2
+    },
+    {
+      "county": "Webster",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22119",
+      "cases": 42,
+      "deaths": 2
     },
     {
       "county": "St. Landry",
@@ -230,38 +206,86 @@
       "stateCode": "LA",
       "fips": "22097",
       "cases": 45,
-      "deaths": 1
+      "deaths": 2
     },
     {
       "county": "Acadia",
       "state": "Louisiana",
       "stateCode": "LA",
       "fips": "22001",
-      "cases": 47,
-      "deaths": 1
+      "cases": 65,
+      "deaths": 2
     },
     {
-      "county": "Iberia",
+      "county": "Washington",
       "state": "Louisiana",
       "stateCode": "LA",
-      "fips": "22045",
-      "cases": 49,
-      "deaths": 1
-    },
-    {
-      "county": "Terrebonne",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22109",
-      "cases": 55,
-      "deaths": 1
+      "fips": "22117",
+      "cases": 75,
+      "deaths": 2
     },
     {
       "county": "Bossier",
       "state": "Louisiana",
       "stateCode": "LA",
       "fips": "22015",
-      "cases": 75,
+      "cases": 126,
+      "deaths": 2
+    },
+    {
+      "county": "Tangipahoa",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22105",
+      "cases": 131,
+      "deaths": 2
+    },
+    {
+      "county": "Concordia",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22029",
+      "cases": 5,
+      "deaths": 1
+    },
+    {
+      "county": "Catahoula",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22025",
+      "cases": 9,
+      "deaths": 1
+    },
+    {
+      "county": "Bienville",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22013",
+      "cases": 10,
+      "deaths": 1
+    },
+    {
+      "county": "Vermilion",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22113",
+      "cases": 15,
+      "deaths": 1
+    },
+    {
+      "county": "Avoyelles",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22009",
+      "cases": 36,
+      "deaths": 1
+    },
+    {
+      "county": "Livingston",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22063",
+      "cases": 64,
       "deaths": 1
     },
     {
@@ -269,22 +293,14 @@
       "state": "Louisiana",
       "stateCode": "LA",
       "fips": "22073",
-      "cases": 80,
+      "cases": 176,
       "deaths": 1
     },
     {
-      "county": "Calcasieu",
+      "county": "Jackson",
       "state": "Louisiana",
       "stateCode": "LA",
-      "fips": "22019",
-      "cases": 90,
-      "deaths": 1
-    },
-    {
-      "county": "Winn",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22127",
+      "fips": "22049",
       "cases": 1,
       "deaths": 0
     },
@@ -305,42 +321,10 @@
       "deaths": 0
     },
     {
-      "county": "Caldwell",
+      "county": "Winn",
       "state": "Louisiana",
       "stateCode": "LA",
-      "fips": "22021",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Red River",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22081",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "St. Helena",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22091",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Natchitoches",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22069",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Morehouse",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22067",
+      "fips": "22127",
       "cases": 2,
       "deaths": 0
     },
@@ -353,18 +337,18 @@
       "deaths": 0
     },
     {
-      "county": "Grant",
+      "county": "Red River",
       "state": "Louisiana",
       "stateCode": "LA",
-      "fips": "22043",
-      "cases": 3,
+      "fips": "22081",
+      "cases": 2,
       "deaths": 0
     },
     {
-      "county": "Richland",
+      "county": "Caldwell",
       "state": "Louisiana",
       "stateCode": "LA",
-      "fips": "22083",
+      "fips": "22021",
       "cases": 3,
       "deaths": 0
     },
@@ -373,63 +357,31 @@
       "state": "Louisiana",
       "stateCode": "LA",
       "fips": "22085",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Jackson",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22049",
       "cases": 4,
       "deaths": 0
     },
     {
-      "county": "Franklin",
+      "county": "St. Helena",
       "state": "Louisiana",
       "stateCode": "LA",
-      "fips": "22041",
-      "cases": 5,
+      "fips": "22091",
+      "cases": 4,
       "deaths": 0
     },
     {
-      "county": "Concordia",
+      "county": "Grant",
       "state": "Louisiana",
       "stateCode": "LA",
-      "fips": "22029",
-      "cases": 5,
+      "fips": "22043",
+      "cases": 9,
       "deaths": 0
     },
     {
-      "county": "Vernon",
+      "county": "Richland",
       "state": "Louisiana",
       "stateCode": "LA",
-      "fips": "22115",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
-      "county": "Pointe Coupee",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22077",
-      "cases": 7,
-      "deaths": 0
-    },
-    {
-      "county": "Beauregard",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22011",
-      "cases": 8,
-      "deaths": 0
-    },
-    {
-      "county": "West Feliciana",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22125",
-      "cases": 8,
+      "fips": "22083",
+      "cases": 9,
       "deaths": 0
     },
     {
@@ -441,35 +393,43 @@
       "deaths": 0
     },
     {
-      "county": "Claiborne",
+      "county": "Morehouse",
       "state": "Louisiana",
       "stateCode": "LA",
-      "fips": "22027",
-      "cases": 10,
+      "fips": "22067",
+      "cases": 9,
       "deaths": 0
     },
     {
-      "county": "East Feliciana",
+      "county": "Vernon",
       "state": "Louisiana",
       "stateCode": "LA",
-      "fips": "22037",
-      "cases": 10,
-      "deaths": 0
-    },
-    {
-      "county": "Evangeline",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22039",
+      "fips": "22115",
       "cases": 11,
       "deaths": 0
     },
     {
-      "county": "Union",
+      "county": "Beauregard",
       "state": "Louisiana",
       "stateCode": "LA",
-      "fips": "22111",
-      "cases": 11,
+      "fips": "22011",
+      "cases": 15,
+      "deaths": 0
+    },
+    {
+      "county": "Natchitoches",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22069",
+      "cases": 15,
+      "deaths": 0
+    },
+    {
+      "county": "Pointe Coupee",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22077",
+      "cases": 16,
       "deaths": 0
     },
     {
@@ -477,7 +437,55 @@
       "state": "Louisiana",
       "stateCode": "LA",
       "fips": "22061",
-      "cases": 13,
+      "cases": 17,
+      "deaths": 0
+    },
+    {
+      "county": "West Feliciana",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22125",
+      "cases": 18,
+      "deaths": 0
+    },
+    {
+      "county": "Evangeline",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22039",
+      "cases": 19,
+      "deaths": 0
+    },
+    {
+      "county": "Union",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22111",
+      "cases": 19,
+      "deaths": 0
+    },
+    {
+      "county": "Franklin",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22041",
+      "cases": 19,
+      "deaths": 0
+    },
+    {
+      "county": "East Feliciana",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "22037",
+      "cases": 22,
+      "deaths": 0
+    },
+    {
+      "county": "Unknown",
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "fips": "",
+      "cases": 31,
       "deaths": 0
     },
     {
@@ -485,15 +493,7 @@
       "state": "Louisiana",
       "stateCode": "LA",
       "fips": "22007",
-      "cases": 25,
-      "deaths": 0
-    },
-    {
-      "county": "Livingston",
-      "state": "Louisiana",
-      "stateCode": "LA",
-      "fips": "22063",
-      "cases": 25,
+      "cases": 56,
       "deaths": 0
     },
     {
@@ -501,7 +501,7 @@
       "state": "Louisiana",
       "stateCode": "LA",
       "fips": "22101",
-      "cases": 26,
+      "cases": 65,
       "deaths": 0
     }
   ]

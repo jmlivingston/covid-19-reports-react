@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Utah",
-    "cases": 887,
-    "casesMax": 396,
-    "deaths": 6,
-    "deathsMax": 3,
-    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
+    "cases": 1428,
+    "casesMax": 650,
+    "deaths": 8,
+    "deathsMax": 4,
+    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
   },
   "data": [
     {
@@ -13,23 +13,23 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "",
-      "cases": 19,
-      "deaths": 3
-    },
-    {
-      "county": "Weber",
-      "state": "Utah",
-      "stateCode": "UT",
-      "fips": "49057",
-      "cases": 41,
-      "deaths": 1
+      "cases": 0,
+      "deaths": 4
     },
     {
       "county": "Davis",
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49011",
-      "cases": 84,
+      "cases": 137,
+      "deaths": 2
+    },
+    {
+      "county": "Weber",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49057",
+      "cases": 63,
       "deaths": 1
     },
     {
@@ -37,7 +37,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49035",
-      "cases": 396,
+      "cases": 650,
       "deaths": 1
     },
     {
@@ -57,11 +57,67 @@
       "deaths": 0
     },
     {
+      "county": "Kane",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49025",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Carbon",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49007",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Duchesne",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49013",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Emery",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49015",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Grand",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49019",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Juab",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49023",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Millard",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49027",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
       "county": "Morgan",
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49029",
-      "cases": 3,
+      "cases": 5,
       "deaths": 0
     },
     {
@@ -69,15 +125,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49037",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "Iron",
-      "state": "Utah",
-      "stateCode": "UT",
-      "fips": "49021",
-      "cases": 6,
+      "cases": 5,
       "deaths": 0
     },
     {
@@ -85,7 +133,15 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49003",
-      "cases": 7,
+      "cases": 10,
+      "deaths": 0
+    },
+    {
+      "county": "Iron",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49021",
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -93,7 +149,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49005",
-      "cases": 7,
+      "cases": 15,
       "deaths": 0
     },
     {
@@ -101,7 +157,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49045",
-      "cases": 12,
+      "cases": 17,
       "deaths": 0
     },
     {
@@ -109,7 +165,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49053",
-      "cases": 14,
+      "cases": 21,
       "deaths": 0
     },
     {
@@ -117,7 +173,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49051",
-      "cases": 50,
+      "cases": 70,
       "deaths": 0
     },
     {
@@ -125,7 +181,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49049",
-      "cases": 70,
+      "cases": 186,
       "deaths": 0
     },
     {
@@ -133,7 +189,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49043",
-      "cases": 172,
+      "cases": 230,
       "deaths": 0
     }
   ]

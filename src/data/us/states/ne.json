@@ -1,19 +1,35 @@
 {
   "summary": {
     "name": "Nebraska",
-    "cases": 251,
-    "casesMax": 140,
-    "deaths": 5,
-    "deathsMax": 1,
-    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
+    "cases": 340,
+    "casesMax": 148,
+    "deaths": 8,
+    "deathsMax": 3,
+    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
   },
   "data": [
+    {
+      "county": "Douglas",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31055",
+      "cases": 148,
+      "deaths": 3
+    },
+    {
+      "county": "Gage",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31067",
+      "cases": 2,
+      "deaths": 1
+    },
     {
       "county": "Madison",
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31119",
-      "cases": 4,
+      "cases": 5,
       "deaths": 1
     },
     {
@@ -21,7 +37,7 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31019",
-      "cases": 7,
+      "cases": 14,
       "deaths": 1
     },
     {
@@ -29,7 +45,7 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31111",
-      "cases": 9,
+      "cases": 15,
       "deaths": 1
     },
     {
@@ -37,15 +53,7 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31079",
-      "cases": 15,
-      "deaths": 1
-    },
-    {
-      "county": "Douglas",
-      "state": "Nebraska",
-      "stateCode": "NE",
-      "fips": "31055",
-      "cases": 140,
+      "cases": 40,
       "deaths": 1
     },
     {
@@ -61,14 +69,6 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31047",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Hamilton",
-      "state": "Nebraska",
-      "stateCode": "NE",
-      "fips": "31081",
       "cases": 1,
       "deaths": 0
     },
@@ -89,6 +89,14 @@
       "deaths": 0
     },
     {
+      "county": "Unknown",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
       "county": "Antelope",
       "state": "Nebraska",
       "stateCode": "NE",
@@ -105,18 +113,34 @@
       "deaths": 0
     },
     {
-      "county": "Kimball",
-      "state": "Nebraska",
-      "stateCode": "NE",
-      "fips": "31105",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Cuming",
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31039",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Colfax",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31037",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Otoe",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31131",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Cherry",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31031",
       "cases": 1,
       "deaths": 0
     },
@@ -137,18 +161,10 @@
       "deaths": 0
     },
     {
-      "county": "Saunders",
+      "county": "Merrick",
       "state": "Nebraska",
       "stateCode": "NE",
-      "fips": "31155",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Platte",
-      "state": "Nebraska",
-      "stateCode": "NE",
-      "fips": "31141",
+      "fips": "31121",
       "cases": 2,
       "deaths": 0
     },
@@ -161,19 +177,35 @@
       "deaths": 0
     },
     {
-      "county": "Unknown",
+      "county": "Saunders",
       "state": "Nebraska",
       "stateCode": "NE",
-      "fips": "",
-      "cases": 3,
+      "fips": "31155",
+      "cases": 4,
       "deaths": 0
     },
     {
-      "county": "Adams",
+      "county": "Hamilton",
       "state": "Nebraska",
       "stateCode": "NE",
-      "fips": "31001",
+      "fips": "31081",
       "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Platte",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31141",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Kimball",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31105",
+      "cases": 5,
       "deaths": 0
     },
     {
@@ -181,7 +213,15 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31053",
-      "cases": 4,
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Adams",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31001",
+      "cases": 8,
       "deaths": 0
     },
     {
@@ -189,15 +229,7 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31109",
-      "cases": 9,
-      "deaths": 0
-    },
-    {
-      "county": "Sarpy",
-      "state": "Nebraska",
-      "stateCode": "NE",
-      "fips": "31153",
-      "cases": 17,
+      "cases": 18,
       "deaths": 0
     },
     {
@@ -206,6 +238,14 @@
       "stateCode": "NE",
       "fips": "31177",
       "cases": 19,
+      "deaths": 0
+    },
+    {
+      "county": "Sarpy",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31153",
+      "cases": 28,
       "deaths": 0
     }
   ]

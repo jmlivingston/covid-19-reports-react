@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Vermont",
-    "cases": 330,
-    "casesMax": 164,
-    "deaths": 16,
-    "deathsMax": 9,
-    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
+    "cases": 461,
+    "casesMax": 245,
+    "deaths": 20,
+    "deathsMax": 13,
+    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
   },
   "data": [
     {
@@ -13,15 +13,15 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "",
-      "cases": 23,
-      "deaths": 9
+      "cases": 12,
+      "deaths": 13
     },
     {
       "county": "Chittenden",
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50007",
-      "cases": 164,
+      "cases": 245,
       "deaths": 6
     },
     {
@@ -29,16 +29,8 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50027",
-      "cases": 18,
+      "cases": 24,
       "deaths": 1
-    },
-    {
-      "county": "Caledonia",
-      "state": "Vermont",
-      "stateCode": "VT",
-      "fips": "50005",
-      "cases": 3,
-      "deaths": 0
     },
     {
       "county": "Orange",
@@ -49,19 +41,19 @@
       "deaths": 0
     },
     {
+      "county": "Caledonia",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50005",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
       "county": "Orleans",
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50019",
-      "cases": 7,
-      "deaths": 0
-    },
-    {
-      "county": "Rutland",
-      "state": "Vermont",
-      "stateCode": "VT",
-      "fips": "50021",
-      "cases": 10,
+      "cases": 8,
       "deaths": 0
     },
     {
@@ -69,7 +61,7 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50015",
-      "cases": 13,
+      "cases": 17,
       "deaths": 0
     },
     {
@@ -77,15 +69,7 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50023",
-      "cases": 15,
-      "deaths": 0
-    },
-    {
-      "county": "Franklin",
-      "state": "Vermont",
-      "stateCode": "VT",
-      "fips": "50011",
-      "cases": 15,
+      "cases": 21,
       "deaths": 0
     },
     {
@@ -93,7 +77,7 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50025",
-      "cases": 16,
+      "cases": 21,
       "deaths": 0
     },
     {
@@ -101,7 +85,23 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50003",
-      "cases": 18,
+      "cases": 23,
+      "deaths": 0
+    },
+    {
+      "county": "Franklin",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50011",
+      "cases": 23,
+      "deaths": 0
+    },
+    {
+      "county": "Rutland",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50021",
+      "cases": 24,
       "deaths": 0
     },
     {
@@ -109,7 +109,7 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50001",
-      "cases": 24,
+      "cases": 34,
       "deaths": 0
     }
   ]

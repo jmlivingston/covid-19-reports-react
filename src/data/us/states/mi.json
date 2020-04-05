@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Michigan",
-    "cases": 9295,
-    "casesMax": 4470,
-    "deaths": 336,
-    "deathsMax": 146,
-    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
+    "cases": 14227,
+    "casesMax": 6762,
+    "deaths": 542,
+    "deathsMax": 252,
+    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
   },
   "data": [
     {
@@ -13,47 +13,103 @@
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26163",
-      "cases": 4470,
-      "deaths": 146
+      "cases": 6762,
+      "deaths": 252
     },
     {
       "county": "Oakland",
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26125",
-      "cases": 1910,
-      "deaths": 99
+      "cases": 2785,
+      "deaths": 142
     },
     {
       "county": "Macomb",
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26099",
-      "cases": 1088,
-      "deaths": 51
+      "cases": 1838,
+      "deaths": 78
     },
     {
       "county": "Genesee",
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26049",
-      "cases": 249,
-      "deaths": 8
+      "cases": 464,
+      "deaths": 15
     },
     {
       "county": "Washtenaw",
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26161",
-      "cases": 401,
+      "cases": 501,
       "deaths": 8
+    },
+    {
+      "county": "Grand Traverse",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26055",
+      "cases": 12,
+      "deaths": 3
+    },
+    {
+      "county": "Hillsdale",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26059",
+      "cases": 37,
+      "deaths": 3
+    },
+    {
+      "county": "Kalamazoo",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26077",
+      "cases": 45,
+      "deaths": 3
+    },
+    {
+      "county": "Jackson",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26075",
+      "cases": 81,
+      "deaths": 3
+    },
+    {
+      "county": "Kent",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26081",
+      "cases": 153,
+      "deaths": 3
+    },
+    {
+      "county": "Emmet",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26047",
+      "cases": 7,
+      "deaths": 2
+    },
+    {
+      "county": "Isabella",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26073",
+      "cases": 10,
+      "deaths": 2
     },
     {
       "county": "Tuscola",
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26157",
-      "cases": 11,
+      "cases": 20,
       "deaths": 2
     },
     {
@@ -61,15 +117,23 @@
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26121",
-      "cases": 18,
+      "cases": 31,
       "deaths": 2
     },
     {
-      "county": "Jackson",
+      "county": "Eaton",
       "state": "Michigan",
       "stateCode": "MI",
-      "fips": "26075",
-      "cases": 56,
+      "fips": "26045",
+      "cases": 53,
+      "deaths": 2
+    },
+    {
+      "county": "St. Clair",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26147",
+      "cases": 85,
       "deaths": 2
     },
     {
@@ -77,23 +141,7 @@
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26093",
-      "cases": 101,
-      "deaths": 2
-    },
-    {
-      "county": "Kent",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26081",
-      "cases": 119,
-      "deaths": 2
-    },
-    {
-      "county": "Unknown",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "",
-      "cases": 161,
+      "cases": 129,
       "deaths": 2
     },
     {
@@ -105,11 +153,27 @@
       "deaths": 1
     },
     {
+      "county": "Dickinson",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26043",
+      "cases": 1,
+      "deaths": 1
+    },
+    {
+      "county": "Iosco",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26069",
+      "cases": 2,
+      "deaths": 1
+    },
+    {
       "county": "Gogebic",
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26053",
-      "cases": 2,
+      "cases": 3,
       "deaths": 1
     },
     {
@@ -117,7 +181,7 @@
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26107",
-      "cases": 3,
+      "cases": 4,
       "deaths": 1
     },
     {
@@ -129,18 +193,10 @@
       "deaths": 1
     },
     {
-      "county": "Emmet",
+      "county": "Cheboygan",
       "state": "Michigan",
       "stateCode": "MI",
-      "fips": "26047",
-      "cases": 7,
-      "deaths": 1
-    },
-    {
-      "county": "Isabella",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26073",
+      "fips": "26031",
       "cases": 7,
       "deaths": 1
     },
@@ -149,7 +205,31 @@
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26079",
-      "cases": 7,
+      "cases": 8,
+      "deaths": 1
+    },
+    {
+      "county": "Branch",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26023",
+      "cases": 10,
+      "deaths": 1
+    },
+    {
+      "county": "Marquette",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26103",
+      "cases": 11,
+      "deaths": 1
+    },
+    {
+      "county": "Van Buren",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26159",
+      "cases": 12,
       "deaths": 1
     },
     {
@@ -157,23 +237,31 @@
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26151",
-      "cases": 7,
+      "cases": 13,
       "deaths": 1
     },
     {
-      "county": "Hillsdale",
+      "county": "Otsego",
       "state": "Michigan",
       "stateCode": "MI",
-      "fips": "26059",
-      "cases": 19,
+      "fips": "26137",
+      "cases": 22,
       "deaths": 1
     },
     {
-      "county": "Kalamazoo",
+      "county": "Calhoun",
       "state": "Michigan",
       "stateCode": "MI",
-      "fips": "26077",
-      "cases": 30,
+      "fips": "26025",
+      "cases": 34,
+      "deaths": 1
+    },
+    {
+      "county": "Clinton",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26037",
+      "cases": 54,
       "deaths": 1
     },
     {
@@ -181,7 +269,7 @@
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26021",
-      "cases": 38,
+      "cases": 56,
       "deaths": 1
     },
     {
@@ -189,7 +277,15 @@
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26065",
-      "cases": 121,
+      "cases": 168,
+      "deaths": 1
+    },
+    {
+      "county": "Unknown",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "",
+      "cases": 333,
       "deaths": 1
     },
     {
@@ -197,22 +293,6 @@
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26089",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Clare",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26035",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Roscommon",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26143",
       "cases": 1,
       "deaths": 0
     },
@@ -225,42 +305,10 @@
       "deaths": 0
     },
     {
-      "county": "Newaygo",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26123",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Manistee",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26101",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Iosco",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26069",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Luce",
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26095",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Ogemaw",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26129",
       "cases": 1,
       "deaths": 0
     },
@@ -273,30 +321,6 @@
       "deaths": 0
     },
     {
-      "county": "Dickinson",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26043",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Houghton",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26061",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Arenac",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26011",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Schoolcraft",
       "state": "Michigan",
       "stateCode": "MI",
@@ -305,66 +329,50 @@
       "deaths": 0
     },
     {
-      "county": "Mackinac",
+      "county": "Presque Isle",
       "state": "Michigan",
       "stateCode": "MI",
-      "fips": "26097",
+      "fips": "26141",
       "cases": 1,
       "deaths": 0
     },
     {
-      "county": "Barry",
+      "county": "Clare",
       "state": "Michigan",
       "stateCode": "MI",
-      "fips": "26015",
+      "fips": "26035",
       "cases": 2,
       "deaths": 0
     },
     {
-      "county": "Wexford",
+      "county": "Roscommon",
       "state": "Michigan",
       "stateCode": "MI",
-      "fips": "26165",
+      "fips": "26143",
       "cases": 2,
       "deaths": 0
     },
     {
-      "county": "Gladwin",
+      "county": "Newaygo",
       "state": "Michigan",
       "stateCode": "MI",
-      "fips": "26051",
+      "fips": "26123",
       "cases": 2,
       "deaths": 0
     },
     {
-      "county": "Oceana",
+      "county": "Ogemaw",
       "state": "Michigan",
       "stateCode": "MI",
-      "fips": "26127",
+      "fips": "26129",
       "cases": 2,
       "deaths": 0
     },
     {
-      "county": "Osceola",
+      "county": "Houghton",
       "state": "Michigan",
       "stateCode": "MI",
-      "fips": "26133",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Cheboygan",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26031",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Branch",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26023",
+      "fips": "26061",
       "cases": 2,
       "deaths": 0
     },
@@ -377,11 +385,51 @@
       "deaths": 0
     },
     {
-      "county": "Gratiot",
+      "county": "Mackinac",
       "state": "Michigan",
       "stateCode": "MI",
-      "fips": "26057",
+      "fips": "26097",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Gladwin",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26051",
       "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Oceana",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26127",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Arenac",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26011",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Wexford",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26165",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Manistee",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26101",
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -389,22 +437,14 @@
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26063",
-      "cases": 3,
+      "cases": 4,
       "deaths": 0
     },
     {
-      "county": "Delta",
+      "county": "Osceola",
       "state": "Michigan",
       "stateCode": "MI",
-      "fips": "26041",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Charlevoix",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26029",
+      "fips": "26133",
       "cases": 4,
       "deaths": 0
     },
@@ -417,26 +457,26 @@
       "deaths": 0
     },
     {
-      "county": "Allegan",
+      "county": "Barry",
       "state": "Michigan",
       "stateCode": "MI",
-      "fips": "26005",
+      "fips": "26015",
       "cases": 5,
       "deaths": 0
     },
     {
-      "county": "Marquette",
+      "county": "Gratiot",
       "state": "Michigan",
       "stateCode": "MI",
-      "fips": "26103",
+      "fips": "26057",
       "cases": 5,
       "deaths": 0
     },
     {
-      "county": "St. Joseph",
+      "county": "Delta",
       "state": "Michigan",
       "stateCode": "MI",
-      "fips": "26149",
+      "fips": "26041",
       "cases": 5,
       "deaths": 0
     },
@@ -449,19 +489,27 @@
       "deaths": 0
     },
     {
-      "county": "Grand Traverse",
+      "county": "Charlevoix",
       "state": "Michigan",
       "stateCode": "MI",
-      "fips": "26055",
-      "cases": 8,
+      "fips": "26029",
+      "cases": 7,
       "deaths": 0
     },
     {
-      "county": "Lapeer",
+      "county": "St. Joseph",
       "state": "Michigan",
       "stateCode": "MI",
-      "fips": "26087",
-      "cases": 8,
+      "fips": "26149",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Allegan",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26005",
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -469,31 +517,7 @@
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26117",
-      "cases": 10,
-      "deaths": 0
-    },
-    {
-      "county": "Bay",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26017",
-      "cases": 10,
-      "deaths": 0
-    },
-    {
-      "county": "Van Buren",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26159",
-      "cases": 10,
-      "deaths": 0
-    },
-    {
-      "county": "Shiawassee",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26155",
-      "cases": 11,
+      "cases": 13,
       "deaths": 0
     },
     {
@@ -501,15 +525,31 @@
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26111",
-      "cases": 12,
+      "cases": 17,
       "deaths": 0
     },
     {
-      "county": "Otsego",
+      "county": "Shiawassee",
       "state": "Michigan",
       "stateCode": "MI",
-      "fips": "26137",
-      "cases": 19,
+      "fips": "26155",
+      "cases": 22,
+      "deaths": 0
+    },
+    {
+      "county": "Bay",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26017",
+      "cases": 24,
+      "deaths": 0
+    },
+    {
+      "county": "Lapeer",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "fips": "26087",
+      "cases": 27,
       "deaths": 0
     },
     {
@@ -517,22 +557,6 @@
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26091",
-      "cases": 22,
-      "deaths": 0
-    },
-    {
-      "county": "Calhoun",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26025",
-      "cases": 23,
-      "deaths": 0
-    },
-    {
-      "county": "Eaton",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26045",
       "cases": 27,
       "deaths": 0
     },
@@ -541,23 +565,7 @@
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26139",
-      "cases": 31,
-      "deaths": 0
-    },
-    {
-      "county": "Clinton",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26037",
-      "cases": 33,
-      "deaths": 0
-    },
-    {
-      "county": "St. Clair",
-      "state": "Michigan",
-      "stateCode": "MI",
-      "fips": "26147",
-      "cases": 41,
+      "cases": 39,
       "deaths": 0
     },
     {
@@ -565,7 +573,7 @@
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26115",
-      "cases": 58,
+      "cases": 101,
       "deaths": 0
     },
     {
@@ -573,7 +581,7 @@
       "state": "Michigan",
       "stateCode": "MI",
       "fips": "26145",
-      "cases": 71,
+      "cases": 103,
       "deaths": 0
     }
   ]

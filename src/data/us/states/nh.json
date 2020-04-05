@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "New Hampshire",
-    "cases": 415,
-    "casesMax": 154,
-    "deaths": 4,
-    "deathsMax": 2,
-    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
+    "cases": 620,
+    "casesMax": 231,
+    "deaths": 9,
+    "deathsMax": 7,
+    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
   },
   "data": [
     {
@@ -13,15 +13,15 @@
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33011",
-      "cases": 129,
-      "deaths": 2
+      "cases": 231,
+      "deaths": 7
     },
     {
       "county": "Sullivan",
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33019",
-      "cases": 4,
+      "cases": 5,
       "deaths": 1
     },
     {
@@ -29,23 +29,31 @@
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33015",
-      "cases": 154,
+      "cases": 213,
       "deaths": 1
+    },
+    {
+      "county": "Coos",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "fips": "33007",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Unknown",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "fips": "",
+      "cases": 3,
+      "deaths": 0
     },
     {
       "county": "Cheshire",
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33005",
-      "cases": 7,
-      "deaths": 0
-    },
-    {
-      "county": "Belknap",
-      "state": "New Hampshire",
-      "stateCode": "NH",
-      "fips": "33001",
-      "cases": 13,
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -53,7 +61,15 @@
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33003",
-      "cases": 14,
+      "cases": 17,
+      "deaths": 0
+    },
+    {
+      "county": "Belknap",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "fips": "33001",
+      "cases": 17,
       "deaths": 0
     },
     {
@@ -61,15 +77,7 @@
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33013",
-      "cases": 28,
-      "deaths": 0
-    },
-    {
-      "county": "Strafford",
-      "state": "New Hampshire",
-      "stateCode": "NH",
-      "fips": "33017",
-      "cases": 30,
+      "cases": 39,
       "deaths": 0
     },
     {
@@ -77,7 +85,15 @@
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33009",
-      "cases": 36,
+      "cases": 41,
+      "deaths": 0
+    },
+    {
+      "county": "Strafford",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "fips": "33017",
+      "cases": 43,
       "deaths": 0
     }
   ]

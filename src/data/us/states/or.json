@@ -1,19 +1,43 @@
 {
   "summary": {
     "name": "Oregon",
-    "cases": 737,
-    "casesMax": 189,
-    "deaths": 19,
-    "deathsMax": 3,
-    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
+    "cases": 1000,
+    "casesMax": 247,
+    "deaths": 26,
+    "deathsMax": 6,
+    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
   },
   "data": [
+    {
+      "county": "Multnomah",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41051",
+      "cases": 209,
+      "deaths": 6
+    },
+    {
+      "county": "Marion",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41047",
+      "cases": 188,
+      "deaths": 5
+    },
+    {
+      "county": "Washington",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41067",
+      "cases": 247,
+      "deaths": 4
+    },
     {
       "county": "Yamhill",
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41071",
-      "cases": 17,
+      "cases": 23,
       "deaths": 3
     },
     {
@@ -21,31 +45,7 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41005",
-      "cases": 56,
-      "deaths": 3
-    },
-    {
-      "county": "Multnomah",
-      "state": "Oregon",
-      "stateCode": "OR",
-      "fips": "41051",
-      "cases": 134,
-      "deaths": 3
-    },
-    {
-      "county": "Marion",
-      "state": "Oregon",
-      "stateCode": "OR",
-      "fips": "41047",
-      "cases": 151,
-      "deaths": 3
-    },
-    {
-      "county": "Washington",
-      "state": "Oregon",
-      "stateCode": "OR",
-      "fips": "41067",
-      "cases": 189,
+      "cases": 78,
       "deaths": 3
     },
     {
@@ -53,7 +53,7 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41043",
-      "cases": 37,
+      "cases": 41,
       "deaths": 2
     },
     {
@@ -61,7 +61,15 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41003",
-      "cases": 13,
+      "cases": 19,
+      "deaths": 1
+    },
+    {
+      "county": "Polk",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41053",
+      "cases": 22,
       "deaths": 1
     },
     {
@@ -69,7 +77,7 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41039",
-      "cases": 18,
+      "cases": 24,
       "deaths": 1
     },
     {
@@ -77,38 +85,6 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41023",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Union",
-      "state": "Oregon",
-      "stateCode": "OR",
-      "fips": "41061",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Columbia",
-      "state": "Oregon",
-      "stateCode": "OR",
-      "fips": "41009",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Morrow",
-      "state": "Oregon",
-      "stateCode": "OR",
-      "fips": "41049",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Malheur",
-      "state": "Oregon",
-      "stateCode": "OR",
-      "fips": "41045",
       "cases": 1,
       "deaths": 0
     },
@@ -121,26 +97,42 @@
       "deaths": 0
     },
     {
+      "county": "Crook",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41013",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Morrow",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41049",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Malheur",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41045",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Union",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41061",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "Hood River",
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41027",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Clatsop",
-      "state": "Oregon",
-      "stateCode": "OR",
-      "fips": "41007",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Lincoln",
-      "state": "Oregon",
-      "stateCode": "OR",
-      "fips": "41041",
       "cases": 3,
       "deaths": 0
     },
@@ -153,11 +145,27 @@
       "deaths": 0
     },
     {
-      "county": "Klamath",
+      "county": "Columbia",
       "state": "Oregon",
       "stateCode": "OR",
-      "fips": "41035",
-      "cases": 5,
+      "fips": "41009",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Clatsop",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41007",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Lincoln",
+      "state": "Oregon",
+      "stateCode": "OR",
+      "fips": "41041",
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -181,7 +189,7 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41019",
-      "cases": 10,
+      "cases": 11,
       "deaths": 0
     },
     {
@@ -189,15 +197,15 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41033",
-      "cases": 10,
+      "cases": 13,
       "deaths": 0
     },
     {
-      "county": "Polk",
+      "county": "Klamath",
       "state": "Oregon",
       "stateCode": "OR",
-      "fips": "41053",
-      "cases": 18,
+      "fips": "41035",
+      "cases": 14,
       "deaths": 0
     },
     {
@@ -205,7 +213,7 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41029",
-      "cases": 22,
+      "cases": 33,
       "deaths": 0
     },
     {
@@ -213,7 +221,7 @@
       "state": "Oregon",
       "stateCode": "OR",
       "fips": "41017",
-      "cases": 27,
+      "cases": 39,
       "deaths": 0
     }
   ]

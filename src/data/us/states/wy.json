@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Wyoming",
-    "cases": 138,
-    "casesMax": 35,
+    "cases": 189,
+    "casesMax": 42,
     "deaths": 0,
     "deathsMax": 0,
-    "lastUpdated": "Thu, 02 Apr 2020 22:16:39 GMT"
+    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
   },
   "data": [
     {
@@ -25,22 +25,6 @@
       "deaths": 0
     },
     {
-      "county": "Goshen",
-      "state": "Wyoming",
-      "stateCode": "WY",
-      "fips": "56015",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Washakie",
-      "state": "Wyoming",
-      "stateCode": "WY",
-      "fips": "56043",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Sublette",
       "state": "Wyoming",
       "stateCode": "WY",
@@ -49,11 +33,51 @@
       "deaths": 0
     },
     {
+      "county": "Lincoln",
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "fips": "56023",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Crook",
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "fips": "56011",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Goshen",
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "fips": "56015",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Washakie",
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "fips": "56043",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Uinta",
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "fips": "56041",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
       "county": "Converse",
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56009",
-      "cases": 2,
+      "cases": 3,
       "deaths": 0
     },
     {
@@ -61,7 +85,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56007",
-      "cases": 3,
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -69,7 +93,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56037",
-      "cases": 3,
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -77,7 +101,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56001",
-      "cases": 3,
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -85,7 +109,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56005",
-      "cases": 5,
+      "cases": 7,
       "deaths": 0
     },
     {
@@ -93,7 +117,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56019",
-      "cases": 7,
+      "cases": 8,
       "deaths": 0
     },
     {
@@ -101,7 +125,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56033",
-      "cases": 10,
+      "cases": 11,
       "deaths": 0
     },
     {
@@ -109,7 +133,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56025",
-      "cases": 14,
+      "cases": 23,
       "deaths": 0
     },
     {
@@ -117,7 +141,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56013",
-      "cases": 25,
+      "cases": 36,
       "deaths": 0
     },
     {
@@ -125,7 +149,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56039",
-      "cases": 26,
+      "cases": 36,
       "deaths": 0
     },
     {
@@ -133,7 +157,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56021",
-      "cases": 35,
+      "cases": 42,
       "deaths": 0
     }
   ]
