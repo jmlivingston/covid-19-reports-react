@@ -1,27 +1,27 @@
 {
   "summary": {
     "name": "Tennessee",
-    "cases": 3267,
-    "casesMax": 856,
-    "deaths": 47,
-    "deathsMax": 10,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "cases": 3540,
+    "casesMax": 924,
+    "deaths": 50,
+    "deathsMax": 11,
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
-    {
-      "county": "Sumner",
-      "state": "Tennessee",
-      "stateCode": "TN",
-      "fips": "47165",
-      "cases": 301,
-      "deaths": 10
-    },
     {
       "county": "Shelby",
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47157",
-      "cases": 706,
+      "cases": 754,
+      "deaths": 11
+    },
+    {
+      "county": "Sumner",
+      "state": "Tennessee",
+      "stateCode": "TN",
+      "fips": "47165",
+      "cases": 321,
       "deaths": 10
     },
     {
@@ -29,7 +29,7 @@
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47065",
-      "cases": 71,
+      "cases": 79,
       "deaths": 8
     },
     {
@@ -37,7 +37,7 @@
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47037",
-      "cases": 856,
+      "cases": 924,
       "deaths": 6
     },
     {
@@ -45,7 +45,7 @@
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47149",
-      "cases": 140,
+      "cases": 147,
       "deaths": 3
     },
     {
@@ -53,7 +53,7 @@
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47187",
-      "cases": 239,
+      "cases": 258,
       "deaths": 2
     },
     {
@@ -69,7 +69,7 @@
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47169",
-      "cases": 7,
+      "cases": 8,
       "deaths": 1
     },
     {
@@ -77,7 +77,7 @@
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47073",
-      "cases": 9,
+      "cases": 10,
       "deaths": 1
     },
     {
@@ -89,14 +89,6 @@
       "deaths": 1
     },
     {
-      "county": "Greene",
-      "state": "Tennessee",
-      "stateCode": "TN",
-      "fips": "47059",
-      "cases": 16,
-      "deaths": 1
-    },
-    {
       "county": "Marion",
       "state": "Tennessee",
       "stateCode": "TN",
@@ -105,11 +97,35 @@
       "deaths": 1
     },
     {
+      "county": "Greene",
+      "state": "Tennessee",
+      "stateCode": "TN",
+      "fips": "47059",
+      "cases": 17,
+      "deaths": 1
+    },
+    {
       "county": "Sullivan",
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47163",
-      "cases": 18,
+      "cases": 21,
+      "deaths": 1
+    },
+    {
+      "county": "Blount",
+      "state": "Tennessee",
+      "stateCode": "TN",
+      "fips": "47009",
+      "cases": 36,
+      "deaths": 1
+    },
+    {
+      "county": "Montgomery",
+      "state": "Tennessee",
+      "stateCode": "TN",
+      "fips": "47125",
+      "cases": 51,
       "deaths": 1
     },
     {
@@ -117,7 +133,7 @@
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47093",
-      "cases": 99,
+      "cases": 115,
       "deaths": 1
     },
     {
@@ -125,14 +141,6 @@
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47029",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Weakley",
-      "state": "Tennessee",
-      "stateCode": "TN",
-      "fips": "47183",
       "cases": 1,
       "deaths": 0
     },
@@ -161,14 +169,6 @@
       "deaths": 0
     },
     {
-      "county": "Fentress",
-      "state": "Tennessee",
-      "stateCode": "TN",
-      "fips": "47049",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Warren",
       "state": "Tennessee",
       "stateCode": "TN",
@@ -185,14 +185,6 @@
       "deaths": 0
     },
     {
-      "county": "Hickman",
-      "state": "Tennessee",
-      "stateCode": "TN",
-      "fips": "47081",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Rhea",
       "state": "Tennessee",
       "stateCode": "TN",
@@ -201,10 +193,10 @@
       "deaths": 0
     },
     {
-      "county": "Stewart",
+      "county": "Henderson",
       "state": "Tennessee",
       "stateCode": "TN",
-      "fips": "47161",
+      "fips": "47077",
       "cases": 1,
       "deaths": 0
     },
@@ -233,14 +225,6 @@
       "deaths": 0
     },
     {
-      "county": "Overton",
-      "state": "Tennessee",
-      "stateCode": "TN",
-      "fips": "47133",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Lewis",
       "state": "Tennessee",
       "stateCode": "TN",
@@ -265,14 +249,6 @@
       "deaths": 0
     },
     {
-      "county": "Bledsoe",
-      "state": "Tennessee",
-      "stateCode": "TN",
-      "fips": "47007",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Johnson",
       "state": "Tennessee",
       "stateCode": "TN",
@@ -281,10 +257,10 @@
       "deaths": 0
     },
     {
-      "county": "Haywood",
+      "county": "Fentress",
       "state": "Tennessee",
       "stateCode": "TN",
-      "fips": "47075",
+      "fips": "47049",
       "cases": 2,
       "deaths": 0
     },
@@ -293,6 +269,14 @@
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47181",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Hickman",
+      "state": "Tennessee",
+      "stateCode": "TN",
+      "fips": "47081",
       "cases": 2,
       "deaths": 0
     },
@@ -309,6 +293,14 @@
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47153",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Stewart",
+      "state": "Tennessee",
+      "stateCode": "TN",
+      "fips": "47161",
       "cases": 2,
       "deaths": 0
     },
@@ -337,6 +329,14 @@
       "deaths": 0
     },
     {
+      "county": "Overton",
+      "state": "Tennessee",
+      "stateCode": "TN",
+      "fips": "47133",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "Smith",
       "state": "Tennessee",
       "stateCode": "TN",
@@ -345,10 +345,26 @@
       "deaths": 0
     },
     {
+      "county": "Bledsoe",
+      "state": "Tennessee",
+      "stateCode": "TN",
+      "fips": "47007",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "Carter",
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47019",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Haywood",
+      "state": "Tennessee",
+      "stateCode": "TN",
+      "fips": "47075",
       "cases": 3,
       "deaths": 0
     },
@@ -425,14 +441,6 @@
       "deaths": 0
     },
     {
-      "county": "Cannon",
-      "state": "Tennessee",
-      "stateCode": "TN",
-      "fips": "47015",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
       "county": "Morgan",
       "state": "Tennessee",
       "stateCode": "TN",
@@ -441,26 +449,10 @@
       "deaths": 0
     },
     {
-      "county": "Coffee",
-      "state": "Tennessee",
-      "stateCode": "TN",
-      "fips": "47031",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
       "county": "Henry",
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47079",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "Marshall",
-      "state": "Tennessee",
-      "stateCode": "TN",
-      "fips": "47117",
       "cases": 4,
       "deaths": 0
     },
@@ -481,14 +473,6 @@
       "deaths": 0
     },
     {
-      "county": "DeKalb",
-      "state": "Tennessee",
-      "stateCode": "TN",
-      "fips": "47041",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
       "county": "Lincoln",
       "state": "Tennessee",
       "stateCode": "TN",
@@ -497,18 +481,26 @@
       "deaths": 0
     },
     {
+      "county": "Weakley",
+      "state": "Tennessee",
+      "stateCode": "TN",
+      "fips": "47183",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Coffee",
+      "state": "Tennessee",
+      "stateCode": "TN",
+      "fips": "47031",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
       "county": "Jefferson",
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47089",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
-      "county": "Carroll",
-      "state": "Tennessee",
-      "stateCode": "TN",
-      "fips": "47017",
       "cases": 6,
       "deaths": 0
     },
@@ -529,6 +521,14 @@
       "deaths": 0
     },
     {
+      "county": "Cannon",
+      "state": "Tennessee",
+      "stateCode": "TN",
+      "fips": "47015",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
       "county": "Hardeman",
       "state": "Tennessee",
       "stateCode": "TN",
@@ -537,27 +537,27 @@
       "deaths": 0
     },
     {
-      "county": "Dyer",
+      "county": "Marshall",
       "state": "Tennessee",
       "stateCode": "TN",
-      "fips": "47045",
+      "fips": "47117",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Carroll",
+      "state": "Tennessee",
+      "stateCode": "TN",
+      "fips": "47017",
       "cases": 7,
       "deaths": 0
     },
     {
-      "county": "Macon",
+      "county": "DeKalb",
       "state": "Tennessee",
       "stateCode": "TN",
-      "fips": "47111",
+      "fips": "47041",
       "cases": 7,
-      "deaths": 0
-    },
-    {
-      "county": "Gibson",
-      "state": "Tennessee",
-      "stateCode": "TN",
-      "fips": "47053",
-      "cases": 8,
       "deaths": 0
     },
     {
@@ -569,6 +569,22 @@
       "deaths": 0
     },
     {
+      "county": "Dyer",
+      "state": "Tennessee",
+      "stateCode": "TN",
+      "fips": "47045",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Macon",
+      "state": "Tennessee",
+      "stateCode": "TN",
+      "fips": "47111",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
       "county": "Anderson",
       "state": "Tennessee",
       "stateCode": "TN",
@@ -577,11 +593,11 @@
       "deaths": 0
     },
     {
-      "county": "Cheatham",
+      "county": "Gibson",
       "state": "Tennessee",
       "stateCode": "TN",
-      "fips": "47021",
-      "cases": 12,
+      "fips": "47053",
+      "cases": 11,
       "deaths": 0
     },
     {
@@ -593,10 +609,10 @@
       "deaths": 0
     },
     {
-      "county": "Sevier",
+      "county": "Cheatham",
       "state": "Tennessee",
       "stateCode": "TN",
-      "fips": "47155",
+      "fips": "47021",
       "cases": 13,
       "deaths": 0
     },
@@ -609,11 +625,11 @@
       "deaths": 0
     },
     {
-      "county": "Fayette",
+      "county": "Sevier",
       "state": "Tennessee",
       "stateCode": "TN",
-      "fips": "47047",
-      "cases": 18,
+      "fips": "47155",
+      "cases": 14,
       "deaths": 0
     },
     {
@@ -622,6 +638,14 @@
       "stateCode": "TN",
       "fips": "47113",
       "cases": 19,
+      "deaths": 0
+    },
+    {
+      "county": "Fayette",
+      "state": "Tennessee",
+      "stateCode": "TN",
+      "fips": "47047",
+      "cases": 20,
       "deaths": 0
     },
     {
@@ -645,7 +669,7 @@
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47179",
-      "cases": 22,
+      "cases": 23,
       "deaths": 0
     },
     {
@@ -653,7 +677,7 @@
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47043",
-      "cases": 22,
+      "cases": 23,
       "deaths": 0
     },
     {
@@ -661,7 +685,7 @@
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47035",
-      "cases": 23,
+      "cases": 26,
       "deaths": 0
     },
     {
@@ -669,23 +693,7 @@
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47167",
-      "cases": 31,
-      "deaths": 0
-    },
-    {
-      "county": "Blount",
-      "state": "Tennessee",
-      "stateCode": "TN",
-      "fips": "47009",
-      "cases": 34,
-      "deaths": 0
-    },
-    {
-      "county": "Montgomery",
-      "state": "Tennessee",
-      "stateCode": "TN",
-      "fips": "47125",
-      "cases": 46,
+      "cases": 33,
       "deaths": 0
     },
     {
@@ -693,7 +701,7 @@
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47147",
-      "cases": 51,
+      "cases": 59,
       "deaths": 0
     },
     {
@@ -701,7 +709,7 @@
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "",
-      "cases": 63,
+      "cases": 81,
       "deaths": 0
     },
     {
@@ -717,7 +725,7 @@
       "state": "Tennessee",
       "stateCode": "TN",
       "fips": "47189",
-      "cases": 82,
+      "cases": 93,
       "deaths": 0
     }
   ]

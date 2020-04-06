@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Idaho",
-    "cases": 1078,
+    "cases": 1102,
     "casesMax": 410,
     "deaths": 10,
     "deathsMax": 3,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16001",
-      "cases": 385,
+      "cases": 402,
       "deaths": 3
     },
     {
@@ -53,7 +53,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16027",
-      "cases": 99,
+      "cases": 101,
       "deaths": 1
     },
     {
@@ -177,14 +177,6 @@
       "deaths": 0
     },
     {
-      "county": "Jefferson",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16051",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
       "county": "Minidoka",
       "state": "Idaho",
       "stateCode": "ID",
@@ -209,6 +201,14 @@
       "deaths": 0
     },
     {
+      "county": "Jefferson",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16051",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
       "county": "Bannock",
       "state": "Idaho",
       "stateCode": "ID",
@@ -221,7 +221,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16075",
-      "cases": 5,
+      "cases": 6,
       "deaths": 0
     },
     {
@@ -229,7 +229,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16019",
-      "cases": 5,
+      "cases": 6,
       "deaths": 0
     },
     {
@@ -269,7 +269,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16055",
-      "cases": 40,
+      "cases": 42,
       "deaths": 0
     }
   ]

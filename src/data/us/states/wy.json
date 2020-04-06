@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Wyoming",
-    "cases": 189,
-    "casesMax": 42,
+    "cases": 200,
+    "casesMax": 44,
     "deaths": 0,
     "deathsMax": 0,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
     {
@@ -33,14 +33,6 @@
       "deaths": 0
     },
     {
-      "county": "Lincoln",
-      "state": "Wyoming",
-      "stateCode": "WY",
-      "fips": "56023",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Crook",
       "state": "Wyoming",
       "stateCode": "WY",
@@ -53,14 +45,6 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56015",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Washakie",
-      "state": "Wyoming",
-      "stateCode": "WY",
-      "fips": "56043",
       "cases": 2,
       "deaths": 0
     },
@@ -81,18 +65,18 @@
       "deaths": 0
     },
     {
+      "county": "Lincoln",
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "fips": "56023",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "Carbon",
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56007",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "Sweetwater",
-      "state": "Wyoming",
-      "stateCode": "WY",
-      "fips": "56037",
       "cases": 4,
       "deaths": 0
     },
@@ -105,11 +89,27 @@
       "deaths": 0
     },
     {
+      "county": "Washakie",
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "fips": "56043",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Sweetwater",
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "fips": "56037",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
       "county": "Campbell",
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56005",
-      "cases": 7,
+      "cases": 6,
       "deaths": 0
     },
     {
@@ -125,7 +125,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56033",
-      "cases": 11,
+      "cases": 12,
       "deaths": 0
     },
     {
@@ -141,7 +141,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56013",
-      "cases": 36,
+      "cases": 37,
       "deaths": 0
     },
     {
@@ -149,7 +149,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56039",
-      "cases": 36,
+      "cases": 39,
       "deaths": 0
     },
     {
@@ -157,7 +157,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56021",
-      "cases": 42,
+      "cases": 44,
       "deaths": 0
     }
   ]

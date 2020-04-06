@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "North Dakota",
-    "cases": 187,
-    "casesMax": 48,
+    "cases": 208,
+    "casesMax": 54,
     "deaths": 3,
     "deathsMax": 1,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
     {
@@ -29,7 +29,7 @@
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38017",
-      "cases": 48,
+      "cases": 54,
       "deaths": 1
     },
     {
@@ -121,6 +121,14 @@
       "deaths": 0
     },
     {
+      "county": "Emmons",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38029",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
       "county": "Pierce",
       "state": "North Dakota",
       "stateCode": "ND",
@@ -145,14 +153,6 @@
       "deaths": 0
     },
     {
-      "county": "McKenzie",
-      "state": "North Dakota",
-      "stateCode": "ND",
-      "fips": "38053",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Burke",
       "state": "North Dakota",
       "stateCode": "ND",
@@ -169,6 +169,14 @@
       "deaths": 0
     },
     {
+      "county": "McKenzie",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38053",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "Williams",
       "state": "North Dakota",
       "stateCode": "ND",
@@ -181,15 +189,7 @@
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38035",
-      "cases": 10,
-      "deaths": 0
-    },
-    {
-      "county": "Mountrail",
-      "state": "North Dakota",
-      "stateCode": "ND",
-      "fips": "38061",
-      "cases": 13,
+      "cases": 11,
       "deaths": 0
     },
     {
@@ -201,11 +201,19 @@
       "deaths": 0
     },
     {
+      "county": "Mountrail",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38061",
+      "cases": 19,
+      "deaths": 0
+    },
+    {
       "county": "Stark",
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38089",
-      "cases": 22,
+      "cases": 25,
       "deaths": 0
     },
     {
@@ -213,7 +221,7 @@
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38015",
-      "cases": 34,
+      "cases": 37,
       "deaths": 0
     }
   ]

@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Connecticut",
-    "cases": 5276,
-    "casesMax": 2824,
-    "deaths": 165,
-    "deathsMax": 86,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "cases": 5675,
+    "casesMax": 3050,
+    "deaths": 189,
+    "deathsMax": 96,
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
     {
@@ -13,48 +13,48 @@
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09001",
-      "cases": 2824,
-      "deaths": 86
+      "cases": 3050,
+      "deaths": 96
     },
     {
       "county": "New Haven",
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09009",
-      "cases": 1024,
-      "deaths": 29
+      "cases": 1162,
+      "deaths": 36
     },
     {
       "county": "Hartford",
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09003",
-      "cases": 726,
-      "deaths": 26
+      "cases": 751,
+      "deaths": 29
     },
     {
       "county": "Tolland",
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09013",
-      "cases": 91,
-      "deaths": 10
+      "cases": 94,
+      "deaths": 11
     },
     {
       "county": "Litchfield",
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09005",
-      "cases": 182,
-      "deaths": 5
+      "cases": 197,
+      "deaths": 6
     },
     {
       "county": "Middlesex",
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09007",
-      "cases": 100,
-      "deaths": 4
+      "cases": 110,
+      "deaths": 5
     },
     {
       "county": "New London",
@@ -62,14 +62,14 @@
       "stateCode": "CT",
       "fips": "09011",
       "cases": 57,
-      "deaths": 3
+      "deaths": 4
     },
     {
       "county": "Windham",
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09015",
-      "cases": 31,
+      "cases": 32,
       "deaths": 1
     },
     {
@@ -77,7 +77,7 @@
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "",
-      "cases": 241,
+      "cases": 222,
       "deaths": 1
     }
   ]

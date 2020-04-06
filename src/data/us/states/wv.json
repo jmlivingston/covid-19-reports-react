@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "West Virginia",
-    "cases": 282,
-    "casesMax": 49,
-    "deaths": 2,
+    "cases": 325,
+    "casesMax": 54,
+    "deaths": 3,
     "deathsMax": 1,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54035",
-      "cases": 13,
+      "cases": 14,
       "deaths": 1
     },
     {
@@ -21,7 +21,15 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54049",
-      "cases": 13,
+      "cases": 14,
+      "deaths": 1
+    },
+    {
+      "county": "Monongalia",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "fips": "54061",
+      "cases": 49,
       "deaths": 1
     },
     {
@@ -37,14 +45,6 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54073",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Morgan",
-      "state": "West Virginia",
-      "stateCode": "WV",
-      "fips": "54065",
       "cases": 1,
       "deaths": 0
     },
@@ -89,14 +89,6 @@
       "deaths": 0
     },
     {
-      "county": "Barbour",
-      "state": "West Virginia",
-      "stateCode": "WV",
-      "fips": "54001",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Mineral",
       "state": "West Virginia",
       "stateCode": "WV",
@@ -129,6 +121,14 @@
       "deaths": 0
     },
     {
+      "county": "Morgan",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "fips": "54065",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "Randolph",
       "state": "West Virginia",
       "stateCode": "WV",
@@ -137,11 +137,11 @@
       "deaths": 0
     },
     {
-      "county": "Marshall",
+      "county": "Barbour",
       "state": "West Virginia",
       "stateCode": "WV",
-      "fips": "54051",
-      "cases": 4,
+      "fips": "54001",
+      "cases": 3,
       "deaths": 0
     },
     {
@@ -161,10 +161,10 @@
       "deaths": 0
     },
     {
-      "county": "Putnam",
+      "county": "Marshall",
       "state": "West Virginia",
       "stateCode": "WV",
-      "fips": "54079",
+      "fips": "54051",
       "cases": 5,
       "deaths": 0
     },
@@ -193,6 +193,14 @@
       "deaths": 0
     },
     {
+      "county": "Putnam",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "fips": "54079",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
       "county": "Hancock",
       "state": "West Virginia",
       "stateCode": "WV",
@@ -205,7 +213,7 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54107",
-      "cases": 7,
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -213,7 +221,7 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54069",
-      "cases": 11,
+      "cases": 18,
       "deaths": 0
     },
     {
@@ -221,7 +229,7 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54037",
-      "cases": 17,
+      "cases": 21,
       "deaths": 0
     },
     {
@@ -229,15 +237,7 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54033",
-      "cases": 19,
-      "deaths": 0
-    },
-    {
-      "county": "Monongalia",
-      "state": "West Virginia",
-      "stateCode": "WV",
-      "fips": "54061",
-      "cases": 40,
+      "cases": 24,
       "deaths": 0
     },
     {
@@ -245,7 +245,7 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54039",
-      "cases": 48,
+      "cases": 51,
       "deaths": 0
     },
     {
@@ -253,7 +253,7 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54003",
-      "cases": 49,
+      "cases": 54,
       "deaths": 0
     }
   ]

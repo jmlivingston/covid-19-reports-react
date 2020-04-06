@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Nevada",
-    "cases": 1758,
-    "casesMax": 1418,
+    "cases": 1880,
+    "casesMax": 1519,
     "deaths": 46,
     "deathsMax": 41,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "32003",
-      "cases": 1418,
+      "cases": 1519,
       "deaths": 41
     },
     {
@@ -21,7 +21,7 @@
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "32031",
-      "cases": 245,
+      "cases": 264,
       "deaths": 4
     },
     {
@@ -57,19 +57,19 @@
       "deaths": 0
     },
     {
-      "county": "Humboldt",
-      "state": "Nevada",
-      "stateCode": "NV",
-      "fips": "32013",
-      "cases": 9,
-      "deaths": 0
-    },
-    {
       "county": "Carson City",
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "32510",
       "cases": 10,
+      "deaths": 0
+    },
+    {
+      "county": "Humboldt",
+      "state": "Nevada",
+      "stateCode": "NV",
+      "fips": "32013",
+      "cases": 11,
       "deaths": 0
     },
     {

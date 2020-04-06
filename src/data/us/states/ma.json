@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Massachusetts",
-    "cases": 11736,
-    "casesMax": 2468,
-    "deaths": 216,
-    "deathsMax": 39,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "cases": 12500,
+    "casesMax": 2658,
+    "deaths": 231,
+    "deathsMax": 42,
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
     {
@@ -13,15 +13,15 @@
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "25017",
-      "cases": 2468,
-      "deaths": 39
+      "cases": 2632,
+      "deaths": 42
     },
     {
       "county": "Hampden",
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "25013",
-      "cases": 733,
+      "cases": 768,
       "deaths": 35
     },
     {
@@ -29,7 +29,15 @@
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "25025",
-      "cases": 2429,
+      "cases": 2658,
+      "deaths": 28
+    },
+    {
+      "county": "Essex",
+      "state": "Massachusetts",
+      "stateCode": "MA",
+      "fips": "25009",
+      "cases": 1506,
       "deaths": 27
     },
     {
@@ -37,47 +45,47 @@
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "25021",
-      "cases": 1199,
-      "deaths": 25
-    },
-    {
-      "county": "Essex",
-      "state": "Massachusetts",
-      "stateCode": "MA",
-      "fips": "25009",
-      "cases": 1400,
-      "deaths": 25
+      "cases": 1271,
+      "deaths": 26
     },
     {
       "county": "Worcester",
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "25027",
-      "cases": 915,
+      "cases": 978,
       "deaths": 17
-    },
-    {
-      "county": "Franklin",
-      "state": "Massachusetts",
-      "stateCode": "MA",
-      "fips": "25011",
-      "cases": 95,
-      "deaths": 12
     },
     {
       "county": "Berkshire",
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "25003",
-      "cases": 253,
-      "deaths": 10
+      "cases": 258,
+      "deaths": 13
+    },
+    {
+      "county": "Franklin",
+      "state": "Massachusetts",
+      "stateCode": "MA",
+      "fips": "25011",
+      "cases": 100,
+      "deaths": 12
     },
     {
       "county": "Plymouth",
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "25023",
-      "cases": 898,
+      "cases": 963,
+      "deaths": 10
+    },
+    {
+      "county": "Bristol",
+      "state": "Massachusetts",
+      "stateCode": "MA",
+      "fips": "25005",
+      "cases": 659,
       "deaths": 8
     },
     {
@@ -85,7 +93,7 @@
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "25001",
-      "cases": 330,
+      "cases": 347,
       "deaths": 6
     },
     {
@@ -93,15 +101,7 @@
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "",
-      "cases": 274,
-      "deaths": 5
-    },
-    {
-      "county": "Bristol",
-      "state": "Massachusetts",
-      "stateCode": "MA",
-      "fips": "25005",
-      "cases": 601,
+      "cases": 215,
       "deaths": 5
     },
     {
@@ -109,7 +109,7 @@
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "25015",
-      "cases": 125,
+      "cases": 128,
       "deaths": 2
     },
     {
@@ -117,7 +117,7 @@
       "state": "Massachusetts",
       "stateCode": "MA",
       "fips": "25007",
-      "cases": 7,
+      "cases": 8,
       "deaths": 0
     },
     {

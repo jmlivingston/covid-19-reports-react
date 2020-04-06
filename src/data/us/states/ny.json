@@ -1,75 +1,75 @@
 {
   "summary": {
     "name": "New York",
-    "cases": 114994,
-    "casesMax": 13346,
-    "deaths": 3569,
-    "deathsMax": 451,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "cases": 122909,
+    "casesMax": 14398,
+    "deaths": 4159,
+    "deathsMax": 678,
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
-    {
-      "county": "Bronx",
-      "state": "New York",
-      "stateCode": "NY",
-      "fips": "36005",
-      "cases": 12661,
-      "deaths": 451
-    },
-    {
-      "county": "Kings",
-      "state": "New York",
-      "stateCode": "NY",
-      "fips": "36047",
-      "cases": 12661,
-      "deaths": 451
-    },
-    {
-      "county": "New York",
-      "state": "New York",
-      "stateCode": "NY",
-      "fips": "36061",
-      "cases": 12661,
-      "deaths": 451
-    },
-    {
-      "county": "Queens",
-      "state": "New York",
-      "stateCode": "NY",
-      "fips": "36081",
-      "cases": 12661,
-      "deaths": 451
-    },
-    {
-      "county": "Richmond",
-      "state": "New York",
-      "stateCode": "NY",
-      "fips": "36085",
-      "cases": 12661,
-      "deaths": 451
-    },
-    {
-      "county": "Nassau",
-      "state": "New York",
-      "stateCode": "NY",
-      "fips": "36059",
-      "cases": 13346,
-      "deaths": 396
-    },
     {
       "county": "Unknown",
       "state": "New York",
       "stateCode": "NY",
       "fips": "",
       "cases": 0,
-      "deaths": 309
+      "deaths": 678
+    },
+    {
+      "county": "Bronx",
+      "state": "New York",
+      "stateCode": "NY",
+      "fips": "36005",
+      "cases": 13510,
+      "deaths": 494
+    },
+    {
+      "county": "Kings",
+      "state": "New York",
+      "stateCode": "NY",
+      "fips": "36047",
+      "cases": 13510,
+      "deaths": 494
+    },
+    {
+      "county": "New York",
+      "state": "New York",
+      "stateCode": "NY",
+      "fips": "36061",
+      "cases": 13510,
+      "deaths": 494
+    },
+    {
+      "county": "Queens",
+      "state": "New York",
+      "stateCode": "NY",
+      "fips": "36081",
+      "cases": 13510,
+      "deaths": 494
+    },
+    {
+      "county": "Richmond",
+      "state": "New York",
+      "stateCode": "NY",
+      "fips": "36085",
+      "cases": 13510,
+      "deaths": 494
+    },
+    {
+      "county": "Nassau",
+      "state": "New York",
+      "stateCode": "NY",
+      "fips": "36059",
+      "cases": 14398,
+      "deaths": 396
     },
     {
       "county": "Westchester",
       "state": "New York",
       "stateCode": "NY",
       "fips": "36119",
-      "cases": 13080,
+      "cases": 13722,
       "deaths": 197
     },
     {
@@ -77,7 +77,7 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36103",
-      "cases": 12328,
+      "cases": 12933,
       "deaths": 175
     },
     {
@@ -85,7 +85,7 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36087",
-      "cases": 4872,
+      "cases": 5362,
       "deaths": 69
     },
     {
@@ -93,7 +93,7 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36071",
-      "cases": 2741,
+      "cases": 3102,
       "deaths": 51
     },
     {
@@ -101,23 +101,23 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36029",
-      "cases": 945,
-      "deaths": 26
+      "cases": 1059,
+      "deaths": 27
     },
     {
       "county": "Monroe",
       "state": "New York",
       "stateCode": "NY",
       "fips": "36055",
-      "cases": 512,
-      "deaths": 17
+      "cases": 548,
+      "deaths": 19
     },
     {
       "county": "Dutchess",
       "state": "New York",
       "stateCode": "NY",
       "fips": "36027",
-      "cases": 938,
+      "cases": 1077,
       "deaths": 11
     },
     {
@@ -125,31 +125,31 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36079",
-      "cases": 283,
+      "cases": 314,
       "deaths": 9
-    },
-    {
-      "county": "Schenectady",
-      "state": "New York",
-      "stateCode": "NY",
-      "fips": "36093",
-      "cases": 117,
-      "deaths": 6
     },
     {
       "county": "Albany",
       "state": "New York",
       "stateCode": "NY",
       "fips": "36001",
-      "cases": 293,
-      "deaths": 6
+      "cases": 305,
+      "deaths": 8
+    },
+    {
+      "county": "Schenectady",
+      "state": "New York",
+      "stateCode": "NY",
+      "fips": "36093",
+      "cases": 128,
+      "deaths": 7
     },
     {
       "county": "Sullivan",
       "state": "New York",
       "stateCode": "NY",
       "fips": "36105",
-      "cases": 193,
+      "cases": 234,
       "deaths": 5
     },
     {
@@ -157,15 +157,7 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36007",
-      "cases": 65,
-      "deaths": 4
-    },
-    {
-      "county": "Ulster",
-      "state": "New York",
-      "stateCode": "NY",
-      "fips": "36111",
-      "cases": 318,
+      "cases": 71,
       "deaths": 4
     },
     {
@@ -174,6 +166,14 @@
       "stateCode": "NY",
       "fips": "36067",
       "cases": 349,
+      "deaths": 4
+    },
+    {
+      "county": "Ulster",
+      "state": "New York",
+      "stateCode": "NY",
+      "fips": "36111",
+      "cases": 358,
       "deaths": 4
     },
     {
@@ -197,7 +197,7 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36077",
-      "cases": 26,
+      "cases": 29,
       "deaths": 2
     },
     {
@@ -209,19 +209,19 @@
       "deaths": 2
     },
     {
-      "county": "Madison",
-      "state": "New York",
-      "stateCode": "NY",
-      "fips": "36053",
-      "cases": 77,
-      "deaths": 2
-    },
-    {
       "county": "Oneida",
       "state": "New York",
       "stateCode": "NY",
       "fips": "36065",
-      "cases": 80,
+      "cases": 87,
+      "deaths": 2
+    },
+    {
+      "county": "Madison",
+      "state": "New York",
+      "stateCode": "NY",
+      "fips": "36053",
+      "cases": 89,
       "deaths": 2
     },
     {
@@ -229,7 +229,7 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36057",
-      "cases": 13,
+      "cases": 15,
       "deaths": 1
     },
     {
@@ -245,14 +245,6 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36115",
-      "cases": 17,
-      "deaths": 1
-    },
-    {
-      "county": "Wyoming",
-      "state": "New York",
-      "stateCode": "NY",
-      "fips": "36121",
       "cases": 18,
       "deaths": 1
     },
@@ -261,15 +253,15 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36051",
-      "cases": 18,
+      "cases": 19,
       "deaths": 1
     },
     {
-      "county": "Warren",
+      "county": "Wyoming",
       "state": "New York",
       "stateCode": "NY",
-      "fips": "36113",
-      "cases": 20,
+      "fips": "36121",
+      "cases": 22,
       "deaths": 1
     },
     {
@@ -277,7 +269,15 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36037",
-      "cases": 21,
+      "cases": 22,
+      "deaths": 1
+    },
+    {
+      "county": "Warren",
+      "state": "New York",
+      "stateCode": "NY",
+      "fips": "36113",
+      "cases": 25,
       "deaths": 1
     },
     {
@@ -301,7 +301,7 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36083",
-      "cases": 73,
+      "cases": 74,
       "deaths": 1
     },
     {
@@ -309,7 +309,7 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36091",
-      "cases": 141,
+      "cases": 148,
       "deaths": 1
     },
     {
@@ -369,22 +369,6 @@
       "deaths": 0
     },
     {
-      "county": "Lewis",
-      "state": "New York",
-      "stateCode": "NY",
-      "fips": "36049",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Seneca",
-      "state": "New York",
-      "stateCode": "NY",
-      "fips": "36099",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
       "county": "Essex",
       "state": "New York",
       "stateCode": "NY",
@@ -409,10 +393,10 @@
       "deaths": 0
     },
     {
-      "county": "Cattaraugus",
+      "county": "Lewis",
       "state": "New York",
       "stateCode": "NY",
-      "fips": "36009",
+      "fips": "36049",
       "cases": 8,
       "deaths": 0
     },
@@ -425,11 +409,11 @@
       "deaths": 0
     },
     {
-      "county": "Orleans",
+      "county": "Seneca",
       "state": "New York",
       "stateCode": "NY",
-      "fips": "36073",
-      "cases": 10,
+      "fips": "36099",
+      "cases": 9,
       "deaths": 0
     },
     {
@@ -441,10 +425,26 @@
       "deaths": 0
     },
     {
+      "county": "Cattaraugus",
+      "state": "New York",
+      "stateCode": "NY",
+      "fips": "36009",
+      "cases": 10,
+      "deaths": 0
+    },
+    {
       "county": "Schoharie",
       "state": "New York",
       "stateCode": "NY",
       "fips": "36095",
+      "cases": 11,
+      "deaths": 0
+    },
+    {
+      "county": "Orleans",
+      "state": "New York",
+      "stateCode": "NY",
+      "fips": "36073",
       "cases": 11,
       "deaths": 0
     },
@@ -469,7 +469,7 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36045",
-      "cases": 20,
+      "cases": 26,
       "deaths": 0
     },
     {
@@ -485,7 +485,7 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36117",
-      "cases": 30,
+      "cases": 32,
       "deaths": 0
     },
     {
@@ -493,7 +493,7 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36019",
-      "cases": 31,
+      "cases": 33,
       "deaths": 0
     },
     {
@@ -509,7 +509,7 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36015",
-      "cases": 36,
+      "cases": 38,
       "deaths": 0
     },
     {
@@ -517,7 +517,7 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36017",
-      "cases": 39,
+      "cases": 43,
       "deaths": 0
     },
     {
@@ -533,7 +533,7 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36109",
-      "cases": 87,
+      "cases": 95,
       "deaths": 0
     },
     {
@@ -541,7 +541,7 @@
       "state": "New York",
       "stateCode": "NY",
       "fips": "36063",
-      "cases": 103,
+      "cases": 116,
       "deaths": 0
     }
   ]

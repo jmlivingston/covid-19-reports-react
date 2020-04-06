@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Utah",
-    "cases": 1428,
-    "casesMax": 650,
+    "cases": 1605,
+    "casesMax": 741,
     "deaths": 8,
     "deathsMax": 4,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "",
-      "cases": 0,
+      "cases": 14,
       "deaths": 4
     },
     {
@@ -21,7 +21,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49011",
-      "cases": 137,
+      "cases": 142,
       "deaths": 2
     },
     {
@@ -29,7 +29,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49057",
-      "cases": 63,
+      "cases": 53,
       "deaths": 1
     },
     {
@@ -37,7 +37,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49035",
-      "cases": 650,
+      "cases": 741,
       "deaths": 1
     },
     {
@@ -53,14 +53,6 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49017",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Kane",
-      "state": "Utah",
-      "stateCode": "UT",
-      "fips": "49025",
       "cases": 1,
       "deaths": 0
     },
@@ -113,6 +105,14 @@
       "deaths": 0
     },
     {
+      "county": "Kane",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49025",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
       "county": "Morgan",
       "state": "Utah",
       "stateCode": "UT",
@@ -141,15 +141,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49021",
-      "cases": 10,
-      "deaths": 0
-    },
-    {
-      "county": "Cache",
-      "state": "Utah",
-      "stateCode": "UT",
-      "fips": "49005",
-      "cases": 15,
+      "cases": 13,
       "deaths": 0
     },
     {
@@ -157,7 +149,15 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49045",
-      "cases": 17,
+      "cases": 19,
+      "deaths": 0
+    },
+    {
+      "county": "Cache",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49005",
+      "cases": 19,
       "deaths": 0
     },
     {
@@ -165,7 +165,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49053",
-      "cases": 21,
+      "cases": 24,
       "deaths": 0
     },
     {
@@ -173,7 +173,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49051",
-      "cases": 70,
+      "cases": 78,
       "deaths": 0
     },
     {
@@ -181,7 +181,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49049",
-      "cases": 186,
+      "cases": 216,
       "deaths": 0
     },
     {
@@ -189,7 +189,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49043",
-      "cases": 230,
+      "cases": 256,
       "deaths": 0
     }
   ]

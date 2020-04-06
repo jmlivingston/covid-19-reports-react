@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Kansas",
-    "cases": 701,
-    "casesMax": 185,
-    "deaths": 21,
-    "deathsMax": 7,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "cases": 765,
+    "casesMax": 192,
+    "deaths": 23,
+    "deathsMax": 8,
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
     {
@@ -13,32 +13,40 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20091",
-      "cases": 185,
-      "deaths": 7
+      "cases": 192,
+      "deaths": 8
     },
     {
       "county": "Wyandotte",
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20209",
-      "cases": 149,
+      "cases": 161,
       "deaths": 6
-    },
-    {
-      "county": "Montgomery",
-      "state": "Kansas",
-      "stateCode": "KS",
-      "fips": "20125",
-      "cases": 6,
-      "deaths": 2
     },
     {
       "county": "Shawnee",
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20177",
-      "cases": 27,
+      "cases": 38,
+      "deaths": 3
+    },
+    {
+      "county": "Montgomery",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20125",
+      "cases": 8,
       "deaths": 2
+    },
+    {
+      "county": "Saline",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20169",
+      "cases": 5,
+      "deaths": 1
     },
     {
       "county": "Crawford",
@@ -49,19 +57,11 @@
       "deaths": 1
     },
     {
-      "county": "Coffey",
-      "state": "Kansas",
-      "stateCode": "KS",
-      "fips": "20031",
-      "cases": 23,
-      "deaths": 1
-    },
-    {
       "county": "Leavenworth",
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20103",
-      "cases": 33,
+      "cases": 38,
       "deaths": 1
     },
     {
@@ -69,8 +69,16 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20173",
-      "cases": 97,
+      "cases": 108,
       "deaths": 1
+    },
+    {
+      "county": "Ford",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20057",
+      "cases": 1,
+      "deaths": 0
     },
     {
       "county": "Jackson",
@@ -169,11 +177,19 @@
       "deaths": 0
     },
     {
-      "county": "Ford",
+      "county": "Republic",
       "state": "Kansas",
       "stateCode": "KS",
-      "fips": "20057",
-      "cases": 2,
+      "fips": "20157",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Wabaunsee",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20197",
+      "cases": 1,
       "deaths": 0
     },
     {
@@ -225,14 +241,6 @@
       "deaths": 0
     },
     {
-      "county": "Ottawa",
-      "state": "Kansas",
-      "stateCode": "KS",
-      "fips": "20143",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Miami",
       "state": "Kansas",
       "stateCode": "KS",
@@ -265,6 +273,14 @@
       "deaths": 0
     },
     {
+      "county": "Geary",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20061",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
       "county": "Bourbon",
       "state": "Kansas",
       "stateCode": "KS",
@@ -289,6 +305,14 @@
       "deaths": 0
     },
     {
+      "county": "Ottawa",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20143",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "Barton",
       "state": "Kansas",
       "stateCode": "KS",
@@ -302,14 +326,6 @@
       "stateCode": "KS",
       "fips": "20019",
       "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Saline",
-      "state": "Kansas",
-      "stateCode": "KS",
-      "fips": "20169",
-      "cases": 4,
       "deaths": 0
     },
     {
@@ -345,14 +361,6 @@
       "deaths": 0
     },
     {
-      "county": "McPherson",
-      "state": "Kansas",
-      "stateCode": "KS",
-      "fips": "20113",
-      "cases": 8,
-      "deaths": 0
-    },
-    {
       "county": "Franklin",
       "state": "Kansas",
       "stateCode": "KS",
@@ -361,11 +369,19 @@
       "deaths": 0
     },
     {
+      "county": "McPherson",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20113",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
       "county": "Reno",
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20155",
-      "cases": 9,
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -373,7 +389,7 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20055",
-      "cases": 9,
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -381,7 +397,7 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20161",
-      "cases": 11,
+      "cases": 13,
       "deaths": 0
     },
     {
@@ -389,7 +405,15 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20111",
-      "cases": 19,
+      "cases": 23,
+      "deaths": 0
+    },
+    {
+      "county": "Coffey",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20031",
+      "cases": 24,
       "deaths": 0
     },
     {
@@ -397,7 +421,7 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20045",
-      "cases": 32,
+      "cases": 33,
       "deaths": 0
     }
   ]

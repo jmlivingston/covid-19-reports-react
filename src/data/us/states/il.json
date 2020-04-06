@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Illinois",
-    "cases": 10358,
-    "casesMax": 7439,
-    "deaths": 248,
-    "deathsMax": 167,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "cases": 11277,
+    "casesMax": 8043,
+    "deaths": 283,
+    "deathsMax": 186,
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
     {
@@ -13,55 +13,55 @@
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17031",
-      "cases": 7439,
-      "deaths": 167
+      "cases": 8043,
+      "deaths": 186
     },
     {
       "county": "DuPage",
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17043",
-      "cases": 590,
-      "deaths": 18
-    },
-    {
-      "county": "Lake",
-      "state": "Illinois",
-      "stateCode": "IL",
-      "fips": "17097",
-      "cases": 689,
-      "deaths": 14
+      "cases": 656,
+      "deaths": 22
     },
     {
       "county": "Kane",
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17089",
-      "cases": 207,
-      "deaths": 12
+      "cases": 220,
+      "deaths": 15
     },
     {
       "county": "Will",
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17197",
-      "cases": 606,
-      "deaths": 11
+      "cases": 668,
+      "deaths": 15
+    },
+    {
+      "county": "Lake",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17097",
+      "cases": 742,
+      "deaths": 15
     },
     {
       "county": "Kankakee",
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17091",
-      "cases": 74,
-      "deaths": 5
+      "cases": 76,
+      "deaths": 6
     },
     {
       "county": "Christian",
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17021",
-      "cases": 18,
+      "cases": 21,
       "deaths": 3
     },
     {
@@ -69,7 +69,7 @@
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17163",
-      "cases": 80,
+      "cases": 86,
       "deaths": 3
     },
     {
@@ -77,15 +77,23 @@
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17111",
-      "cases": 122,
+      "cases": 133,
       "deaths": 3
+    },
+    {
+      "county": "Peoria",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17143",
+      "cases": 14,
+      "deaths": 2
     },
     {
       "county": "Sangamon",
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17167",
-      "cases": 31,
+      "cases": 33,
       "deaths": 2
     },
     {
@@ -93,7 +101,7 @@
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17113",
-      "cases": 40,
+      "cases": 46,
       "deaths": 2
     },
     {
@@ -101,8 +109,16 @@
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17093",
-      "cases": 47,
+      "cases": 49,
       "deaths": 2
+    },
+    {
+      "county": "Montgomery",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17135",
+      "cases": 3,
+      "deaths": 1
     },
     {
       "county": "Carroll",
@@ -125,7 +141,7 @@
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17099",
-      "cases": 7,
+      "cases": 8,
       "deaths": 1
     },
     {
@@ -133,7 +149,7 @@
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17077",
-      "cases": 10,
+      "cases": 12,
       "deaths": 1
     },
     {
@@ -141,7 +157,7 @@
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17195",
-      "cases": 15,
+      "cases": 18,
       "deaths": 1
     },
     {
@@ -149,7 +165,7 @@
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17201",
-      "cases": 36,
+      "cases": 42,
       "deaths": 1
     },
     {
@@ -233,22 +249,6 @@
       "deaths": 0
     },
     {
-      "county": "Massac",
-      "state": "Illinois",
-      "stateCode": "IL",
-      "fips": "17127",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Mercer",
-      "state": "Illinois",
-      "stateCode": "IL",
-      "fips": "17131",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Moultrie",
       "state": "Illinois",
       "stateCode": "IL",
@@ -265,26 +265,10 @@
       "deaths": 0
     },
     {
-      "county": "De Witt",
-      "state": "Illinois",
-      "stateCode": "IL",
-      "fips": "17039",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Effingham",
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17049",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Jersey",
-      "state": "Illinois",
-      "stateCode": "IL",
-      "fips": "17083",
       "cases": 1,
       "deaths": 0
     },
@@ -297,18 +281,26 @@
       "deaths": 0
     },
     {
+      "county": "Calhoun",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17013",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Gallatin",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17059",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
       "county": "Fayette",
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17051",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Montgomery",
-      "state": "Illinois",
-      "stateCode": "IL",
-      "fips": "17135",
       "cases": 2,
       "deaths": 0
     },
@@ -321,18 +313,34 @@
       "deaths": 0
     },
     {
-      "county": "Crawford",
+      "county": "Massac",
       "state": "Illinois",
       "stateCode": "IL",
-      "fips": "17033",
+      "fips": "17127",
       "cases": 2,
       "deaths": 0
     },
     {
-      "county": "Jasper",
+      "county": "Mercer",
       "state": "Illinois",
       "stateCode": "IL",
-      "fips": "17079",
+      "fips": "17131",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "De Witt",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17039",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Jersey",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17083",
       "cases": 2,
       "deaths": 0
     },
@@ -385,6 +393,14 @@
       "deaths": 0
     },
     {
+      "county": "Crawford",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17033",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "Marion",
       "state": "Illinois",
       "stateCode": "IL",
@@ -393,11 +409,27 @@
       "deaths": 0
     },
     {
+      "county": "Jasper",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17079",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Boone",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17007",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "Jo Daviess",
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17085",
-      "cases": 4,
+      "cases": 5,
       "deaths": 0
     },
     {
@@ -405,7 +437,7 @@
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17075",
-      "cases": 4,
+      "cases": 5,
       "deaths": 0
     },
     {
@@ -413,22 +445,6 @@
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17141",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "Macoupin",
-      "state": "Illinois",
-      "stateCode": "IL",
-      "fips": "17117",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "Macon",
-      "state": "Illinois",
-      "stateCode": "IL",
-      "fips": "17115",
       "cases": 5,
       "deaths": 0
     },
@@ -441,6 +457,14 @@
       "deaths": 0
     },
     {
+      "county": "Macoupin",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17117",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
       "county": "Woodford",
       "state": "Illinois",
       "stateCode": "IL",
@@ -449,11 +473,19 @@
       "deaths": 0
     },
     {
+      "county": "Macon",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "17115",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
       "county": "Livingston",
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17105",
-      "cases": 6,
+      "cases": 7,
       "deaths": 0
     },
     {
@@ -461,15 +493,7 @@
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17073",
-      "cases": 7,
-      "deaths": 0
-    },
-    {
-      "county": "Monroe",
-      "state": "Illinois",
-      "stateCode": "IL",
-      "fips": "17133",
-      "cases": 9,
+      "cases": 8,
       "deaths": 0
     },
     {
@@ -497,27 +521,19 @@
       "deaths": 0
     },
     {
-      "county": "Tazewell",
+      "county": "Monroe",
       "state": "Illinois",
       "stateCode": "IL",
-      "fips": "17179",
+      "fips": "17133",
       "cases": 10,
       "deaths": 0
     },
     {
-      "county": "Peoria",
+      "county": "Tazewell",
       "state": "Illinois",
       "stateCode": "IL",
-      "fips": "17143",
-      "cases": 11,
-      "deaths": 0
-    },
-    {
-      "county": "Unknown",
-      "state": "Illinois",
-      "stateCode": "IL",
-      "fips": "",
-      "cases": 16,
+      "fips": "17179",
+      "cases": 13,
       "deaths": 0
     },
     {
@@ -525,7 +541,7 @@
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17037",
-      "cases": 19,
+      "cases": 22,
       "deaths": 0
     },
     {
@@ -533,7 +549,7 @@
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17157",
-      "cases": 20,
+      "cases": 24,
       "deaths": 0
     },
     {
@@ -541,7 +557,7 @@
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17161",
-      "cases": 29,
+      "cases": 40,
       "deaths": 0
     },
     {
@@ -549,7 +565,15 @@
       "state": "Illinois",
       "stateCode": "IL",
       "fips": "17119",
-      "cases": 47,
+      "cases": 48,
+      "deaths": 0
+    },
+    {
+      "county": "Unknown",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "fips": "",
+      "cases": 48,
       "deaths": 0
     },
     {

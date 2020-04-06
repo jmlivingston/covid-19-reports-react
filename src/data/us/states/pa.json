@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Pennsylvania",
-    "cases": 10110,
-    "casesMax": 2610,
-    "deaths": 141,
-    "deathsMax": 24,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "cases": 11590,
+    "casesMax": 3135,
+    "deaths": 160,
+    "deathsMax": 28,
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
     {
@@ -13,39 +13,39 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42101",
-      "cases": 2610,
-      "deaths": 24
+      "cases": 3135,
+      "deaths": 28
     },
     {
       "county": "Montgomery",
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42091",
-      "cases": 982,
-      "deaths": 17
+      "cases": 1111,
+      "deaths": 22
     },
     {
       "county": "Bucks",
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42017",
-      "cases": 580,
-      "deaths": 14
+      "cases": 634,
+      "deaths": 17
     },
     {
       "county": "Delaware",
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42045",
-      "cases": 616,
-      "deaths": 13
+      "cases": 708,
+      "deaths": 14
     },
     {
       "county": "Monroe",
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42089",
-      "cases": 484,
+      "cases": 528,
       "deaths": 11
     },
     {
@@ -53,23 +53,31 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42095",
-      "cases": 588,
+      "cases": 636,
       "deaths": 11
+    },
+    {
+      "county": "Lancaster",
+      "state": "Pennsylvania",
+      "stateCode": "PA",
+      "fips": "42071",
+      "cases": 371,
+      "deaths": 8
     },
     {
       "county": "Lehigh",
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42077",
-      "cases": 804,
-      "deaths": 7
+      "cases": 877,
+      "deaths": 8
     },
     {
       "county": "Beaver",
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42007",
-      "cases": 69,
+      "cases": 84,
       "deaths": 6
     },
     {
@@ -77,23 +85,15 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42069",
-      "cases": 146,
+      "cases": 172,
       "deaths": 6
-    },
-    {
-      "county": "Lancaster",
-      "state": "Pennsylvania",
-      "stateCode": "PA",
-      "fips": "42071",
-      "cases": 291,
-      "deaths": 5
     },
     {
       "county": "Luzerne",
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42079",
-      "cases": 648,
+      "cases": 741,
       "deaths": 5
     },
     {
@@ -101,7 +101,15 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42003",
-      "cases": 552,
+      "cases": 605,
+      "deaths": 4
+    },
+    {
+      "county": "Berks",
+      "state": "Pennsylvania",
+      "stateCode": "PA",
+      "fips": "42011",
+      "cases": 276,
       "deaths": 3
     },
     {
@@ -109,7 +117,7 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42073",
-      "cases": 22,
+      "cases": 23,
       "deaths": 2
     },
     {
@@ -117,7 +125,7 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42041",
-      "cases": 54,
+      "cases": 58,
       "deaths": 2
     },
     {
@@ -125,15 +133,7 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42019",
-      "cases": 84,
-      "deaths": 2
-    },
-    {
-      "county": "Berks",
-      "state": "Pennsylvania",
-      "stateCode": "PA",
-      "fips": "42011",
-      "cases": 235,
+      "cases": 87,
       "deaths": 2
     },
     {
@@ -141,7 +141,7 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42029",
-      "cases": 250,
+      "cases": 269,
       "deaths": 2
     },
     {
@@ -165,7 +165,7 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42109",
-      "cases": 6,
+      "cases": 8,
       "deaths": 1
     },
     {
@@ -181,7 +181,7 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42051",
-      "cases": 23,
+      "cases": 27,
       "deaths": 1
     },
     {
@@ -189,7 +189,7 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42025",
-      "cases": 46,
+      "cases": 50,
       "deaths": 1
     },
     {
@@ -197,7 +197,7 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42103",
-      "cases": 97,
+      "cases": 114,
       "deaths": 1
     },
     {
@@ -205,7 +205,7 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42043",
-      "cases": 99,
+      "cases": 118,
       "deaths": 1
     },
     {
@@ -213,7 +213,7 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42133",
-      "cases": 144,
+      "cases": 171,
       "deaths": 1
     },
     {
@@ -257,11 +257,11 @@
       "deaths": 0
     },
     {
-      "county": "Forest",
+      "county": "Fulton",
       "state": "Pennsylvania",
       "stateCode": "PA",
-      "fips": "42053",
-      "cases": 2,
+      "fips": "42057",
+      "cases": 1,
       "deaths": 0
     },
     {
@@ -269,14 +269,6 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42105",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Somerset",
-      "state": "Pennsylvania",
-      "stateCode": "PA",
-      "fips": "42111",
       "cases": 3,
       "deaths": 0
     },
@@ -297,10 +289,18 @@
       "deaths": 0
     },
     {
-      "county": "Clarion",
+      "county": "Forest",
       "state": "Pennsylvania",
       "stateCode": "PA",
-      "fips": "42031",
+      "fips": "42053",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Somerset",
+      "state": "Pennsylvania",
+      "stateCode": "PA",
+      "fips": "42111",
       "cases": 4,
       "deaths": 0
     },
@@ -313,14 +313,6 @@
       "deaths": 0
     },
     {
-      "county": "Mifflin",
-      "state": "Pennsylvania",
-      "stateCode": "PA",
-      "fips": "42087",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
       "county": "Bedford",
       "state": "Pennsylvania",
       "stateCode": "PA",
@@ -329,26 +321,10 @@
       "deaths": 0
     },
     {
-      "county": "Crawford",
+      "county": "Clarion",
       "state": "Pennsylvania",
       "stateCode": "PA",
-      "fips": "42039",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Susquehanna",
-      "state": "Pennsylvania",
-      "stateCode": "PA",
-      "fips": "42115",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Union",
-      "state": "Pennsylvania",
-      "stateCode": "PA",
-      "fips": "42119",
+      "fips": "42031",
       "cases": 5,
       "deaths": 0
     },
@@ -361,19 +337,35 @@
       "deaths": 0
     },
     {
-      "county": "Cambria",
-      "state": "Pennsylvania",
-      "stateCode": "PA",
-      "fips": "42021",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
       "county": "Blair",
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42013",
       "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Susquehanna",
+      "state": "Pennsylvania",
+      "stateCode": "PA",
+      "fips": "42115",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Union",
+      "state": "Pennsylvania",
+      "stateCode": "PA",
+      "fips": "42119",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Cambria",
+      "state": "Pennsylvania",
+      "stateCode": "PA",
+      "fips": "42021",
+      "cases": 7,
       "deaths": 0
     },
     {
@@ -393,18 +385,26 @@
       "deaths": 0
     },
     {
-      "county": "Indiana",
+      "county": "Crawford",
       "state": "Pennsylvania",
       "stateCode": "PA",
-      "fips": "42063",
+      "fips": "42039",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Lycoming",
+      "state": "Pennsylvania",
+      "stateCode": "PA",
+      "fips": "42081",
       "cases": 9,
       "deaths": 0
     },
     {
-      "county": "Northumberland",
+      "county": "Mifflin",
       "state": "Pennsylvania",
       "stateCode": "PA",
-      "fips": "42097",
+      "fips": "42087",
       "cases": 9,
       "deaths": 0
     },
@@ -413,14 +413,6 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42015",
-      "cases": 10,
-      "deaths": 0
-    },
-    {
-      "county": "Lycoming",
-      "state": "Pennsylvania",
-      "stateCode": "PA",
-      "fips": "42081",
       "cases": 10,
       "deaths": 0
     },
@@ -441,27 +433,27 @@
       "deaths": 0
     },
     {
-      "county": "Mercer",
+      "county": "Indiana",
       "state": "Pennsylvania",
       "stateCode": "PA",
-      "fips": "42085",
+      "fips": "42063",
+      "cases": 13,
+      "deaths": 0
+    },
+    {
+      "county": "Northumberland",
+      "state": "Pennsylvania",
+      "stateCode": "PA",
+      "fips": "42097",
       "cases": 14,
       "deaths": 0
     },
     {
-      "county": "Montour",
+      "county": "Mercer",
       "state": "Pennsylvania",
       "stateCode": "PA",
-      "fips": "42093",
-      "cases": 19,
-      "deaths": 0
-    },
-    {
-      "county": "Columbia",
-      "state": "Pennsylvania",
-      "stateCode": "PA",
-      "fips": "42037",
-      "cases": 20,
+      "fips": "42085",
+      "cases": 18,
       "deaths": 0
     },
     {
@@ -469,7 +461,15 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42001",
-      "cases": 21,
+      "cases": 22,
+      "deaths": 0
+    },
+    {
+      "county": "Columbia",
+      "state": "Pennsylvania",
+      "stateCode": "PA",
+      "fips": "42037",
+      "cases": 22,
       "deaths": 0
     },
     {
@@ -477,7 +477,7 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42055",
-      "cases": 27,
+      "cases": 30,
       "deaths": 0
     },
     {
@@ -485,7 +485,15 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42127",
-      "cases": 28,
+      "cases": 33,
+      "deaths": 0
+    },
+    {
+      "county": "Montour",
+      "state": "Pennsylvania",
+      "stateCode": "PA",
+      "fips": "42093",
+      "cases": 37,
       "deaths": 0
     },
     {
@@ -493,7 +501,7 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42027",
-      "cases": 39,
+      "cases": 43,
       "deaths": 0
     },
     {
@@ -501,7 +509,7 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42125",
-      "cases": 46,
+      "cases": 50,
       "deaths": 0
     },
     {
@@ -509,7 +517,7 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42107",
-      "cases": 77,
+      "cases": 90,
       "deaths": 0
     },
     {
@@ -517,7 +525,7 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42075",
-      "cases": 87,
+      "cases": 106,
       "deaths": 0
     },
     {
@@ -525,7 +533,7 @@
       "state": "Pennsylvania",
       "stateCode": "PA",
       "fips": "42129",
-      "cases": 135,
+      "cases": 147,
       "deaths": 0
     }
   ]

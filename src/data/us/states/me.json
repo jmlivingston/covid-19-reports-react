@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Maine",
-    "cases": 456,
-    "casesMax": 231,
+    "cases": 470,
+    "casesMax": 238,
     "deaths": 10,
     "deathsMax": 7,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "Maine",
       "stateCode": "ME",
       "fips": "23005",
-      "cases": 231,
+      "cases": 238,
       "deaths": 7
     },
     {
@@ -21,7 +21,7 @@
       "state": "Maine",
       "stateCode": "ME",
       "fips": "23031",
-      "cases": 95,
+      "cases": 101,
       "deaths": 2
     },
     {
@@ -29,7 +29,7 @@
       "state": "Maine",
       "stateCode": "ME",
       "fips": "23011",
-      "cases": 21,
+      "cases": 22,
       "deaths": 1
     },
     {
@@ -65,18 +65,18 @@
       "deaths": 0
     },
     {
-      "county": "Somerset",
-      "state": "Maine",
-      "stateCode": "ME",
-      "fips": "23025",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
       "county": "Franklin",
       "state": "Maine",
       "stateCode": "ME",
       "fips": "23007",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Somerset",
+      "state": "Maine",
+      "stateCode": "ME",
+      "fips": "23025",
       "cases": 4,
       "deaths": 0
     },
@@ -97,19 +97,19 @@
       "deaths": 0
     },
     {
+      "county": "Unknown",
+      "state": "Maine",
+      "stateCode": "ME",
+      "fips": "",
+      "cases": 11,
+      "deaths": 0
+    },
+    {
       "county": "Oxford",
       "state": "Maine",
       "stateCode": "ME",
       "fips": "23017",
       "cases": 11,
-      "deaths": 0
-    },
-    {
-      "county": "Unknown",
-      "state": "Maine",
-      "stateCode": "ME",
-      "fips": "",
-      "cases": 12,
       "deaths": 0
     },
     {

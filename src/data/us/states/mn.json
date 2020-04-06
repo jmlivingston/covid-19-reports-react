@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Minnesota",
-    "cases": 865,
-    "casesMax": 252,
-    "deaths": 24,
-    "deathsMax": 9,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "cases": 928,
+    "casesMax": 267,
+    "deaths": 29,
+    "deathsMax": 11,
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
     {
@@ -13,8 +13,16 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27053",
-      "cases": 252,
-      "deaths": 9
+      "cases": 267,
+      "deaths": 11
+    },
+    {
+      "county": "Unknown",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "",
+      "cases": 0,
+      "deaths": 4
     },
     {
       "county": "Martin",
@@ -25,19 +33,19 @@
       "deaths": 4
     },
     {
-      "county": "Unknown",
+      "county": "Dakota",
       "state": "Minnesota",
       "stateCode": "MN",
-      "fips": "",
-      "cases": 2,
-      "deaths": 3
+      "fips": "27037",
+      "cases": 63,
+      "deaths": 2
     },
     {
       "county": "Ramsey",
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27123",
-      "cases": 79,
+      "cases": 91,
       "deaths": 2
     },
     {
@@ -45,7 +53,7 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27109",
-      "cases": 88,
+      "cases": 95,
       "deaths": 2
     },
     {
@@ -61,7 +69,7 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27139",
-      "cases": 12,
+      "cases": 13,
       "deaths": 1
     },
     {
@@ -69,15 +77,15 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27169",
-      "cases": 13,
+      "cases": 14,
       "deaths": 1
     },
     {
-      "county": "Dakota",
+      "county": "Washington",
       "state": "Minnesota",
       "stateCode": "MN",
-      "fips": "27037",
-      "cases": 56,
+      "fips": "27163",
+      "cases": 62,
       "deaths": 1
     },
     {
@@ -201,6 +209,22 @@
       "deaths": 0
     },
     {
+      "county": "Houston",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27055",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Pipestone",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27117",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
       "county": "Renville",
       "state": "Minnesota",
       "stateCode": "MN",
@@ -273,22 +297,6 @@
       "deaths": 0
     },
     {
-      "county": "Isanti",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27059",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Watonwan",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27165",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
       "county": "Brown",
       "state": "Minnesota",
       "stateCode": "MN",
@@ -313,11 +321,19 @@
       "deaths": 0
     },
     {
-      "county": "Beltrami",
+      "county": "Isanti",
       "state": "Minnesota",
       "stateCode": "MN",
-      "fips": "27007",
-      "cases": 5,
+      "fips": "27059",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Watonwan",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27165",
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -325,14 +341,6 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27033",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Crow Wing",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27035",
       "cases": 5,
       "deaths": 0
     },
@@ -353,11 +361,19 @@
       "deaths": 0
     },
     {
-      "county": "Wright",
+      "county": "Beltrami",
       "state": "Minnesota",
       "stateCode": "MN",
-      "fips": "27171",
-      "cases": 8,
+      "fips": "27007",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Crow Wing",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27035",
+      "cases": 6,
       "deaths": 0
     },
     {
@@ -365,14 +381,6 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27147",
-      "cases": 8,
-      "deaths": 0
-    },
-    {
-      "county": "Goodhue",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27049",
       "cases": 8,
       "deaths": 0
     },
@@ -385,18 +393,10 @@
       "deaths": 0
     },
     {
-      "county": "Fillmore",
+      "county": "Wright",
       "state": "Minnesota",
       "stateCode": "MN",
-      "fips": "27045",
-      "cases": 9,
-      "deaths": 0
-    },
-    {
-      "county": "Sherburne",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27141",
+      "fips": "27171",
       "cases": 9,
       "deaths": 0
     },
@@ -409,10 +409,34 @@
       "deaths": 0
     },
     {
+      "county": "Fillmore",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27045",
+      "cases": 10,
+      "deaths": 0
+    },
+    {
       "county": "Dodge",
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27039",
+      "cases": 10,
+      "deaths": 0
+    },
+    {
+      "county": "Sherburne",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27141",
+      "cases": 10,
+      "deaths": 0
+    },
+    {
+      "county": "Goodhue",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27049",
       "cases": 10,
       "deaths": 0
     },
@@ -433,19 +457,19 @@
       "deaths": 0
     },
     {
-      "county": "St. Louis",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27137",
-      "cases": 13,
-      "deaths": 0
-    },
-    {
       "county": "Blue Earth",
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27013",
-      "cases": 14,
+      "cases": 15,
+      "deaths": 0
+    },
+    {
+      "county": "St. Louis",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27137",
+      "cases": 15,
       "deaths": 0
     },
     {
@@ -470,14 +494,6 @@
       "stateCode": "MN",
       "fips": "27003",
       "cases": 36,
-      "deaths": 0
-    },
-    {
-      "county": "Washington",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27163",
-      "cases": 54,
       "deaths": 0
     }
   ]

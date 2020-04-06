@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "New Hampshire",
-    "cases": 620,
-    "casesMax": 231,
+    "cases": 669,
+    "casesMax": 249,
     "deaths": 9,
     "deathsMax": 7,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33011",
-      "cases": 231,
+      "cases": 249,
       "deaths": 7
     },
     {
@@ -21,7 +21,7 @@
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33019",
-      "cases": 5,
+      "cases": 6,
       "deaths": 1
     },
     {
@@ -29,7 +29,7 @@
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33015",
-      "cases": 213,
+      "cases": 230,
       "deaths": 1
     },
     {
@@ -45,7 +45,7 @@
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "",
-      "cases": 3,
+      "cases": 6,
       "deaths": 0
     },
     {
@@ -53,15 +53,7 @@
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33005",
-      "cases": 10,
-      "deaths": 0
-    },
-    {
-      "county": "Carroll",
-      "state": "New Hampshire",
-      "stateCode": "NH",
-      "fips": "33003",
-      "cases": 17,
+      "cases": 11,
       "deaths": 0
     },
     {
@@ -73,11 +65,11 @@
       "deaths": 0
     },
     {
-      "county": "Merrimack",
+      "county": "Carroll",
       "state": "New Hampshire",
       "stateCode": "NH",
-      "fips": "33013",
-      "cases": 39,
+      "fips": "33003",
+      "cases": 19,
       "deaths": 0
     },
     {
@@ -93,7 +85,15 @@
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33017",
-      "cases": 43,
+      "cases": 44,
+      "deaths": 0
+    },
+    {
+      "county": "Merrimack",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "fips": "33013",
+      "cases": 45,
       "deaths": 0
     }
   ]

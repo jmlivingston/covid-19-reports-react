@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "South Dakota",
-    "cases": 215,
-    "casesMax": 81,
+    "cases": 243,
+    "casesMax": 104,
     "deaths": 2,
     "deathsMax": 1,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
     {
@@ -169,14 +169,6 @@
       "deaths": 0
     },
     {
-      "county": "Spink",
-      "state": "South Dakota",
-      "stateCode": "SD",
-      "fips": "46115",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Hughes",
       "state": "South Dakota",
       "stateCode": "SD",
@@ -209,10 +201,10 @@
       "deaths": 0
     },
     {
-      "county": "Turner",
+      "county": "Spink",
       "state": "South Dakota",
       "stateCode": "SD",
-      "fips": "46125",
+      "fips": "46115",
       "cases": 3,
       "deaths": 0
     },
@@ -221,6 +213,14 @@
       "state": "South Dakota",
       "stateCode": "SD",
       "fips": "46109",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Turner",
+      "state": "South Dakota",
+      "stateCode": "SD",
+      "fips": "46125",
       "cases": 4,
       "deaths": 0
     },
@@ -241,19 +241,19 @@
       "deaths": 0
     },
     {
-      "county": "Codington",
-      "state": "South Dakota",
-      "stateCode": "SD",
-      "fips": "46029",
-      "cases": 9,
-      "deaths": 0
-    },
-    {
       "county": "Lawrence",
       "state": "South Dakota",
       "stateCode": "SD",
       "fips": "46081",
       "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Codington",
+      "state": "South Dakota",
+      "stateCode": "SD",
+      "fips": "46029",
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -269,7 +269,7 @@
       "state": "South Dakota",
       "stateCode": "SD",
       "fips": "46083",
-      "cases": 21,
+      "cases": 23,
       "deaths": 0
     },
     {
@@ -277,7 +277,7 @@
       "state": "South Dakota",
       "stateCode": "SD",
       "fips": "46099",
-      "cases": 81,
+      "cases": 104,
       "deaths": 0
     }
   ]

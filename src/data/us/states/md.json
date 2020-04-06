@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Maryland",
-    "cases": 3125,
-    "casesMax": 653,
-    "deaths": 54,
-    "deathsMax": 13,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "cases": 3609,
+    "casesMax": 785,
+    "deaths": 68,
+    "deathsMax": 16,
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
     {
@@ -13,39 +13,39 @@
       "state": "Maryland",
       "stateCode": "MD",
       "fips": "24033",
-      "cases": 653,
-      "deaths": 13
+      "cases": 785,
+      "deaths": 16
     },
     {
       "county": "Montgomery",
       "state": "Maryland",
       "stateCode": "MD",
       "fips": "24031",
-      "cases": 640,
-      "deaths": 9
+      "cases": 693,
+      "deaths": 13
     },
     {
       "county": "Carroll",
       "state": "Maryland",
       "stateCode": "MD",
       "fips": "24013",
-      "cases": 134,
-      "deaths": 6
-    },
-    {
-      "county": "Anne Arundel",
-      "state": "Maryland",
-      "stateCode": "MD",
-      "fips": "24003",
-      "cases": 289,
-      "deaths": 6
+      "cases": 142,
+      "deaths": 8
     },
     {
       "county": "Baltimore city",
       "state": "Maryland",
       "stateCode": "MD",
       "fips": "24510",
-      "cases": 343,
+      "cases": 394,
+      "deaths": 7
+    },
+    {
+      "county": "Anne Arundel",
+      "state": "Maryland",
+      "stateCode": "MD",
+      "fips": "24003",
+      "cases": 319,
       "deaths": 6
     },
     {
@@ -53,23 +53,31 @@
       "state": "Maryland",
       "stateCode": "MD",
       "fips": "24005",
-      "cases": 491,
-      "deaths": 4
-    },
-    {
-      "county": "Howard",
-      "state": "Maryland",
-      "stateCode": "MD",
-      "fips": "24027",
-      "cases": 180,
-      "deaths": 3
+      "cases": 590,
+      "deaths": 6
     },
     {
       "county": "Frederick",
       "state": "Maryland",
       "stateCode": "MD",
       "fips": "24021",
-      "cases": 73,
+      "cases": 112,
+      "deaths": 3
+    },
+    {
+      "county": "Howard",
+      "state": "Maryland",
+      "stateCode": "MD",
+      "fips": "24027",
+      "cases": 199,
+      "deaths": 3
+    },
+    {
+      "county": "Charles",
+      "state": "Maryland",
+      "stateCode": "MD",
+      "fips": "24017",
+      "cases": 111,
       "deaths": 2
     },
     {
@@ -77,7 +85,7 @@
       "state": "Maryland",
       "stateCode": "MD",
       "fips": "24041",
-      "cases": 6,
+      "cases": 7,
       "deaths": 1
     },
     {
@@ -85,15 +93,7 @@
       "state": "Maryland",
       "stateCode": "MD",
       "fips": "24045",
-      "cases": 8,
-      "deaths": 1
-    },
-    {
-      "county": "Calvert",
-      "state": "Maryland",
-      "stateCode": "MD",
-      "fips": "24009",
-      "cases": 33,
+      "cases": 11,
       "deaths": 1
     },
     {
@@ -101,15 +101,15 @@
       "state": "Maryland",
       "stateCode": "MD",
       "fips": "24015",
-      "cases": 33,
+      "cases": 36,
       "deaths": 1
     },
     {
-      "county": "Charles",
+      "county": "Calvert",
       "state": "Maryland",
       "stateCode": "MD",
-      "fips": "24017",
-      "cases": 95,
+      "fips": "24009",
+      "cases": 39,
       "deaths": 1
     },
     {
@@ -125,14 +125,6 @@
       "state": "Maryland",
       "stateCode": "MD",
       "fips": "24023",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Allegany",
-      "state": "Maryland",
-      "stateCode": "MD",
-      "fips": "24001",
       "cases": 3,
       "deaths": 0
     },
@@ -161,11 +153,19 @@
       "deaths": 0
     },
     {
+      "county": "Allegany",
+      "state": "Maryland",
+      "stateCode": "MD",
+      "fips": "24001",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
       "county": "Worcester",
       "state": "Maryland",
       "stateCode": "MD",
       "fips": "24047",
-      "cases": 7,
+      "cases": 9,
       "deaths": 0
     },
     {
@@ -181,7 +181,7 @@
       "state": "Maryland",
       "stateCode": "MD",
       "fips": "24043",
-      "cases": 29,
+      "cases": 34,
       "deaths": 0
     },
     {
@@ -189,7 +189,7 @@
       "state": "Maryland",
       "stateCode": "MD",
       "fips": "24037",
-      "cases": 34,
+      "cases": 40,
       "deaths": 0
     },
     {
@@ -197,7 +197,7 @@
       "state": "Maryland",
       "stateCode": "MD",
       "fips": "24025",
-      "cases": 44,
+      "cases": 52,
       "deaths": 0
     }
   ]

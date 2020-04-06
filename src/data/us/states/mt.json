@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Montana",
-    "cases": 281,
-    "casesMax": 109,
+    "cases": 298,
+    "casesMax": 115,
     "deaths": 6,
     "deathsMax": 3,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
     {
@@ -13,23 +13,23 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30101",
-      "cases": 15,
+      "cases": 16,
       "deaths": 3
-    },
-    {
-      "county": "Madison",
-      "state": "Montana",
-      "stateCode": "MT",
-      "fips": "30057",
-      "cases": 6,
-      "deaths": 1
     },
     {
       "county": "Lincoln",
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30053",
-      "cases": 6,
+      "cases": 7,
+      "deaths": 1
+    },
+    {
+      "county": "Madison",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30057",
+      "cases": 9,
       "deaths": 1
     },
     {
@@ -37,7 +37,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30063",
-      "cases": 19,
+      "cases": 21,
       "deaths": 1
     },
     {
@@ -181,7 +181,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30029",
-      "cases": 23,
+      "cases": 25,
       "deaths": 0
     },
     {
@@ -189,7 +189,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30111",
-      "cases": 38,
+      "cases": 40,
       "deaths": 0
     },
     {
@@ -197,7 +197,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30031",
-      "cases": 109,
+      "cases": 115,
       "deaths": 0
     }
   ]

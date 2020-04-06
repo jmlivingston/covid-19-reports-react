@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "New Mexico",
-    "cases": 546,
-    "casesMax": 225,
-    "deaths": 11,
+    "cases": 626,
+    "casesMax": 246,
+    "deaths": 12,
     "deathsMax": 7,
-    "lastUpdated": "Sun, 05 Apr 2020 21:23:40 GMT"
+    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
   },
   "data": [
     {
@@ -13,15 +13,23 @@
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35001",
-      "cases": 225,
+      "cases": 246,
       "deaths": 7
+    },
+    {
+      "county": "McKinley",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35031",
+      "cases": 40,
+      "deaths": 2
     },
     {
       "county": "Sandoval",
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35043",
-      "cases": 69,
+      "cases": 103,
       "deaths": 2
     },
     {
@@ -30,14 +38,6 @@
       "stateCode": "NM",
       "fips": "35015",
       "cases": 4,
-      "deaths": 1
-    },
-    {
-      "county": "McKinley",
-      "state": "New Mexico",
-      "stateCode": "NM",
-      "fips": "35031",
-      "cases": 32,
       "deaths": 1
     },
     {
@@ -81,26 +81,10 @@
       "deaths": 0
     },
     {
-      "county": "Los Alamos",
-      "state": "New Mexico",
-      "stateCode": "NM",
-      "fips": "35028",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Lea",
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35025",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Otero",
-      "state": "New Mexico",
-      "stateCode": "NM",
-      "fips": "35035",
       "cases": 2,
       "deaths": 0
     },
@@ -113,18 +97,26 @@
       "deaths": 0
     },
     {
+      "county": "Los Alamos",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35028",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Otero",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35035",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "Socorro",
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35053",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "Valencia",
-      "state": "New Mexico",
-      "stateCode": "NM",
-      "fips": "35061",
       "cases": 5,
       "deaths": 0
     },
@@ -153,11 +145,11 @@
       "deaths": 0
     },
     {
-      "county": "Cibola",
+      "county": "Valencia",
       "state": "New Mexico",
       "stateCode": "NM",
-      "fips": "35006",
-      "cases": 12,
+      "fips": "35061",
+      "cases": 7,
       "deaths": 0
     },
     {
@@ -177,19 +169,19 @@
       "deaths": 0
     },
     {
+      "county": "Cibola",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35006",
+      "cases": 14,
+      "deaths": 0
+    },
+    {
       "county": "Doña Ana",
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35013",
-      "cases": 23,
-      "deaths": 0
-    },
-    {
-      "county": "Santa Fe",
-      "state": "New Mexico",
-      "stateCode": "NM",
-      "fips": "35049",
-      "cases": 58,
+      "cases": 29,
       "deaths": 0
     },
     {
@@ -198,6 +190,14 @@
       "stateCode": "NM",
       "fips": "35045",
       "cases": 58,
+      "deaths": 0
+    },
+    {
+      "county": "Santa Fe",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35049",
+      "cases": 62,
       "deaths": 0
     }
   ]
