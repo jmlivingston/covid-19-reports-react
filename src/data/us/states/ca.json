@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "California",
-    "cases": 15202,
-    "casesMax": 5940,
-    "deaths": 351,
-    "deathsMax": 132,
-    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
+    "cases": 16284,
+    "casesMax": 6360,
+    "deaths": 386,
+    "deathsMax": 147,
+    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
   },
   "data": [
     {
@@ -13,15 +13,15 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06037",
-      "cases": 5940,
-      "deaths": 132
+      "cases": 6360,
+      "deaths": 147
     },
     {
       "county": "Santa Clara",
       "state": "California",
       "stateCode": "CA",
       "fips": "06085",
-      "cases": 1207,
+      "cases": 1224,
       "deaths": 40
     },
     {
@@ -29,8 +29,8 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06065",
-      "cases": 799,
-      "deaths": 19
+      "cases": 946,
+      "deaths": 25
     },
     {
       "county": "San Diego",
@@ -45,7 +45,15 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06067",
-      "cases": 441,
+      "cases": 461,
+      "deaths": 18
+    },
+    {
+      "county": "San Bernardino",
+      "state": "California",
+      "stateCode": "CA",
+      "fips": "06071",
+      "cases": 530,
       "deaths": 16
     },
     {
@@ -53,23 +61,15 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06059",
-      "cases": 834,
+      "cases": 882,
       "deaths": 14
-    },
-    {
-      "county": "San Bernardino",
-      "state": "California",
-      "stateCode": "CA",
-      "fips": "06071",
-      "cases": 372,
-      "deaths": 13
     },
     {
       "county": "San Mateo",
       "state": "California",
       "stateCode": "CA",
       "fips": "06081",
-      "cases": 555,
+      "cases": 579,
       "deaths": 13
     },
     {
@@ -77,63 +77,71 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06001",
-      "cases": 587,
-      "deaths": 12
+      "cases": 609,
+      "deaths": 13
     },
     {
       "county": "San Joaquin",
       "state": "California",
       "stateCode": "CA",
       "fips": "06077",
-      "cases": 203,
+      "cases": 212,
       "deaths": 11
-    },
-    {
-      "county": "San Francisco",
-      "state": "California",
-      "stateCode": "CA",
-      "fips": "06075",
-      "cases": 571,
-      "deaths": 8
     },
     {
       "county": "Marin",
       "state": "California",
       "stateCode": "CA",
       "fips": "06041",
-      "cases": 141,
-      "deaths": 7
+      "cases": 143,
+      "deaths": 9
     },
     {
-      "county": "Ventura",
+      "county": "San Francisco",
       "state": "California",
       "stateCode": "CA",
-      "fips": "06111",
-      "cases": 221,
-      "deaths": 6
+      "fips": "06075",
+      "cases": 586,
+      "deaths": 9
     },
     {
       "county": "Contra Costa",
       "state": "California",
       "stateCode": "CA",
       "fips": "06013",
-      "cases": 386,
-      "deaths": 6
+      "cases": 417,
+      "deaths": 7
     },
     {
       "county": "Tulare",
       "state": "California",
       "stateCode": "CA",
       "fips": "06107",
-      "cases": 116,
-      "deaths": 5
+      "cases": 135,
+      "deaths": 6
+    },
+    {
+      "county": "Ventura",
+      "state": "California",
+      "stateCode": "CA",
+      "fips": "06111",
+      "cases": 226,
+      "deaths": 6
     },
     {
       "county": "Shasta",
       "state": "California",
       "stateCode": "CA",
       "fips": "06089",
-      "cases": 20,
+      "cases": 21,
+      "deaths": 3
+    },
+    {
+      "county": "Imperial",
+      "state": "California",
+      "stateCode": "CA",
+      "fips": "06025",
+      "cases": 68,
       "deaths": 3
     },
     {
@@ -141,7 +149,7 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06061",
-      "cases": 103,
+      "cases": 106,
       "deaths": 3
     },
     {
@@ -149,7 +157,7 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06101",
-      "cases": 16,
+      "cases": 18,
       "deaths": 2
     },
     {
@@ -157,15 +165,7 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06055",
-      "cases": 21,
-      "deaths": 2
-    },
-    {
-      "county": "San Benito",
-      "state": "California",
-      "stateCode": "CA",
-      "fips": "06069",
-      "cases": 23,
+      "cases": 22,
       "deaths": 2
     },
     {
@@ -173,6 +173,14 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06039",
+      "cases": 28,
+      "deaths": 2
+    },
+    {
+      "county": "San Benito",
+      "state": "California",
+      "stateCode": "CA",
+      "fips": "06069",
       "cases": 30,
       "deaths": 2
     },
@@ -181,7 +189,15 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06053",
-      "cases": 62,
+      "cases": 63,
+      "deaths": 2
+    },
+    {
+      "county": "Fresno",
+      "state": "California",
+      "stateCode": "CA",
+      "fips": "06019",
+      "cases": 124,
       "deaths": 2
     },
     {
@@ -189,7 +205,7 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06083",
-      "cases": 174,
+      "cases": 192,
       "deaths": 2
     },
     {
@@ -197,7 +213,7 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06029",
-      "cases": 225,
+      "cases": 246,
       "deaths": 2
     },
     {
@@ -221,7 +237,7 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06057",
-      "cases": 31,
+      "cases": 32,
       "deaths": 1
     },
     {
@@ -229,15 +245,7 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06113",
-      "cases": 37,
-      "deaths": 1
-    },
-    {
-      "county": "Imperial",
-      "state": "California",
-      "stateCode": "CA",
-      "fips": "06025",
-      "cases": 57,
+      "cases": 50,
       "deaths": 1
     },
     {
@@ -245,7 +253,7 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06087",
-      "cases": 69,
+      "cases": 71,
       "deaths": 1
     },
     {
@@ -253,7 +261,7 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06095",
-      "cases": 78,
+      "cases": 93,
       "deaths": 1
     },
     {
@@ -269,15 +277,7 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06097",
-      "cases": 107,
-      "deaths": 1
-    },
-    {
-      "county": "Fresno",
-      "state": "California",
-      "stateCode": "CA",
-      "fips": "06019",
-      "cases": 108,
+      "cases": 115,
       "deaths": 1
     },
     {
@@ -297,14 +297,6 @@
       "deaths": 0
     },
     {
-      "county": "Alpine",
-      "state": "California",
-      "stateCode": "CA",
-      "fips": "06003",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Tehama",
       "state": "California",
       "stateCode": "CA",
@@ -313,26 +305,18 @@
       "deaths": 0
     },
     {
-      "county": "Amador",
-      "state": "California",
-      "stateCode": "CA",
-      "fips": "06005",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Colusa",
-      "state": "California",
-      "stateCode": "CA",
-      "fips": "06011",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Glenn",
       "state": "California",
       "stateCode": "CA",
       "fips": "06021",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Alpine",
+      "state": "California",
+      "stateCode": "CA",
+      "fips": "06003",
       "cases": 2,
       "deaths": 0
     },
@@ -345,10 +329,26 @@
       "deaths": 0
     },
     {
-      "county": "Siskiyou",
+      "county": "Lake",
       "state": "California",
       "stateCode": "CA",
-      "fips": "06093",
+      "fips": "06033",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Amador",
+      "state": "California",
+      "stateCode": "CA",
+      "fips": "06005",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Colusa",
+      "state": "California",
+      "stateCode": "CA",
+      "fips": "06011",
       "cases": 3,
       "deaths": 0
     },
@@ -369,11 +369,19 @@
       "deaths": 0
     },
     {
+      "county": "Siskiyou",
+      "state": "California",
+      "stateCode": "CA",
+      "fips": "06093",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
       "county": "Calaveras",
       "state": "California",
       "stateCode": "CA",
       "fips": "06009",
-      "cases": 4,
+      "cases": 5,
       "deaths": 0
     },
     {
@@ -389,14 +397,6 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06115",
-      "cases": 10,
-      "deaths": 0
-    },
-    {
-      "county": "Butte",
-      "state": "California",
-      "stateCode": "CA",
-      "fips": "06007",
       "cases": 11,
       "deaths": 0
     },
@@ -409,11 +409,19 @@
       "deaths": 0
     },
     {
+      "county": "Butte",
+      "state": "California",
+      "stateCode": "CA",
+      "fips": "06007",
+      "cases": 12,
+      "deaths": 0
+    },
+    {
       "county": "El Dorado",
       "state": "California",
       "stateCode": "CA",
       "fips": "06017",
-      "cases": 22,
+      "cases": 25,
       "deaths": 0
     },
     {
@@ -421,7 +429,7 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06023",
-      "cases": 44,
+      "cases": 49,
       "deaths": 0
     },
     {
@@ -429,7 +437,7 @@
       "state": "California",
       "stateCode": "CA",
       "fips": "06099",
-      "cases": 71,
+      "cases": 81,
       "deaths": 0
     }
   ]

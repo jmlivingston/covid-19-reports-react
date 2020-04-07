@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Rhode Island",
-    "cases": 988,
+    "cases": 1082,
     "casesMax": 538,
-    "deaths": 25,
-    "deathsMax": 18,
-    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
+    "deaths": 27,
+    "deathsMax": 20,
+    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
   },
   "data": [
     {
@@ -13,8 +13,8 @@
       "state": "Rhode Island",
       "stateCode": "RI",
       "fips": "",
-      "cases": 238,
-      "deaths": 18
+      "cases": 332,
+      "deaths": 20
     },
     {
       "county": "Providence",

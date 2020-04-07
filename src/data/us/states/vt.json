@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Vermont",
-    "cases": 512,
-    "casesMax": 271,
-    "deaths": 22,
-    "deathsMax": 15,
-    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
+    "cases": 543,
+    "casesMax": 285,
+    "deaths": 23,
+    "deathsMax": 16,
+    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
   },
   "data": [
     {
@@ -13,15 +13,15 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "",
-      "cases": 13,
-      "deaths": 15
+      "cases": 21,
+      "deaths": 16
     },
     {
       "county": "Chittenden",
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50007",
-      "cases": 271,
+      "cases": 285,
       "deaths": 6
     },
     {
@@ -61,7 +61,7 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50015",
-      "cases": 17,
+      "cases": 18,
       "deaths": 0
     },
     {
@@ -77,7 +77,7 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50003",
-      "cases": 24,
+      "cases": 25,
       "deaths": 0
     },
     {
@@ -85,7 +85,7 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50021",
-      "cases": 27,
+      "cases": 28,
       "deaths": 0
     },
     {
@@ -93,7 +93,7 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50011",
-      "cases": 27,
+      "cases": 29,
       "deaths": 0
     },
     {
@@ -101,7 +101,7 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50025",
-      "cases": 31,
+      "cases": 35,
       "deaths": 0
     },
     {

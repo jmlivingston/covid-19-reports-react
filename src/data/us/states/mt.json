@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Montana",
-    "cases": 298,
-    "casesMax": 115,
+    "cases": 319,
+    "casesMax": 118,
     "deaths": 6,
     "deathsMax": 3,
-    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
+    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30101",
-      "cases": 16,
+      "cases": 15,
       "deaths": 3
     },
     {
@@ -37,7 +37,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30063",
-      "cases": 21,
+      "cases": 24,
       "deaths": 1
     },
     {
@@ -81,14 +81,6 @@
       "deaths": 0
     },
     {
-      "county": "Carbon",
-      "state": "Montana",
-      "stateCode": "MT",
-      "fips": "30009",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Glacier",
       "state": "Montana",
       "stateCode": "MT",
@@ -121,6 +113,14 @@
       "deaths": 0
     },
     {
+      "county": "Carbon",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30009",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
       "county": "Deer Lodge",
       "state": "Montana",
       "stateCode": "MT",
@@ -141,7 +141,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30047",
-      "cases": 4,
+      "cases": 5,
       "deaths": 0
     },
     {
@@ -173,7 +173,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30049",
-      "cases": 14,
+      "cases": 15,
       "deaths": 0
     },
     {
@@ -181,7 +181,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30029",
-      "cases": 25,
+      "cases": 31,
       "deaths": 0
     },
     {
@@ -189,7 +189,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30111",
-      "cases": 40,
+      "cases": 47,
       "deaths": 0
     },
     {
@@ -197,7 +197,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30031",
-      "cases": 115,
+      "cases": 118,
       "deaths": 0
     }
   ]

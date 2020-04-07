@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Arkansas",
-    "cases": 853,
-    "casesMax": 161,
+    "cases": 927,
+    "casesMax": 171,
     "deaths": 16,
-    "deathsMax": 6,
-    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
+    "deathsMax": 5,
+    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
   },
   "data": [
     {
@@ -13,8 +13,8 @@
       "state": "Arkansas",
       "stateCode": "AR",
       "fips": "05119",
-      "cases": 161,
-      "deaths": 6
+      "cases": 171,
+      "deaths": 5
     },
     {
       "county": "Cleburne",
@@ -41,14 +41,6 @@
       "deaths": 1
     },
     {
-      "county": "Unknown",
-      "state": "Arkansas",
-      "stateCode": "AR",
-      "fips": "",
-      "cases": 14,
-      "deaths": 1
-    },
-    {
       "county": "Van Buren",
       "state": "Arkansas",
       "stateCode": "AR",
@@ -61,7 +53,7 @@
       "state": "Arkansas",
       "stateCode": "AR",
       "fips": "05125",
-      "cases": 29,
+      "cases": 33,
       "deaths": 1
     },
     {
@@ -69,7 +61,23 @@
       "state": "Arkansas",
       "stateCode": "AR",
       "fips": "05045",
-      "cases": 47,
+      "cases": 52,
+      "deaths": 1
+    },
+    {
+      "county": "Crittenden",
+      "state": "Arkansas",
+      "stateCode": "AR",
+      "fips": "05035",
+      "cases": 58,
+      "deaths": 1
+    },
+    {
+      "county": "Jefferson",
+      "state": "Arkansas",
+      "stateCode": "AR",
+      "fips": "05069",
+      "cases": 68,
       "deaths": 1
     },
     {
@@ -169,6 +177,38 @@
       "deaths": 0
     },
     {
+      "county": "Clay",
+      "state": "Arkansas",
+      "stateCode": "AR",
+      "fips": "05021",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Franklin",
+      "state": "Arkansas",
+      "stateCode": "AR",
+      "fips": "05047",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Izard",
+      "state": "Arkansas",
+      "stateCode": "AR",
+      "fips": "05065",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Logan",
+      "state": "Arkansas",
+      "stateCode": "AR",
+      "fips": "05083",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
       "county": "Pike",
       "state": "Arkansas",
       "stateCode": "AR",
@@ -189,14 +229,6 @@
       "state": "Arkansas",
       "stateCode": "AR",
       "fips": "05077",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Ouachita",
-      "state": "Arkansas",
-      "stateCode": "AR",
-      "fips": "05103",
       "cases": 2,
       "deaths": 0
     },
@@ -249,26 +281,18 @@
       "deaths": 0
     },
     {
-      "county": "Chicot",
-      "state": "Arkansas",
-      "stateCode": "AR",
-      "fips": "05017",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Randolph",
-      "state": "Arkansas",
-      "stateCode": "AR",
-      "fips": "05121",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
       "county": "Baxter",
       "state": "Arkansas",
       "stateCode": "AR",
       "fips": "05005",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Ouachita",
+      "state": "Arkansas",
+      "stateCode": "AR",
+      "fips": "05103",
       "cases": 3,
       "deaths": 0
     },
@@ -289,10 +313,18 @@
       "deaths": 0
     },
     {
-      "county": "Ashley",
+      "county": "Chicot",
       "state": "Arkansas",
       "stateCode": "AR",
-      "fips": "05003",
+      "fips": "05017",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Randolph",
+      "state": "Arkansas",
+      "stateCode": "AR",
+      "fips": "05121",
       "cases": 4,
       "deaths": 0
     },
@@ -321,26 +353,10 @@
       "deaths": 0
     },
     {
-      "county": "Poinsett",
-      "state": "Arkansas",
-      "stateCode": "AR",
-      "fips": "05111",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
       "county": "Polk",
       "state": "Arkansas",
       "stateCode": "AR",
       "fips": "05113",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Searcy",
-      "state": "Arkansas",
-      "stateCode": "AR",
-      "fips": "05129",
       "cases": 5,
       "deaths": 0
     },
@@ -377,6 +393,30 @@
       "deaths": 0
     },
     {
+      "county": "Ashley",
+      "state": "Arkansas",
+      "stateCode": "AR",
+      "fips": "05003",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Poinsett",
+      "state": "Arkansas",
+      "stateCode": "AR",
+      "fips": "05111",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Searcy",
+      "state": "Arkansas",
+      "stateCode": "AR",
+      "fips": "05129",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
       "county": "Sevier",
       "state": "Arkansas",
       "stateCode": "AR",
@@ -389,14 +429,6 @@
       "state": "Arkansas",
       "stateCode": "AR",
       "fips": "05025",
-      "cases": 7,
-      "deaths": 0
-    },
-    {
-      "county": "Lincoln",
-      "state": "Arkansas",
-      "stateCode": "AR",
-      "fips": "05079",
       "cases": 7,
       "deaths": 0
     },
@@ -417,26 +449,26 @@
       "deaths": 0
     },
     {
+      "county": "Lincoln",
+      "state": "Arkansas",
+      "stateCode": "AR",
+      "fips": "05079",
+      "cases": 10,
+      "deaths": 0
+    },
+    {
+      "county": "Unknown",
+      "state": "Arkansas",
+      "stateCode": "AR",
+      "fips": "",
+      "cases": 11,
+      "deaths": 0
+    },
+    {
       "county": "Johnson",
       "state": "Arkansas",
       "stateCode": "AR",
       "fips": "05071",
-      "cases": 8,
-      "deaths": 0
-    },
-    {
-      "county": "Miller",
-      "state": "Arkansas",
-      "stateCode": "AR",
-      "fips": "05091",
-      "cases": 8,
-      "deaths": 0
-    },
-    {
-      "county": "St. Francis",
-      "state": "Arkansas",
-      "stateCode": "AR",
-      "fips": "05123",
       "cases": 11,
       "deaths": 0
     },
@@ -445,7 +477,15 @@
       "state": "Arkansas",
       "stateCode": "AR",
       "fips": "05139",
-      "cases": 12,
+      "cases": 13,
+      "deaths": 0
+    },
+    {
+      "county": "Miller",
+      "state": "Arkansas",
+      "stateCode": "AR",
+      "fips": "05091",
+      "cases": 13,
       "deaths": 0
     },
     {
@@ -453,14 +493,14 @@
       "state": "Arkansas",
       "stateCode": "AR",
       "fips": "05115",
-      "cases": 13,
+      "cases": 17,
       "deaths": 0
     },
     {
-      "county": "Lonoke",
+      "county": "St. Francis",
       "state": "Arkansas",
       "stateCode": "AR",
-      "fips": "05085",
+      "fips": "05123",
       "cases": 17,
       "deaths": 0
     },
@@ -469,15 +509,15 @@
       "state": "Arkansas",
       "stateCode": "AR",
       "fips": "05031",
-      "cases": 20,
+      "cases": 22,
       "deaths": 0
     },
     {
-      "county": "White",
+      "county": "Lonoke",
       "state": "Arkansas",
       "stateCode": "AR",
-      "fips": "05145",
-      "cases": 25,
+      "fips": "05085",
+      "cases": 23,
       "deaths": 0
     },
     {
@@ -485,6 +525,14 @@
       "state": "Arkansas",
       "stateCode": "AR",
       "fips": "05019",
+      "cases": 27,
+      "deaths": 0
+    },
+    {
+      "county": "White",
+      "state": "Arkansas",
+      "stateCode": "AR",
+      "fips": "05145",
       "cases": 27,
       "deaths": 0
     },
@@ -497,14 +545,6 @@
       "deaths": 0
     },
     {
-      "county": "Garland",
-      "state": "Arkansas",
-      "stateCode": "AR",
-      "fips": "05051",
-      "cases": 41,
-      "deaths": 0
-    },
-    {
       "county": "Benton",
       "state": "Arkansas",
       "stateCode": "AR",
@@ -513,19 +553,11 @@
       "deaths": 0
     },
     {
-      "county": "Crittenden",
+      "county": "Garland",
       "state": "Arkansas",
       "stateCode": "AR",
-      "fips": "05035",
-      "cases": 53,
-      "deaths": 0
-    },
-    {
-      "county": "Jefferson",
-      "state": "Arkansas",
-      "stateCode": "AR",
-      "fips": "05069",
-      "cases": 62,
+      "fips": "05051",
+      "cases": 46,
       "deaths": 0
     }
   ]

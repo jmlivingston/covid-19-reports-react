@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "North Dakota",
-    "cases": 208,
-    "casesMax": 54,
+    "cases": 226,
+    "casesMax": 65,
     "deaths": 3,
     "deathsMax": 1,
-    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
+    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
   },
   "data": [
     {
@@ -21,7 +21,7 @@
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38059",
-      "cases": 16,
+      "cases": 17,
       "deaths": 1
     },
     {
@@ -29,16 +29,8 @@
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38017",
-      "cases": 54,
+      "cases": 65,
       "deaths": 1
-    },
-    {
-      "county": "Walsh",
-      "state": "North Dakota",
-      "stateCode": "ND",
-      "fips": "38099",
-      "cases": 1,
-      "deaths": 0
     },
     {
       "county": "Dunn",
@@ -113,14 +105,6 @@
       "deaths": 0
     },
     {
-      "county": "Slope",
-      "state": "North Dakota",
-      "stateCode": "ND",
-      "fips": "38087",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Emmons",
       "state": "North Dakota",
       "stateCode": "ND",
@@ -161,10 +145,26 @@
       "deaths": 0
     },
     {
+      "county": "Slope",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38087",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
       "county": "Ramsey",
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38071",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Walsh",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38099",
       "cases": 3,
       "deaths": 0
     },
@@ -197,7 +197,7 @@
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38101",
-      "cases": 14,
+      "cases": 16,
       "deaths": 0
     },
     {
@@ -221,7 +221,7 @@
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38015",
-      "cases": 37,
+      "cases": 38,
       "deaths": 0
     }
   ]

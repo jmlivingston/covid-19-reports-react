@@ -2,10 +2,10 @@
   "summary": {
     "name": "Kentucky",
     "cases": 1057,
-    "casesMax": 304,
-    "deaths": 44,
-    "deathsMax": 12,
-    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
+    "casesMax": 313,
+    "deaths": 52,
+    "deathsMax": 20,
+    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
   },
   "data": [
     {
@@ -13,15 +13,15 @@
       "state": "Kentucky",
       "stateCode": "KY",
       "fips": "21111",
-      "cases": 304,
-      "deaths": 12
+      "cases": 313,
+      "deaths": 20
     },
     {
       "county": "Unknown",
       "state": "Kentucky",
       "stateCode": "KY",
       "fips": "",
-      "cases": 9,
+      "cases": 0,
       "deaths": 7
     },
     {

@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Alaska",
-    "cases": 186,
-    "casesMax": 85,
-    "deaths": 6,
+    "cases": 190,
+    "casesMax": 88,
+    "deaths": 4,
     "deathsMax": 3,
-    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
+    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
   },
   "data": [
     {
@@ -13,31 +13,15 @@
       "state": "Alaska",
       "stateCode": "AK",
       "fips": "02020",
-      "cases": 85,
+      "cases": 88,
       "deaths": 3
-    },
-    {
-      "county": "Petersburg Borough",
-      "state": "Alaska",
-      "stateCode": "AK",
-      "fips": "02195",
-      "cases": 1,
-      "deaths": 1
-    },
-    {
-      "county": "Kenai Peninsula Borough",
-      "state": "Alaska",
-      "stateCode": "AK",
-      "fips": "02122",
-      "cases": 12,
-      "deaths": 1
     },
     {
       "county": "Fairbanks North Star Borough",
       "state": "Alaska",
       "stateCode": "AK",
       "fips": "02090",
-      "cases": 53,
+      "cases": 54,
       "deaths": 1
     },
     {
@@ -65,11 +49,27 @@
       "deaths": 0
     },
     {
+      "county": "Petersburg Borough",
+      "state": "Alaska",
+      "stateCode": "AK",
+      "fips": "02195",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
       "county": "Matanuska-Susitna Borough",
       "state": "Alaska",
       "stateCode": "AK",
       "fips": "02170",
       "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Kenai Peninsula Borough",
+      "state": "Alaska",
+      "stateCode": "AK",
+      "fips": "02122",
+      "cases": 12,
       "deaths": 0
     },
     {

@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Wyoming",
-    "cases": 200,
-    "casesMax": 44,
+    "cases": 213,
+    "casesMax": 45,
     "deaths": 0,
     "deathsMax": 0,
-    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
+    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
   },
   "data": [
     {
@@ -45,7 +45,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56015",
-      "cases": 2,
+      "cases": 3,
       "deaths": 0
     },
     {
@@ -53,22 +53,6 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56041",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Converse",
-      "state": "Wyoming",
-      "stateCode": "WY",
-      "fips": "56009",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Lincoln",
-      "state": "Wyoming",
-      "stateCode": "WY",
-      "fips": "56023",
       "cases": 3,
       "deaths": 0
     },
@@ -97,6 +81,22 @@
       "deaths": 0
     },
     {
+      "county": "Converse",
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "fips": "56009",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Lincoln",
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "fips": "56023",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
       "county": "Sweetwater",
       "state": "Wyoming",
       "stateCode": "WY",
@@ -105,19 +105,19 @@
       "deaths": 0
     },
     {
-      "county": "Campbell",
-      "state": "Wyoming",
-      "stateCode": "WY",
-      "fips": "56005",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
       "county": "Johnson",
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56019",
       "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Campbell",
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "fips": "56005",
+      "cases": 9,
       "deaths": 0
     },
     {
@@ -133,7 +133,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56025",
-      "cases": 23,
+      "cases": 26,
       "deaths": 0
     },
     {
@@ -141,7 +141,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56013",
-      "cases": 37,
+      "cases": 38,
       "deaths": 0
     },
     {
@@ -149,7 +149,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56039",
-      "cases": 39,
+      "cases": 40,
       "deaths": 0
     },
     {
@@ -157,7 +157,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56021",
-      "cases": 44,
+      "cases": 45,
       "deaths": 0
     }
   ]

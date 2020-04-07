@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "New Mexico",
-    "cases": 626,
-    "casesMax": 246,
+    "cases": 688,
+    "casesMax": 262,
     "deaths": 12,
     "deathsMax": 7,
-    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
+    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35001",
-      "cases": 246,
+      "cases": 262,
       "deaths": 7
     },
     {
@@ -21,7 +21,7 @@
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35031",
-      "cases": 40,
+      "cases": 44,
       "deaths": 2
     },
     {
@@ -29,7 +29,7 @@
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35043",
-      "cases": 103,
+      "cases": 114,
       "deaths": 2
     },
     {
@@ -65,14 +65,6 @@
       "deaths": 0
     },
     {
-      "county": "Grant",
-      "state": "New Mexico",
-      "stateCode": "NM",
-      "fips": "35017",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Lincoln",
       "state": "New Mexico",
       "stateCode": "NM",
@@ -102,6 +94,14 @@
       "stateCode": "NM",
       "fips": "35028",
       "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Grant",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35017",
+      "cases": 3,
       "deaths": 0
     },
     {
@@ -165,7 +165,7 @@
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35005",
-      "cases": 13,
+      "cases": 14,
       "deaths": 0
     },
     {
@@ -181,15 +181,7 @@
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35013",
-      "cases": 29,
-      "deaths": 0
-    },
-    {
-      "county": "San Juan",
-      "state": "New Mexico",
-      "stateCode": "NM",
-      "fips": "35045",
-      "cases": 58,
+      "cases": 30,
       "deaths": 0
     },
     {
@@ -197,7 +189,15 @@
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35049",
-      "cases": 62,
+      "cases": 64,
+      "deaths": 0
+    },
+    {
+      "county": "San Juan",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35045",
+      "cases": 83,
       "deaths": 0
     }
   ]

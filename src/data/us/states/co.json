@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Colorado",
-    "cases": 4962,
-    "casesMax": 825,
-    "deaths": 140,
-    "deathsMax": 25,
-    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
+    "cases": 5175,
+    "casesMax": 847,
+    "deaths": 150,
+    "deathsMax": 28,
+    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
   },
   "data": [
     {
@@ -13,55 +13,55 @@
       "state": "Colorado",
       "stateCode": "CO",
       "fips": "08041",
-      "cases": 435,
-      "deaths": 25
+      "cases": 441,
+      "deaths": 28
     },
     {
       "county": "Weld",
       "state": "Colorado",
       "stateCode": "CO",
       "fips": "08123",
-      "cases": 470,
-      "deaths": 24
+      "cases": 504,
+      "deaths": 26
     },
     {
       "county": "Jefferson",
       "state": "Colorado",
       "stateCode": "CO",
       "fips": "08059",
-      "cases": 519,
-      "deaths": 17
-    },
-    {
-      "county": "Denver",
-      "state": "Colorado",
-      "stateCode": "CO",
-      "fips": "08031",
-      "cases": 825,
-      "deaths": 16
+      "cases": 540,
+      "deaths": 18
     },
     {
       "county": "Arapahoe",
       "state": "Colorado",
       "stateCode": "CO",
       "fips": "08005",
-      "cases": 608,
-      "deaths": 13
+      "cases": 652,
+      "deaths": 15
+    },
+    {
+      "county": "Denver",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08031",
+      "cases": 847,
+      "deaths": 15
     },
     {
       "county": "Adams",
       "state": "Colorado",
       "stateCode": "CO",
       "fips": "08001",
-      "cases": 354,
-      "deaths": 10
+      "cases": 367,
+      "deaths": 12
     },
     {
       "county": "Larimer",
       "state": "Colorado",
       "stateCode": "CO",
       "fips": "08069",
-      "cases": 153,
+      "cases": 158,
       "deaths": 8
     },
     {
@@ -69,7 +69,7 @@
       "state": "Colorado",
       "stateCode": "CO",
       "fips": "08037",
-      "cases": 339,
+      "cases": 355,
       "deaths": 5
     },
     {
@@ -77,7 +77,7 @@
       "state": "Colorado",
       "stateCode": "CO",
       "fips": "08035",
-      "cases": 223,
+      "cases": 227,
       "deaths": 4
     },
     {
@@ -85,7 +85,7 @@
       "state": "Colorado",
       "stateCode": "CO",
       "fips": "08013",
-      "cases": 177,
+      "cases": 189,
       "deaths": 3
     },
     {
@@ -97,11 +97,19 @@
       "deaths": 2
     },
     {
+      "county": "Montrose",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08085",
+      "cases": 34,
+      "deaths": 2
+    },
+    {
       "county": "Pitkin",
       "state": "Colorado",
       "stateCode": "CO",
       "fips": "08097",
-      "cases": 38,
+      "cases": 39,
       "deaths": 2
     },
     {
@@ -153,19 +161,11 @@
       "deaths": 1
     },
     {
-      "county": "Montrose",
-      "state": "Colorado",
-      "stateCode": "CO",
-      "fips": "08085",
-      "cases": 32,
-      "deaths": 1
-    },
-    {
       "county": "Garfield",
       "state": "Colorado",
       "stateCode": "CO",
       "fips": "08045",
-      "cases": 46,
+      "cases": 47,
       "deaths": 1
     },
     {
@@ -173,7 +173,7 @@
       "state": "Colorado",
       "stateCode": "CO",
       "fips": "08051",
-      "cases": 93,
+      "cases": 95,
       "deaths": 1
     },
     {
@@ -265,14 +265,6 @@
       "deaths": 0
     },
     {
-      "county": "Otero",
-      "state": "Colorado",
-      "stateCode": "CO",
-      "fips": "08089",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
       "county": "Costilla",
       "state": "Colorado",
       "stateCode": "CO",
@@ -313,10 +305,10 @@
       "deaths": 0
     },
     {
-      "county": "Delta",
+      "county": "Otero",
       "state": "Colorado",
       "stateCode": "CO",
-      "fips": "08029",
+      "fips": "08089",
       "cases": 4,
       "deaths": 0
     },
@@ -341,6 +333,14 @@
       "state": "Colorado",
       "stateCode": "CO",
       "fips": "08093",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Delta",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08029",
       "cases": 5,
       "deaths": 0
     },
@@ -377,14 +377,6 @@
       "deaths": 0
     },
     {
-      "county": "Logan",
-      "state": "Colorado",
-      "stateCode": "CO",
-      "fips": "08075",
-      "cases": 9,
-      "deaths": 0
-    },
-    {
       "county": "Baca",
       "state": "Colorado",
       "stateCode": "CO",
@@ -401,11 +393,19 @@
       "deaths": 0
     },
     {
+      "county": "Logan",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "fips": "08075",
+      "cases": 11,
+      "deaths": 0
+    },
+    {
       "county": "Morgan",
       "state": "Colorado",
       "stateCode": "CO",
       "fips": "08087",
-      "cases": 17,
+      "cases": 19,
       "deaths": 0
     },
     {
@@ -413,7 +413,7 @@
       "state": "Colorado",
       "stateCode": "CO",
       "fips": "08077",
-      "cases": 22,
+      "cases": 25,
       "deaths": 0
     },
     {
@@ -429,7 +429,7 @@
       "state": "Colorado",
       "stateCode": "CO",
       "fips": "08067",
-      "cases": 31,
+      "cases": 32,
       "deaths": 0
     },
     {
@@ -437,7 +437,7 @@
       "state": "Colorado",
       "stateCode": "CO",
       "fips": "08117",
-      "cases": 45,
+      "cases": 47,
       "deaths": 0
     },
     {
@@ -445,7 +445,7 @@
       "state": "Colorado",
       "stateCode": "CO",
       "fips": "",
-      "cases": 258,
+      "cases": 276,
       "deaths": 0
     }
   ]

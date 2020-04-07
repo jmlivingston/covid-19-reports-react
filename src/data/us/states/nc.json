@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "North Carolina",
-    "cases": 2587,
-    "casesMax": 664,
-    "deaths": 37,
-    "deathsMax": 6,
-    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
+    "cases": 2872,
+    "casesMax": 733,
+    "deaths": 42,
+    "deathsMax": 7,
+    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
   },
   "data": [
     {
@@ -13,15 +13,15 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37119",
-      "cases": 664,
-      "deaths": 6
+      "cases": 733,
+      "deaths": 7
     },
     {
       "county": "Guilford",
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37081",
-      "cases": 96,
+      "cases": 104,
       "deaths": 4
     },
     {
@@ -29,7 +29,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37101",
-      "cases": 32,
+      "cases": 37,
       "deaths": 3
     },
     {
@@ -37,7 +37,15 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37059",
-      "cases": 16,
+      "cases": 17,
+      "deaths": 2
+    },
+    {
+      "county": "Wilson",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37195",
+      "cases": 29,
       "deaths": 2
     },
     {
@@ -45,7 +53,23 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37085",
-      "cases": 25,
+      "cases": 31,
+      "deaths": 2
+    },
+    {
+      "county": "Gaston",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37071",
+      "cases": 46,
+      "deaths": 2
+    },
+    {
+      "county": "Cabarrus",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37025",
+      "cases": 76,
       "deaths": 2
     },
     {
@@ -53,7 +77,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37067",
-      "cases": 86,
+      "cases": 94,
       "deaths": 2
     },
     {
@@ -105,11 +129,11 @@
       "deaths": 1
     },
     {
-      "county": "Burke",
+      "county": "Columbus",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37023",
-      "cases": 15,
+      "fips": "37047",
+      "cases": 12,
       "deaths": 1
     },
     {
@@ -117,7 +141,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37133",
-      "cases": 16,
+      "cases": 18,
       "deaths": 1
     },
     {
@@ -125,7 +149,15 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37035",
-      "cases": 22,
+      "cases": 25,
+      "deaths": 1
+    },
+    {
+      "county": "Burke",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37023",
+      "cases": 25,
       "deaths": 1
     },
     {
@@ -133,15 +165,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37019",
-      "cases": 24,
-      "deaths": 1
-    },
-    {
-      "county": "Wilson",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37195",
-      "cases": 28,
+      "cases": 26,
       "deaths": 1
     },
     {
@@ -149,7 +173,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37021",
-      "cases": 28,
+      "cases": 31,
       "deaths": 1
     },
     {
@@ -157,15 +181,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37151",
-      "cases": 29,
-      "deaths": 1
-    },
-    {
-      "county": "Gaston",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37071",
-      "cases": 45,
+      "cases": 33,
       "deaths": 1
     },
     {
@@ -173,7 +189,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37159",
-      "cases": 45,
+      "cases": 51,
       "deaths": 1
     },
     {
@@ -181,15 +197,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37089",
-      "cases": 50,
-      "deaths": 1
-    },
-    {
-      "county": "Cabarrus",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37025",
-      "cases": 67,
+      "cases": 51,
       "deaths": 1
     },
     {
@@ -197,7 +205,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37063",
-      "cases": 186,
+      "cases": 191,
       "deaths": 1
     },
     {
@@ -221,14 +229,6 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37017",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Dare",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37055",
       "cases": 1,
       "deaths": 0
     },
@@ -270,22 +270,6 @@
       "stateCode": "NC",
       "fips": "37009",
       "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Pender",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37141",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Sampson",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37163",
-      "cases": 2,
       "deaths": 0
     },
     {
@@ -337,19 +321,27 @@
       "deaths": 0
     },
     {
-      "county": "Haywood",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37087",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Warren",
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37185",
       "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Pender",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37141",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Sampson",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37163",
+      "cases": 3,
       "deaths": 0
     },
     {
@@ -393,26 +385,26 @@
       "deaths": 0
     },
     {
+      "county": "Dare",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37055",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Haywood",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37087",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "Duplin",
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37061",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "Person",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37145",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "Washington",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37187",
       "cases": 4,
       "deaths": 0
     },
@@ -441,14 +433,6 @@
       "deaths": 0
     },
     {
-      "county": "Columbus",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37047",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
       "county": "Anson",
       "state": "North Carolina",
       "stateCode": "NC",
@@ -457,34 +441,18 @@
       "deaths": 0
     },
     {
-      "county": "Caldwell",
+      "county": "Person",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37027",
+      "fips": "37145",
       "cases": 6,
       "deaths": 0
     },
     {
-      "county": "Greene",
+      "county": "Washington",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37079",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
-      "county": "Polk",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37149",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
-      "county": "Stokes",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37169",
+      "fips": "37187",
       "cases": 6,
       "deaths": 0
     },
@@ -497,11 +465,19 @@
       "deaths": 0
     },
     {
+      "county": "Pasquotank",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37139",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
       "county": "Stanly",
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37167",
-      "cases": 7,
+      "cases": 8,
       "deaths": 0
     },
     {
@@ -509,14 +485,6 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37107",
-      "cases": 7,
-      "deaths": 0
-    },
-    {
-      "county": "Pasquotank",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37139",
       "cases": 8,
       "deaths": 0
     },
@@ -529,6 +497,30 @@
       "deaths": 0
     },
     {
+      "county": "Greene",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37079",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Polk",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37149",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Stokes",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37169",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
       "county": "Lincoln",
       "state": "North Carolina",
       "stateCode": "NC",
@@ -537,18 +529,10 @@
       "deaths": 0
     },
     {
-      "county": "Moore",
+      "county": "Caldwell",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37125",
-      "cases": 9,
-      "deaths": 0
-    },
-    {
-      "county": "McDowell",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37111",
+      "fips": "37027",
       "cases": 9,
       "deaths": 0
     },
@@ -561,10 +545,18 @@
       "deaths": 0
     },
     {
-      "county": "Hoke",
+      "county": "Moore",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37093",
+      "fips": "37125",
+      "cases": 10,
+      "deaths": 0
+    },
+    {
+      "county": "McDowell",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37111",
       "cases": 10,
       "deaths": 0
     },
@@ -574,6 +566,14 @@
       "stateCode": "NC",
       "fips": "37083",
       "cases": 10,
+      "deaths": 0
+    },
+    {
+      "county": "Hoke",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37093",
+      "cases": 11,
       "deaths": 0
     },
     {
@@ -589,22 +589,6 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37069",
-      "cases": 14,
-      "deaths": 0
-    },
-    {
-      "county": "Rutherford",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37161",
-      "cases": 14,
-      "deaths": 0
-    },
-    {
-      "county": "Wayne",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37191",
       "cases": 15,
       "deaths": 0
     },
@@ -613,7 +597,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37049",
-      "cases": 15,
+      "cases": 17,
       "deaths": 0
     },
     {
@@ -621,15 +605,15 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37031",
-      "cases": 15,
+      "cases": 17,
       "deaths": 0
     },
     {
-      "county": "Cleveland",
+      "county": "Rutherford",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37045",
-      "cases": 15,
+      "fips": "37161",
+      "cases": 17,
       "deaths": 0
     },
     {
@@ -637,6 +621,14 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37001",
+      "cases": 18,
+      "deaths": 0
+    },
+    {
+      "county": "Cleveland",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37045",
       "cases": 18,
       "deaths": 0
     },
@@ -657,6 +649,14 @@
       "deaths": 0
     },
     {
+      "county": "Wayne",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37191",
+      "cases": 23,
+      "deaths": 0
+    },
+    {
       "county": "Pitt",
       "state": "North Carolina",
       "stateCode": "NC",
@@ -669,15 +669,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37129",
-      "cases": 37,
-      "deaths": 0
-    },
-    {
-      "county": "Granville",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37077",
-      "cases": 37,
+      "cases": 45,
       "deaths": 0
     },
     {
@@ -685,7 +677,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37051",
-      "cases": 42,
+      "cases": 45,
       "deaths": 0
     },
     {
@@ -693,7 +685,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37131",
-      "cases": 42,
+      "cases": 46,
       "deaths": 0
     },
     {
@@ -701,15 +693,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37097",
-      "cases": 44,
-      "deaths": 0
-    },
-    {
-      "county": "Orange",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37135",
-      "cases": 52,
+      "cases": 49,
       "deaths": 0
     },
     {
@@ -717,7 +701,23 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37057",
-      "cases": 57,
+      "cases": 63,
+      "deaths": 0
+    },
+    {
+      "county": "Orange",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37135",
+      "cases": 67,
+      "deaths": 0
+    },
+    {
+      "county": "Granville",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37077",
+      "cases": 70,
       "deaths": 0
     },
     {
@@ -725,7 +725,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37179",
-      "cases": 67,
+      "cases": 75,
       "deaths": 0
     },
     {
@@ -733,7 +733,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37183",
-      "cases": 304,
+      "cases": 314,
       "deaths": 0
     }
   ]

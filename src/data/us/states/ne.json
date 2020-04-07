@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Nebraska",
-    "cases": 379,
-    "casesMax": 158,
-    "deaths": 8,
-    "deathsMax": 3,
-    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
+    "cases": 440,
+    "casesMax": 173,
+    "deaths": 10,
+    "deathsMax": 4,
+    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
   },
   "data": [
     {
@@ -13,8 +13,16 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31055",
-      "cases": 158,
-      "deaths": 3
+      "cases": 173,
+      "deaths": 4
+    },
+    {
+      "county": "Custer",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31041",
+      "cases": 1,
+      "deaths": 1
     },
     {
       "county": "Madison",
@@ -37,7 +45,7 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31111",
-      "cases": 15,
+      "cases": 16,
       "deaths": 1
     },
     {
@@ -45,7 +53,7 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31019",
-      "cases": 17,
+      "cases": 18,
       "deaths": 1
     },
     {
@@ -53,7 +61,7 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31079",
-      "cases": 44,
+      "cases": 55,
       "deaths": 1
     },
     {
@@ -153,6 +161,22 @@
       "deaths": 0
     },
     {
+      "county": "Cheyenne",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31033",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Stanton",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31167",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
       "county": "Cass",
       "state": "Nebraska",
       "stateCode": "NE",
@@ -185,14 +209,6 @@
       "deaths": 0
     },
     {
-      "county": "Colfax",
-      "state": "Nebraska",
-      "stateCode": "NE",
-      "fips": "31037",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Merrick",
       "state": "Nebraska",
       "stateCode": "NE",
@@ -201,10 +217,10 @@
       "deaths": 0
     },
     {
-      "county": "Scotts Bluff",
+      "county": "Colfax",
       "state": "Nebraska",
       "stateCode": "NE",
-      "fips": "31157",
+      "fips": "31037",
       "cases": 3,
       "deaths": 0
     },
@@ -225,18 +241,18 @@
       "deaths": 0
     },
     {
-      "county": "Kimball",
-      "state": "Nebraska",
-      "stateCode": "NE",
-      "fips": "31105",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
       "county": "Hamilton",
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31081",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Scotts Bluff",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31157",
       "cases": 6,
       "deaths": 0
     },
@@ -249,19 +265,19 @@
       "deaths": 0
     },
     {
+      "county": "Kimball",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31105",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
       "county": "Adams",
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31001",
-      "cases": 11,
-      "deaths": 0
-    },
-    {
-      "county": "Lancaster",
-      "state": "Nebraska",
-      "stateCode": "NE",
-      "fips": "31109",
-      "cases": 18,
+      "cases": 15,
       "deaths": 0
     },
     {
@@ -273,11 +289,19 @@
       "deaths": 0
     },
     {
+      "county": "Lancaster",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31109",
+      "cases": 31,
+      "deaths": 0
+    },
+    {
       "county": "Sarpy",
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31153",
-      "cases": 28,
+      "cases": 33,
       "deaths": 0
     }
   ]

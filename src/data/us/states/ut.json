@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Utah",
-    "cases": 1605,
+    "cases": 1675,
     "casesMax": 741,
-    "deaths": 8,
-    "deathsMax": 4,
-    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
+    "deaths": 13,
+    "deathsMax": 9,
+    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
   },
   "data": [
     {
@@ -13,15 +13,15 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "",
-      "cases": 14,
-      "deaths": 4
+      "cases": 23,
+      "deaths": 9
     },
     {
       "county": "Davis",
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49011",
-      "cases": 142,
+      "cases": 154,
       "deaths": 2
     },
     {
@@ -29,7 +29,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49057",
-      "cases": 53,
+      "cases": 78,
       "deaths": 1
     },
     {
@@ -73,34 +73,10 @@
       "deaths": 0
     },
     {
-      "county": "Emery",
-      "state": "Utah",
-      "stateCode": "UT",
-      "fips": "49015",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Grand",
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49019",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Juab",
-      "state": "Utah",
-      "stateCode": "UT",
-      "fips": "49023",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Millard",
-      "state": "Utah",
-      "stateCode": "UT",
-      "fips": "49027",
       "cases": 1,
       "deaths": 0
     },
@@ -113,11 +89,27 @@
       "deaths": 0
     },
     {
-      "county": "Morgan",
+      "county": "Emery",
       "state": "Utah",
       "stateCode": "UT",
-      "fips": "49029",
-      "cases": 5,
+      "fips": "49015",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Juab",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49023",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Millard",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49027",
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -126,6 +118,14 @@
       "stateCode": "UT",
       "fips": "49037",
       "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Morgan",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49029",
+      "cases": 8,
       "deaths": 0
     },
     {
@@ -145,19 +145,19 @@
       "deaths": 0
     },
     {
-      "county": "Tooele",
-      "state": "Utah",
-      "stateCode": "UT",
-      "fips": "49045",
-      "cases": 19,
-      "deaths": 0
-    },
-    {
       "county": "Cache",
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49005",
-      "cases": 19,
+      "cases": 20,
+      "deaths": 0
+    },
+    {
+      "county": "Tooele",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49045",
+      "cases": 22,
       "deaths": 0
     },
     {
@@ -173,7 +173,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49051",
-      "cases": 78,
+      "cases": 79,
       "deaths": 0
     },
     {
@@ -181,7 +181,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49049",
-      "cases": 216,
+      "cases": 223,
       "deaths": 0
     },
     {
@@ -189,7 +189,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49043",
-      "cases": 256,
+      "cases": 260,
       "deaths": 0
     }
   ]

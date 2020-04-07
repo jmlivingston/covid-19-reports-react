@@ -1,19 +1,27 @@
 {
   "summary": {
     "name": "Idaho",
-    "cases": 1102,
-    "casesMax": 410,
-    "deaths": 10,
+    "cases": 1172,
+    "casesMax": 423,
+    "deaths": 13,
     "deathsMax": 3,
-    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
+    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
   },
   "data": [
+    {
+      "county": "Canyon",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16027",
+      "cases": 104,
+      "deaths": 3
+    },
     {
       "county": "Ada",
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16001",
-      "cases": 402,
+      "cases": 419,
       "deaths": 3
     },
     {
@@ -21,7 +29,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16069",
-      "cases": 13,
+      "cases": 15,
       "deaths": 2
     },
     {
@@ -29,7 +37,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16013",
-      "cases": 410,
+      "cases": 423,
       "deaths": 2
     },
     {
@@ -37,7 +45,15 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16031",
-      "cases": 4,
+      "cases": 5,
+      "deaths": 1
+    },
+    {
+      "county": "Payette",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16075",
+      "cases": 6,
       "deaths": 1
     },
     {
@@ -45,24 +61,8 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16083",
-      "cases": 37,
+      "cases": 53,
       "deaths": 1
-    },
-    {
-      "county": "Canyon",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16027",
-      "cases": 101,
-      "deaths": 1
-    },
-    {
-      "county": "Fremont",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16043",
-      "cases": 1,
-      "deaths": 0
     },
     {
       "county": "Unknown",
@@ -85,22 +85,6 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16025",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Gooding",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16047",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Latah",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16057",
       "cases": 1,
       "deaths": 0
     },
@@ -145,10 +129,10 @@
       "deaths": 0
     },
     {
-      "county": "Idaho",
+      "county": "Fremont",
       "state": "Idaho",
       "stateCode": "ID",
-      "fips": "16049",
+      "fips": "16043",
       "cases": 2,
       "deaths": 0
     },
@@ -169,11 +153,27 @@
       "deaths": 0
     },
     {
+      "county": "Latah",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16057",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Idaho",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16049",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "Bonner",
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16017",
-      "cases": 2,
+      "cases": 3,
       "deaths": 0
     },
     {
@@ -185,11 +185,11 @@
       "deaths": 0
     },
     {
-      "county": "Teton",
+      "county": "Gooding",
       "state": "Idaho",
       "stateCode": "ID",
-      "fips": "16081",
-      "cases": 4,
+      "fips": "16047",
+      "cases": 3,
       "deaths": 0
     },
     {
@@ -209,19 +209,19 @@
       "deaths": 0
     },
     {
+      "county": "Teton",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16081",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
       "county": "Bannock",
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16005",
       "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Payette",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16075",
-      "cases": 6,
       "deaths": 0
     },
     {
@@ -237,7 +237,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16045",
-      "cases": 7,
+      "cases": 8,
       "deaths": 0
     },
     {
@@ -245,7 +245,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16063",
-      "cases": 9,
+      "cases": 12,
       "deaths": 0
     },
     {
@@ -253,7 +253,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16039",
-      "cases": 11,
+      "cases": 12,
       "deaths": 0
     },
     {
@@ -261,7 +261,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16053",
-      "cases": 13,
+      "cases": 18,
       "deaths": 0
     },
     {
@@ -269,7 +269,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16055",
-      "cases": 42,
+      "cases": 43,
       "deaths": 0
     }
   ]

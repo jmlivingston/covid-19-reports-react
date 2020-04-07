@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Minnesota",
-    "cases": 928,
-    "casesMax": 267,
-    "deaths": 29,
-    "deathsMax": 11,
-    "lastUpdated": "Mon, 06 Apr 2020 23:06:12 GMT"
+    "cases": 980,
+    "casesMax": 280,
+    "deaths": 34,
+    "deathsMax": 14,
+    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
   },
   "data": [
     {
@@ -13,8 +13,8 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27053",
-      "cases": 267,
-      "deaths": 11
+      "cases": 280,
+      "deaths": 14
     },
     {
       "county": "Unknown",
@@ -29,48 +29,16 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27091",
-      "cases": 32,
+      "cases": 33,
       "deaths": 4
-    },
-    {
-      "county": "Dakota",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27037",
-      "cases": 63,
-      "deaths": 2
     },
     {
       "county": "Ramsey",
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27123",
-      "cases": 91,
-      "deaths": 2
-    },
-    {
-      "county": "Olmsted",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27109",
-      "cases": 95,
-      "deaths": 2
-    },
-    {
-      "county": "Chisago",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27025",
-      "cases": 4,
-      "deaths": 1
-    },
-    {
-      "county": "Scott",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27139",
-      "cases": 13,
-      "deaths": 1
+      "cases": 96,
+      "deaths": 3
     },
     {
       "county": "Winona",
@@ -78,6 +46,38 @@
       "stateCode": "MN",
       "fips": "27169",
       "cases": 14,
+      "deaths": 2
+    },
+    {
+      "county": "Dakota",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27037",
+      "cases": 67,
+      "deaths": 2
+    },
+    {
+      "county": "Olmsted",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27109",
+      "cases": 96,
+      "deaths": 2
+    },
+    {
+      "county": "Chisago",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27025",
+      "cases": 5,
+      "deaths": 1
+    },
+    {
+      "county": "Scott",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27139",
+      "cases": 15,
       "deaths": 1
     },
     {
@@ -85,7 +85,7 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27163",
-      "cases": 62,
+      "cases": 65,
       "deaths": 1
     },
     {
@@ -137,14 +137,6 @@
       "deaths": 0
     },
     {
-      "county": "Lincoln",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27081",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Mahnomen",
       "state": "Minnesota",
       "stateCode": "MN",
@@ -157,14 +149,6 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27041",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Otter Tail",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27111",
       "cases": 1,
       "deaths": 0
     },
@@ -225,6 +209,22 @@
       "deaths": 0
     },
     {
+      "county": "Murray",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27101",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Redwood",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27127",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
       "county": "Renville",
       "state": "Minnesota",
       "stateCode": "MN",
@@ -249,10 +249,26 @@
       "deaths": 0
     },
     {
+      "county": "Lincoln",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27081",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
       "county": "Clearwater",
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27029",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Otter Tail",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27111",
       "cases": 2,
       "deaths": 0
     },
@@ -289,22 +305,6 @@
       "deaths": 0
     },
     {
-      "county": "Lyon",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27083",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Brown",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27015",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
       "county": "Nicollet",
       "state": "Minnesota",
       "stateCode": "MN",
@@ -317,6 +317,14 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27131",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Lyon",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27083",
       "cases": 4,
       "deaths": 0
     },
@@ -341,6 +349,14 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27033",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Brown",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27015",
       "cases": 5,
       "deaths": 0
     },
@@ -381,14 +397,6 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27147",
-      "cases": 8,
-      "deaths": 0
-    },
-    {
-      "county": "Carlton",
-      "state": "Minnesota",
-      "stateCode": "MN",
-      "fips": "27017",
       "cases": 8,
       "deaths": 0
     },
@@ -441,19 +449,19 @@
       "deaths": 0
     },
     {
-      "county": "Freeborn",
+      "county": "Carlton",
       "state": "Minnesota",
       "stateCode": "MN",
-      "fips": "27047",
+      "fips": "27017",
       "cases": 10,
       "deaths": 0
     },
     {
-      "county": "Clay",
+      "county": "Freeborn",
       "state": "Minnesota",
       "stateCode": "MN",
-      "fips": "27027",
-      "cases": 13,
+      "fips": "27047",
+      "cases": 11,
       "deaths": 0
     },
     {
@@ -461,7 +469,7 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27013",
-      "cases": 15,
+      "cases": 16,
       "deaths": 0
     },
     {
@@ -469,7 +477,7 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27137",
-      "cases": 15,
+      "cases": 16,
       "deaths": 0
     },
     {
@@ -478,6 +486,14 @@
       "stateCode": "MN",
       "fips": "27099",
       "cases": 17,
+      "deaths": 0
+    },
+    {
+      "county": "Clay",
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "fips": "27027",
+      "cases": 19,
       "deaths": 0
     },
     {
@@ -493,7 +509,7 @@
       "state": "Minnesota",
       "stateCode": "MN",
       "fips": "27003",
-      "cases": 36,
+      "cases": 40,
       "deaths": 0
     }
   ]
