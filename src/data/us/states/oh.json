@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Ohio",
-    "cases": 4451,
-    "casesMax": 871,
-    "deaths": 142,
-    "deathsMax": 17,
-    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
+    "cases": 4784,
+    "casesMax": 911,
+    "deaths": 167,
+    "deathsMax": 19,
+    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
   },
   "data": [
     {
@@ -13,71 +13,79 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39099",
-      "cases": 272,
-      "deaths": 17
+      "cases": 300,
+      "deaths": 19
     },
     {
       "county": "Cuyahoga",
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39035",
-      "cases": 871,
-      "deaths": 15
+      "cases": 911,
+      "deaths": 19
     },
     {
       "county": "Lucas",
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39095",
-      "cases": 321,
-      "deaths": 12
+      "cases": 347,
+      "deaths": 16
     },
     {
       "county": "Miami",
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39109",
-      "cases": 90,
-      "deaths": 10
+      "cases": 101,
+      "deaths": 12
     },
     {
       "county": "Summit",
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39153",
-      "cases": 189,
-      "deaths": 10
+      "cases": 199,
+      "deaths": 12
     },
     {
       "county": "Hamilton",
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39061",
-      "cases": 394,
-      "deaths": 9
+      "cases": 411,
+      "deaths": 12
     },
     {
       "county": "Franklin",
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39049",
-      "cases": 644,
-      "deaths": 9
+      "cases": 703,
+      "deaths": 12
     },
     {
       "county": "Trumbull",
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39155",
-      "cases": 102,
+      "cases": 110,
       "deaths": 8
+    },
+    {
+      "county": "Portage",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "fips": "39133",
+      "cases": 101,
+      "deaths": 7
     },
     {
       "county": "Stark",
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39151",
-      "cases": 109,
+      "cases": 110,
       "deaths": 7
     },
     {
@@ -85,7 +93,7 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39037",
-      "cases": 32,
+      "cases": 34,
       "deaths": 6
     },
     {
@@ -93,31 +101,31 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39029",
-      "cases": 53,
+      "cases": 59,
       "deaths": 5
-    },
-    {
-      "county": "Portage",
-      "state": "Ohio",
-      "stateCode": "OH",
-      "fips": "39133",
-      "cases": 94,
-      "deaths": 5
-    },
-    {
-      "county": "Medina",
-      "state": "Ohio",
-      "stateCode": "OH",
-      "fips": "39103",
-      "cases": 83,
-      "deaths": 3
     },
     {
       "county": "Lake",
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39085",
-      "cases": 87,
+      "cases": 92,
+      "deaths": 4
+    },
+    {
+      "county": "Licking",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "fips": "39089",
+      "cases": 61,
+      "deaths": 3
+    },
+    {
+      "county": "Medina",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "fips": "39103",
+      "cases": 88,
       "deaths": 3
     },
     {
@@ -125,7 +133,7 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39093",
-      "cases": 117,
+      "cases": 116,
       "deaths": 3
     },
     {
@@ -133,15 +141,7 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39097",
-      "cases": 17,
-      "deaths": 2
-    },
-    {
-      "county": "Licking",
-      "state": "Ohio",
-      "stateCode": "OH",
-      "fips": "39089",
-      "cases": 57,
+      "cases": 18,
       "deaths": 2
     },
     {
@@ -149,7 +149,7 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39017",
-      "cases": 75,
+      "cases": 92,
       "deaths": 2
     },
     {
@@ -157,7 +157,7 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39113",
-      "cases": 109,
+      "cases": 132,
       "deaths": 2
     },
     {
@@ -169,18 +169,18 @@
       "deaths": 1
     },
     {
-      "county": "Brown",
-      "state": "Ohio",
-      "stateCode": "OH",
-      "fips": "39015",
-      "cases": 3,
-      "deaths": 1
-    },
-    {
       "county": "Gallia",
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39053",
+      "cases": 4,
+      "deaths": 1
+    },
+    {
+      "county": "Brown",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "fips": "39015",
       "cases": 4,
       "deaths": 1
     },
@@ -213,7 +213,7 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39077",
-      "cases": 9,
+      "cases": 10,
       "deaths": 1
     },
     {
@@ -229,15 +229,7 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39057",
-      "cases": 15,
-      "deaths": 1
-    },
-    {
-      "county": "Belmont",
-      "state": "Ohio",
-      "stateCode": "OH",
-      "fips": "39013",
-      "cases": 22,
+      "cases": 20,
       "deaths": 1
     },
     {
@@ -245,7 +237,23 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39025",
-      "cases": 27,
+      "cases": 22,
+      "deaths": 1
+    },
+    {
+      "county": "Allen",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "fips": "39003",
+      "cases": 22,
+      "deaths": 1
+    },
+    {
+      "county": "Belmont",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "fips": "39013",
+      "cases": 25,
       "deaths": 1
     },
     {
@@ -317,6 +325,14 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39145",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Meigs",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "fips": "39105",
       "cases": 1,
       "deaths": 0
     },
@@ -409,14 +425,6 @@
       "deaths": 0
     },
     {
-      "county": "Muskingum",
-      "state": "Ohio",
-      "stateCode": "OH",
-      "fips": "39119",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
       "county": "Wyandot",
       "state": "Ohio",
       "stateCode": "OH",
@@ -441,22 +449,6 @@
       "deaths": 0
     },
     {
-      "county": "Preble",
-      "state": "Ohio",
-      "stateCode": "OH",
-      "fips": "39135",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Morrow",
-      "state": "Ohio",
-      "stateCode": "OH",
-      "fips": "39117",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
       "county": "Highland",
       "state": "Ohio",
       "stateCode": "OH",
@@ -465,11 +457,27 @@
       "deaths": 0
     },
     {
-      "county": "Ross",
+      "county": "Muskingum",
       "state": "Ohio",
       "stateCode": "OH",
-      "fips": "39141",
+      "fips": "39119",
       "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Morrow",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "fips": "39117",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Preble",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "fips": "39135",
+      "cases": 7,
       "deaths": 0
     },
     {
@@ -477,22 +485,6 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39159",
-      "cases": 8,
-      "deaths": 0
-    },
-    {
-      "county": "Defiance",
-      "state": "Ohio",
-      "stateCode": "OH",
-      "fips": "39039",
-      "cases": 8,
-      "deaths": 0
-    },
-    {
-      "county": "Clinton",
-      "state": "Ohio",
-      "stateCode": "OH",
-      "fips": "39027",
       "cases": 8,
       "deaths": 0
     },
@@ -505,6 +497,14 @@
       "deaths": 0
     },
     {
+      "county": "Defiance",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "fips": "39039",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
       "county": "Carroll",
       "state": "Ohio",
       "stateCode": "OH",
@@ -513,10 +513,34 @@
       "deaths": 0
     },
     {
+      "county": "Clinton",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "fips": "39027",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
       "county": "Crawford",
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39033",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Lawrence",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "fips": "39087",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Ross",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "fips": "39141",
       "cases": 9,
       "deaths": 0
     },
@@ -533,15 +557,7 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39023",
-      "cases": 10,
-      "deaths": 0
-    },
-    {
-      "county": "Lawrence",
-      "state": "Ohio",
-      "stateCode": "OH",
-      "fips": "39087",
-      "cases": 10,
+      "cases": 11,
       "deaths": 0
     },
     {
@@ -549,22 +565,6 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39063",
-      "cases": 14,
-      "deaths": 0
-    },
-    {
-      "county": "Ashtabula",
-      "state": "Ohio",
-      "stateCode": "OH",
-      "fips": "39007",
-      "cases": 15,
-      "deaths": 0
-    },
-    {
-      "county": "Washington",
-      "state": "Ohio",
-      "stateCode": "OH",
-      "fips": "39167",
       "cases": 15,
       "deaths": 0
     },
@@ -577,11 +577,19 @@
       "deaths": 0
     },
     {
+      "county": "Ashtabula",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "fips": "39007",
+      "cases": 18,
+      "deaths": 0
+    },
+    {
       "county": "Shelby",
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39149",
-      "cases": 17,
+      "cases": 18,
       "deaths": 0
     },
     {
@@ -589,15 +597,7 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39139",
-      "cases": 19,
-      "deaths": 0
-    },
-    {
-      "county": "Allen",
-      "state": "Ohio",
-      "stateCode": "OH",
-      "fips": "39003",
-      "cases": 19,
+      "cases": 20,
       "deaths": 0
     },
     {
@@ -609,11 +609,19 @@
       "deaths": 0
     },
     {
+      "county": "Washington",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "fips": "39167",
+      "cases": 27,
+      "deaths": 0
+    },
+    {
       "county": "Marion",
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39101",
-      "cases": 25,
+      "cases": 28,
       "deaths": 0
     },
     {
@@ -621,7 +629,7 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39169",
-      "cases": 26,
+      "cases": 29,
       "deaths": 0
     },
     {
@@ -629,7 +637,7 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39129",
-      "cases": 27,
+      "cases": 31,
       "deaths": 0
     },
     {
@@ -637,15 +645,7 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39173",
-      "cases": 34,
-      "deaths": 0
-    },
-    {
-      "county": "Warren",
-      "state": "Ohio",
-      "stateCode": "OH",
-      "fips": "39165",
-      "cases": 37,
+      "cases": 38,
       "deaths": 0
     },
     {
@@ -653,7 +653,15 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39055",
-      "cases": 40,
+      "cases": 41,
+      "deaths": 0
+    },
+    {
+      "county": "Warren",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "fips": "39165",
+      "cases": 45,
       "deaths": 0
     },
     {
@@ -661,7 +669,7 @@
       "state": "Ohio",
       "stateCode": "OH",
       "fips": "39045",
-      "cases": 54,
+      "cases": 59,
       "deaths": 0
     }
   ]

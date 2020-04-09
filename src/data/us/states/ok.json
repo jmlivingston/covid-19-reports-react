@@ -1,67 +1,99 @@
 {
   "summary": {
     "name": "Oklahoma",
-    "cases": 1328,
-    "casesMax": 279,
-    "deaths": 51,
-    "deathsMax": 11,
-    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
+    "cases": 1473,
+    "casesMax": 303,
+    "deaths": 67,
+    "deathsMax": 14,
+    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
   },
   "data": [
+    {
+      "county": "Tulsa",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40143",
+      "cases": 273,
+      "deaths": 14
+    },
     {
       "county": "Cleveland",
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40027",
-      "cases": 180,
-      "deaths": 11
+      "cases": 203,
+      "deaths": 12
     },
     {
       "county": "Oklahoma",
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40109",
-      "cases": 279,
+      "cases": 303,
       "deaths": 11
-    },
-    {
-      "county": "Tulsa",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40143",
-      "cases": 249,
-      "deaths": 8
-    },
-    {
-      "county": "Greer",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40055",
-      "cases": 26,
-      "deaths": 3
     },
     {
       "county": "Osage",
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40113",
-      "cases": 31,
-      "deaths": 3
+      "cases": 34,
+      "deaths": 5
     },
     {
-      "county": "Muskogee",
+      "county": "Greer",
       "state": "Oklahoma",
       "stateCode": "OK",
-      "fips": "40101",
-      "cases": 20,
-      "deaths": 2
+      "fips": "40055",
+      "cases": 31,
+      "deaths": 3
     },
     {
       "county": "Wagoner",
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40145",
-      "cases": 49,
+      "cases": 55,
+      "deaths": 3
+    },
+    {
+      "county": "Mayes",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40097",
+      "cases": 12,
+      "deaths": 2
+    },
+    {
+      "county": "Muskogee",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40101",
+      "cases": 21,
+      "deaths": 2
+    },
+    {
+      "county": "Kay",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40071",
+      "cases": 33,
+      "deaths": 2
+    },
+    {
+      "county": "Washington",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40147",
+      "cases": 43,
+      "deaths": 2
+    },
+    {
+      "county": "Creek",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40037",
+      "cases": 47,
       "deaths": 2
     },
     {
@@ -85,14 +117,6 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40135",
-      "cases": 7,
-      "deaths": 1
-    },
-    {
-      "county": "Mayes",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40097",
       "cases": 10,
       "deaths": 1
     },
@@ -105,11 +129,19 @@
       "deaths": 1
     },
     {
+      "county": "Cherokee",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40021",
+      "cases": 16,
+      "deaths": 1
+    },
+    {
       "county": "Pottawatomie",
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40125",
-      "cases": 13,
+      "cases": 19,
       "deaths": 1
     },
     {
@@ -117,15 +149,15 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40117",
-      "cases": 22,
+      "cases": 23,
       "deaths": 1
     },
     {
-      "county": "Kay",
+      "county": "Adair",
       "state": "Oklahoma",
       "stateCode": "OK",
-      "fips": "40071",
-      "cases": 30,
+      "fips": "40001",
+      "cases": 25,
       "deaths": 1
     },
     {
@@ -133,23 +165,7 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40017",
-      "cases": 35,
-      "deaths": 1
-    },
-    {
-      "county": "Washington",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40147",
-      "cases": 39,
-      "deaths": 1
-    },
-    {
-      "county": "Creek",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40037",
-      "cases": 45,
+      "cases": 40,
       "deaths": 1
     },
     {
@@ -217,14 +233,6 @@
       "deaths": 0
     },
     {
-      "county": "McCurtain",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40089",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Washita",
       "state": "Oklahoma",
       "stateCode": "OK",
@@ -241,18 +249,34 @@
       "deaths": 0
     },
     {
-      "county": "McIntosh",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40091",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Jefferson",
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40067",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Beaver",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40007",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Dewey",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40043",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Marshall",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40095",
       "cases": 1,
       "deaths": 0
     },
@@ -269,6 +293,22 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40085",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "McCurtain",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40089",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "McIntosh",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40091",
       "cases": 2,
       "deaths": 0
     },
@@ -297,10 +337,10 @@
       "deaths": 0
     },
     {
-      "county": "Jackson",
+      "county": "Craig",
       "state": "Oklahoma",
       "stateCode": "OK",
-      "fips": "40065",
+      "fips": "40035",
       "cases": 4,
       "deaths": 0
     },
@@ -321,27 +361,19 @@
       "deaths": 0
     },
     {
-      "county": "Craig",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40035",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Caddo",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40015",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
       "county": "Garfield",
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40047",
       "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Jackson",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40065",
+      "cases": 6,
       "deaths": 0
     },
     {
@@ -361,11 +393,19 @@
       "deaths": 0
     },
     {
+      "county": "Caddo",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40015",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
       "county": "Pittsburg",
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40121",
-      "cases": 6,
+      "cases": 7,
       "deaths": 0
     },
     {
@@ -373,7 +413,7 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40051",
-      "cases": 8,
+      "cases": 9,
       "deaths": 0
     },
     {
@@ -381,7 +421,7 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40123",
-      "cases": 8,
+      "cases": 9,
       "deaths": 0
     },
     {
@@ -389,7 +429,7 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40081",
-      "cases": 9,
+      "cases": 10,
       "deaths": 0
     },
     {
@@ -397,14 +437,6 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40105",
-      "cases": 9,
-      "deaths": 0
-    },
-    {
-      "county": "Garvin",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40049",
       "cases": 10,
       "deaths": 0
     },
@@ -417,18 +449,10 @@
       "deaths": 0
     },
     {
-      "county": "McClain",
+      "county": "Garvin",
       "state": "Oklahoma",
       "stateCode": "OK",
-      "fips": "40087",
-      "cases": 12,
-      "deaths": 0
-    },
-    {
-      "county": "Ottawa",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40115",
+      "fips": "40049",
       "cases": 12,
       "deaths": 0
     },
@@ -441,11 +465,19 @@
       "deaths": 0
     },
     {
-      "county": "Cherokee",
+      "county": "Ottawa",
       "state": "Oklahoma",
       "stateCode": "OK",
-      "fips": "40021",
+      "fips": "40115",
       "cases": 14,
+      "deaths": 0
+    },
+    {
+      "county": "McClain",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40087",
+      "cases": 16,
       "deaths": 0
     },
     {
@@ -453,15 +485,7 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40131",
-      "cases": 15,
-      "deaths": 0
-    },
-    {
-      "county": "Adair",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40001",
-      "cases": 20,
+      "cases": 17,
       "deaths": 0
     },
     {
@@ -469,7 +493,7 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40119",
-      "cases": 21,
+      "cases": 24,
       "deaths": 0
     },
     {
@@ -477,7 +501,7 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40031",
-      "cases": 41,
+      "cases": 42,
       "deaths": 0
     }
   ]

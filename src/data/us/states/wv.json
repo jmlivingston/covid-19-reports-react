@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "West Virginia",
-    "cases": 347,
-    "casesMax": 56,
+    "cases": 413,
+    "casesMax": 61,
     "deaths": 4,
     "deathsMax": 1,
-    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
+    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
   },
   "data": [
     {
@@ -13,15 +13,7 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54035",
-      "cases": 16,
-      "deaths": 1
-    },
-    {
-      "county": "Marion",
-      "state": "West Virginia",
-      "stateCode": "WV",
-      "fips": "54049",
-      "cases": 17,
+      "cases": 19,
       "deaths": 1
     },
     {
@@ -33,11 +25,19 @@
       "deaths": 1
     },
     {
+      "county": "Marion",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "fips": "54049",
+      "cases": 25,
+      "deaths": 1
+    },
+    {
       "county": "Monongalia",
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54061",
-      "cases": 53,
+      "cases": 60,
       "deaths": 1
     },
     {
@@ -81,10 +81,34 @@
       "deaths": 0
     },
     {
-      "county": "Taylor",
+      "county": "Brooke",
       "state": "West Virginia",
       "stateCode": "WV",
-      "fips": "54091",
+      "fips": "54009",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Fayette",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "fips": "54019",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Tyler",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "fips": "54095",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Wyoming",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "fips": "54109",
       "cases": 1,
       "deaths": 0
     },
@@ -113,10 +137,18 @@
       "deaths": 0
     },
     {
-      "county": "Mineral",
+      "county": "McDowell",
       "state": "West Virginia",
       "stateCode": "WV",
-      "fips": "54057",
+      "fips": "54047",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Nicholas",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "fips": "54067",
       "cases": 2,
       "deaths": 0
     },
@@ -137,14 +169,6 @@
       "deaths": 0
     },
     {
-      "county": "Morgan",
-      "state": "West Virginia",
-      "stateCode": "WV",
-      "fips": "54065",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
       "county": "Randolph",
       "state": "West Virginia",
       "stateCode": "WV",
@@ -153,19 +177,19 @@
       "deaths": 0
     },
     {
-      "county": "Mercer",
+      "county": "Mineral",
       "state": "West Virginia",
       "stateCode": "WV",
-      "fips": "54055",
-      "cases": 4,
+      "fips": "54057",
+      "cases": 3,
       "deaths": 0
     },
     {
-      "county": "Preston",
+      "county": "Taylor",
       "state": "West Virginia",
       "stateCode": "WV",
-      "fips": "54077",
-      "cases": 4,
+      "fips": "54091",
+      "cases": 3,
       "deaths": 0
     },
     {
@@ -177,10 +201,10 @@
       "deaths": 0
     },
     {
-      "county": "Mason",
+      "county": "Morgan",
       "state": "West Virginia",
       "stateCode": "WV",
-      "fips": "54053",
+      "fips": "54065",
       "cases": 4,
       "deaths": 0
     },
@@ -193,6 +217,14 @@
       "deaths": 0
     },
     {
+      "county": "Mercer",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "fips": "54055",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
       "county": "Marshall",
       "state": "West Virginia",
       "stateCode": "WV",
@@ -201,11 +233,27 @@
       "deaths": 0
     },
     {
+      "county": "Preston",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "fips": "54077",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Mason",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "fips": "54053",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
       "county": "Logan",
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54045",
-      "cases": 6,
+      "cases": 7,
       "deaths": 0
     },
     {
@@ -213,14 +261,6 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54029",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
-      "county": "Cabell",
-      "state": "West Virginia",
-      "stateCode": "WV",
-      "fips": "54011",
       "cases": 7,
       "deaths": 0
     },
@@ -229,7 +269,15 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54079",
-      "cases": 8,
+      "cases": 10,
+      "deaths": 0
+    },
+    {
+      "county": "Cabell",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "fips": "54011",
+      "cases": 11,
       "deaths": 0
     },
     {
@@ -237,7 +285,7 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54107",
-      "cases": 11,
+      "cases": 13,
       "deaths": 0
     },
     {
@@ -245,7 +293,7 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54069",
-      "cases": 15,
+      "cases": 19,
       "deaths": 0
     },
     {
@@ -253,7 +301,7 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54037",
-      "cases": 22,
+      "cases": 31,
       "deaths": 0
     },
     {
@@ -261,7 +309,7 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54003",
-      "cases": 54,
+      "cases": 57,
       "deaths": 0
     },
     {
@@ -269,7 +317,7 @@
       "state": "West Virginia",
       "stateCode": "WV",
       "fips": "54039",
-      "cases": 56,
+      "cases": 61,
       "deaths": 0
     }
   ]

@@ -7,49 +7,49 @@ const LA = lazy(() => import('../reports/us/states/LA'))
 const CA = lazy(() => import('../reports/us/states/CA'))
 const WA = lazy(() => import('../reports/us/states/WA'))
 const IL = lazy(() => import('../reports/us/states/IL'))
-const GA = lazy(() => import('../reports/us/states/GA'))
 const MA = lazy(() => import('../reports/us/states/MA'))
+const GA = lazy(() => import('../reports/us/states/GA'))
 const FL = lazy(() => import('../reports/us/states/FL'))
 const CT = lazy(() => import('../reports/us/states/CT'))
 const PA = lazy(() => import('../reports/us/states/PA'))
-const TX = lazy(() => import('../reports/us/states/TX'))
 const CO = lazy(() => import('../reports/us/states/CO'))
-const OH = lazy(() => import('../reports/us/states/OH'))
+const TX = lazy(() => import('../reports/us/states/TX'))
 const IN = lazy(() => import('../reports/us/states/IN'))
+const OH = lazy(() => import('../reports/us/states/OH'))
 const MD = lazy(() => import('../reports/us/states/MD'))
 const WI = lazy(() => import('../reports/us/states/WI'))
+const MO = lazy(() => import('../reports/us/states/MO'))
 const AZ = lazy(() => import('../reports/us/states/AZ'))
 const TN = lazy(() => import('../reports/us/states/TN'))
-const NV = lazy(() => import('../reports/us/states/NV'))
-const MO = lazy(() => import('../reports/us/states/MO'))
 const VA = lazy(() => import('../reports/us/states/VA'))
-const AL = lazy(() => import('../reports/us/states/AL'))
-const KY = lazy(() => import('../reports/us/states/KY'))
 const OK = lazy(() => import('../reports/us/states/OK'))
+const KY = lazy(() => import('../reports/us/states/KY'))
+const AL = lazy(() => import('../reports/us/states/AL'))
+const NV = lazy(() => import('../reports/us/states/NV'))
 const MS = lazy(() => import('../reports/us/states/MS'))
 const SC = lazy(() => import('../reports/us/states/SC'))
 const NC = lazy(() => import('../reports/us/states/NC'))
 const MN = lazy(() => import('../reports/us/states/MN'))
 const OR = lazy(() => import('../reports/us/states/OR'))
-const RI = lazy(() => import('../reports/us/states/RI'))
 const KS = lazy(() => import('../reports/us/states/KS'))
+const RI = lazy(() => import('../reports/us/states/RI'))
 const IA = lazy(() => import('../reports/us/states/IA'))
-const DC = lazy(() => import('../reports/us/states/DC'))
 const VT = lazy(() => import('../reports/us/states/VT'))
+const DC = lazy(() => import('../reports/us/states/DC'))
 const AR = lazy(() => import('../reports/us/states/AR'))
 const DE = lazy(() => import('../reports/us/states/DE'))
 const ID = lazy(() => import('../reports/us/states/ID'))
-const UT = lazy(() => import('../reports/us/states/UT'))
+const NH = lazy(() => import('../reports/us/states/NH'))
 const NM = lazy(() => import('../reports/us/states/NM'))
+const UT = lazy(() => import('../reports/us/states/UT'))
 const NE = lazy(() => import('../reports/us/states/NE'))
 const ME = lazy(() => import('../reports/us/states/ME'))
-const NH = lazy(() => import('../reports/us/states/NH'))
 const MT = lazy(() => import('../reports/us/states/MT'))
+const SD = lazy(() => import('../reports/us/states/SD'))
 const HI = lazy(() => import('../reports/us/states/HI'))
 const AK = lazy(() => import('../reports/us/states/AK'))
-const SD = lazy(() => import('../reports/us/states/SD'))
-const WV = lazy(() => import('../reports/us/states/WV'))
 const ND = lazy(() => import('../reports/us/states/ND'))
+const WV = lazy(() => import('../reports/us/states/WV'))
 const WY = lazy(() => import('../reports/us/states/WY'))
 
 function StateRoutes() {
@@ -76,11 +76,11 @@ function StateRoutes() {
       <Route exact path={`/us/il`}>
         <IL />
       </Route>
-      <Route exact path={`/us/ga`}>
-        <GA />
-      </Route>
       <Route exact path={`/us/ma`}>
         <MA />
+      </Route>
+      <Route exact path={`/us/ga`}>
+        <GA />
       </Route>
       <Route exact path={`/us/fl`}>
         <FL />
@@ -91,17 +91,17 @@ function StateRoutes() {
       <Route exact path={`/us/pa`}>
         <PA />
       </Route>
-      <Route exact path={`/us/tx`}>
-        <TX />
-      </Route>
       <Route exact path={`/us/co`}>
         <CO />
       </Route>
-      <Route exact path={`/us/oh`}>
-        <OH />
+      <Route exact path={`/us/tx`}>
+        <TX />
       </Route>
       <Route exact path={`/us/in`}>
         <IN />
+      </Route>
+      <Route exact path={`/us/oh`}>
+        <OH />
       </Route>
       <Route exact path={`/us/md`}>
         <MD />
@@ -109,29 +109,29 @@ function StateRoutes() {
       <Route exact path={`/us/wi`}>
         <WI />
       </Route>
+      <Route exact path={`/us/mo`}>
+        <MO />
+      </Route>
       <Route exact path={`/us/az`}>
         <AZ />
       </Route>
       <Route exact path={`/us/tn`}>
         <TN />
       </Route>
-      <Route exact path={`/us/nv`}>
-        <NV />
-      </Route>
-      <Route exact path={`/us/mo`}>
-        <MO />
-      </Route>
       <Route exact path={`/us/va`}>
         <VA />
       </Route>
-      <Route exact path={`/us/al`}>
-        <AL />
+      <Route exact path={`/us/ok`}>
+        <OK />
       </Route>
       <Route exact path={`/us/ky`}>
         <KY />
       </Route>
-      <Route exact path={`/us/ok`}>
-        <OK />
+      <Route exact path={`/us/al`}>
+        <AL />
+      </Route>
+      <Route exact path={`/us/nv`}>
+        <NV />
       </Route>
       <Route exact path={`/us/ms`}>
         <MS />
@@ -148,20 +148,20 @@ function StateRoutes() {
       <Route exact path={`/us/or`}>
         <OR />
       </Route>
-      <Route exact path={`/us/ri`}>
-        <RI />
-      </Route>
       <Route exact path={`/us/ks`}>
         <KS />
+      </Route>
+      <Route exact path={`/us/ri`}>
+        <RI />
       </Route>
       <Route exact path={`/us/ia`}>
         <IA />
       </Route>
-      <Route exact path={`/us/dc`}>
-        <DC />
-      </Route>
       <Route exact path={`/us/vt`}>
         <VT />
+      </Route>
+      <Route exact path={`/us/dc`}>
+        <DC />
       </Route>
       <Route exact path={`/us/ar`}>
         <AR />
@@ -172,11 +172,14 @@ function StateRoutes() {
       <Route exact path={`/us/id`}>
         <ID />
       </Route>
-      <Route exact path={`/us/ut`}>
-        <UT />
+      <Route exact path={`/us/nh`}>
+        <NH />
       </Route>
       <Route exact path={`/us/nm`}>
         <NM />
+      </Route>
+      <Route exact path={`/us/ut`}>
+        <UT />
       </Route>
       <Route exact path={`/us/ne`}>
         <NE />
@@ -184,11 +187,11 @@ function StateRoutes() {
       <Route exact path={`/us/me`}>
         <ME />
       </Route>
-      <Route exact path={`/us/nh`}>
-        <NH />
-      </Route>
       <Route exact path={`/us/mt`}>
         <MT />
+      </Route>
+      <Route exact path={`/us/sd`}>
+        <SD />
       </Route>
       <Route exact path={`/us/hi`}>
         <HI />
@@ -196,14 +199,11 @@ function StateRoutes() {
       <Route exact path={`/us/ak`}>
         <AK />
       </Route>
-      <Route exact path={`/us/sd`}>
-        <SD />
+      <Route exact path={`/us/nd`}>
+        <ND />
       </Route>
       <Route exact path={`/us/wv`}>
         <WV />
-      </Route>
-      <Route exact path={`/us/nd`}>
-        <ND />
       </Route>
       <Route exact path={`/us/wy`}>
         <WY />

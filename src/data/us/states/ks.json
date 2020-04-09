@@ -1,35 +1,35 @@
 {
   "summary": {
     "name": "Kansas",
-    "cases": 853,
-    "casesMax": 213,
-    "deaths": 25,
-    "deathsMax": 9,
-    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
+    "cases": 905,
+    "casesMax": 219,
+    "deaths": 30,
+    "deathsMax": 10,
+    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
   },
   "data": [
-    {
-      "county": "Johnson",
-      "state": "Kansas",
-      "stateCode": "KS",
-      "fips": "20091",
-      "cases": 213,
-      "deaths": 9
-    },
     {
       "county": "Wyandotte",
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20209",
-      "cases": 186,
-      "deaths": 7
+      "cases": 192,
+      "deaths": 10
+    },
+    {
+      "county": "Johnson",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20091",
+      "cases": 219,
+      "deaths": 10
     },
     {
       "county": "Shawnee",
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20177",
-      "cases": 40,
+      "cases": 43,
       "deaths": 3
     },
     {
@@ -49,6 +49,14 @@
       "deaths": 1
     },
     {
+      "county": "Bourbon",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20011",
+      "cases": 7,
+      "deaths": 1
+    },
+    {
       "county": "Saline",
       "state": "Kansas",
       "stateCode": "KS",
@@ -61,7 +69,7 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20103",
-      "cases": 40,
+      "cases": 43,
       "deaths": 1
     },
     {
@@ -69,16 +77,8 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20173",
-      "cases": 124,
+      "cases": 134,
       "deaths": 1
-    },
-    {
-      "county": "Ford",
-      "state": "Kansas",
-      "stateCode": "KS",
-      "fips": "20057",
-      "cases": 1,
-      "deaths": 0
     },
     {
       "county": "Jackson",
@@ -177,14 +177,6 @@
       "deaths": 0
     },
     {
-      "county": "Republic",
-      "state": "Kansas",
-      "stateCode": "KS",
-      "fips": "20157",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Wabaunsee",
       "state": "Kansas",
       "stateCode": "KS",
@@ -198,6 +190,46 @@
       "stateCode": "KS",
       "fips": "20129",
       "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Barber",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20007",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Rooks",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20163",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Scott",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20171",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Seward",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20175",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Ford",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20057",
+      "cases": 2,
       "deaths": 0
     },
     {
@@ -225,14 +257,6 @@
       "deaths": 0
     },
     {
-      "county": "Miami",
-      "state": "Kansas",
-      "stateCode": "KS",
-      "fips": "20121",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Atchison",
       "state": "Kansas",
       "stateCode": "KS",
@@ -249,10 +273,10 @@
       "deaths": 0
     },
     {
-      "county": "Geary",
+      "county": "Republic",
       "state": "Kansas",
       "stateCode": "KS",
-      "fips": "20061",
+      "fips": "20157",
       "cases": 2,
       "deaths": 0
     },
@@ -281,14 +305,6 @@
       "deaths": 0
     },
     {
-      "county": "Harvey",
-      "state": "Kansas",
-      "stateCode": "KS",
-      "fips": "20079",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
       "county": "Osage",
       "state": "Kansas",
       "stateCode": "KS",
@@ -301,6 +317,14 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20143",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Miami",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20121",
       "cases": 3,
       "deaths": 0
     },
@@ -329,18 +353,26 @@
       "deaths": 0
     },
     {
+      "county": "Harvey",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20079",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Geary",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20061",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
       "county": "Cherokee",
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20021",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Labette",
-      "state": "Kansas",
-      "stateCode": "KS",
-      "fips": "20099",
       "cases": 5,
       "deaths": 0
     },
@@ -353,14 +385,6 @@
       "deaths": 0
     },
     {
-      "county": "Bourbon",
-      "state": "Kansas",
-      "stateCode": "KS",
-      "fips": "20011",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
       "county": "Butler",
       "state": "Kansas",
       "stateCode": "KS",
@@ -369,11 +393,11 @@
       "deaths": 0
     },
     {
-      "county": "McPherson",
+      "county": "Labette",
       "state": "Kansas",
       "stateCode": "KS",
-      "fips": "20113",
-      "cases": 9,
+      "fips": "20099",
+      "cases": 8,
       "deaths": 0
     },
     {
@@ -393,6 +417,14 @@
       "deaths": 0
     },
     {
+      "county": "McPherson",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "fips": "20113",
+      "cases": 10,
+      "deaths": 0
+    },
+    {
       "county": "Finney",
       "state": "Kansas",
       "stateCode": "KS",
@@ -405,7 +437,7 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20161",
-      "cases": 14,
+      "cases": 17,
       "deaths": 0
     },
     {
@@ -413,7 +445,7 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20111",
-      "cases": 23,
+      "cases": 24,
       "deaths": 0
     },
     {
@@ -421,7 +453,7 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20031",
-      "cases": 29,
+      "cases": 32,
       "deaths": 0
     },
     {
@@ -429,7 +461,7 @@
       "state": "Kansas",
       "stateCode": "KS",
       "fips": "20045",
-      "cases": 36,
+      "cases": 38,
       "deaths": 0
     }
   ]

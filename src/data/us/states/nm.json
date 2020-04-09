@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "New Mexico",
-    "cases": 688,
-    "casesMax": 262,
-    "deaths": 12,
-    "deathsMax": 7,
-    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
+    "cases": 796,
+    "casesMax": 307,
+    "deaths": 13,
+    "deathsMax": 8,
+    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
   },
   "data": [
     {
@@ -13,15 +13,15 @@
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35001",
-      "cases": 262,
-      "deaths": 7
+      "cases": 307,
+      "deaths": 8
     },
     {
       "county": "McKinley",
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35031",
-      "cases": 44,
+      "cases": 55,
       "deaths": 2
     },
     {
@@ -29,7 +29,7 @@
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35043",
-      "cases": 114,
+      "cases": 128,
       "deaths": 2
     },
     {
@@ -97,19 +97,19 @@
       "deaths": 0
     },
     {
-      "county": "Grant",
-      "state": "New Mexico",
-      "stateCode": "NM",
-      "fips": "35017",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
       "county": "Otero",
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35035",
       "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Grant",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35017",
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -121,26 +121,10 @@
       "deaths": 0
     },
     {
-      "county": "Curry",
-      "state": "New Mexico",
-      "stateCode": "NM",
-      "fips": "35009",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
       "county": "Rio Arriba",
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35039",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
-      "county": "Torrance",
-      "state": "New Mexico",
-      "stateCode": "NM",
-      "fips": "35057",
       "cases": 6,
       "deaths": 0
     },
@@ -153,11 +137,27 @@
       "deaths": 0
     },
     {
+      "county": "Torrance",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35057",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
+      "county": "Curry",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "fips": "35009",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
       "county": "Taos",
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35055",
-      "cases": 13,
+      "cases": 14,
       "deaths": 0
     },
     {
@@ -165,7 +165,7 @@
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35005",
-      "cases": 14,
+      "cases": 15,
       "deaths": 0
     },
     {
@@ -173,7 +173,7 @@
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35006",
-      "cases": 14,
+      "cases": 15,
       "deaths": 0
     },
     {
@@ -181,7 +181,7 @@
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35013",
-      "cases": 30,
+      "cases": 35,
       "deaths": 0
     },
     {
@@ -189,7 +189,7 @@
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35049",
-      "cases": 64,
+      "cases": 66,
       "deaths": 0
     },
     {
@@ -197,7 +197,7 @@
       "state": "New Mexico",
       "stateCode": "NM",
       "fips": "35045",
-      "cases": 83,
+      "cases": 107,
       "deaths": 0
     }
   ]

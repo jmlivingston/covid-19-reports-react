@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Alaska",
-    "cases": 190,
-    "casesMax": 88,
+    "cases": 212,
+    "casesMax": 98,
     "deaths": 4,
     "deathsMax": 3,
-    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
+    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "Alaska",
       "stateCode": "AK",
       "fips": "02020",
-      "cases": 88,
+      "cases": 98,
       "deaths": 3
     },
     {
@@ -21,7 +21,7 @@
       "state": "Alaska",
       "stateCode": "AK",
       "fips": "02090",
-      "cases": 54,
+      "cases": 65,
       "deaths": 1
     },
     {
@@ -53,6 +53,14 @@
       "state": "Alaska",
       "stateCode": "AK",
       "fips": "02195",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Bethel Census Area",
+      "state": "Alaska",
+      "stateCode": "AK",
+      "fips": "02050",
       "cases": 1,
       "deaths": 0
     },

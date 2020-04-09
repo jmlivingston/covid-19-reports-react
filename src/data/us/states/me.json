@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Maine",
-    "cases": 499,
-    "casesMax": 249,
-    "deaths": 10,
-    "deathsMax": 7,
-    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
+    "cases": 519,
+    "casesMax": 253,
+    "deaths": 12,
+    "deathsMax": 9,
+    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
   },
   "data": [
     {
@@ -13,15 +13,15 @@
       "state": "Maine",
       "stateCode": "ME",
       "fips": "23005",
-      "cases": 249,
-      "deaths": 7
+      "cases": 253,
+      "deaths": 9
     },
     {
       "county": "York",
       "state": "Maine",
       "stateCode": "ME",
       "fips": "23031",
-      "cases": 108,
+      "cases": 115,
       "deaths": 2
     },
     {
@@ -29,16 +29,8 @@
       "state": "Maine",
       "stateCode": "ME",
       "fips": "23011",
-      "cases": 23,
+      "cases": 26,
       "deaths": 1
-    },
-    {
-      "county": "Aroostook",
-      "state": "Maine",
-      "stateCode": "ME",
-      "fips": "23003",
-      "cases": 1,
-      "deaths": 0
     },
     {
       "county": "Washington",
@@ -53,6 +45,14 @@
       "state": "Maine",
       "stateCode": "ME",
       "fips": "23009",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Aroostook",
+      "state": "Maine",
+      "stateCode": "ME",
+      "fips": "23003",
       "cases": 2,
       "deaths": 0
     },
@@ -89,6 +89,14 @@
       "deaths": 0
     },
     {
+      "county": "Unknown",
+      "state": "Maine",
+      "stateCode": "ME",
+      "fips": "",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
       "county": "Knox",
       "state": "Maine",
       "stateCode": "ME",
@@ -97,19 +105,11 @@
       "deaths": 0
     },
     {
-      "county": "Unknown",
-      "state": "Maine",
-      "stateCode": "ME",
-      "fips": "",
-      "cases": 11,
-      "deaths": 0
-    },
-    {
       "county": "Oxford",
       "state": "Maine",
       "stateCode": "ME",
       "fips": "23017",
-      "cases": 11,
+      "cases": 12,
       "deaths": 0
     },
     {
@@ -133,7 +133,7 @@
       "state": "Maine",
       "stateCode": "ME",
       "fips": "23019",
-      "cases": 25,
+      "cases": 31,
       "deaths": 0
     }
   ]

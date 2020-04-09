@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Wyoming",
-    "cases": 213,
-    "casesMax": 45,
+    "cases": 221,
+    "casesMax": 48,
     "deaths": 0,
     "deathsMax": 0,
-    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
+    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
   },
   "data": [
     {
@@ -101,7 +101,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56037",
-      "cases": 5,
+      "cases": 6,
       "deaths": 0
     },
     {
@@ -149,7 +149,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56039",
-      "cases": 40,
+      "cases": 44,
       "deaths": 0
     },
     {
@@ -157,7 +157,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56021",
-      "cases": 45,
+      "cases": 48,
       "deaths": 0
     }
   ]

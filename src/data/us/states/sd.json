@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "South Dakota",
-    "cases": 290,
-    "casesMax": 140,
-    "deaths": 4,
-    "deathsMax": 2,
-    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
+    "cases": 322,
+    "casesMax": 165,
+    "deaths": 6,
+    "deathsMax": 4,
+    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
   },
   "data": [
     {
@@ -14,7 +14,7 @@
       "stateCode": "SD",
       "fips": "",
       "cases": 0,
-      "deaths": 2
+      "deaths": 4
     },
     {
       "county": "Davison",
@@ -31,14 +31,6 @@
       "fips": "46005",
       "cases": 21,
       "deaths": 1
-    },
-    {
-      "county": "Lyman",
-      "state": "South Dakota",
-      "stateCode": "SD",
-      "fips": "46085",
-      "cases": 1,
-      "deaths": 0
     },
     {
       "county": "Meade",
@@ -161,6 +153,14 @@
       "deaths": 0
     },
     {
+      "county": "Lyman",
+      "state": "South Dakota",
+      "stateCode": "SD",
+      "fips": "46085",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
       "county": "Hutchinson",
       "state": "South Dakota",
       "stateCode": "SD",
@@ -185,27 +185,11 @@
       "deaths": 0
     },
     {
-      "county": "Clay",
-      "state": "South Dakota",
-      "stateCode": "SD",
-      "fips": "46027",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
       "county": "Spink",
       "state": "South Dakota",
       "stateCode": "SD",
       "fips": "46115",
       "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Brookings",
-      "state": "South Dakota",
-      "stateCode": "SD",
-      "fips": "46011",
-      "cases": 4,
       "deaths": 0
     },
     {
@@ -233,6 +217,22 @@
       "deaths": 0
     },
     {
+      "county": "Brookings",
+      "state": "South Dakota",
+      "stateCode": "SD",
+      "fips": "46011",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Clay",
+      "state": "South Dakota",
+      "stateCode": "SD",
+      "fips": "46027",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
       "county": "Lawrence",
       "state": "South Dakota",
       "stateCode": "SD",
@@ -245,7 +245,7 @@
       "state": "South Dakota",
       "stateCode": "SD",
       "fips": "46029",
-      "cases": 11,
+      "cases": 12,
       "deaths": 0
     },
     {
@@ -261,7 +261,7 @@
       "state": "South Dakota",
       "stateCode": "SD",
       "fips": "46135",
-      "cases": 18,
+      "cases": 15,
       "deaths": 0
     },
     {
@@ -269,7 +269,7 @@
       "state": "South Dakota",
       "stateCode": "SD",
       "fips": "46083",
-      "cases": 24,
+      "cases": 27,
       "deaths": 0
     },
     {
@@ -277,7 +277,7 @@
       "state": "South Dakota",
       "stateCode": "SD",
       "fips": "46099",
-      "cases": 140,
+      "cases": 165,
       "deaths": 0
     }
   ]

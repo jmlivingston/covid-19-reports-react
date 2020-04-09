@@ -1,19 +1,27 @@
 {
   "summary": {
     "name": "Idaho",
-    "cases": 1172,
-    "casesMax": 423,
-    "deaths": 13,
-    "deathsMax": 3,
-    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
+    "cases": 1212,
+    "casesMax": 438,
+    "deaths": 15,
+    "deathsMax": 4,
+    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
   },
   "data": [
+    {
+      "county": "Blaine",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16013",
+      "cases": 428,
+      "deaths": 4
+    },
     {
       "county": "Canyon",
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16027",
-      "cases": 104,
+      "cases": 114,
       "deaths": 3
     },
     {
@@ -21,7 +29,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16001",
-      "cases": 419,
+      "cases": 438,
       "deaths": 3
     },
     {
@@ -29,15 +37,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16069",
-      "cases": 15,
-      "deaths": 2
-    },
-    {
-      "county": "Blaine",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16013",
-      "cases": 423,
+      "cases": 17,
       "deaths": 2
     },
     {
@@ -161,6 +161,14 @@
       "deaths": 0
     },
     {
+      "county": "Power",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16077",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
       "county": "Idaho",
       "state": "Idaho",
       "stateCode": "ID",
@@ -229,7 +237,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16019",
-      "cases": 6,
+      "cases": 7,
       "deaths": 0
     },
     {
@@ -253,7 +261,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16039",
-      "cases": 12,
+      "cases": 14,
       "deaths": 0
     },
     {
@@ -269,7 +277,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16055",
-      "cases": 43,
+      "cases": 42,
       "deaths": 0
     }
   ]

@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Nebraska",
-    "cases": 440,
-    "casesMax": 173,
-    "deaths": 10,
-    "deathsMax": 4,
-    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
+    "cases": 493,
+    "casesMax": 189,
+    "deaths": 12,
+    "deathsMax": 5,
+    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
   },
   "data": [
     {
@@ -13,15 +13,23 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31055",
-      "cases": 173,
-      "deaths": 4
+      "cases": 189,
+      "deaths": 5
+    },
+    {
+      "county": "Hall",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31079",
+      "cases": 60,
+      "deaths": 2
     },
     {
       "county": "Custer",
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31041",
-      "cases": 1,
+      "cases": 2,
       "deaths": 1
     },
     {
@@ -30,14 +38,6 @@
       "stateCode": "NE",
       "fips": "31119",
       "cases": 5,
-      "deaths": 1
-    },
-    {
-      "county": "Gage",
-      "state": "Nebraska",
-      "stateCode": "NE",
-      "fips": "31067",
-      "cases": 9,
       "deaths": 1
     },
     {
@@ -53,15 +53,15 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31019",
-      "cases": 18,
+      "cases": 23,
       "deaths": 1
     },
     {
-      "county": "Hall",
+      "county": "Gage",
       "state": "Nebraska",
       "stateCode": "NE",
-      "fips": "31079",
-      "cases": 55,
+      "fips": "31067",
+      "cases": 23,
       "deaths": 1
     },
     {
@@ -101,14 +101,6 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31003",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "York",
-      "state": "Nebraska",
-      "stateCode": "NE",
-      "fips": "31185",
       "cases": 1,
       "deaths": 0
     },
@@ -201,6 +193,14 @@
       "deaths": 0
     },
     {
+      "county": "York",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31185",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
       "county": "Cuming",
       "state": "Nebraska",
       "stateCode": "NE",
@@ -241,14 +241,6 @@
       "deaths": 0
     },
     {
-      "county": "Hamilton",
-      "state": "Nebraska",
-      "stateCode": "NE",
-      "fips": "31081",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
       "county": "Scotts Bluff",
       "state": "Nebraska",
       "stateCode": "NE",
@@ -265,6 +257,14 @@
       "deaths": 0
     },
     {
+      "county": "Hamilton",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "fips": "31081",
+      "cases": 7,
+      "deaths": 0
+    },
+    {
       "county": "Kimball",
       "state": "Nebraska",
       "stateCode": "NE",
@@ -277,7 +277,7 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31001",
-      "cases": 15,
+      "cases": 19,
       "deaths": 0
     },
     {
@@ -293,7 +293,7 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31109",
-      "cases": 31,
+      "cases": 34,
       "deaths": 0
     },
     {
@@ -301,7 +301,7 @@
       "state": "Nebraska",
       "stateCode": "NE",
       "fips": "31153",
-      "cases": 33,
+      "cases": 36,
       "deaths": 0
     }
   ]

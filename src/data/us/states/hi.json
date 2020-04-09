@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Hawaii",
-    "cases": 385,
-    "casesMax": 292,
+    "cases": 408,
+    "casesMax": 312,
     "deaths": 5,
     "deathsMax": 4,
-    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
+    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "Hawaii",
       "stateCode": "HI",
       "fips": "15003",
-      "cases": 292,
+      "cases": 312,
       "deaths": 4
     },
     {
@@ -21,7 +21,7 @@
       "state": "Hawaii",
       "stateCode": "HI",
       "fips": "15009",
-      "cases": 44,
+      "cases": 48,
       "deaths": 1
     },
     {
@@ -29,7 +29,7 @@
       "state": "Hawaii",
       "stateCode": "HI",
       "fips": "",
-      "cases": 9,
+      "cases": 7,
       "deaths": 0
     },
     {
@@ -37,7 +37,7 @@
       "state": "Hawaii",
       "stateCode": "HI",
       "fips": "15007",
-      "cases": 17,
+      "cases": 18,
       "deaths": 0
     },
     {

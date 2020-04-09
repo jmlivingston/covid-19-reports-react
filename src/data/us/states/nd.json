@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "North Dakota",
-    "cases": 226,
-    "casesMax": 65,
-    "deaths": 3,
+    "cases": 238,
+    "casesMax": 70,
+    "deaths": 4,
     "deathsMax": 1,
-    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
+    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
   },
   "data": [
     {
@@ -17,11 +17,19 @@
       "deaths": 1
     },
     {
+      "county": "Emmons",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38029",
+      "cases": 1,
+      "deaths": 1
+    },
+    {
       "county": "Morton",
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38059",
-      "cases": 17,
+      "cases": 18,
       "deaths": 1
     },
     {
@@ -29,7 +37,7 @@
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38017",
-      "cases": 65,
+      "cases": 70,
       "deaths": 1
     },
     {
@@ -105,10 +113,10 @@
       "deaths": 0
     },
     {
-      "county": "Emmons",
+      "county": "Bowman",
       "state": "North Dakota",
       "stateCode": "ND",
-      "fips": "38029",
+      "fips": "38011",
       "cases": 1,
       "deaths": 0
     },
@@ -145,14 +153,6 @@
       "deaths": 0
     },
     {
-      "county": "Slope",
-      "state": "North Dakota",
-      "stateCode": "ND",
-      "fips": "38087",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Ramsey",
       "state": "North Dakota",
       "stateCode": "ND",
@@ -169,11 +169,19 @@
       "deaths": 0
     },
     {
+      "county": "Slope",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38087",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "McKenzie",
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38053",
-      "cases": 3,
+      "cases": 5,
       "deaths": 0
     },
     {
@@ -205,7 +213,7 @@
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38061",
-      "cases": 19,
+      "cases": 20,
       "deaths": 0
     },
     {
@@ -221,7 +229,7 @@
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38015",
-      "cases": 38,
+      "cases": 39,
       "deaths": 0
     }
   ]

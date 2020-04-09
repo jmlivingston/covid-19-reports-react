@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Arizona",
-    "cases": 2466,
-    "casesMax": 1433,
-    "deaths": 67,
-    "deathsMax": 31,
-    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
+    "cases": 2577,
+    "casesMax": 1495,
+    "deaths": 77,
+    "deathsMax": 35,
+    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
   },
   "data": [
     {
@@ -13,8 +13,16 @@
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04013",
-      "cases": 1433,
-      "deaths": 31
+      "cases": 1495,
+      "deaths": 35
+    },
+    {
+      "county": "Coconino",
+      "state": "Arizona",
+      "stateCode": "AZ",
+      "fips": "04005",
+      "cases": 179,
+      "deaths": 14
     },
     {
       "county": "Pima",
@@ -30,22 +38,14 @@
       "stateCode": "AZ",
       "fips": "",
       "cases": 0,
-      "deaths": 10
-    },
-    {
-      "county": "Coconino",
-      "state": "Arizona",
-      "stateCode": "AZ",
-      "fips": "04005",
-      "cases": 167,
-      "deaths": 10
+      "deaths": 12
     },
     {
       "county": "Mohave",
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04015",
-      "cases": 21,
+      "cases": 23,
       "deaths": 1
     },
     {
@@ -53,7 +53,7 @@
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04025",
-      "cases": 50,
+      "cases": 57,
       "deaths": 1
     },
     {
@@ -61,7 +61,7 @@
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04017",
-      "cases": 210,
+      "cases": 222,
       "deaths": 1
     },
     {
@@ -125,7 +125,7 @@
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04001",
-      "cases": 25,
+      "cases": 28,
       "deaths": 0
     },
     {
@@ -133,7 +133,7 @@
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04021",
-      "cases": 107,
+      "cases": 120,
       "deaths": 0
     }
   ]

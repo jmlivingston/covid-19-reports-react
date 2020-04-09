@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Washington",
-    "cases": 8384,
-    "casesMax": 3333,
-    "deaths": 383,
-    "deathsMax": 224,
-    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
+    "cases": 8682,
+    "casesMax": 3488,
+    "deaths": 409,
+    "deathsMax": 232,
+    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
   },
   "data": [
     {
@@ -13,80 +13,80 @@
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53033",
-      "cases": 3333,
-      "deaths": 224
+      "cases": 3488,
+      "deaths": 232
     },
     {
       "county": "Snohomish",
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53061",
-      "cases": 1602,
-      "deaths": 57
-    },
-    {
-      "county": "Whatcom",
-      "state": "Washington",
-      "stateCode": "WA",
-      "fips": "53073",
-      "cases": 228,
-      "deaths": 19
+      "cases": 1658,
+      "deaths": 60
     },
     {
       "county": "Benton",
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53005",
-      "cases": 175,
-      "deaths": 17
+      "cases": 179,
+      "deaths": 19
     },
     {
-      "county": "Spokane",
+      "county": "Whatcom",
       "state": "Washington",
       "stateCode": "WA",
-      "fips": "53063",
-      "cases": 226,
-      "deaths": 12
+      "fips": "53073",
+      "cases": 238,
+      "deaths": 19
     },
     {
       "county": "Yakima",
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53077",
-      "cases": 380,
-      "deaths": 12
+      "cases": 400,
+      "deaths": 17
     },
     {
       "county": "Pierce",
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53053",
-      "cases": 723,
-      "deaths": 12
+      "cases": 766,
+      "deaths": 14
     },
     {
       "county": "Clark",
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53011",
-      "cases": 168,
-      "deaths": 11
+      "cases": 185,
+      "deaths": 13
+    },
+    {
+      "county": "Spokane",
+      "state": "Washington",
+      "stateCode": "WA",
+      "fips": "53063",
+      "cases": 231,
+      "deaths": 13
     },
     {
       "county": "Island",
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53029",
-      "cases": 142,
-      "deaths": 5
+      "cases": 145,
+      "deaths": 6
     },
     {
       "county": "Skagit",
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53057",
-      "cases": 166,
-      "deaths": 4
+      "cases": 169,
+      "deaths": 5
     },
     {
       "county": "Chelan",
@@ -97,11 +97,19 @@
       "deaths": 3
     },
     {
+      "county": "Franklin",
+      "state": "Washington",
+      "stateCode": "WA",
+      "fips": "53021",
+      "cases": 75,
+      "deaths": 2
+    },
+    {
       "county": "Grant",
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53025",
-      "cases": 90,
+      "cases": 93,
       "deaths": 2
     },
     {
@@ -121,19 +129,11 @@
       "deaths": 1
     },
     {
-      "county": "Franklin",
-      "state": "Washington",
-      "stateCode": "WA",
-      "fips": "53021",
-      "cases": 64,
-      "deaths": 1
-    },
-    {
       "county": "Thurston",
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53067",
-      "cases": 72,
+      "cases": 74,
       "deaths": 1
     },
     {
@@ -141,7 +141,7 @@
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53035",
-      "cases": 111,
+      "cases": 119,
       "deaths": 1
     },
     {
@@ -221,23 +221,7 @@
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53009",
-      "cases": 8,
-      "deaths": 0
-    },
-    {
-      "county": "Okanogan",
-      "state": "Washington",
-      "stateCode": "WA",
-      "fips": "53047",
       "cases": 9,
-      "deaths": 0
-    },
-    {
-      "county": "San Juan",
-      "state": "Washington",
-      "stateCode": "WA",
-      "fips": "53055",
-      "cases": 10,
       "deaths": 0
     },
     {
@@ -246,6 +230,22 @@
       "stateCode": "WA",
       "fips": "53017",
       "cases": 10,
+      "deaths": 0
+    },
+    {
+      "county": "Okanogan",
+      "state": "Washington",
+      "stateCode": "WA",
+      "fips": "53047",
+      "cases": 10,
+      "deaths": 0
+    },
+    {
+      "county": "San Juan",
+      "state": "Washington",
+      "stateCode": "WA",
+      "fips": "53055",
+      "cases": 11,
       "deaths": 0
     },
     {
@@ -269,7 +269,7 @@
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53071",
-      "cases": 14,
+      "cases": 17,
       "deaths": 0
     },
     {
@@ -277,7 +277,7 @@
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53045",
-      "cases": 15,
+      "cases": 17,
       "deaths": 0
     },
     {
@@ -301,7 +301,7 @@
       "state": "Washington",
       "stateCode": "WA",
       "fips": "53001",
-      "cases": 27,
+      "cases": 29,
       "deaths": 0
     },
     {
@@ -309,7 +309,7 @@
       "state": "Washington",
       "stateCode": "WA",
       "fips": "",
-      "cases": 653,
+      "cases": 601,
       "deaths": 0
     }
   ]

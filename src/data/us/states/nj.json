@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "New Jersey",
-    "cases": 41090,
-    "casesMax": 6862,
-    "deaths": 1005,
-    "deathsMax": 200,
-    "lastUpdated": "Tue, 07 Apr 2020 16:14:02 GMT"
+    "cases": 44416,
+    "casesMax": 7533,
+    "deaths": 1233,
+    "deathsMax": 263,
+    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
   },
   "data": [
     {
@@ -13,159 +13,167 @@
       "state": "New Jersey",
       "stateCode": "NJ",
       "fips": "34003",
-      "cases": 6862,
-      "deaths": 200
+      "cases": 7533,
+      "deaths": 263
     },
     {
       "county": "Essex",
       "state": "New Jersey",
       "stateCode": "NJ",
       "fips": "34013",
-      "cases": 4493,
-      "deaths": 186
+      "cases": 5078,
+      "deaths": 232
     },
     {
       "county": "Hudson",
       "state": "New Jersey",
       "stateCode": "NJ",
       "fips": "34017",
-      "cases": 4395,
-      "deaths": 92
+      "cases": 4949,
+      "deaths": 103
     },
     {
       "county": "Middlesex",
       "state": "New Jersey",
       "stateCode": "NJ",
       "fips": "34023",
-      "cases": 3263,
-      "deaths": 87
+      "cases": 3717,
+      "deaths": 100
     },
     {
       "county": "Union",
       "state": "New Jersey",
       "stateCode": "NJ",
       "fips": "34039",
-      "cases": 3685,
-      "deaths": 78
-    },
-    {
-      "county": "Ocean",
-      "state": "New Jersey",
-      "stateCode": "NJ",
-      "fips": "34029",
-      "cases": 2374,
-      "deaths": 71
-    },
-    {
-      "county": "Monmouth",
-      "state": "New Jersey",
-      "stateCode": "NJ",
-      "fips": "34025",
-      "cases": 2545,
-      "deaths": 62
+      "cases": 4358,
+      "deaths": 95
     },
     {
       "county": "Morris",
       "state": "New Jersey",
       "stateCode": "NJ",
       "fips": "34027",
-      "cases": 1956,
-      "deaths": 60
+      "cases": 2239,
+      "deaths": 87
+    },
+    {
+      "county": "Ocean",
+      "state": "New Jersey",
+      "stateCode": "NJ",
+      "fips": "34029",
+      "cases": 2641,
+      "deaths": 85
+    },
+    {
+      "county": "Monmouth",
+      "state": "New Jersey",
+      "stateCode": "NJ",
+      "fips": "34025",
+      "cases": 2770,
+      "deaths": 71
     },
     {
       "county": "Passaic",
       "state": "New Jersey",
       "stateCode": "NJ",
       "fips": "34031",
-      "cases": 3756,
-      "deaths": 53
+      "cases": 4101,
+      "deaths": 62
     },
     {
       "county": "Somerset",
       "state": "New Jersey",
       "stateCode": "NJ",
       "fips": "34035",
-      "cases": 902,
-      "deaths": 31
+      "cases": 1033,
+      "deaths": 40
     },
     {
       "county": "Mercer",
       "state": "New Jersey",
       "stateCode": "NJ",
       "fips": "34021",
-      "cases": 740,
-      "deaths": 19
-    },
-    {
-      "county": "Unknown",
-      "state": "New Jersey",
-      "stateCode": "NJ",
-      "fips": "",
-      "cases": 3521,
-      "deaths": 14
+      "cases": 837,
+      "deaths": 24
     },
     {
       "county": "Sussex",
       "state": "New Jersey",
       "stateCode": "NJ",
       "fips": "34037",
-      "cases": 292,
-      "deaths": 11
+      "cases": 331,
+      "deaths": 15
     },
     {
       "county": "Burlington",
       "state": "New Jersey",
       "stateCode": "NJ",
       "fips": "34005",
-      "cases": 646,
-      "deaths": 11
+      "cases": 733,
+      "deaths": 13
     },
     {
       "county": "Camden",
       "state": "New Jersey",
       "stateCode": "NJ",
       "fips": "34007",
-      "cases": 645,
-      "deaths": 10
+      "cases": 736,
+      "deaths": 12
     },
     {
       "county": "Warren",
       "state": "New Jersey",
       "stateCode": "NJ",
       "fips": "34041",
-      "cases": 215,
+      "cases": 255,
       "deaths": 7
-    },
-    {
-      "county": "Cape May",
-      "state": "New Jersey",
-      "stateCode": "NJ",
-      "fips": "34009",
-      "cases": 85,
-      "deaths": 3
     },
     {
       "county": "Gloucester",
       "state": "New Jersey",
       "stateCode": "NJ",
       "fips": "34015",
-      "cases": 279,
-      "deaths": 3
+      "cases": 311,
+      "deaths": 5
+    },
+    {
+      "county": "Unknown",
+      "state": "New Jersey",
+      "stateCode": "NJ",
+      "fips": "",
+      "cases": 2220,
+      "deaths": 5
+    },
+    {
+      "county": "Atlantic",
+      "state": "New Jersey",
+      "stateCode": "NJ",
+      "fips": "34001",
+      "cases": 144,
+      "deaths": 4
     },
     {
       "county": "Salem",
       "state": "New Jersey",
       "stateCode": "NJ",
       "fips": "34033",
-      "cases": 29,
-      "deaths": 2
+      "cases": 31,
+      "deaths": 3
+    },
+    {
+      "county": "Cape May",
+      "state": "New Jersey",
+      "stateCode": "NJ",
+      "fips": "34009",
+      "cases": 94,
+      "deaths": 3
     },
     {
       "county": "Cumberland",
       "state": "New Jersey",
       "stateCode": "NJ",
       "fips": "34011",
-      "cases": 64,
+      "cases": 71,
       "deaths": 2
     },
     {
@@ -173,16 +181,8 @@
       "state": "New Jersey",
       "stateCode": "NJ",
       "fips": "34019",
-      "cases": 211,
+      "cases": 234,
       "deaths": 2
-    },
-    {
-      "county": "Atlantic",
-      "state": "New Jersey",
-      "stateCode": "NJ",
-      "fips": "34001",
-      "cases": 132,
-      "deaths": 1
     }
   ]
 }
