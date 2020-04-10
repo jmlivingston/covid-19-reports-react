@@ -1,43 +1,51 @@
 {
   "summary": {
     "name": "Idaho",
-    "cases": 1212,
-    "casesMax": 438,
-    "deaths": 15,
-    "deathsMax": 4,
-    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
+    "cases": 1355,
+    "casesMax": 494,
+    "deaths": 24,
+    "deathsMax": 6,
+    "lastUpdated": "Fri, 10 Apr 2020 15:49:06 GMT"
   },
   "data": [
-    {
-      "county": "Blaine",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16013",
-      "cases": 428,
-      "deaths": 4
-    },
-    {
-      "county": "Canyon",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16027",
-      "cases": 114,
-      "deaths": 3
-    },
     {
       "county": "Ada",
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16001",
-      "cases": 438,
-      "deaths": 3
+      "cases": 494,
+      "deaths": 6
     },
     {
       "county": "Nez Perce",
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16069",
-      "cases": 17,
+      "cases": 19,
+      "deaths": 5
+    },
+    {
+      "county": "Blaine",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16013",
+      "cases": 446,
+      "deaths": 5
+    },
+    {
+      "county": "Canyon",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16027",
+      "cases": 139,
+      "deaths": 4
+    },
+    {
+      "county": "Jerome",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16053",
+      "cases": 24,
       "deaths": 2
     },
     {
@@ -45,14 +53,6 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16031",
-      "cases": 5,
-      "deaths": 1
-    },
-    {
-      "county": "Payette",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16075",
       "cases": 6,
       "deaths": 1
     },
@@ -61,7 +61,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16083",
-      "cases": 53,
+      "cases": 70,
       "deaths": 1
     },
     {
@@ -145,22 +145,6 @@
       "deaths": 0
     },
     {
-      "county": "Owyhee",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16073",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Latah",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16057",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Power",
       "state": "Idaho",
       "stateCode": "ID",
@@ -193,19 +177,11 @@
       "deaths": 0
     },
     {
-      "county": "Gooding",
+      "county": "Latah",
       "state": "Idaho",
       "stateCode": "ID",
-      "fips": "16047",
+      "fips": "16057",
       "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Madison",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16065",
-      "cases": 4,
       "deaths": 0
     },
     {
@@ -217,11 +193,11 @@
       "deaths": 0
     },
     {
-      "county": "Teton",
+      "county": "Owyhee",
       "state": "Idaho",
       "stateCode": "ID",
-      "fips": "16081",
-      "cases": 5,
+      "fips": "16073",
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -233,11 +209,35 @@
       "deaths": 0
     },
     {
-      "county": "Bonneville",
+      "county": "Gooding",
       "state": "Idaho",
       "stateCode": "ID",
-      "fips": "16019",
-      "cases": 7,
+      "fips": "16047",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Teton",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16081",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Madison",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16065",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Payette",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16075",
+      "cases": 8,
       "deaths": 0
     },
     {
@@ -249,11 +249,19 @@
       "deaths": 0
     },
     {
+      "county": "Bonneville",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "fips": "16019",
+      "cases": 11,
+      "deaths": 0
+    },
+    {
       "county": "Lincoln",
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16063",
-      "cases": 12,
+      "cases": 14,
       "deaths": 0
     },
     {
@@ -261,15 +269,7 @@
       "state": "Idaho",
       "stateCode": "ID",
       "fips": "16039",
-      "cases": 14,
-      "deaths": 0
-    },
-    {
-      "county": "Jerome",
-      "state": "Idaho",
-      "stateCode": "ID",
-      "fips": "16053",
-      "cases": 18,
+      "cases": 16,
       "deaths": 0
     },
     {

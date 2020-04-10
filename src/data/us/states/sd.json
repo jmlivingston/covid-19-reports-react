@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "South Dakota",
-    "cases": 322,
-    "casesMax": 165,
-    "deaths": 6,
+    "cases": 449,
+    "casesMax": 274,
+    "deaths": 11,
     "deathsMax": 4,
-    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
+    "lastUpdated": "Fri, 10 Apr 2020 15:49:06 GMT"
   },
   "data": [
     {
@@ -17,6 +17,30 @@
       "deaths": 4
     },
     {
+      "county": "Beadle",
+      "state": "South Dakota",
+      "stateCode": "SD",
+      "fips": "46005",
+      "cases": 21,
+      "deaths": 2
+    },
+    {
+      "county": "Minnehaha",
+      "state": "South Dakota",
+      "stateCode": "SD",
+      "fips": "46099",
+      "cases": 274,
+      "deaths": 2
+    },
+    {
+      "county": "McCook",
+      "state": "South Dakota",
+      "stateCode": "SD",
+      "fips": "46087",
+      "cases": 2,
+      "deaths": 1
+    },
+    {
       "county": "Davison",
       "state": "South Dakota",
       "stateCode": "SD",
@@ -25,11 +49,11 @@
       "deaths": 1
     },
     {
-      "county": "Beadle",
+      "county": "Pennington",
       "state": "South Dakota",
       "stateCode": "SD",
-      "fips": "46005",
-      "cases": 21,
+      "fips": "46103",
+      "cases": 7,
       "deaths": 1
     },
     {
@@ -121,10 +145,26 @@
       "deaths": 0
     },
     {
-      "county": "Lake",
+      "county": "Oglala Lakota",
       "state": "South Dakota",
       "stateCode": "SD",
-      "fips": "46079",
+      "fips": "46102",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Corson",
+      "state": "South Dakota",
+      "stateCode": "SD",
+      "fips": "46031",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Jerauld",
+      "state": "South Dakota",
+      "stateCode": "SD",
+      "fips": "46073",
       "cases": 1,
       "deaths": 0
     },
@@ -133,22 +173,6 @@
       "state": "South Dakota",
       "stateCode": "SD",
       "fips": "46023",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Bon Homme",
-      "state": "South Dakota",
-      "stateCode": "SD",
-      "fips": "46009",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "McCook",
-      "state": "South Dakota",
-      "stateCode": "SD",
-      "fips": "46087",
       "cases": 2,
       "deaths": 0
     },
@@ -169,10 +193,18 @@
       "deaths": 0
     },
     {
-      "county": "Hughes",
+      "county": "Lake",
       "state": "South Dakota",
       "stateCode": "SD",
-      "fips": "46065",
+      "fips": "46079",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
+      "county": "Bon Homme",
+      "state": "South Dakota",
+      "stateCode": "SD",
+      "fips": "46009",
       "cases": 3,
       "deaths": 0
     },
@@ -193,6 +225,14 @@
       "deaths": 0
     },
     {
+      "county": "Hughes",
+      "state": "South Dakota",
+      "stateCode": "SD",
+      "fips": "46065",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
       "county": "Roberts",
       "state": "South Dakota",
       "stateCode": "SD",
@@ -205,15 +245,7 @@
       "state": "South Dakota",
       "stateCode": "SD",
       "fips": "46125",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "Pennington",
-      "state": "South Dakota",
-      "stateCode": "SD",
-      "fips": "46103",
-      "cases": 6,
+      "cases": 5,
       "deaths": 0
     },
     {
@@ -253,7 +285,7 @@
       "state": "South Dakota",
       "stateCode": "SD",
       "fips": "46013",
-      "cases": 13,
+      "cases": 14,
       "deaths": 0
     },
     {
@@ -261,7 +293,7 @@
       "state": "South Dakota",
       "stateCode": "SD",
       "fips": "46135",
-      "cases": 15,
+      "cases": 18,
       "deaths": 0
     },
     {
@@ -269,15 +301,7 @@
       "state": "South Dakota",
       "stateCode": "SD",
       "fips": "46083",
-      "cases": 27,
-      "deaths": 0
-    },
-    {
-      "county": "Minnehaha",
-      "state": "South Dakota",
-      "stateCode": "SD",
-      "fips": "46099",
-      "cases": 165,
+      "cases": 33,
       "deaths": 0
     }
   ]

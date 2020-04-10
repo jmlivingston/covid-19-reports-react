@@ -1,27 +1,35 @@
 {
   "summary": {
     "name": "Utah",
-    "cases": 1752,
-    "casesMax": 807,
+    "cases": 1988,
+    "casesMax": 935,
     "deaths": 13,
-    "deathsMax": 9,
-    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
+    "deathsMax": 7,
+    "lastUpdated": "Fri, 10 Apr 2020 15:49:06 GMT"
   },
   "data": [
+    {
+      "county": "Salt Lake",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49035",
+      "cases": 935,
+      "deaths": 7
+    },
     {
       "county": "Unknown",
       "state": "Utah",
       "stateCode": "UT",
       "fips": "",
       "cases": 0,
-      "deaths": 9
+      "deaths": 3
     },
     {
       "county": "Davis",
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49011",
-      "cases": 158,
+      "cases": 170,
       "deaths": 2
     },
     {
@@ -29,15 +37,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49057",
-      "cases": 83,
-      "deaths": 1
-    },
-    {
-      "county": "Salt Lake",
-      "state": "Utah",
-      "stateCode": "UT",
-      "fips": "49035",
-      "cases": 807,
+      "cases": 87,
       "deaths": 1
     },
     {
@@ -45,22 +45,6 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49017",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Carbon",
-      "state": "Utah",
-      "stateCode": "UT",
-      "fips": "49007",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Duchesne",
-      "state": "Utah",
-      "stateCode": "UT",
-      "fips": "49013",
       "cases": 1,
       "deaths": 0
     },
@@ -73,18 +57,10 @@
       "deaths": 0
     },
     {
-      "county": "Uintah",
+      "county": "Carbon",
       "state": "Utah",
       "stateCode": "UT",
-      "fips": "49047",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Kane",
-      "state": "Utah",
-      "stateCode": "UT",
-      "fips": "49025",
+      "fips": "49007",
       "cases": 2,
       "deaths": 0
     },
@@ -105,11 +81,35 @@
       "deaths": 0
     },
     {
+      "county": "Kane",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49025",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Duchesne",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49013",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
       "county": "Millard",
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49027",
-      "cases": 2,
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Uintah",
+      "state": "Utah",
+      "stateCode": "UT",
+      "fips": "49047",
+      "cases": 5,
       "deaths": 0
     },
     {
@@ -117,7 +117,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49037",
-      "cases": 5,
+      "cases": 6,
       "deaths": 0
     },
     {
@@ -133,7 +133,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49003",
-      "cases": 11,
+      "cases": 13,
       "deaths": 0
     },
     {
@@ -149,7 +149,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49045",
-      "cases": 23,
+      "cases": 24,
       "deaths": 0
     },
     {
@@ -157,7 +157,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49005",
-      "cases": 23,
+      "cases": 29,
       "deaths": 0
     },
     {
@@ -165,7 +165,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49053",
-      "cases": 26,
+      "cases": 31,
       "deaths": 0
     },
     {
@@ -173,7 +173,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49051",
-      "cases": 80,
+      "cases": 88,
       "deaths": 0
     },
     {
@@ -181,7 +181,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49049",
-      "cases": 236,
+      "cases": 272,
       "deaths": 0
     },
     {
@@ -189,7 +189,7 @@
       "state": "Utah",
       "stateCode": "UT",
       "fips": "49043",
-      "cases": 265,
+      "cases": 289,
       "deaths": 0
     }
   ]

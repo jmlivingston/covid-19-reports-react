@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Montana",
-    "cases": 319,
-    "casesMax": 118,
+    "cases": 354,
+    "casesMax": 128,
     "deaths": 6,
     "deathsMax": 3,
-    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
+    "lastUpdated": "Fri, 10 Apr 2020 15:49:06 GMT"
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30101",
-      "cases": 15,
+      "cases": 18,
       "deaths": 3
     },
     {
@@ -29,7 +29,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30057",
-      "cases": 9,
+      "cases": 8,
       "deaths": 1
     },
     {
@@ -37,16 +37,8 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30063",
-      "cases": 24,
+      "cases": 26,
       "deaths": 1
-    },
-    {
-      "county": "Roosevelt",
-      "state": "Montana",
-      "stateCode": "MT",
-      "fips": "30085",
-      "cases": 1,
-      "deaths": 0
     },
     {
       "county": "Hill",
@@ -81,14 +73,6 @@
       "deaths": 0
     },
     {
-      "county": "Glacier",
-      "state": "Montana",
-      "stateCode": "MT",
-      "fips": "30035",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
       "county": "Beaverhead",
       "state": "Montana",
       "stateCode": "MT",
@@ -97,10 +81,18 @@
       "deaths": 0
     },
     {
-      "county": "Ravalli",
+      "county": "Stillwater",
       "state": "Montana",
       "stateCode": "MT",
-      "fips": "30081",
+      "fips": "30095",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Roosevelt",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30085",
       "cases": 2,
       "deaths": 0
     },
@@ -113,18 +105,34 @@
       "deaths": 0
     },
     {
-      "county": "Carbon",
+      "county": "Richland",
       "state": "Montana",
       "stateCode": "MT",
-      "fips": "30009",
+      "fips": "30083",
       "cases": 2,
       "deaths": 0
     },
     {
-      "county": "Deer Lodge",
+      "county": "Ravalli",
       "state": "Montana",
       "stateCode": "MT",
-      "fips": "30023",
+      "fips": "30081",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Carbon",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30009",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Glacier",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30035",
       "cases": 3,
       "deaths": 0
     },
@@ -137,11 +145,19 @@
       "deaths": 0
     },
     {
+      "county": "Deer Lodge",
+      "state": "Montana",
+      "stateCode": "MT",
+      "fips": "30023",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
       "county": "Lake",
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30047",
-      "cases": 5,
+      "cases": 6,
       "deaths": 0
     },
     {
@@ -149,7 +165,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30067",
-      "cases": 6,
+      "cases": 7,
       "deaths": 0
     },
     {
@@ -165,7 +181,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30013",
-      "cases": 11,
+      "cases": 12,
       "deaths": 0
     },
     {
@@ -173,7 +189,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30049",
-      "cases": 15,
+      "cases": 16,
       "deaths": 0
     },
     {
@@ -181,7 +197,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30029",
-      "cases": 31,
+      "cases": 34,
       "deaths": 0
     },
     {
@@ -189,7 +205,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30111",
-      "cases": 47,
+      "cases": 52,
       "deaths": 0
     },
     {
@@ -197,7 +213,7 @@
       "state": "Montana",
       "stateCode": "MT",
       "fips": "30031",
-      "cases": 118,
+      "cases": 128,
       "deaths": 0
     }
   ]

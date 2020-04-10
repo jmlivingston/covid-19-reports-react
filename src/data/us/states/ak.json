@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Alaska",
-    "cases": 212,
-    "casesMax": 98,
-    "deaths": 4,
-    "deathsMax": 3,
-    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
+    "cases": 234,
+    "casesMax": 109,
+    "deaths": 5,
+    "deathsMax": 4,
+    "lastUpdated": "Fri, 10 Apr 2020 15:49:06 GMT"
   },
   "data": [
     {
@@ -13,15 +13,15 @@
       "state": "Alaska",
       "stateCode": "AK",
       "fips": "02020",
-      "cases": 98,
-      "deaths": 3
+      "cases": 109,
+      "deaths": 4
     },
     {
       "county": "Fairbanks North Star Borough",
       "state": "Alaska",
       "stateCode": "AK",
       "fips": "02090",
-      "cases": 65,
+      "cases": 73,
       "deaths": 1
     },
     {
@@ -69,7 +69,7 @@
       "state": "Alaska",
       "stateCode": "AK",
       "fips": "02170",
-      "cases": 4,
+      "cases": 6,
       "deaths": 0
     },
     {
@@ -77,7 +77,7 @@
       "state": "Alaska",
       "stateCode": "AK",
       "fips": "02122",
-      "cases": 12,
+      "cases": 13,
       "deaths": 0
     },
     {

@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Arizona",
-    "cases": 2577,
-    "casesMax": 1495,
-    "deaths": 77,
-    "deathsMax": 35,
-    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
+    "cases": 3018,
+    "casesMax": 1689,
+    "deaths": 101,
+    "deathsMax": 39,
+    "lastUpdated": "Fri, 10 Apr 2020 15:49:06 GMT"
   },
   "data": [
     {
@@ -13,24 +13,24 @@
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04013",
-      "cases": 1495,
-      "deaths": 35
-    },
-    {
-      "county": "Coconino",
-      "state": "Arizona",
-      "stateCode": "AZ",
-      "fips": "04005",
-      "cases": 179,
-      "deaths": 14
+      "cases": 1689,
+      "deaths": 39
     },
     {
       "county": "Pima",
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04019",
-      "cases": 415,
-      "deaths": 13
+      "cases": 512,
+      "deaths": 20
+    },
+    {
+      "county": "Coconino",
+      "state": "Arizona",
+      "stateCode": "AZ",
+      "fips": "04005",
+      "cases": 210,
+      "deaths": 15
     },
     {
       "county": "Unknown",
@@ -41,11 +41,35 @@
       "deaths": 12
     },
     {
+      "county": "Navajo",
+      "state": "Arizona",
+      "stateCode": "AZ",
+      "fips": "04017",
+      "cases": 286,
+      "deaths": 7
+    },
+    {
+      "county": "Apache",
+      "state": "Arizona",
+      "stateCode": "AZ",
+      "fips": "04001",
+      "cases": 52,
+      "deaths": 3
+    },
+    {
+      "county": "Pinal",
+      "state": "Arizona",
+      "stateCode": "AZ",
+      "fips": "04021",
+      "cases": 137,
+      "deaths": 3
+    },
+    {
       "county": "Mohave",
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04015",
-      "cases": 23,
+      "cases": 27,
       "deaths": 1
     },
     {
@@ -53,15 +77,7 @@
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04025",
-      "cases": 57,
-      "deaths": 1
-    },
-    {
-      "county": "Navajo",
-      "state": "Arizona",
-      "stateCode": "AZ",
-      "fips": "04017",
-      "cases": 222,
+      "cases": 62,
       "deaths": 1
     },
     {
@@ -81,14 +97,6 @@
       "deaths": 0
     },
     {
-      "county": "La Paz",
-      "state": "Arizona",
-      "stateCode": "AZ",
-      "fips": "04012",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
       "county": "Gila",
       "state": "Arizona",
       "stateCode": "AZ",
@@ -97,11 +105,19 @@
       "deaths": 0
     },
     {
+      "county": "La Paz",
+      "state": "Arizona",
+      "stateCode": "AZ",
+      "fips": "04012",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
       "county": "Santa Cruz",
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04023",
-      "cases": 5,
+      "cases": 7,
       "deaths": 0
     },
     {
@@ -109,7 +125,7 @@
       "state": "Arizona",
       "stateCode": "AZ",
       "fips": "04003",
-      "cases": 9,
+      "cases": 11,
       "deaths": 0
     },
     {
@@ -118,22 +134,6 @@
       "stateCode": "AZ",
       "fips": "04027",
       "cases": 15,
-      "deaths": 0
-    },
-    {
-      "county": "Apache",
-      "state": "Arizona",
-      "stateCode": "AZ",
-      "fips": "04001",
-      "cases": 28,
-      "deaths": 0
-    },
-    {
-      "county": "Pinal",
-      "state": "Arizona",
-      "stateCode": "AZ",
-      "fips": "04021",
-      "cases": 120,
       "deaths": 0
     }
   ]

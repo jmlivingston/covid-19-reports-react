@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "New Hampshire",
-    "cases": 747,
-    "casesMax": 288,
-    "deaths": 13,
-    "deathsMax": 9,
-    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
+    "cases": 820,
+    "casesMax": 318,
+    "deaths": 21,
+    "deathsMax": 14,
+    "lastUpdated": "Fri, 10 Apr 2020 15:49:06 GMT"
   },
   "data": [
     {
@@ -13,15 +13,31 @@
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33011",
-      "cases": 288,
-      "deaths": 9
+      "cases": 318,
+      "deaths": 14
+    },
+    {
+      "county": "Cheshire",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "fips": "33005",
+      "cases": 14,
+      "deaths": 2
+    },
+    {
+      "county": "Merrimack",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "fips": "33013",
+      "cases": 63,
+      "deaths": 2
     },
     {
       "county": "Rockingham",
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33015",
-      "cases": 255,
+      "cases": 277,
       "deaths": 2
     },
     {
@@ -30,14 +46,6 @@
       "stateCode": "NH",
       "fips": "33019",
       "cases": 6,
-      "deaths": 1
-    },
-    {
-      "county": "Cheshire",
-      "state": "New Hampshire",
-      "stateCode": "NH",
-      "fips": "33005",
-      "cases": 13,
       "deaths": 1
     },
     {
@@ -57,14 +65,6 @@
       "deaths": 0
     },
     {
-      "county": "Carroll",
-      "state": "New Hampshire",
-      "stateCode": "NH",
-      "fips": "33003",
-      "cases": 19,
-      "deaths": 0
-    },
-    {
       "county": "Belknap",
       "state": "New Hampshire",
       "stateCode": "NH",
@@ -73,11 +73,19 @@
       "deaths": 0
     },
     {
+      "county": "Carroll",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "fips": "33003",
+      "cases": 27,
+      "deaths": 0
+    },
+    {
       "county": "Grafton",
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33009",
-      "cases": 41,
+      "cases": 43,
       "deaths": 0
     },
     {
@@ -85,15 +93,7 @@
       "state": "New Hampshire",
       "stateCode": "NH",
       "fips": "33017",
-      "cases": 46,
-      "deaths": 0
-    },
-    {
-      "county": "Merrimack",
-      "state": "New Hampshire",
-      "stateCode": "NH",
-      "fips": "33013",
-      "cases": 56,
+      "cases": 49,
       "deaths": 0
     }
   ]

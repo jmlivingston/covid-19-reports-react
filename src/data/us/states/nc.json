@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "North Carolina",
-    "cases": 3221,
-    "casesMax": 810,
-    "deaths": 50,
-    "deathsMax": 8,
-    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
+    "cases": 3652,
+    "casesMax": 861,
+    "deaths": 74,
+    "deathsMax": 10,
+    "lastUpdated": "Fri, 10 Apr 2020 15:49:06 GMT"
   },
   "data": [
     {
@@ -13,24 +13,48 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37119",
-      "cases": 810,
-      "deaths": 8
+      "cases": 861,
+      "deaths": 10
     },
     {
       "county": "Guilford",
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37081",
-      "cases": 119,
-      "deaths": 5
+      "cases": 125,
+      "deaths": 8
     },
     {
       "county": "Johnston",
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37101",
-      "cases": 47,
-      "deaths": 4
+      "cases": 57,
+      "deaths": 5
+    },
+    {
+      "county": "Wilson",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37195",
+      "cases": 42,
+      "deaths": 3
+    },
+    {
+      "county": "Gaston",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37071",
+      "cases": 64,
+      "deaths": 3
+    },
+    {
+      "county": "Rockingham",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37157",
+      "cases": 9,
+      "deaths": 2
     },
     {
       "county": "Davie",
@@ -41,35 +65,35 @@
       "deaths": 2
     },
     {
-      "county": "Burke",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37023",
-      "cases": 29,
-      "deaths": 2
-    },
-    {
       "county": "Harnett",
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37085",
-      "cases": 32,
+      "cases": 34,
       "deaths": 2
     },
     {
-      "county": "Wilson",
+      "county": "Randolph",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37195",
-      "cases": 36,
+      "fips": "37151",
+      "cases": 42,
       "deaths": 2
     },
     {
-      "county": "Gaston",
+      "county": "Burke",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37071",
-      "cases": 58,
+      "fips": "37023",
+      "cases": 42,
+      "deaths": 2
+    },
+    {
+      "county": "Henderson",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37089",
+      "cases": 55,
       "deaths": 2
     },
     {
@@ -77,7 +101,15 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37159",
-      "cases": 62,
+      "cases": 71,
+      "deaths": 2
+    },
+    {
+      "county": "Davidson",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37057",
+      "cases": 78,
       "deaths": 2
     },
     {
@@ -85,7 +117,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37025",
-      "cases": 81,
+      "cases": 86,
       "deaths": 2
     },
     {
@@ -101,7 +133,15 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37113",
-      "cases": 1,
+      "cases": 2,
+      "deaths": 1
+    },
+    {
+      "county": "Hertford",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37091",
+      "cases": 4,
       "deaths": 1
     },
     {
@@ -113,18 +153,18 @@
       "deaths": 1
     },
     {
-      "county": "Hertford",
+      "county": "Dare",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37091",
-      "cases": 5,
+      "fips": "37055",
+      "cases": 7,
       "deaths": 1
     },
     {
-      "county": "Rockingham",
+      "county": "Stanly",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37157",
+      "fips": "37167",
       "cases": 8,
       "deaths": 1
     },
@@ -137,11 +177,19 @@
       "deaths": 1
     },
     {
+      "county": "Washington",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37187",
+      "cases": 10,
+      "deaths": 1
+    },
+    {
       "county": "Bertie",
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37015",
-      "cases": 9,
+      "cases": 11,
       "deaths": 1
     },
     {
@@ -149,7 +197,15 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37123",
-      "cases": 10,
+      "cases": 12,
+      "deaths": 1
+    },
+    {
+      "county": "Edgecombe",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37065",
+      "cases": 15,
       "deaths": 1
     },
     {
@@ -157,7 +213,15 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37047",
-      "cases": 13,
+      "cases": 16,
+      "deaths": 1
+    },
+    {
+      "county": "Craven",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37049",
+      "cases": 19,
       "deaths": 1
     },
     {
@@ -165,7 +229,15 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37031",
-      "cases": 17,
+      "cases": 19,
+      "deaths": 1
+    },
+    {
+      "county": "Franklin",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37069",
+      "cases": 23,
       "deaths": 1
     },
     {
@@ -173,15 +245,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37133",
-      "cases": 23,
-      "deaths": 1
-    },
-    {
-      "county": "Brunswick",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37019",
-      "cases": 26,
+      "cases": 24,
       "deaths": 1
     },
     {
@@ -193,35 +257,67 @@
       "deaths": 1
     },
     {
+      "county": "Nash",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37127",
+      "cases": 27,
+      "deaths": 1
+    },
+    {
+      "county": "Brunswick",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37019",
+      "cases": 28,
+      "deaths": 1
+    },
+    {
+      "county": "Rutherford",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37161",
+      "cases": 28,
+      "deaths": 1
+    },
+    {
       "county": "Buncombe",
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37021",
-      "cases": 33,
+      "cases": 34,
       "deaths": 1
     },
     {
-      "county": "Randolph",
+      "county": "Iredell",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37151",
-      "cases": 35,
+      "fips": "37097",
+      "cases": 60,
       "deaths": 1
     },
     {
-      "county": "Henderson",
+      "county": "Cumberland",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37089",
-      "cases": 51,
+      "fips": "37051",
+      "cases": 72,
       "deaths": 1
     },
     {
-      "county": "Davidson",
+      "county": "Union",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37057",
-      "cases": 70,
+      "fips": "37179",
+      "cases": 93,
+      "deaths": 1
+    },
+    {
+      "county": "Orange",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37135",
+      "cases": 98,
       "deaths": 1
     },
     {
@@ -229,16 +325,8 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37063",
-      "cases": 205,
+      "cases": 243,
       "deaths": 1
-    },
-    {
-      "county": "Richmond",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37153",
-      "cases": 1,
-      "deaths": 0
     },
     {
       "county": "Jackson",
@@ -262,6 +350,14 @@
       "stateCode": "NC",
       "fips": "37041",
       "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Richmond",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37153",
+      "cases": 2,
       "deaths": 0
     },
     {
@@ -297,43 +393,11 @@
       "deaths": 0
     },
     {
-      "county": "Gates",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37073",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Mitchell",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37121",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Ashe",
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37009",
       "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Pender",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37141",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
-      "county": "Scotland",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37165",
-      "cases": 3,
       "deaths": 0
     },
     {
@@ -353,10 +417,10 @@
       "deaths": 0
     },
     {
-      "county": "Clay",
+      "county": "Mitchell",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37043",
+      "fips": "37121",
       "cases": 3,
       "deaths": 0
     },
@@ -377,11 +441,19 @@
       "deaths": 0
     },
     {
-      "county": "Sampson",
+      "county": "Pender",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37163",
-      "cases": 4,
+      "fips": "37141",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Jones",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37103",
+      "cases": 3,
       "deaths": 0
     },
     {
@@ -389,6 +461,22 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37105",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Scotland",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37165",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
+      "county": "Clay",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37043",
       "cases": 4,
       "deaths": 0
     },
@@ -401,11 +489,11 @@
       "deaths": 0
     },
     {
-      "county": "Robeson",
+      "county": "Gates",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37155",
-      "cases": 6,
+      "fips": "37073",
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -417,42 +505,10 @@
       "deaths": 0
     },
     {
-      "county": "Anson",
+      "county": "Robeson",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37007",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
-      "county": "Dare",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37055",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
-      "county": "Duplin",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37061",
-      "cases": 7,
-      "deaths": 0
-    },
-    {
-      "county": "Person",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37145",
-      "cases": 7,
-      "deaths": 0
-    },
-    {
-      "county": "Washington",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37187",
+      "fips": "37155",
       "cases": 7,
       "deaths": 0
     },
@@ -465,10 +521,18 @@
       "deaths": 0
     },
     {
-      "county": "Stanly",
+      "county": "Sampson",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37167",
+      "fips": "37163",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Person",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37145",
       "cases": 8,
       "deaths": 0
     },
@@ -489,18 +553,10 @@
       "deaths": 0
     },
     {
-      "county": "Pasquotank",
+      "county": "Greene",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37139",
-      "cases": 9,
-      "deaths": 0
-    },
-    {
-      "county": "Beaufort",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37013",
+      "fips": "37079",
       "cases": 9,
       "deaths": 0
     },
@@ -513,42 +569,26 @@
       "deaths": 0
     },
     {
-      "county": "Moore",
+      "county": "Anson",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37125",
+      "fips": "37007",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Pasquotank",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37139",
       "cases": 10,
       "deaths": 0
     },
     {
-      "county": "Caldwell",
+      "county": "Beaufort",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37027",
-      "cases": 10,
-      "deaths": 0
-    },
-    {
-      "county": "Lenoir",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37107",
-      "cases": 10,
-      "deaths": 0
-    },
-    {
-      "county": "McDowell",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37111",
-      "cases": 10,
-      "deaths": 0
-    },
-    {
-      "county": "Greene",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37079",
+      "fips": "37013",
       "cases": 10,
       "deaths": 0
     },
@@ -561,19 +601,43 @@
       "deaths": 0
     },
     {
-      "county": "Lincoln",
+      "county": "Caldwell",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37109",
+      "fips": "37027",
       "cases": 11,
       "deaths": 0
     },
     {
-      "county": "Edgecombe",
+      "county": "Duplin",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37065",
+      "fips": "37061",
       "cases": 11,
+      "deaths": 0
+    },
+    {
+      "county": "Lincoln",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37109",
+      "cases": 12,
+      "deaths": 0
+    },
+    {
+      "county": "Lenoir",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37107",
+      "cases": 12,
+      "deaths": 0
+    },
+    {
+      "county": "McDowell",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "fips": "37111",
+      "cases": 13,
       "deaths": 0
     },
     {
@@ -581,15 +645,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37093",
-      "cases": 12,
-      "deaths": 0
-    },
-    {
-      "county": "Vance",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37181",
-      "cases": 12,
+      "cases": 15,
       "deaths": 0
     },
     {
@@ -597,31 +653,15 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37083",
-      "cases": 12,
+      "cases": 15,
       "deaths": 0
     },
     {
-      "county": "Franklin",
+      "county": "Vance",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37069",
-      "cases": 17,
-      "deaths": 0
-    },
-    {
-      "county": "Craven",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37049",
-      "cases": 18,
-      "deaths": 0
-    },
-    {
-      "county": "Rutherford",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37161",
-      "cases": 19,
+      "fips": "37181",
+      "cases": 16,
       "deaths": 0
     },
     {
@@ -629,7 +669,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37037",
-      "cases": 21,
+      "cases": 26,
       "deaths": 0
     },
     {
@@ -637,15 +677,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37045",
-      "cases": 23,
-      "deaths": 0
-    },
-    {
-      "county": "Nash",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37127",
-      "cases": 24,
+      "cases": 27,
       "deaths": 0
     },
     {
@@ -653,7 +685,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37001",
-      "cases": 24,
+      "cases": 29,
       "deaths": 0
     },
     {
@@ -661,14 +693,6 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37191",
-      "cases": 32,
-      "deaths": 0
-    },
-    {
-      "county": "Pitt",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37147",
       "cases": 44,
       "deaths": 0
     },
@@ -677,7 +701,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37129",
-      "cases": 47,
+      "cases": 49,
       "deaths": 0
     },
     {
@@ -685,31 +709,23 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37131",
-      "cases": 51,
-      "deaths": 0
-    },
-    {
-      "county": "Iredell",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37097",
       "cases": 54,
       "deaths": 0
     },
     {
-      "county": "Cumberland",
+      "county": "Moore",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37051",
-      "cases": 62,
+      "fips": "37125",
+      "cases": 57,
       "deaths": 0
     },
     {
-      "county": "Orange",
+      "county": "Pitt",
       "state": "North Carolina",
       "stateCode": "NC",
-      "fips": "37135",
-      "cases": 73,
+      "fips": "37147",
+      "cases": 57,
       "deaths": 0
     },
     {
@@ -717,14 +733,6 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37077",
-      "cases": 76,
-      "deaths": 0
-    },
-    {
-      "county": "Union",
-      "state": "North Carolina",
-      "stateCode": "NC",
-      "fips": "37179",
       "cases": 83,
       "deaths": 0
     },
@@ -733,7 +741,7 @@
       "state": "North Carolina",
       "stateCode": "NC",
       "fips": "37183",
-      "cases": 336,
+      "cases": 371,
       "deaths": 0
     }
   ]

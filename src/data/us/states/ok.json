@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Oklahoma",
-    "cases": 1473,
-    "casesMax": 303,
-    "deaths": 67,
-    "deathsMax": 14,
-    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
+    "cases": 1685,
+    "casesMax": 385,
+    "deaths": 80,
+    "deathsMax": 16,
+    "lastUpdated": "Fri, 10 Apr 2020 15:49:06 GMT"
   },
   "data": [
     {
@@ -13,31 +13,31 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40143",
-      "cases": 273,
-      "deaths": 14
-    },
-    {
-      "county": "Cleveland",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40027",
-      "cases": 203,
-      "deaths": 12
+      "cases": 308,
+      "deaths": 16
     },
     {
       "county": "Oklahoma",
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40109",
-      "cases": 303,
-      "deaths": 11
+      "cases": 385,
+      "deaths": 15
+    },
+    {
+      "county": "Cleveland",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40027",
+      "cases": 231,
+      "deaths": 14
     },
     {
       "county": "Osage",
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40113",
-      "cases": 34,
+      "cases": 41,
       "deaths": 5
     },
     {
@@ -45,16 +45,32 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40055",
-      "cases": 31,
-      "deaths": 3
+      "cases": 37,
+      "deaths": 4
     },
     {
       "county": "Wagoner",
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40145",
-      "cases": 55,
+      "cases": 57,
+      "deaths": 4
+    },
+    {
+      "county": "Kay",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40071",
+      "cases": 36,
       "deaths": 3
+    },
+    {
+      "county": "Sequoyah",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40135",
+      "cases": 10,
+      "deaths": 2
     },
     {
       "county": "Mayes",
@@ -73,19 +89,11 @@
       "deaths": 2
     },
     {
-      "county": "Kay",
+      "county": "Adair",
       "state": "Oklahoma",
       "stateCode": "OK",
-      "fips": "40071",
-      "cases": 33,
-      "deaths": 2
-    },
-    {
-      "county": "Washington",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40147",
-      "cases": 43,
+      "fips": "40001",
+      "cases": 25,
       "deaths": 2
     },
     {
@@ -93,16 +101,16 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40037",
-      "cases": 47,
+      "cases": 48,
       "deaths": 2
     },
     {
-      "county": "Seminole",
+      "county": "Washington",
       "state": "Oklahoma",
       "stateCode": "OK",
-      "fips": "40133",
-      "cases": 3,
-      "deaths": 1
+      "fips": "40147",
+      "cases": 54,
+      "deaths": 2
     },
     {
       "county": "Latimer",
@@ -113,11 +121,11 @@
       "deaths": 1
     },
     {
-      "county": "Sequoyah",
+      "county": "Seminole",
       "state": "Oklahoma",
       "stateCode": "OK",
-      "fips": "40135",
-      "cases": 10,
+      "fips": "40133",
+      "cases": 4,
       "deaths": 1
     },
     {
@@ -125,7 +133,7 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40137",
-      "cases": 11,
+      "cases": 13,
       "deaths": 1
     },
     {
@@ -133,15 +141,7 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40021",
-      "cases": 16,
-      "deaths": 1
-    },
-    {
-      "county": "Pottawatomie",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40125",
-      "cases": 19,
+      "cases": 17,
       "deaths": 1
     },
     {
@@ -149,15 +149,15 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40117",
-      "cases": 23,
+      "cases": 24,
       "deaths": 1
     },
     {
-      "county": "Adair",
+      "county": "Pottawatomie",
       "state": "Oklahoma",
       "stateCode": "OK",
-      "fips": "40001",
-      "cases": 25,
+      "fips": "40125",
+      "cases": 24,
       "deaths": 1
     },
     {
@@ -165,7 +165,7 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40017",
-      "cases": 40,
+      "cases": 48,
       "deaths": 1
     },
     {
@@ -173,14 +173,6 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40019",
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "county": "Le Flore",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40079",
       "cases": 1,
       "deaths": 0
     },
@@ -249,6 +241,14 @@
       "deaths": 0
     },
     {
+      "county": "McIntosh",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40091",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
       "county": "Jefferson",
       "state": "Oklahoma",
       "stateCode": "OK",
@@ -305,18 +305,18 @@
       "deaths": 0
     },
     {
-      "county": "McIntosh",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40091",
-      "cases": 2,
-      "deaths": 0
-    },
-    {
       "county": "Bryan",
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40013",
+      "cases": 3,
+      "deaths": 0
+    },
+    {
+      "county": "Le Flore",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40079",
       "cases": 3,
       "deaths": 0
     },
@@ -337,14 +337,6 @@
       "deaths": 0
     },
     {
-      "county": "Craig",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40035",
-      "cases": 4,
-      "deaths": 0
-    },
-    {
       "county": "Cotton",
       "state": "Oklahoma",
       "stateCode": "OK",
@@ -357,6 +349,14 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40039",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Craig",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40035",
       "cases": 5,
       "deaths": 0
     },
@@ -377,14 +377,6 @@
       "deaths": 0
     },
     {
-      "county": "Logan",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40083",
-      "cases": 6,
-      "deaths": 0
-    },
-    {
       "county": "Noble",
       "state": "Oklahoma",
       "stateCode": "OK",
@@ -398,6 +390,14 @@
       "stateCode": "OK",
       "fips": "40015",
       "cases": 6,
+      "deaths": 0
+    },
+    {
+      "county": "Logan",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40083",
+      "cases": 7,
       "deaths": 0
     },
     {
@@ -441,19 +441,19 @@
       "deaths": 0
     },
     {
-      "county": "Okmulgee",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40111",
-      "cases": 11,
-      "deaths": 0
-    },
-    {
       "county": "Garvin",
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40049",
-      "cases": 12,
+      "cases": 13,
+      "deaths": 0
+    },
+    {
+      "county": "Okmulgee",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40111",
+      "cases": 13,
       "deaths": 0
     },
     {
@@ -461,14 +461,6 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40041",
-      "cases": 13,
-      "deaths": 0
-    },
-    {
-      "county": "Ottawa",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "fips": "40115",
       "cases": 14,
       "deaths": 0
     },
@@ -477,7 +469,15 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40087",
-      "cases": 16,
+      "cases": 17,
+      "deaths": 0
+    },
+    {
+      "county": "Ottawa",
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "fips": "40115",
+      "cases": 17,
       "deaths": 0
     },
     {
@@ -485,7 +485,7 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40131",
-      "cases": 17,
+      "cases": 19,
       "deaths": 0
     },
     {
@@ -493,7 +493,7 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40119",
-      "cases": 24,
+      "cases": 25,
       "deaths": 0
     },
     {
@@ -501,7 +501,7 @@
       "state": "Oklahoma",
       "stateCode": "OK",
       "fips": "40031",
-      "cases": 42,
+      "cases": 47,
       "deaths": 0
     }
   ]

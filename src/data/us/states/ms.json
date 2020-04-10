@@ -1,19 +1,35 @@
 {
   "summary": {
     "name": "Mississippi",
-    "cases": 1919,
-    "casesMax": 169,
-    "deaths": 59,
-    "deathsMax": 5,
-    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
+    "cases": 2264,
+    "casesMax": 203,
+    "deaths": 76,
+    "deathsMax": 6,
+    "lastUpdated": "Fri, 10 Apr 2020 15:49:06 GMT"
   },
   "data": [
+    {
+      "county": "Tippah",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28139",
+      "cases": 41,
+      "deaths": 6
+    },
+    {
+      "county": "Lauderdale",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28075",
+      "cases": 99,
+      "deaths": 5
+    },
     {
       "county": "Jackson",
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28059",
-      "cases": 108,
+      "cases": 122,
       "deaths": 5
     },
     {
@@ -21,7 +37,15 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28083",
-      "cases": 26,
+      "cases": 32,
+      "deaths": 4
+    },
+    {
+      "county": "Pearl River",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28109",
+      "cases": 73,
       "deaths": 4
     },
     {
@@ -29,7 +53,15 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28051",
-      "cases": 25,
+      "cases": 31,
+      "deaths": 3
+    },
+    {
+      "county": "Hancock",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28045",
+      "cases": 37,
       "deaths": 3
     },
     {
@@ -37,31 +69,15 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28157",
-      "cases": 32,
+      "cases": 37,
       "deaths": 3
     },
     {
-      "county": "Tippah",
+      "county": "Bolivar",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28139",
-      "cases": 36,
-      "deaths": 3
-    },
-    {
-      "county": "Pearl River",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28109",
-      "cases": 56,
-      "deaths": 3
-    },
-    {
-      "county": "Lauderdale",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28075",
-      "cases": 78,
+      "fips": "28011",
+      "cases": 57,
       "deaths": 3
     },
     {
@@ -69,7 +85,7 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28047",
-      "cases": 89,
+      "cases": 96,
       "deaths": 3
     },
     {
@@ -77,15 +93,15 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28017",
-      "cases": 15,
+      "cases": 20,
       "deaths": 2
     },
     {
-      "county": "Hancock",
+      "county": "Lincoln",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28045",
-      "cases": 31,
+      "fips": "28085",
+      "cases": 32,
       "deaths": 2
     },
     {
@@ -93,15 +109,31 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28081",
-      "cases": 38,
+      "cases": 40,
       "deaths": 2
     },
     {
-      "county": "Bolivar",
+      "county": "Washington",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28011",
-      "cases": 54,
+      "fips": "28151",
+      "cases": 46,
+      "deaths": 2
+    },
+    {
+      "county": "Forrest",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28035",
+      "cases": 71,
+      "deaths": 2
+    },
+    {
+      "county": "Rankin",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28121",
+      "cases": 85,
       "deaths": 2
     },
     {
@@ -109,7 +141,15 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28089",
-      "cases": 82,
+      "cases": 88,
+      "deaths": 2
+    },
+    {
+      "county": "Hinds",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28049",
+      "cases": 203,
       "deaths": 2
     },
     {
@@ -117,14 +157,6 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28053",
-      "cases": 5,
-      "deaths": 1
-    },
-    {
-      "county": "Amite",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28005",
       "cases": 7,
       "deaths": 1
     },
@@ -137,19 +169,27 @@
       "deaths": 1
     },
     {
-      "county": "Montgomery",
+      "county": "Amite",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28097",
+      "fips": "28005",
+      "cases": 10,
+      "deaths": 1
+    },
+    {
+      "county": "Clarke",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28023",
       "cases": 12,
       "deaths": 1
     },
     {
-      "county": "Pontotoc",
+      "county": "Montgomery",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28115",
-      "cases": 12,
+      "fips": "28097",
+      "cases": 13,
       "deaths": 1
     },
     {
@@ -157,7 +197,7 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28155",
-      "cases": 12,
+      "cases": 13,
       "deaths": 1
     },
     {
@@ -165,6 +205,14 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28111",
+      "cases": 14,
+      "deaths": 1
+    },
+    {
+      "county": "Pontotoc",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28115",
       "cases": 14,
       "deaths": 1
     },
@@ -177,11 +225,19 @@
       "deaths": 1
     },
     {
+      "county": "Panola",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28107",
+      "cases": 21,
+      "deaths": 1
+    },
+    {
       "county": "Monroe",
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28095",
-      "cases": 18,
+      "cases": 24,
       "deaths": 1
     },
     {
@@ -189,30 +245,6 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28073",
-      "cases": 18,
-      "deaths": 1
-    },
-    {
-      "county": "Panola",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28107",
-      "cases": 19,
-      "deaths": 1
-    },
-    {
-      "county": "Lincoln",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28085",
-      "cases": 21,
-      "deaths": 1
-    },
-    {
-      "county": "Marshall",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28093",
       "cases": 24,
       "deaths": 1
     },
@@ -221,7 +253,23 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28071",
-      "cases": 25,
+      "cases": 26,
+      "deaths": 1
+    },
+    {
+      "county": "Marshall",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28093",
+      "cases": 26,
+      "deaths": 1
+    },
+    {
+      "county": "Adams",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28001",
+      "cases": 27,
       "deaths": 1
     },
     {
@@ -229,15 +277,7 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28133",
-      "cases": 25,
-      "deaths": 1
-    },
-    {
-      "county": "Oktibbeha",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28105",
-      "cases": 29,
+      "cases": 32,
       "deaths": 1
     },
     {
@@ -245,7 +285,23 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28027",
-      "cases": 30,
+      "cases": 35,
+      "deaths": 1
+    },
+    {
+      "county": "Pike",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28113",
+      "cases": 35,
+      "deaths": 1
+    },
+    {
+      "county": "Oktibbeha",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28105",
+      "cases": 35,
       "deaths": 1
     },
     {
@@ -253,31 +309,7 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28163",
-      "cases": 32,
-      "deaths": 1
-    },
-    {
-      "county": "Washington",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28151",
-      "cases": 40,
-      "deaths": 1
-    },
-    {
-      "county": "Forrest",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28035",
-      "cases": 59,
-      "deaths": 1
-    },
-    {
-      "county": "Rankin",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28121",
-      "cases": 78,
+      "cases": 47,
       "deaths": 1
     },
     {
@@ -285,16 +317,8 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28033",
-      "cases": 140,
+      "cases": 150,
       "deaths": 1
-    },
-    {
-      "county": "Tishomingo",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28141",
-      "cases": 1,
-      "deaths": 0
     },
     {
       "county": "Greene",
@@ -305,18 +329,18 @@
       "deaths": 0
     },
     {
+      "county": "Tishomingo",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28141",
+      "cases": 2,
+      "deaths": 0
+    },
+    {
       "county": "Tallahatchie",
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28135",
-      "cases": 3,
-      "deaths": 0
-    },
-    {
-      "county": "Jefferson",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28063",
       "cases": 3,
       "deaths": 0
     },
@@ -337,11 +361,11 @@
       "deaths": 0
     },
     {
-      "county": "Stone",
+      "county": "Jefferson",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28131",
-      "cases": 3,
+      "fips": "28063",
+      "cases": 4,
       "deaths": 0
     },
     {
@@ -353,27 +377,11 @@
       "deaths": 0
     },
     {
-      "county": "Jasper",
+      "county": "Jefferson Davis",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28061",
+      "fips": "28065",
       "cases": 4,
-      "deaths": 0
-    },
-    {
-      "county": "Franklin",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28037",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Lawrence",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28077",
-      "cases": 5,
       "deaths": 0
     },
     {
@@ -381,14 +389,6 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28039",
-      "cases": 5,
-      "deaths": 0
-    },
-    {
-      "county": "Itawamba",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28057",
       "cases": 5,
       "deaths": 0
     },
@@ -409,11 +409,19 @@
       "deaths": 0
     },
     {
-      "county": "Wayne",
+      "county": "Stone",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28153",
+      "fips": "28131",
       "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Simpson",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28127",
+      "cases": 6,
       "deaths": 0
     },
     {
@@ -433,18 +441,18 @@
       "deaths": 0
     },
     {
-      "county": "Simpson",
+      "county": "Wayne",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28127",
-      "cases": 7,
+      "fips": "28153",
+      "cases": 6,
       "deaths": 0
     },
     {
-      "county": "Newton",
+      "county": "Itawamba",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28101",
+      "fips": "28057",
       "cases": 7,
       "deaths": 0
     },
@@ -465,11 +473,27 @@
       "deaths": 0
     },
     {
-      "county": "Warren",
+      "county": "Franklin",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28149",
-      "cases": 7,
+      "fips": "28037",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Lawrence",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28077",
+      "cases": 8,
+      "deaths": 0
+    },
+    {
+      "county": "Newton",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28101",
+      "cases": 8,
       "deaths": 0
     },
     {
@@ -477,30 +501,6 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28043",
-      "cases": 8,
-      "deaths": 0
-    },
-    {
-      "county": "Quitman",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28119",
-      "cases": 9,
-      "deaths": 0
-    },
-    {
-      "county": "Clay",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28025",
-      "cases": 10,
-      "deaths": 0
-    },
-    {
-      "county": "Calhoun",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28013",
       "cases": 10,
       "deaths": 0
     },
@@ -513,27 +513,19 @@
       "deaths": 0
     },
     {
-      "county": "Kemper",
+      "county": "Warren",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28069",
+      "fips": "28149",
       "cases": 10,
       "deaths": 0
     },
     {
-      "county": "Clarke",
+      "county": "Jasper",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28023",
+      "fips": "28061",
       "cases": 10,
-      "deaths": 0
-    },
-    {
-      "county": "Smith",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28129",
-      "cases": 11,
       "deaths": 0
     },
     {
@@ -545,26 +537,34 @@
       "deaths": 0
     },
     {
-      "county": "Neshoba",
+      "county": "Quitman",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28099",
+      "fips": "28119",
       "cases": 12,
       "deaths": 0
     },
     {
-      "county": "Marion",
+      "county": "Calhoun",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28091",
+      "fips": "28013",
       "cases": 13,
       "deaths": 0
     },
     {
-      "county": "Jones",
+      "county": "Kemper",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28067",
+      "fips": "28069",
+      "cases": 13,
+      "deaths": 0
+    },
+    {
+      "county": "Clay",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28025",
       "cases": 14,
       "deaths": 0
     },
@@ -573,39 +573,23 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28147",
-      "cases": 14,
-      "deaths": 0
-    },
-    {
-      "county": "Attala",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28007",
-      "cases": 15,
-      "deaths": 0
-    },
-    {
-      "county": "Leake",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28079",
-      "cases": 15,
-      "deaths": 0
-    },
-    {
-      "county": "Lowndes",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28087",
       "cases": 16,
       "deaths": 0
     },
     {
-      "county": "Copiah",
+      "county": "Smith",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28029",
-      "cases": 17,
+      "fips": "28129",
+      "cases": 16,
+      "deaths": 0
+    },
+    {
+      "county": "Marion",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28091",
+      "cases": 16,
       "deaths": 0
     },
     {
@@ -617,27 +601,59 @@
       "deaths": 0
     },
     {
-      "county": "Tate",
+      "county": "Attala",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28137",
+      "fips": "28007",
+      "cases": 17,
+      "deaths": 0
+    },
+    {
+      "county": "Neshoba",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28099",
+      "cases": 17,
+      "deaths": 0
+    },
+    {
+      "county": "Lowndes",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28087",
       "cases": 18,
       "deaths": 0
     },
     {
-      "county": "Adams",
+      "county": "Jones",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28001",
-      "cases": 24,
+      "fips": "28067",
+      "cases": 19,
       "deaths": 0
     },
     {
-      "county": "Pike",
+      "county": "Tate",
       "state": "Mississippi",
       "stateCode": "MS",
-      "fips": "28113",
-      "cases": 31,
+      "fips": "28137",
+      "cases": 19,
+      "deaths": 0
+    },
+    {
+      "county": "Leake",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28079",
+      "cases": 22,
+      "deaths": 0
+    },
+    {
+      "county": "Copiah",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "fips": "28029",
+      "cases": 27,
       "deaths": 0
     },
     {
@@ -645,15 +661,7 @@
       "state": "Mississippi",
       "stateCode": "MS",
       "fips": "28123",
-      "cases": 32,
-      "deaths": 0
-    },
-    {
-      "county": "Hinds",
-      "state": "Mississippi",
-      "stateCode": "MS",
-      "fips": "28049",
-      "cases": 169,
+      "cases": 43,
       "deaths": 0
     }
   ]

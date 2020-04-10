@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Connecticut",
-    "cases": 7781,
-    "casesMax": 4136,
-    "deaths": 277,
-    "deathsMax": 132,
-    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
+    "cases": 9784,
+    "casesMax": 4882,
+    "deaths": 380,
+    "deathsMax": 178,
+    "lastUpdated": "Fri, 10 Apr 2020 15:49:06 GMT"
   },
   "data": [
     {
@@ -13,31 +13,39 @@
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09001",
-      "cases": 4136,
-      "deaths": 132
+      "cases": 4882,
+      "deaths": 178
     },
     {
       "county": "New Haven",
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09009",
-      "cases": 1664,
-      "deaths": 60
+      "cases": 2183,
+      "deaths": 78
     },
     {
       "county": "Hartford",
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09003",
-      "cases": 1045,
-      "deaths": 48
+      "cases": 1471,
+      "deaths": 75
+    },
+    {
+      "county": "Middlesex",
+      "state": "Connecticut",
+      "stateCode": "CT",
+      "fips": "09007",
+      "cases": 205,
+      "deaths": 14
     },
     {
       "county": "Tolland",
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09013",
-      "cases": 111,
+      "cases": 145,
       "deaths": 13
     },
     {
@@ -45,39 +53,31 @@
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09005",
-      "cases": 255,
-      "deaths": 9
-    },
-    {
-      "county": "Middlesex",
-      "state": "Connecticut",
-      "stateCode": "CT",
-      "fips": "09007",
-      "cases": 150,
-      "deaths": 7
+      "cases": 315,
+      "deaths": 13
     },
     {
       "county": "New London",
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09011",
-      "cases": 85,
-      "deaths": 4
+      "cases": 139,
+      "deaths": 6
     },
     {
       "county": "Unknown",
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "",
-      "cases": 292,
-      "deaths": 3
+      "cases": 392,
+      "deaths": 2
     },
     {
       "county": "Windham",
       "state": "Connecticut",
       "stateCode": "CT",
       "fips": "09015",
-      "cases": 43,
+      "cases": 52,
       "deaths": 1
     }
   ]

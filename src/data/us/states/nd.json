@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "North Dakota",
-    "cases": 238,
-    "casesMax": 70,
-    "deaths": 4,
+    "cases": 270,
+    "casesMax": 83,
+    "deaths": 5,
     "deathsMax": 1,
-    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
+    "lastUpdated": "Fri, 10 Apr 2020 15:49:06 GMT"
   },
   "data": [
     {
@@ -29,7 +29,15 @@
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38059",
-      "cases": 18,
+      "cases": 19,
+      "deaths": 1
+    },
+    {
+      "county": "Stark",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38089",
+      "cases": 29,
       "deaths": 1
     },
     {
@@ -37,7 +45,7 @@
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38017",
-      "cases": 70,
+      "cases": 83,
       "deaths": 1
     },
     {
@@ -121,6 +129,22 @@
       "deaths": 0
     },
     {
+      "county": "Stutsman",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38093",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "county": "Richland",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "fips": "38077",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
       "county": "Pierce",
       "state": "North Dakota",
       "stateCode": "ND",
@@ -181,7 +205,7 @@
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38053",
-      "cases": 5,
+      "cases": 6,
       "deaths": 0
     },
     {
@@ -189,7 +213,7 @@
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38105",
-      "cases": 5,
+      "cases": 6,
       "deaths": 0
     },
     {
@@ -205,7 +229,7 @@
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38101",
-      "cases": 16,
+      "cases": 19,
       "deaths": 0
     },
     {
@@ -217,19 +241,11 @@
       "deaths": 0
     },
     {
-      "county": "Stark",
-      "state": "North Dakota",
-      "stateCode": "ND",
-      "fips": "38089",
-      "cases": 25,
-      "deaths": 0
-    },
-    {
       "county": "Burleigh",
       "state": "North Dakota",
       "stateCode": "ND",
       "fips": "38015",
-      "cases": 39,
+      "cases": 46,
       "deaths": 0
     }
   ]

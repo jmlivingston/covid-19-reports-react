@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Wyoming",
-    "cases": 221,
-    "casesMax": 48,
+    "cases": 239,
+    "casesMax": 54,
     "deaths": 0,
     "deathsMax": 0,
-    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
+    "lastUpdated": "Fri, 10 Apr 2020 15:49:06 GMT"
   },
   "data": [
     {
@@ -33,10 +33,10 @@
       "deaths": 0
     },
     {
-      "county": "Crook",
+      "county": "Niobrara",
       "state": "Wyoming",
       "stateCode": "WY",
-      "fips": "56011",
+      "fips": "56027",
       "cases": 1,
       "deaths": 0
     },
@@ -49,10 +49,10 @@
       "deaths": 0
     },
     {
-      "county": "Uinta",
+      "county": "Crook",
       "state": "Wyoming",
       "stateCode": "WY",
-      "fips": "56041",
+      "fips": "56011",
       "cases": 3,
       "deaths": 0
     },
@@ -89,6 +89,14 @@
       "deaths": 0
     },
     {
+      "county": "Uinta",
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "fips": "56041",
+      "cases": 4,
+      "deaths": 0
+    },
+    {
       "county": "Lincoln",
       "state": "Wyoming",
       "stateCode": "WY",
@@ -105,18 +113,18 @@
       "deaths": 0
     },
     {
-      "county": "Johnson",
-      "state": "Wyoming",
-      "stateCode": "WY",
-      "fips": "56019",
-      "cases": 8,
-      "deaths": 0
-    },
-    {
       "county": "Campbell",
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56005",
+      "cases": 9,
+      "deaths": 0
+    },
+    {
+      "county": "Johnson",
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "fips": "56019",
       "cases": 9,
       "deaths": 0
     },
@@ -133,7 +141,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56025",
-      "cases": 26,
+      "cases": 27,
       "deaths": 0
     },
     {
@@ -149,7 +157,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56039",
-      "cases": 44,
+      "cases": 50,
       "deaths": 0
     },
     {
@@ -157,7 +165,7 @@
       "state": "Wyoming",
       "stateCode": "WY",
       "fips": "56021",
-      "cases": 48,
+      "cases": 54,
       "deaths": 0
     }
   ]

@@ -1,11 +1,11 @@
 {
   "summary": {
     "name": "Nevada",
-    "cases": 2133,
-    "casesMax": 1734,
-    "deaths": 72,
-    "deathsMax": 54,
-    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
+    "cases": 2456,
+    "casesMax": 2009,
+    "deaths": 82,
+    "deathsMax": 71,
+    "lastUpdated": "Fri, 10 Apr 2020 15:49:06 GMT"
   },
   "data": [
     {
@@ -13,32 +13,32 @@
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "32003",
-      "cases": 1734,
-      "deaths": 54
-    },
-    {
-      "county": "Unknown",
-      "state": "Nevada",
-      "stateCode": "NV",
-      "fips": "",
-      "cases": 32,
-      "deaths": 12
+      "cases": 2009,
+      "deaths": 71
     },
     {
       "county": "Washoe",
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "32031",
-      "cases": 309,
-      "deaths": 5
+      "cases": 363,
+      "deaths": 10
     },
     {
       "county": "Elko",
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "32007",
-      "cases": 8,
+      "cases": 9,
       "deaths": 1
+    },
+    {
+      "county": "White Pine",
+      "state": "Nevada",
+      "stateCode": "NV",
+      "fips": "32033",
+      "cases": 1,
+      "deaths": 0
     },
     {
       "county": "Lyon",
@@ -53,7 +53,7 @@
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "32005",
-      "cases": 8,
+      "cases": 9,
       "deaths": 0
     },
     {
@@ -69,7 +69,7 @@
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "32510",
-      "cases": 13,
+      "cases": 14,
       "deaths": 0
     },
     {
@@ -77,7 +77,15 @@
       "state": "Nevada",
       "stateCode": "NV",
       "fips": "32013",
-      "cases": 14,
+      "cases": 16,
+      "deaths": 0
+    },
+    {
+      "county": "Unknown",
+      "state": "Nevada",
+      "stateCode": "NV",
+      "fips": "",
+      "cases": 20,
       "deaths": 0
     }
   ]

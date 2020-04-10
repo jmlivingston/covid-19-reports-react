@@ -1,28 +1,28 @@
 {
   "summary": {
     "name": "Vermont",
-    "cases": 575,
-    "casesMax": 308,
+    "cases": 628,
+    "casesMax": 336,
     "deaths": 23,
-    "deathsMax": 16,
-    "lastUpdated": "Thu, 09 Apr 2020 05:01:30 GMT"
+    "deathsMax": 15,
+    "lastUpdated": "Fri, 10 Apr 2020 15:49:06 GMT"
   },
   "data": [
-    {
-      "county": "Unknown",
-      "state": "Vermont",
-      "stateCode": "VT",
-      "fips": "",
-      "cases": 3,
-      "deaths": 16
-    },
     {
       "county": "Chittenden",
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50007",
-      "cases": 308,
-      "deaths": 6
+      "cases": 336,
+      "deaths": 15
+    },
+    {
+      "county": "Franklin",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50011",
+      "cases": 35,
+      "deaths": 3
     },
     {
       "county": "Windsor",
@@ -30,14 +30,46 @@
       "stateCode": "VT",
       "fips": "50027",
       "cases": 24,
+      "deaths": 2
+    },
+    {
+      "county": "Lamoille",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50015",
+      "cases": 19,
       "deaths": 1
+    },
+    {
+      "county": "Bennington",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50003",
+      "cases": 31,
+      "deaths": 1
+    },
+    {
+      "county": "Windham",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50025",
+      "cases": 42,
+      "deaths": 1
+    },
+    {
+      "county": "Essex",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "50009",
+      "cases": 1,
+      "deaths": 0
     },
     {
       "county": "Grand Isle",
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50013",
-      "cases": 1,
+      "cases": 3,
       "deaths": 0
     },
     {
@@ -45,7 +77,15 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50017",
-      "cases": 4,
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "county": "Unknown",
+      "state": "Vermont",
+      "stateCode": "VT",
+      "fips": "",
+      "cases": 8,
       "deaths": 0
     },
     {
@@ -65,14 +105,6 @@
       "deaths": 0
     },
     {
-      "county": "Lamoille",
-      "state": "Vermont",
-      "stateCode": "VT",
-      "fips": "50015",
-      "cases": 19,
-      "deaths": 0
-    },
-    {
       "county": "Washington",
       "state": "Vermont",
       "stateCode": "VT",
@@ -81,35 +113,11 @@
       "deaths": 0
     },
     {
-      "county": "Bennington",
-      "state": "Vermont",
-      "stateCode": "VT",
-      "fips": "50003",
-      "cases": 27,
-      "deaths": 0
-    },
-    {
       "county": "Rutland",
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50021",
-      "cases": 31,
-      "deaths": 0
-    },
-    {
-      "county": "Franklin",
-      "state": "Vermont",
-      "stateCode": "VT",
-      "fips": "50011",
-      "cases": 33,
-      "deaths": 0
-    },
-    {
-      "county": "Windham",
-      "state": "Vermont",
-      "stateCode": "VT",
-      "fips": "50025",
-      "cases": 38,
+      "cases": 34,
       "deaths": 0
     },
     {
@@ -117,7 +125,7 @@
       "state": "Vermont",
       "stateCode": "VT",
       "fips": "50001",
-      "cases": 47,
+      "cases": 50,
       "deaths": 0
     }
   ]
